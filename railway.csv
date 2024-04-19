@@ -1,0 +1,1001 @@
+,Train No.,Train Name,No.of Coaches,Class of train,Revenue(lakhs),Day,Station_Name,Start_station,End_station,Frequency,No.Of PLatforms,Total Journey Hours,NO.Of passengers,Number of Dormitories,Dormitories Capacity,Dormitory utilized,Facility Quality Rating,Average Stay Duration,Revenue(THOUSANDS),Date,Month,Year
+0,66413,Palace on wheels,15,3,8,Sat,Jaipur,UDP,Dli,Daily,6,15,25357,2,33,25,22,11,75,21,5,2019
+1,34398,BPL JP EXP SPL,25,3,10,Fri,Jaipur,GWL,Jpr,Weekly,2,33,10224,2,21,33,28,14,72,2,5,2019
+2,91560,Shatabdi Express,12,2,8,Tue,Jaipur,Dli,UDP,Twice in week,5,22,25691,2,24,20,28,4,77,15,11,2021
+3,26707,Double Decker,25,2,12,Sun,Jaipur,Jpr,GWL,Weekly,4,33,10745,2,21,21,33,23,73,17,11,2019
+4,45789,BPL JP EXP SPL,19,2,9,Thu,Jaipur,GWL,Mumbai,Weekly,4,36,12685,2,26,31,29,4,71,1,3,2020
+5,41865,Garbi Rath,22,1,7,Tue,Jaipur,GWL,Dli,Twice in week,6,27,29717,2,22,20,34,7,76,3,2,2020
+6,13670,Double Decker,21,2,14,Fri,Jaipur,Jpr,Jpr,Weekly,6,35,28485,2,26,20,26,13,76,30,2,2022
+7,59371,Vande Bharat Express,24,1,8,Thu,Jaipur,GWL,AGR,Weekly,3,37,10683,2,32,24,20,6,73,1,8,2022
+8,53344,SIKR-JP SPL,23,2,12,Tue,Jaipur,AGR,Jpr,Twice in week,4,19,11790,2,29,22,26,7,71,3,4,2020
+9,46292,Shatabdi Express,15,1,6,Thu,Jaipur,Dli,GWL,Daily,2,12,24441,2,33,30,21,11,70,13,6,2022
+10,47368,Palace on wheels,13,3,7,Wed,Jaipur,Mumbai,Jpr,Weekly,5,27,19013,2,33,31,21,7,75,9,3,2019
+11,31146,Maharaja Express,12,2,8,Sun,Jaipur,GWL,AGR,Weekly,5,15,24286,2,34,31,24,17,76,27,10,2022
+12,67138,Maharaja Express,28,3,8,Wed,Jaipur,Jpr,GWL,Weekly,5,9,17471,2,33,34,34,23,74,8,4,2022
+13,46825,Vande Bharat Express,19,2,10,Mon,Jaipur,JDP,Mumbai,Daily,4,34,29410,2,26,28,25,6,71,10,3,2020
+14,94511,BPL JP EXP SPL,29,3,12,Fri,Jaipur,AGR,GWL,Twice in week,3,23,19063,2,20,30,33,12,74,17,7,2021
+15,82183,SIKR-JP SPL,24,2,5,Thu,Jaipur,Mumbai,UDP,Weekly,3,16,18449,2,24,28,22,21,76,26,9,2022
+16,25570,Palace on wheels,16,2,8,Tue,Jaipur,GWL,Dli,Daily,4,33,20001,2,29,24,29,15,76,7,6,2022
+17,89906,Vande Bharat Express,27,2,12,Mon,Jaipur,GWL,AGR,Daily,1,25,29627,2,20,27,21,19,76,5,3,2020
+18,39882,Shatabdi Express,13,2,13,Fri,Jaipur,JDP,JDP,Daily,5,20,18832,2,27,21,33,19,79,3,3,2019
+19,34784,Marudhar Express,25,1,9,Sun,Jaipur,Mumbai,AGR,Twice in week,3,25,14755,2,28,20,34,8,72,15,1,2020
+20,31808,Garbi Rath,16,2,13,Sun,Jaipur,Dli,GWL,Weekly,2,36,28311,2,21,32,25,17,72,28,9,2019
+21,98947,Double Decker,16,1,9,Mon,Jaipur,AGR,UDP,Weekly,6,31,14393,2,33,22,20,19,75,17,1,2020
+22,24160,GWL SBIB,15,3,8,Mon,Jaipur,Mumbai,GWL,Twice in week,3,9,11895,2,32,31,25,7,78,3,7,2021
+23,71116,GWL SBIB,13,1,8,Mon,Jaipur,Mumbai,UDP,Daily,1,13,14683,2,27,23,27,21,72,29,5,2019
+24,80441,SIKR-JP SPL,28,2,5,Sat,Jaipur,AGR,Jpr,Weekly,3,7,12319,2,34,31,32,5,71,7,10,2022
+25,93945,ALL AF SPL,21,2,14,Tue,Jaipur,GWL,JDP,Weekly,5,7,29756,2,26,26,25,19,75,29,9,2021
+26,51739,Vande Bharat Express,21,2,9,Tue,Jaipur,Jpr,JDP,Weekly,3,28,27624,2,20,33,23,7,78,7,7,2021
+27,79620,Garbi Rath,21,3,6,Tue,Jaipur,GWL,Dli,Weekly,3,6,23561,2,32,21,33,16,76,7,11,2022
+28,79497,SIKR-JP SPL,28,1,7,Wed,Jaipur,Jpr,Mumbai,Weekly,3,34,22013,2,32,20,21,11,73,27,11,2020
+29,25797,Garbi Rath,14,2,10,Fri,Jaipur,UDP,Dli,Weekly,6,14,24847,2,23,21,20,13,78,23,1,2020
+30,92982,ALL AF SPL,26,3,14,Mon,Jaipur,JDP,UDP,Daily,1,26,16850,2,32,28,29,14,78,23,1,2019
+31,82365,ALL AF SPL,25,2,5,Sat,Jaipur,Mumbai,AGR,Weekly,2,37,22697,2,27,24,31,7,74,30,11,2022
+32,12180,SIKR-JP SPL,13,2,10,Thu,Jaipur,UDP,Dli,Weekly,3,34,25834,2,31,21,20,10,77,27,11,2020
+33,33233,GWL SBIB,15,2,6,Tue,Jaipur,Mumbai,Dli,Weekly,3,28,17816,2,22,21,34,17,78,23,11,2019
+34,38384,SIKR-JP SPL,13,3,5,Fri,Jaipur,Dli,GWL,Weekly,3,12,13968,2,33,29,31,4,72,13,10,2019
+35,79398,Garbi Rath,11,3,5,Sat,Jaipur,Dli,AGR,Weekly,6,37,19063,2,32,30,30,17,74,20,9,2021
+36,56600,Marudhar Express,13,2,9,Sun,Jaipur,GWL,AGR,Daily,6,11,28430,2,32,31,23,22,70,26,10,2019
+37,34022,Palace on wheels,14,3,6,Sun,Jaipur,Mumbai,JDP,Weekly,3,13,11963,2,22,34,28,19,71,20,3,2019
+38,79694,Maharaja Express,19,3,13,Sat,Jaipur,JDP,AGR,Daily,3,34,13099,2,29,26,29,20,78,30,4,2022
+39,51803,Shatabdi Express,25,3,10,Mon,Jaipur,GWL,UDP,Weekly,4,5,16588,2,31,21,23,7,70,19,11,2019
+40,56903,Shatabdi Express,10,2,7,Fri,Jaipur,UDP,JDP,Daily,3,14,26498,2,20,27,30,11,78,23,5,2020
+41,26998,Double Decker,29,3,14,Sat,Jaipur,GWL,AGR,Weekly,5,16,26544,2,32,22,22,9,77,13,5,2019
+42,32271,SIKR-JP SPL,25,2,10,Sun,Jaipur,Dli,JDP,Daily,2,18,29873,2,33,22,28,17,75,8,4,2021
+43,54124,Garbi Rath,15,3,8,Fri,Jaipur,Dli,JDP,Twice in week,5,8,19896,2,25,28,26,12,77,3,10,2022
+44,28405,BPL JP EXP SPL,16,1,7,Wed,Jaipur,UDP,UDP,Twice in week,4,8,18329,2,25,30,25,7,79,5,5,2022
+45,91859,GWL SBIB,25,1,11,Sun,Jaipur,GWL,AGR,Weekly,4,26,16725,2,26,28,22,12,79,30,10,2019
+46,88474,Double Decker,14,2,7,Fri,Jaipur,UDP,Mumbai,Twice in week,3,27,16786,2,30,20,24,11,71,12,5,2022
+47,80163,Palace on wheels,14,2,7,Mon,Jaipur,Dli,Mumbai,Daily,3,37,26847,2,20,24,27,20,76,22,11,2022
+48,41159,ALL AF SPL,17,3,7,Thu,Jaipur,UDP,Mumbai,Weekly,2,6,23942,2,22,31,22,18,73,10,1,2021
+49,79552,Rajdhani Express,18,1,11,Fri,Jaipur,Jpr,GWL,Daily,4,32,11149,2,21,28,23,20,71,5,6,2020
+50,38045,BPL JP EXP SPL,25,2,10,Wed,Jaipur,Dli,UDP,Weekly,4,23,28309,2,30,33,23,16,77,4,3,2021
+51,81573,Rajdhani Express,28,2,7,Fri,Jaipur,JDP,Dli,Twice in week,3,24,21770,2,30,23,29,4,77,13,8,2019
+52,89558,Double Decker,15,1,13,Thu,Jaipur,Jpr,Dli,Twice in week,1,32,22567,2,22,23,32,5,75,5,7,2021
+53,72429,SIKR-JP SPL,15,3,6,Tue,Jaipur,Jpr,UDP,Daily,5,15,22225,2,20,21,21,16,75,9,11,2019
+54,75330,SIKR-JP SPL,20,1,6,Tue,Jaipur,Mumbai,JDP,Daily,4,18,23437,2,25,29,29,12,77,12,1,2021
+55,16087,Marudhar Express,22,3,8,Tue,Jaipur,Jpr,JDP,Twice in week,4,20,22783,2,24,33,29,7,74,13,8,2022
+56,88584,Rajdhani Express,10,2,11,Thu,Jaipur,Jpr,UDP,Weekly,3,12,14856,2,27,20,30,21,73,14,11,2021
+57,98905,Garbi Rath,28,2,14,Wed,Jaipur,GWL,Dli,Weekly,4,32,11313,2,22,25,29,23,72,9,2,2022
+58,85614,GWL SBIB,17,3,11,Fri,Jaipur,UDP,AGR,Twice in week,5,8,19139,2,32,26,27,15,70,1,5,2022
+59,35195,Maharaja Express,16,1,14,Tue,Jaipur,JDP,Dli,Twice in week,1,36,11241,2,20,26,26,4,79,22,7,2020
+60,43206,Garbi Rath,26,1,9,Mon,Jaipur,UDP,AGR,Daily,2,29,13922,2,24,34,22,19,79,17,11,2022
+61,36672,Marudhar Express,16,1,7,Tue,Jaipur,Mumbai,GWL,Twice in week,5,7,17328,2,26,28,23,12,77,20,3,2021
+62,27780,Palace on wheels,26,1,6,Mon,Jaipur,Jpr,AGR,Twice in week,6,22,19000,2,28,21,20,17,76,17,5,2022
+63,42119,BPL JP EXP SPL,12,3,14,Sun,Jaipur,UDP,AGR,Weekly,3,11,22531,2,28,30,25,9,78,26,11,2022
+64,44998,Garbi Rath,27,3,10,Fri,Jaipur,JDP,JDP,Daily,5,31,10810,2,33,34,24,7,74,2,1,2019
+65,94323,Vande Bharat Express,22,1,6,Thu,Jaipur,GWL,Mumbai,Weekly,4,4,23926,2,30,25,26,16,74,4,4,2020
+66,21122,Vande Bharat Express,21,1,5,Mon,Jaipur,AGR,UDP,Weekly,1,7,12247,2,32,31,33,15,70,22,9,2021
+67,76645,Shatabdi Express,18,2,9,Sat,Jaipur,GWL,Dli,Daily,1,14,28733,2,27,26,23,9,74,2,6,2021
+68,58988,Shatabdi Express,13,2,11,Sun,Jaipur,Mumbai,AGR,Twice in week,1,14,29959,2,24,34,27,5,77,10,10,2019
+69,45725,Marudhar Express,21,2,5,Tue,Jaipur,Mumbai,JDP,Twice in week,1,24,25762,2,29,32,20,10,79,18,2,2019
+70,66922,Garbi Rath,28,2,6,Sun,Jaipur,GWL,Dli,Weekly,1,28,11549,2,21,26,29,8,76,25,1,2021
+71,12516,Vande Bharat Express,15,1,14,Fri,Jaipur,Dli,JDP,Daily,2,29,20515,2,33,33,27,17,78,21,1,2019
+72,75234,Garbi Rath,27,2,7,Sat,Jaipur,JDP,Jpr,Daily,1,4,29188,2,21,27,23,8,75,4,1,2019
+73,65702,Rajdhani Express,23,1,11,Thu,Jaipur,Dli,Jpr,Weekly,1,36,22891,2,21,25,29,4,75,21,1,2022
+74,76353,Garbi Rath,28,2,14,Sun,Jaipur,UDP,UDP,Weekly,1,17,15628,2,24,25,20,14,74,4,9,2020
+75,79911,Palace on wheels,14,2,14,Mon,Jaipur,Dli,Jpr,Twice in week,4,13,10108,2,34,21,33,18,79,24,3,2019
+76,61686,Palace on wheels,23,1,12,Thu,Jaipur,Jpr,AGR,Twice in week,1,35,29094,2,22,31,20,7,76,4,3,2019
+77,74738,Shatabdi Express,27,1,12,Sun,Jaipur,Dli,JDP,Weekly,1,19,10980,2,24,27,30,12,70,14,5,2019
+78,72999,Garbi Rath,20,2,13,Fri,Jaipur,Mumbai,Dli,Weekly,1,22,25718,2,26,24,25,20,70,8,1,2021
+79,28951,Double Decker,19,2,12,Fri,Jaipur,AGR,UDP,Daily,6,25,16002,2,34,33,21,7,77,14,4,2021
+80,79557,GWL SBIB,27,1,11,Tue,Jaipur,Jpr,JDP,Weekly,1,12,18613,2,21,32,33,4,78,14,1,2021
+81,42347,Maharaja Express,29,1,6,Sat,Jaipur,Dli,GWL,Daily,4,17,25827,2,23,28,33,15,76,17,2,2020
+82,96789,BPL JP EXP SPL,26,1,6,Sun,Jaipur,Mumbai,Dli,Daily,3,33,27578,2,31,27,23,20,75,25,3,2022
+83,16548,Garbi Rath,12,3,13,Sat,Jaipur,Jpr,Jpr,Twice in week,1,23,27487,2,34,34,27,16,73,20,2,2020
+84,88624,GWL SBIB,21,3,8,Wed,Jaipur,Mumbai,AGR,Twice in week,1,14,23538,2,32,28,31,21,73,28,5,2020
+85,77196,Marudhar Express,15,1,12,Sun,Jaipur,AGR,UDP,Twice in week,2,16,29241,2,27,34,25,20,70,1,9,2022
+86,32239,Rajdhani Express,21,1,6,Mon,Jaipur,AGR,GWL,Twice in week,3,4,12995,2,24,24,26,19,77,22,3,2021
+87,37367,Maharaja Express,23,2,8,Thu,Jaipur,AGR,Dli,Twice in week,5,16,16564,2,21,28,27,4,76,3,5,2019
+88,10487,Shatabdi Express,22,3,5,Sun,Jaipur,UDP,Jpr,Twice in week,5,10,20701,2,27,29,28,16,72,9,6,2019
+89,67154,Garbi Rath,25,2,9,Thu,Jaipur,UDP,Jpr,Weekly,6,5,21965,2,30,22,26,12,73,27,8,2022
+90,26173,Marudhar Express,18,2,9,Fri,Jaipur,GWL,AGR,Weekly,5,12,10560,2,27,30,20,18,75,25,9,2021
+91,52580,BPL JP EXP SPL,17,3,5,Tue,Jaipur,AGR,Dli,Twice in week,2,12,25969,2,25,34,25,18,76,24,11,2020
+92,67390,Marudhar Express,11,1,14,Tue,Jaipur,Jpr,JDP,Daily,3,29,19605,2,27,27,26,11,70,19,8,2019
+93,93086,Maharaja Express,15,3,9,Sun,Jaipur,AGR,Mumbai,Weekly,6,18,26009,2,22,33,29,23,76,26,6,2021
+94,38609,Marudhar Express,17,2,12,Wed,Jaipur,UDP,GWL,Daily,4,34,15537,2,20,25,33,16,71,21,6,2021
+95,21426,Maharaja Express,25,3,12,Thu,Jaipur,JDP,JDP,Twice in week,6,22,15085,2,24,21,30,7,75,16,8,2020
+96,78142,Garbi Rath,21,3,14,Tue,Jaipur,Dli,GWL,Weekly,5,25,14783,2,24,25,23,11,73,14,9,2022
+97,56695,Maharaja Express,24,2,12,Fri,Jaipur,JDP,Dli,Weekly,4,22,15227,2,34,33,20,7,71,26,6,2019
+98,46538,Double Decker,10,1,7,Sat,Jaipur,Dli,Dli,Twice in week,4,22,28811,2,34,26,34,15,78,15,4,2021
+99,44670,Double Decker,25,3,13,Sat,Jaipur,JDP,AGR,Daily,2,34,11759,2,33,30,33,21,76,18,3,2022
+100,29445,BPL JP EXP SPL,27,1,9,Sat,Jaipur,JDP,GWL,Weekly,6,24,29591,2,32,21,31,12,75,16,11,2019
+101,97829,GWL SBIB,15,3,11,Mon,Jaipur,Dli,AGR,Weekly,3,22,23446,2,22,26,27,7,71,16,4,2020
+102,74286,Garbi Rath,29,2,10,Sun,Jaipur,JDP,JDP,Daily,4,10,12161,2,23,26,34,5,72,1,2,2020
+103,60687,GWL SBIB,21,1,5,Wed,Jaipur,AGR,AGR,Weekly,1,24,18353,2,21,30,30,8,75,10,11,2020
+104,15173,Garbi Rath,19,1,12,Thu,Jaipur,Dli,Dli,Daily,2,35,25537,2,22,31,33,8,74,3,11,2019
+105,44738,Garbi Rath,24,2,14,Thu,Jaipur,Mumbai,Mumbai,Daily,2,32,13945,2,32,34,31,18,70,8,8,2020
+106,83487,Shatabdi Express,18,3,5,Tue,Jaipur,Jpr,GWL,Twice in week,6,27,26803,2,31,22,31,21,75,17,11,2021
+107,31729,Maharaja Express,13,1,9,Sun,Jaipur,Dli,Dli,Daily,3,12,17631,2,27,28,24,21,75,23,6,2020
+108,69305,Rajdhani Express,21,1,7,Tue,Jaipur,JDP,Jpr,Twice in week,5,20,12659,2,28,30,28,13,74,2,1,2021
+109,79977,Garbi Rath,16,3,12,Tue,Jaipur,Mumbai,JDP,Weekly,6,22,28559,2,34,23,26,21,75,29,7,2021
+110,92702,Double Decker,24,3,7,Mon,Jaipur,Jpr,Mumbai,Daily,6,28,11550,2,20,21,30,6,76,21,10,2022
+111,60555,BPL JP EXP SPL,18,1,8,Sun,Jaipur,AGR,UDP,Daily,6,27,19645,2,23,27,22,10,71,30,11,2022
+112,97199,ALL AF SPL,23,1,7,Thu,Jaipur,Mumbai,GWL,Daily,4,6,28680,2,26,29,30,21,71,21,9,2019
+113,13419,Palace on wheels,26,1,12,Fri,Jaipur,GWL,Jpr,Twice in week,2,19,13964,2,33,21,25,17,74,10,1,2019
+114,96520,GWL SBIB,18,2,9,Fri,Jaipur,AGR,Mumbai,Weekly,6,19,15181,2,23,27,24,22,73,8,10,2020
+115,50323,Garbi Rath,20,2,7,Sun,Jaipur,Jpr,UDP,Daily,4,34,23311,2,31,33,21,6,73,26,8,2021
+116,66231,BPL JP EXP SPL,27,1,6,Sun,Jaipur,JDP,Mumbai,Twice in week,1,4,26813,2,29,27,24,19,73,18,1,2020
+117,59280,Shatabdi Express,23,2,5,Tue,Jaipur,AGR,UDP,Weekly,6,13,22412,2,31,34,22,18,70,2,6,2019
+118,81297,Garbi Rath,19,1,7,Thu,Jaipur,JDP,Dli,Weekly,1,18,17972,2,22,28,23,9,76,26,6,2019
+119,51351,BPL JP EXP SPL,29,1,13,Sun,Jaipur,Dli,JDP,Daily,2,30,16561,2,27,26,31,4,79,8,8,2019
+120,70015,SIKR-JP SPL,12,2,5,Sat,Jaipur,AGR,Dli,Daily,3,27,25285,2,23,21,24,12,73,21,3,2020
+121,30114,Palace on wheels,10,1,8,Sun,Jaipur,JDP,Mumbai,Daily,5,15,14225,2,27,21,20,15,70,28,8,2019
+122,76943,Palace on wheels,29,1,10,Thu,Jaipur,Jpr,AGR,Daily,3,35,23944,2,24,20,28,7,73,3,4,2019
+123,42955,BPL JP EXP SPL,10,1,11,Sun,Jaipur,UDP,Dli,Weekly,4,5,15365,2,34,25,21,19,75,17,11,2019
+124,71793,GWL SBIB,27,1,12,Mon,Jaipur,Mumbai,UDP,Twice in week,3,6,26891,2,24,20,25,17,71,30,11,2022
+125,57130,ALL AF SPL,28,1,8,Tue,Jaipur,Mumbai,AGR,Weekly,6,17,25633,2,26,28,26,8,74,30,11,2020
+126,26009,BPL JP EXP SPL,22,2,14,Sun,Jaipur,Dli,Mumbai,Daily,3,20,26606,2,32,33,27,23,72,16,10,2021
+127,56533,Garbi Rath,20,1,12,Mon,Jaipur,GWL,Mumbai,Twice in week,6,20,17064,2,22,34,31,15,79,24,1,2019
+128,87186,Maharaja Express,12,2,11,Wed,Jaipur,JDP,Jpr,Twice in week,6,16,25175,2,30,26,29,12,77,28,5,2022
+129,81918,GWL SBIB,12,1,7,Sat,Jaipur,AGR,JDP,Twice in week,1,17,27944,2,34,34,31,4,77,12,3,2022
+130,54251,Shatabdi Express,16,3,8,Sat,Jaipur,JDP,JDP,Daily,3,13,26658,2,25,20,22,17,79,5,7,2019
+131,98676,Maharaja Express,24,2,11,Wed,Jaipur,Dli,GWL,Weekly,5,34,18434,2,28,26,21,18,70,26,10,2022
+132,75221,Maharaja Express,16,3,6,Mon,Jaipur,AGR,Jpr,Weekly,6,14,26488,2,31,34,21,11,71,10,7,2021
+133,59000,BPL JP EXP SPL,26,2,8,Fri,Jaipur,AGR,Mumbai,Twice in week,1,12,18959,2,29,33,25,17,74,14,9,2019
+134,91760,Marudhar Express,12,3,14,Thu,Jaipur,Mumbai,UDP,Daily,2,5,28521,2,20,29,34,8,79,26,10,2021
+135,50524,Double Decker,15,3,6,Mon,Jaipur,UDP,Dli,Twice in week,6,33,17974,2,25,25,31,4,77,11,1,2022
+136,97471,BPL JP EXP SPL,23,1,12,Thu,Jaipur,Mumbai,UDP,Twice in week,2,32,12840,2,21,23,30,13,71,17,11,2022
+137,30959,Garbi Rath,11,3,10,Wed,Jaipur,AGR,Mumbai,Weekly,1,5,29169,2,21,23,25,20,71,28,2,2022
+138,27626,Vande Bharat Express,11,2,7,Mon,Jaipur,Dli,GWL,Weekly,1,20,18577,2,25,24,32,19,70,20,4,2019
+139,37873,Garbi Rath,24,2,10,Thu,Jaipur,GWL,GWL,Daily,1,13,23153,2,21,21,21,7,78,28,2,2021
+140,87268,BPL JP EXP SPL,14,3,6,Sun,Jaipur,AGR,UDP,Weekly,3,14,24346,2,24,20,33,5,78,19,11,2021
+141,89871,GWL SBIB,15,1,8,Fri,Jaipur,Jpr,Dli,Twice in week,5,28,16988,2,24,25,23,18,76,20,1,2020
+142,59817,Palace on wheels,25,2,10,Tue,Jaipur,Dli,JDP,Twice in week,3,17,16887,2,21,21,20,18,79,17,1,2019
+143,65441,SIKR-JP SPL,15,3,13,Mon,Jaipur,UDP,AGR,Weekly,4,30,22937,2,34,24,24,8,74,14,8,2019
+144,37886,BPL JP EXP SPL,13,1,9,Sat,Jaipur,Mumbai,GWL,Daily,4,26,16716,2,21,23,34,9,74,3,8,2022
+145,78905,Vande Bharat Express,29,1,14,Thu,Jaipur,JDP,GWL,Daily,4,12,19750,2,23,32,20,17,72,30,10,2021
+146,64047,Palace on wheels,11,2,13,Mon,Jaipur,UDP,Mumbai,Twice in week,4,30,23059,2,26,22,32,9,76,7,8,2021
+147,44209,Double Decker,27,3,6,Sat,Jaipur,Dli,Jpr,Daily,3,4,21786,2,22,30,34,14,78,21,6,2020
+148,30648,Vande Bharat Express,23,3,14,Fri,Jaipur,GWL,GWL,Weekly,2,35,14128,2,24,20,32,18,78,3,6,2021
+149,25612,Vande Bharat Express,16,2,11,Sat,Jaipur,AGR,JDP,Twice in week,5,24,16527,2,27,34,30,15,74,20,3,2019
+150,17549,Garbi Rath,28,2,11,Mon,Jaipur,UDP,Dli,Weekly,2,35,11199,2,28,20,30,23,76,3,8,2021
+151,46546,Palace on wheels,13,3,6,Tue,Jaipur,Dli,Jpr,Twice in week,4,24,14022,2,30,27,24,23,72,7,11,2019
+152,55265,Shatabdi Express,27,2,14,Tue,Jaipur,GWL,GWL,Daily,5,19,27224,2,26,23,21,4,71,19,5,2019
+153,72155,Marudhar Express,10,3,7,Thu,Jaipur,JDP,UDP,Twice in week,5,34,14023,2,26,25,24,8,73,15,7,2021
+154,18207,Double Decker,21,2,9,Wed,Jaipur,UDP,Jpr,Daily,6,21,28298,2,22,25,26,22,78,3,3,2021
+155,85460,Shatabdi Express,21,2,10,Wed,Jaipur,Jpr,Mumbai,Daily,4,12,28254,2,32,25,27,23,74,4,4,2022
+156,32494,Double Decker,23,1,9,Mon,Jaipur,GWL,GWL,Twice in week,6,11,20092,2,24,26,24,4,73,12,7,2021
+157,18005,Palace on wheels,15,1,7,Mon,Jaipur,JDP,AGR,Weekly,5,28,22578,2,20,29,33,4,75,27,10,2022
+158,34536,Marudhar Express,17,2,10,Wed,Jaipur,UDP,JDP,Daily,5,13,25404,2,23,30,33,21,71,30,10,2019
+159,36924,Marudhar Express,10,3,11,Sat,Jaipur,AGR,Dli,Weekly,1,34,18175,2,20,24,25,4,70,23,2,2021
+160,37550,Maharaja Express,21,3,13,Tue,Jaipur,Mumbai,Mumbai,Twice in week,3,24,29095,2,22,21,22,23,70,6,5,2020
+161,36800,Garbi Rath,28,3,9,Fri,Jaipur,Dli,Jpr,Weekly,6,4,25671,2,28,29,21,20,71,18,10,2020
+162,21043,Marudhar Express,21,2,6,Fri,Jaipur,UDP,JDP,Twice in week,1,21,20669,2,29,27,24,20,70,27,9,2022
+163,48111,Double Decker,22,2,7,Sat,Jaipur,Jpr,Dli,Daily,4,10,19507,2,29,32,27,8,74,17,4,2021
+164,89145,Palace on wheels,14,1,6,Sat,Jaipur,Mumbai,Mumbai,Daily,5,19,20275,2,33,24,30,4,71,3,4,2021
+165,17831,Rajdhani Express,17,1,7,Fri,Jaipur,JDP,UDP,Daily,2,18,29325,2,32,23,34,18,71,16,1,2021
+166,16846,Shatabdi Express,27,3,8,Fri,Jaipur,AGR,AGR,Weekly,1,36,12691,2,21,22,33,22,76,26,8,2022
+167,99820,Maharaja Express,22,3,10,Thu,Jaipur,Mumbai,UDP,Twice in week,6,10,24795,2,20,31,29,12,76,9,4,2019
+168,50499,GWL SBIB,17,3,13,Mon,Jaipur,JDP,Jpr,Weekly,3,3,20436,2,22,33,30,6,74,19,8,2021
+169,60470,Palace on wheels,17,1,5,Tue,Jaipur,AGR,GWL,Twice in week,2,14,14961,2,21,25,24,9,78,28,9,2022
+170,10544,Garbi Rath,25,1,12,Mon,Jaipur,AGR,GWL,Daily,6,23,20593,2,30,26,21,17,78,13,5,2021
+171,18350,Shatabdi Express,22,3,13,Thu,Jaipur,Jpr,GWL,Daily,2,9,13879,2,26,30,27,11,76,26,3,2019
+172,28901,SIKR-JP SPL,11,1,8,Wed,Jaipur,UDP,AGR,Weekly,1,25,20556,2,27,26,21,23,71,19,6,2019
+173,22950,Shatabdi Express,25,3,10,Wed,Jaipur,Jpr,UDP,Weekly,1,16,21576,2,26,22,24,10,78,14,1,2021
+174,88894,BPL JP EXP SPL,18,2,9,Tue,Jaipur,Jpr,AGR,Twice in week,3,16,15512,2,27,20,22,11,71,20,9,2021
+175,36108,Garbi Rath,19,3,8,Wed,Jaipur,UDP,AGR,Weekly,4,21,27623,2,31,24,24,16,75,15,2,2020
+176,98735,Double Decker,22,3,8,Mon,Jaipur,Mumbai,AGR,Weekly,2,27,20765,2,23,21,24,9,78,7,10,2019
+177,15982,Rajdhani Express,15,2,11,Sat,Jaipur,Mumbai,AGR,Weekly,1,7,26592,2,27,22,22,20,72,30,10,2021
+178,33468,Marudhar Express,23,3,7,Sun,Jaipur,JDP,Jpr,Weekly,4,16,22612,2,28,23,30,14,74,1,3,2019
+179,70736,Garbi Rath,24,3,14,Fri,Jaipur,UDP,Mumbai,Daily,5,4,21479,2,23,24,29,18,78,23,3,2020
+180,70569,BPL JP EXP SPL,26,3,5,Tue,Jaipur,Mumbai,UDP,Weekly,1,22,13170,2,23,23,21,15,76,18,2,2020
+181,80147,GWL SBIB,18,3,5,Tue,Jaipur,Mumbai,JDP,Weekly,4,35,13750,2,27,23,30,12,71,3,6,2021
+182,79115,Vande Bharat Express,14,1,14,Fri,Jaipur,GWL,Dli,Daily,5,19,19128,2,31,27,28,13,72,20,9,2021
+183,52081,Maharaja Express,18,1,8,Tue,Jaipur,JDP,UDP,Weekly,1,31,22644,2,22,34,21,5,74,19,8,2022
+184,88313,Double Decker,14,3,6,Tue,Jaipur,GWL,AGR,Daily,2,23,23955,2,30,34,33,16,73,28,1,2022
+185,19703,Maharaja Express,26,3,12,Fri,Jaipur,Mumbai,AGR,Twice in week,1,4,28637,2,21,20,31,12,76,4,3,2020
+186,17491,Palace on wheels,28,2,5,Sun,Jaipur,UDP,JDP,Twice in week,2,4,13828,2,31,34,21,9,77,11,7,2019
+187,43444,BPL JP EXP SPL,24,2,6,Tue,Jaipur,GWL,JDP,Daily,2,20,20878,2,22,32,29,18,71,9,9,2020
+188,55160,Shatabdi Express,16,1,9,Tue,Jaipur,Jpr,GWL,Twice in week,4,30,16601,2,21,28,34,10,76,24,7,2020
+189,76417,Shatabdi Express,15,1,11,Wed,Jaipur,JDP,Jpr,Weekly,5,6,23335,2,22,20,24,4,78,3,3,2022
+190,70459,Shatabdi Express,21,1,8,Fri,Jaipur,GWL,UDP,Daily,1,14,15427,2,34,22,25,19,78,30,5,2020
+191,98283,SIKR-JP SPL,25,1,9,Mon,Jaipur,Jpr,JDP,Daily,1,34,22380,2,26,22,26,10,73,9,3,2021
+192,36604,Double Decker,16,2,14,Sun,Jaipur,AGR,AGR,Twice in week,2,31,20584,2,22,25,27,11,75,15,5,2022
+193,33520,Vande Bharat Express,15,2,10,Wed,Jaipur,Dli,Mumbai,Twice in week,1,26,17542,2,34,20,20,9,75,26,4,2019
+194,42817,Rajdhani Express,25,1,7,Sat,Jaipur,Jpr,GWL,Weekly,6,8,12637,2,20,28,32,20,79,19,7,2021
+195,80924,ALL AF SPL,22,3,7,Sun,Jaipur,JDP,AGR,Twice in week,6,20,14476,2,21,25,22,22,73,4,2,2019
+196,48101,Garbi Rath,12,3,14,Thu,Jaipur,JDP,Mumbai,Twice in week,5,8,20858,2,22,23,29,6,76,14,2,2019
+197,26158,SIKR-JP SPL,16,3,8,Fri,Jaipur,Mumbai,AGR,Weekly,2,15,26667,2,23,22,32,15,72,11,8,2020
+198,15804,Shatabdi Express,21,3,6,Tue,Jaipur,GWL,JDP,Daily,5,18,29547,2,26,30,26,10,70,26,5,2021
+199,29532,BPL JP EXP SPL,24,3,12,Sun,Jaipur,AGR,Mumbai,Daily,4,19,28201,2,33,22,21,8,73,6,9,2020
+200,46821,Garbi Rath,11,2,10,Tue,Jaipur,AGR,AGR,Weekly,4,12,25014,2,28,26,27,4,72,24,2,2021
+201,85522,BPL JP EXP SPL,14,1,14,Fri,Jaipur,JDP,AGR,Twice in week,4,12,12508,2,34,33,28,20,76,22,10,2020
+202,80942,GWL SBIB,18,3,10,Sun,Jaipur,Jpr,UDP,Daily,5,16,15745,2,22,30,30,22,78,26,4,2020
+203,40626,Marudhar Express,14,3,14,Sat,Jaipur,JDP,GWL,Twice in week,4,18,29527,2,34,21,30,7,75,9,4,2020
+204,14588,SIKR-JP SPL,27,2,12,Sat,Jaipur,AGR,Jpr,Twice in week,6,15,10984,2,24,33,28,13,79,8,10,2019
+205,67372,Double Decker,20,3,5,Sun,Jaipur,JDP,Mumbai,Daily,2,35,20766,2,25,30,22,10,74,19,2,2022
+206,22548,ALL AF SPL,27,2,11,Thu,Jaipur,Jpr,AGR,Weekly,6,25,16059,2,33,21,26,6,77,8,4,2022
+207,27325,Shatabdi Express,23,3,5,Mon,Jaipur,JDP,Jpr,Weekly,4,23,13346,2,27,32,24,17,79,29,3,2022
+208,14186,Garbi Rath,15,2,9,Thu,Jaipur,GWL,Dli,Weekly,5,37,15850,2,20,28,20,21,76,9,5,2022
+209,29568,Double Decker,22,2,12,Sun,Jaipur,Mumbai,AGR,Twice in week,6,31,23218,2,23,23,22,10,70,13,4,2021
+210,27381,BPL JP EXP SPL,14,3,6,Tue,Jaipur,Jpr,Dli,Weekly,3,35,11729,2,28,21,21,21,71,9,11,2021
+211,92520,BPL JP EXP SPL,15,2,6,Fri,Jaipur,Jpr,GWL,Weekly,4,33,24754,2,25,34,28,8,78,11,9,2020
+212,97231,Maharaja Express,14,3,12,Wed,Jaipur,AGR,Dli,Weekly,6,7,26671,2,33,34,27,8,77,16,9,2022
+213,36174,Maharaja Express,21,2,7,Sat,Jaipur,GWL,Jpr,Weekly,5,29,21379,2,28,29,22,4,77,8,7,2022
+214,46603,Maharaja Express,22,1,12,Wed,Jaipur,UDP,JDP,Twice in week,5,22,21587,2,20,23,30,7,72,28,7,2021
+215,60025,GWL SBIB,13,1,5,Tue,Jaipur,UDP,Dli,Weekly,3,8,12513,2,26,30,33,15,75,2,10,2021
+216,47320,ALL AF SPL,28,3,9,Mon,Jaipur,Jpr,GWL,Twice in week,1,35,25384,2,30,29,34,8,76,12,1,2022
+217,14909,GWL SBIB,23,2,8,Tue,Jaipur,AGR,JDP,Weekly,3,16,13276,2,20,32,26,6,73,4,4,2020
+218,81923,Rajdhani Express,19,3,9,Fri,Jaipur,Dli,Dli,Weekly,2,18,15622,2,21,22,28,10,74,9,8,2019
+219,92164,Palace on wheels,21,1,13,Sat,Jaipur,Mumbai,JDP,Twice in week,2,6,29095,2,24,31,30,8,79,21,11,2021
+220,69273,Garbi Rath,11,2,7,Wed,Jaipur,GWL,AGR,Daily,6,20,27871,2,24,25,31,19,75,9,8,2022
+221,95633,SIKR-JP SPL,13,1,8,Thu,Jaipur,JDP,Mumbai,Daily,2,21,22975,2,34,25,24,22,71,27,3,2021
+222,18208,Shatabdi Express,16,1,13,Sat,Jaipur,UDP,Dli,Weekly,5,27,19540,2,20,28,34,10,79,29,6,2021
+223,29353,SIKR-JP SPL,22,1,10,Sun,Jaipur,GWL,Mumbai,Weekly,1,32,16676,2,21,30,23,19,76,18,6,2021
+224,54465,Palace on wheels,10,1,10,Wed,Jaipur,Mumbai,AGR,Twice in week,1,15,25791,2,23,26,28,14,70,4,6,2021
+225,23504,SIKR-JP SPL,20,2,12,Tue,Jaipur,Jpr,GWL,Weekly,2,29,17118,2,21,31,32,20,77,6,9,2022
+226,18276,Maharaja Express,27,2,14,Wed,Jaipur,UDP,GWL,Twice in week,3,9,24323,2,29,33,29,22,77,13,6,2021
+227,92547,Double Decker,20,1,7,Mon,Jaipur,AGR,Mumbai,Daily,2,10,24869,2,34,28,34,8,75,30,2,2022
+228,83247,ALL AF SPL,13,3,13,Thu,Jaipur,JDP,Dli,Weekly,2,12,19095,2,29,26,21,7,77,25,4,2019
+229,45018,Maharaja Express,24,3,10,Thu,Jaipur,Mumbai,AGR,Twice in week,1,34,25409,2,30,33,22,5,75,26,4,2019
+230,86811,Vande Bharat Express,22,1,7,Sun,Jaipur,GWL,AGR,Weekly,1,35,10023,2,31,20,24,10,71,4,1,2020
+231,81148,Shatabdi Express,11,3,6,Tue,Jaipur,AGR,AGR,Twice in week,5,35,14434,2,20,27,26,5,73,1,11,2020
+232,88817,Marudhar Express,27,1,9,Wed,Jaipur,AGR,Mumbai,Weekly,4,9,21313,2,28,26,22,23,70,12,8,2019
+233,23093,Shatabdi Express,13,1,9,Tue,Jaipur,AGR,GWL,Twice in week,2,17,19914,2,29,29,31,11,75,10,5,2020
+234,95800,BPL JP EXP SPL,25,2,7,Tue,Jaipur,Jpr,Jpr,Weekly,6,11,19507,2,30,24,27,12,77,24,8,2021
+235,25287,GWL SBIB,26,1,5,Wed,Jaipur,Jpr,Jpr,Twice in week,4,33,14985,2,20,21,33,9,70,24,11,2020
+236,60769,ALL AF SPL,12,2,6,Tue,Jaipur,Dli,GWL,Twice in week,6,21,23229,2,30,20,33,7,70,28,2,2019
+237,59608,Maharaja Express,13,3,6,Tue,Jaipur,JDP,Jpr,Daily,1,5,21476,2,20,28,22,10,78,15,4,2020
+238,11089,SIKR-JP SPL,14,1,8,Sun,Jaipur,GWL,Dli,Daily,5,6,14553,2,32,25,33,7,78,19,5,2019
+239,93062,Marudhar Express,16,3,12,Sun,Jaipur,GWL,Mumbai,Twice in week,1,32,29052,2,20,23,24,21,74,20,2,2020
+240,34113,Rajdhani Express,15,3,8,Wed,Jaipur,Mumbai,GWL,Weekly,5,8,16584,2,30,23,20,23,72,5,5,2019
+241,23249,Vande Bharat Express,27,1,6,Sat,Jaipur,Jpr,Dli,Twice in week,5,11,11300,2,31,33,26,8,71,16,2,2019
+242,65411,Maharaja Express,14,2,7,Tue,Jaipur,UDP,Dli,Daily,2,16,11084,2,20,29,34,5,70,12,3,2021
+243,51771,GWL SBIB,20,1,12,Fri,Jaipur,UDP,GWL,Daily,5,27,20737,2,22,34,28,19,70,21,5,2022
+244,62098,Rajdhani Express,27,2,7,Wed,Jaipur,GWL,GWL,Weekly,2,23,24161,2,22,26,26,17,70,7,3,2019
+245,33307,SIKR-JP SPL,26,2,14,Thu,Jaipur,Jpr,UDP,Twice in week,4,33,13154,2,20,22,26,19,72,27,2,2021
+246,30963,Rajdhani Express,18,1,11,Mon,Jaipur,Dli,UDP,Twice in week,4,24,17468,2,23,29,24,18,73,3,3,2019
+247,68656,ALL AF SPL,29,3,5,Sat,Jaipur,Jpr,AGR,Weekly,3,36,23877,2,21,23,23,6,73,21,6,2019
+248,69540,Garbi Rath,12,3,14,Thu,Jaipur,Dli,UDP,Daily,3,23,29780,2,30,32,23,8,78,15,5,2019
+249,79648,Double Decker,18,2,8,Thu,Jaipur,GWL,Dli,Weekly,2,7,15680,2,21,25,25,14,78,10,11,2022
+250,11388,Garbi Rath,26,1,10,Fri,Jaipur,Dli,Dli,Weekly,1,4,11648,2,22,20,33,5,73,24,5,2020
+251,44050,Garbi Rath,19,3,12,Tue,Jaipur,Dli,Dli,Twice in week,1,35,25896,2,24,32,21,8,70,20,6,2022
+252,90466,Vande Bharat Express,24,2,14,Thu,Jaipur,Dli,Dli,Twice in week,1,6,22248,2,34,22,25,18,73,3,3,2020
+253,20410,Maharaja Express,28,3,9,Sat,Jaipur,UDP,Mumbai,Twice in week,4,5,11373,2,33,20,26,4,78,23,3,2019
+254,22286,Maharaja Express,13,3,9,Thu,Jaipur,Mumbai,UDP,Daily,1,33,10084,2,22,23,23,23,78,17,6,2021
+255,52786,ALL AF SPL,29,3,6,Wed,Jaipur,Dli,Jpr,Twice in week,3,25,17381,2,32,32,23,23,71,28,1,2020
+256,72892,Palace on wheels,25,1,7,Tue,Jaipur,GWL,AGR,Twice in week,4,15,23441,2,29,26,21,7,70,6,9,2022
+257,67602,Vande Bharat Express,23,2,11,Mon,Jaipur,Dli,JDP,Twice in week,1,32,23591,2,21,21,33,8,76,6,3,2022
+258,97411,Marudhar Express,12,3,10,Sat,Jaipur,Jpr,Dli,Daily,2,31,15109,2,23,33,34,20,72,26,5,2019
+259,94376,Garbi Rath,18,1,7,Thu,Jaipur,AGR,Jpr,Weekly,5,18,28233,2,25,34,34,7,71,29,1,2019
+260,35087,ALL AF SPL,28,1,7,Tue,Jaipur,Dli,AGR,Daily,1,18,12838,2,34,26,22,18,77,21,2,2022
+261,57244,GWL SBIB,21,2,8,Wed,Jaipur,JDP,Jpr,Twice in week,3,14,15251,2,20,24,21,10,77,12,8,2020
+262,27216,BPL JP EXP SPL,21,3,11,Fri,Jaipur,AGR,GWL,Twice in week,1,25,16050,2,23,25,32,12,73,11,11,2021
+263,63089,Marudhar Express,23,2,14,Sun,Jaipur,UDP,Dli,Daily,3,26,15387,2,33,28,33,8,74,16,6,2022
+264,95657,Marudhar Express,22,2,12,Wed,Jaipur,AGR,Mumbai,Daily,5,37,17687,2,29,28,23,21,75,12,6,2022
+265,27176,SIKR-JP SPL,24,1,14,Sun,Jaipur,UDP,AGR,Twice in week,1,17,18380,2,23,33,28,18,75,28,10,2021
+266,98182,ALL AF SPL,16,3,7,Wed,Jaipur,JDP,Jpr,Daily,4,8,19702,2,33,28,34,6,71,24,6,2020
+267,13111,Garbi Rath,20,1,6,Mon,Jaipur,AGR,Jpr,Twice in week,5,13,25199,2,20,20,29,15,71,21,1,2022
+268,71008,GWL SBIB,28,2,10,Fri,Jaipur,Dli,UDP,Weekly,4,21,19728,2,32,31,20,23,75,22,6,2019
+269,19453,SIKR-JP SPL,22,1,13,Tue,Jaipur,Mumbai,UDP,Daily,2,5,14654,2,25,23,32,8,74,12,11,2020
+270,50110,BPL JP EXP SPL,12,3,9,Sat,Jaipur,GWL,Dli,Twice in week,3,11,11943,2,23,24,25,10,76,15,7,2022
+271,56948,Marudhar Express,24,2,5,Sun,Jaipur,AGR,GWL,Daily,4,5,23293,2,33,26,20,8,72,1,3,2020
+272,70002,Rajdhani Express,17,1,11,Tue,Jaipur,Jpr,Jpr,Twice in week,2,14,17811,2,27,27,34,18,76,23,1,2022
+273,45909,Maharaja Express,29,2,12,Thu,Jaipur,Jpr,UDP,Daily,4,10,27587,2,34,31,28,23,78,18,10,2022
+274,82622,Vande Bharat Express,18,3,12,Tue,Jaipur,JDP,UDP,Daily,1,6,15639,2,28,27,21,9,73,5,6,2021
+275,54839,Vande Bharat Express,14,1,6,Sun,Jaipur,GWL,Mumbai,Twice in week,1,21,22513,2,24,23,32,13,70,23,8,2022
+276,63973,Maharaja Express,13,1,8,Thu,Jaipur,GWL,GWL,Weekly,2,29,10844,2,24,23,28,13,74,5,6,2021
+277,53224,GWL SBIB,17,2,11,Sat,Jaipur,UDP,GWL,Daily,5,35,15181,2,33,28,28,5,77,24,5,2022
+278,75525,SIKR-JP SPL,19,1,5,Tue,Jaipur,Jpr,Mumbai,Twice in week,5,5,23978,2,34,24,24,9,77,15,10,2022
+279,76940,Double Decker,26,3,12,Fri,Jaipur,Dli,UDP,Daily,1,16,28988,2,22,22,23,7,77,3,10,2022
+280,23742,Rajdhani Express,14,3,12,Sat,Jaipur,AGR,Dli,Weekly,6,24,16223,2,27,30,31,19,74,27,2,2021
+281,99263,SIKR-JP SPL,11,2,8,Mon,Jaipur,JDP,GWL,Twice in week,5,33,25735,2,27,29,33,6,72,7,2,2020
+282,26138,Rajdhani Express,26,1,11,Thu,Jaipur,JDP,UDP,Twice in week,4,16,26458,2,21,29,23,19,71,12,3,2022
+283,61675,Garbi Rath,28,3,5,Tue,Jaipur,AGR,Jpr,Daily,6,35,11018,2,23,22,33,17,73,9,2,2020
+284,23548,GWL SBIB,19,2,9,Mon,Jaipur,AGR,JDP,Twice in week,6,37,15790,2,25,30,33,23,76,7,6,2020
+285,47284,ALL AF SPL,10,2,9,Mon,Jaipur,GWL,Jpr,Twice in week,4,13,24536,2,21,22,24,22,72,28,1,2021
+286,14262,Garbi Rath,28,3,8,Thu,Jaipur,UDP,Mumbai,Daily,3,6,14433,2,26,27,30,20,70,11,4,2021
+287,56363,BPL JP EXP SPL,17,2,7,Sat,Jaipur,JDP,GWL,Twice in week,3,14,28267,2,20,22,26,16,76,6,6,2019
+288,61335,Shatabdi Express,23,2,8,Wed,Jaipur,Jpr,Jpr,Twice in week,3,37,28560,2,22,30,32,21,70,4,6,2022
+289,69498,SIKR-JP SPL,12,2,14,Mon,Jaipur,UDP,Jpr,Twice in week,3,34,16248,2,21,21,34,7,71,18,8,2022
+290,84108,Vande Bharat Express,14,2,14,Tue,Jaipur,JDP,UDP,Weekly,4,10,23334,2,29,25,28,20,72,20,11,2020
+291,77948,Shatabdi Express,11,1,14,Thu,Jaipur,UDP,JDP,Daily,1,23,17870,2,28,34,24,10,77,22,8,2020
+292,75836,Maharaja Express,25,1,9,Sun,Jaipur,Mumbai,GWL,Weekly,1,11,28332,2,25,27,28,7,75,21,7,2019
+293,41129,Palace on wheels,18,1,13,Sat,Jaipur,JDP,Mumbai,Twice in week,2,14,21584,2,26,27,22,8,76,14,2,2019
+294,41297,Maharaja Express,15,3,7,Sat,Jaipur,UDP,Mumbai,Weekly,5,34,21815,2,31,27,21,22,71,14,10,2022
+295,70078,Garbi Rath,11,1,9,Fri,Jaipur,Dli,GWL,Daily,1,26,10492,2,31,33,31,7,72,28,2,2021
+296,51659,Garbi Rath,19,3,7,Sat,Jaipur,JDP,AGR,Daily,5,23,12958,2,23,20,20,20,78,12,5,2019
+297,53461,SIKR-JP SPL,20,3,6,Sun,Jaipur,AGR,UDP,Daily,2,26,12968,2,26,30,28,11,78,23,7,2022
+298,21248,Garbi Rath,12,1,8,Sat,Jaipur,UDP,Dli,Twice in week,1,11,15694,2,29,27,28,13,77,5,9,2019
+299,42226,Garbi Rath,21,2,10,Wed,Jaipur,JDP,Jpr,Twice in week,6,31,10993,2,31,21,21,13,71,25,10,2021
+300,12454,Marudhar Express,29,2,8,Sun,Jaipur,Dli,Dli,Weekly,4,3,29864,2,24,29,29,20,75,16,7,2021
+301,26729,Double Decker,29,2,13,Fri,Jaipur,JDP,Mumbai,Twice in week,5,19,21339,2,20,30,20,23,76,23,2,2021
+302,82050,GWL SBIB,14,1,9,Sat,Jaipur,Mumbai,Dli,Twice in week,1,32,15234,2,20,21,24,13,72,7,10,2019
+303,97350,Marudhar Express,24,3,14,Thu,Jaipur,Jpr,JDP,Weekly,5,6,18152,2,31,29,22,7,76,6,10,2020
+304,66470,Vande Bharat Express,11,1,5,Tue,Jaipur,Jpr,AGR,Twice in week,6,11,19127,2,29,26,32,8,71,18,1,2021
+305,31493,Palace on wheels,24,2,7,Fri,Jaipur,UDP,GWL,Twice in week,5,24,22709,2,25,33,27,16,78,6,6,2021
+306,11154,GWL SBIB,25,2,10,Mon,Jaipur,Dli,Mumbai,Weekly,5,36,18194,2,29,31,25,23,72,22,10,2021
+307,69911,Rajdhani Express,12,2,14,Thu,Jaipur,JDP,UDP,Twice in week,2,36,20448,2,28,32,22,17,78,24,8,2019
+308,99871,Double Decker,12,2,12,Mon,Jaipur,AGR,JDP,Daily,6,36,20055,2,32,27,27,14,74,29,2,2021
+309,64643,Palace on wheels,23,3,8,Mon,Jaipur,Jpr,Dli,Daily,2,36,13993,2,22,26,32,17,71,6,2,2019
+310,66609,Palace on wheels,19,2,6,Fri,Jaipur,GWL,GWL,Twice in week,1,15,25427,2,26,23,27,7,70,16,5,2020
+311,21143,GWL SBIB,10,1,12,Fri,Jaipur,AGR,Mumbai,Daily,4,11,19874,2,29,26,26,20,77,20,11,2021
+312,97036,GWL SBIB,21,1,9,Sun,Jaipur,UDP,Jpr,Twice in week,2,35,17669,2,23,23,21,23,76,23,2,2022
+313,76415,Shatabdi Express,16,2,14,Tue,Jaipur,JDP,GWL,Twice in week,6,30,13786,2,27,32,20,12,72,29,9,2020
+314,97095,Palace on wheels,10,2,9,Tue,Jaipur,Dli,UDP,Twice in week,1,24,16267,2,24,32,34,5,73,16,5,2022
+315,33005,Garbi Rath,21,3,13,Tue,Jaipur,GWL,Dli,Weekly,1,25,16254,2,25,34,31,7,73,5,4,2022
+316,69048,Double Decker,20,3,14,Mon,Jaipur,AGR,Dli,Weekly,4,26,29365,2,22,27,27,17,71,12,9,2019
+317,79085,Garbi Rath,28,1,12,Wed,Jaipur,GWL,JDP,Daily,3,21,23313,2,30,31,33,23,73,3,6,2022
+318,81554,BPL JP EXP SPL,26,1,8,Wed,Jaipur,Jpr,Dli,Daily,2,4,26322,2,24,33,20,17,74,8,6,2022
+319,24946,GWL SBIB,27,1,14,Wed,Jaipur,GWL,Jpr,Daily,4,37,15252,2,30,21,24,22,74,1,1,2019
+320,33992,Maharaja Express,22,3,8,Thu,Jaipur,Mumbai,Mumbai,Daily,5,30,22833,2,21,29,24,13,79,14,2,2022
+321,34639,SIKR-JP SPL,11,3,8,Tue,Jaipur,Dli,UDP,Weekly,6,16,14608,2,23,24,24,7,76,21,7,2021
+322,20933,BPL JP EXP SPL,21,3,12,Mon,Jaipur,Mumbai,JDP,Twice in week,3,30,23851,2,34,23,29,14,71,11,10,2020
+323,62808,Rajdhani Express,16,2,5,Fri,Jaipur,Jpr,JDP,Twice in week,5,21,12073,2,28,25,20,21,77,18,10,2019
+324,94922,SIKR-JP SPL,20,3,11,Sun,Jaipur,Mumbai,Mumbai,Daily,4,36,26297,2,25,31,21,7,78,13,7,2021
+325,40468,GWL SBIB,27,1,13,Wed,Jaipur,Jpr,Jpr,Weekly,4,8,25043,2,25,27,24,23,78,1,2,2019
+326,81021,Garbi Rath,28,2,8,Thu,Jaipur,GWL,UDP,Daily,5,30,16696,2,30,22,33,18,76,21,9,2020
+327,48782,Palace on wheels,28,1,13,Sat,Jaipur,Mumbai,AGR,Weekly,4,22,19591,2,22,22,29,5,74,10,6,2022
+328,67470,Vande Bharat Express,10,3,9,Wed,Jaipur,Mumbai,GWL,Twice in week,2,37,17623,2,34,22,33,8,78,11,1,2019
+329,67250,ALL AF SPL,24,1,9,Tue,Jaipur,UDP,AGR,Twice in week,3,10,20641,2,26,30,32,6,72,1,8,2021
+330,26298,ALL AF SPL,20,1,9,Tue,Jaipur,UDP,UDP,Daily,1,4,15084,2,30,33,34,17,74,29,5,2020
+331,81454,Garbi Rath,29,3,10,Wed,Jaipur,Dli,AGR,Daily,3,33,11681,2,27,27,25,21,72,5,11,2019
+332,42012,ALL AF SPL,18,2,7,Mon,Jaipur,AGR,Jpr,Twice in week,2,21,16793,2,31,24,25,6,76,23,8,2020
+333,53819,Garbi Rath,27,2,6,Thu,Jaipur,JDP,AGR,Weekly,3,6,20818,2,20,26,24,12,77,14,1,2022
+334,84248,Double Decker,23,3,13,Sat,Jaipur,Jpr,Mumbai,Twice in week,6,15,17100,2,22,33,24,6,71,21,11,2019
+335,98075,Garbi Rath,19,2,5,Thu,Jaipur,AGR,AGR,Daily,5,20,23340,2,29,32,34,15,79,25,1,2021
+336,66538,BPL JP EXP SPL,19,2,10,Tue,Jaipur,GWL,GWL,Twice in week,3,4,28030,2,22,30,26,18,73,3,4,2020
+337,54386,Palace on wheels,26,1,8,Wed,Jaipur,AGR,GWL,Twice in week,6,18,26335,2,31,21,22,10,71,24,2,2020
+338,10948,Garbi Rath,22,1,10,Fri,Jaipur,Dli,JDP,Twice in week,1,23,14892,2,32,21,25,14,72,15,11,2022
+339,30929,Rajdhani Express,24,3,12,Sat,Jaipur,Jpr,Mumbai,Weekly,2,12,20927,2,25,26,20,5,74,3,5,2022
+340,52887,BPL JP EXP SPL,22,2,6,Mon,Jaipur,JDP,UDP,Daily,5,31,19452,2,20,32,30,20,72,29,9,2019
+341,65085,Maharaja Express,16,1,9,Thu,Jaipur,Dli,UDP,Weekly,4,15,29163,2,29,32,25,12,70,4,3,2020
+342,92895,BPL JP EXP SPL,20,3,13,Sun,Jaipur,Dli,Dli,Weekly,3,27,22861,2,23,28,34,4,79,17,11,2022
+343,58049,Vande Bharat Express,18,1,13,Thu,Jaipur,Jpr,UDP,Daily,2,16,12684,2,31,34,31,14,79,19,10,2022
+344,39711,ALL AF SPL,12,3,14,Sat,Jaipur,UDP,Jpr,Weekly,1,4,20897,2,20,27,34,5,76,5,7,2020
+345,24751,Rajdhani Express,26,3,6,Mon,Jaipur,AGR,Dli,Twice in week,2,7,23177,2,25,26,21,5,75,19,11,2021
+346,63195,Maharaja Express,13,2,6,Wed,Jaipur,JDP,GWL,Daily,5,34,21038,2,21,23,33,21,79,13,11,2019
+347,26081,Rajdhani Express,28,2,13,Sat,Jaipur,Jpr,AGR,Weekly,6,34,26432,2,24,32,29,9,74,19,9,2020
+348,74086,GWL SBIB,17,2,5,Thu,Jaipur,UDP,Jpr,Weekly,1,34,20407,2,30,23,25,9,73,9,2,2022
+349,27992,Vande Bharat Express,20,2,14,Fri,Jaipur,GWL,Jpr,Twice in week,6,28,11202,2,23,31,30,13,78,9,6,2021
+350,87720,Marudhar Express,22,2,13,Wed,Jaipur,Mumbai,Dli,Weekly,2,32,27117,2,29,23,24,18,79,2,2,2019
+351,61297,Palace on wheels,26,3,12,Thu,Jaipur,GWL,Dli,Daily,3,10,15192,2,28,22,20,4,75,17,11,2019
+352,92198,GWL SBIB,16,2,10,Tue,Jaipur,Mumbai,JDP,Daily,2,13,23163,2,26,25,30,5,71,19,3,2022
+353,29893,Palace on wheels,15,1,6,Wed,Jaipur,JDP,Mumbai,Twice in week,3,5,22748,2,25,23,27,7,78,27,3,2021
+354,66515,Shatabdi Express,10,3,10,Fri,Jaipur,Dli,Dli,Weekly,6,8,13807,2,26,31,27,19,74,9,11,2021
+355,52693,ALL AF SPL,23,2,7,Sat,Jaipur,Mumbai,JDP,Twice in week,2,25,10745,2,27,30,26,11,78,25,9,2021
+356,31930,SIKR-JP SPL,11,3,13,Thu,Jaipur,UDP,GWL,Weekly,5,13,25008,2,20,31,32,20,75,15,9,2020
+357,89763,Garbi Rath,17,2,11,Thu,Jaipur,UDP,Mumbai,Twice in week,4,29,28764,2,34,20,23,14,78,20,10,2021
+358,70180,GWL SBIB,24,1,6,Tue,Jaipur,Jpr,UDP,Twice in week,6,35,27039,2,27,30,25,5,72,30,6,2022
+359,38223,Vande Bharat Express,24,3,6,Sun,Jaipur,UDP,UDP,Weekly,2,24,23068,2,24,31,30,20,78,26,7,2022
+360,97949,Double Decker,24,1,10,Fri,Jaipur,Mumbai,Dli,Twice in week,1,17,27582,2,27,20,31,22,74,23,9,2021
+361,59115,BPL JP EXP SPL,12,2,12,Fri,Jaipur,JDP,GWL,Twice in week,2,19,22774,2,31,31,21,14,72,20,6,2021
+362,33977,Vande Bharat Express,13,3,14,Mon,Jaipur,Mumbai,Dli,Weekly,1,18,18706,2,29,34,22,5,75,6,7,2019
+363,59721,Marudhar Express,28,3,12,Fri,Jaipur,Dli,UDP,Twice in week,1,37,28384,2,22,25,21,13,72,6,2,2020
+364,19847,BPL JP EXP SPL,10,1,10,Wed,Jaipur,JDP,Mumbai,Weekly,4,26,13728,2,20,27,21,21,75,5,7,2020
+365,42106,Shatabdi Express,11,3,5,Fri,Jaipur,AGR,GWL,Twice in week,5,37,13183,2,21,22,27,23,76,24,7,2020
+366,51974,Palace on wheels,24,2,5,Fri,Jaipur,Mumbai,JDP,Weekly,1,25,17903,2,27,32,28,18,73,10,7,2022
+367,96450,SIKR-JP SPL,12,3,7,Wed,Jaipur,GWL,JDP,Weekly,6,11,25179,2,31,22,22,14,79,6,5,2021
+368,81565,Palace on wheels,21,3,6,Fri,Jaipur,Jpr,Dli,Weekly,4,37,13801,2,30,26,32,14,71,4,5,2020
+369,85554,Maharaja Express,23,3,7,Wed,Jaipur,AGR,Jpr,Daily,1,28,14313,2,24,33,23,23,73,12,9,2019
+370,53877,Maharaja Express,15,1,7,Thu,Jaipur,Mumbai,AGR,Twice in week,5,33,10081,2,26,20,25,16,78,6,9,2022
+371,99807,Rajdhani Express,13,3,8,Thu,Jaipur,Mumbai,JDP,Weekly,5,24,23305,2,27,23,25,7,71,20,6,2020
+372,32790,Vande Bharat Express,14,1,14,Sun,Jaipur,Mumbai,UDP,Twice in week,6,14,15305,2,22,29,21,6,77,10,8,2022
+373,31227,Marudhar Express,28,1,6,Fri,Jaipur,Dli,Mumbai,Twice in week,1,35,21657,2,30,25,24,23,70,29,9,2022
+374,83456,Palace on wheels,20,2,14,Mon,Jaipur,AGR,Dli,Weekly,1,8,29847,2,26,32,30,12,74,1,3,2021
+375,30173,Garbi Rath,19,1,9,Thu,Jaipur,Mumbai,Mumbai,Daily,4,33,28887,2,33,25,32,17,75,10,7,2022
+376,89384,ALL AF SPL,22,1,12,Sat,Jaipur,Dli,Jpr,Twice in week,5,15,12412,2,33,25,30,15,79,2,9,2019
+377,29030,Rajdhani Express,16,1,12,Thu,Jaipur,AGR,AGR,Daily,5,17,19610,2,34,26,21,6,73,26,9,2021
+378,68452,Vande Bharat Express,18,1,12,Fri,Jaipur,AGR,Mumbai,Twice in week,3,5,25303,2,32,24,23,11,78,12,5,2020
+379,68022,Garbi Rath,17,3,6,Thu,Jaipur,Mumbai,Mumbai,Twice in week,4,21,24350,2,32,21,23,19,79,21,10,2021
+380,89864,Double Decker,27,2,13,Tue,Jaipur,GWL,Mumbai,Twice in week,5,16,19676,2,34,32,33,16,77,15,4,2019
+381,48015,Marudhar Express,11,1,6,Thu,Jaipur,UDP,GWL,Daily,5,25,27459,2,34,33,31,7,74,10,8,2022
+382,51485,Garbi Rath,22,3,9,Sat,Jaipur,Mumbai,GWL,Daily,5,25,15432,2,20,21,29,16,75,18,10,2021
+383,62782,Garbi Rath,15,1,6,Thu,Jaipur,Mumbai,GWL,Daily,6,8,26785,2,34,33,26,22,74,5,11,2022
+384,48013,ALL AF SPL,12,1,12,Sat,Jaipur,Jpr,Dli,Daily,1,18,29406,2,31,34,28,22,71,5,8,2022
+385,35383,Marudhar Express,20,1,14,Tue,Jaipur,Mumbai,JDP,Weekly,6,4,20841,2,32,32,33,17,74,27,2,2020
+386,53615,Garbi Rath,21,2,10,Tue,Jaipur,GWL,AGR,Weekly,4,20,20747,2,33,28,33,17,76,28,2,2022
+387,70911,Garbi Rath,18,3,9,Wed,Jaipur,Mumbai,JDP,Weekly,5,19,29112,2,30,26,27,16,70,29,7,2019
+388,58663,SIKR-JP SPL,10,1,6,Sat,Jaipur,UDP,Dli,Weekly,1,34,20285,2,30,28,27,17,77,17,7,2022
+389,49923,Shatabdi Express,28,2,6,Mon,Jaipur,AGR,GWL,Twice in week,5,7,23725,2,27,25,30,21,75,29,7,2020
+390,19932,BPL JP EXP SPL,24,3,5,Fri,Jaipur,UDP,UDP,Daily,5,34,13926,2,30,33,29,12,72,26,10,2021
+391,21424,ALL AF SPL,28,3,6,Thu,Jaipur,GWL,Mumbai,Twice in week,4,20,19710,2,25,26,32,13,70,19,7,2021
+392,42159,Palace on wheels,16,1,5,Thu,Jaipur,Jpr,Dli,Daily,2,6,11270,2,26,27,23,23,72,21,4,2021
+393,82928,Marudhar Express,22,1,8,Mon,Jaipur,AGR,Dli,Twice in week,4,17,12969,2,23,24,20,5,73,26,2,2021
+394,65707,Double Decker,17,2,6,Thu,Jaipur,JDP,AGR,Weekly,6,37,16404,2,30,32,25,16,70,18,7,2021
+395,41136,Palace on wheels,20,3,10,Wed,Jaipur,Jpr,Dli,Daily,4,19,24956,2,20,25,25,6,72,8,2,2022
+396,91760,Garbi Rath,27,2,6,Sun,Jaipur,AGR,AGR,Daily,4,17,13200,2,23,21,29,11,75,16,10,2021
+397,36809,SIKR-JP SPL,29,1,7,Wed,Jaipur,UDP,Jpr,Twice in week,5,33,19831,2,20,31,31,7,70,1,11,2021
+398,81257,Vande Bharat Express,17,1,6,Sun,Jaipur,UDP,GWL,Daily,4,23,10055,2,23,23,28,6,72,10,4,2020
+399,75639,Palace on wheels,21,1,5,Sat,Jaipur,UDP,AGR,Twice in week,5,35,25249,2,30,34,26,21,70,12,4,2022
+400,54633,Shatabdi Express,10,3,8,Tue,Jaipur,Mumbai,Mumbai,Weekly,5,32,27112,2,31,28,21,7,76,23,6,2021
+401,30692,Double Decker,20,3,14,Wed,Jaipur,Dli,UDP,Twice in week,3,15,24294,2,26,25,21,4,74,18,9,2019
+402,70010,Rajdhani Express,27,1,14,Wed,Jaipur,Dli,Jpr,Twice in week,5,7,22294,2,33,34,26,18,71,30,6,2019
+403,56604,Garbi Rath,27,3,10,Fri,Jaipur,Jpr,GWL,Twice in week,3,26,28122,2,30,24,23,15,74,19,8,2020
+404,55078,Garbi Rath,28,1,9,Thu,Jaipur,Jpr,Jpr,Twice in week,3,36,10661,2,25,33,30,11,74,18,10,2020
+405,93191,ALL AF SPL,17,2,7,Thu,Jaipur,Jpr,UDP,Twice in week,4,34,18858,2,29,20,25,9,74,7,10,2020
+406,61292,Shatabdi Express,14,2,8,Mon,Jaipur,Mumbai,Jpr,Twice in week,3,18,12732,2,28,24,24,5,70,18,1,2021
+407,10626,GWL SBIB,11,1,8,Fri,Jaipur,Jpr,AGR,Daily,5,16,12434,2,31,31,33,11,73,16,1,2020
+408,43970,GWL SBIB,25,1,11,Sat,Jaipur,Mumbai,Jpr,Weekly,6,28,26523,2,26,32,28,18,75,4,2,2020
+409,64938,Shatabdi Express,14,1,9,Wed,Jaipur,JDP,JDP,Weekly,2,32,19918,2,24,27,23,8,77,5,2,2021
+410,98895,Palace on wheels,29,2,12,Thu,Jaipur,Jpr,Mumbai,Daily,2,28,18334,2,22,21,24,14,74,17,3,2021
+411,60692,Rajdhani Express,12,2,5,Thu,Jaipur,Dli,Jpr,Twice in week,6,35,14094,2,32,21,34,21,78,14,5,2022
+412,84304,Double Decker,21,1,8,Tue,Jaipur,AGR,Jpr,Twice in week,6,9,28472,2,29,25,33,18,70,8,2,2022
+413,72184,Palace on wheels,19,2,11,Wed,Jaipur,Jpr,Dli,Weekly,6,15,11415,2,32,30,23,7,77,21,5,2022
+414,46667,SIKR-JP SPL,12,1,10,Mon,Jaipur,JDP,JDP,Twice in week,4,3,15370,2,27,23,33,15,75,7,2,2022
+415,32743,Garbi Rath,12,1,5,Mon,Jaipur,Dli,Mumbai,Twice in week,2,37,15139,2,32,31,33,5,74,21,8,2019
+416,52298,Rajdhani Express,14,2,7,Fri,Jaipur,Mumbai,Jpr,Weekly,1,3,16441,2,20,33,34,11,76,16,5,2022
+417,79611,Garbi Rath,21,1,10,Wed,Jaipur,GWL,GWL,Twice in week,1,12,26069,2,25,32,29,10,79,9,7,2021
+418,18504,ALL AF SPL,28,3,7,Fri,Jaipur,UDP,AGR,Weekly,2,25,18831,2,31,20,22,20,71,14,2,2020
+419,54452,Vande Bharat Express,29,3,8,Tue,Jaipur,JDP,UDP,Daily,1,19,20066,2,33,32,28,10,79,6,1,2022
+420,49315,GWL SBIB,20,3,11,Tue,Jaipur,Dli,AGR,Twice in week,3,33,26286,2,24,21,31,19,75,13,5,2021
+421,67555,Shatabdi Express,13,1,11,Tue,Jaipur,Mumbai,UDP,Daily,2,24,29221,2,21,25,30,17,70,13,11,2020
+422,71434,Vande Bharat Express,10,1,9,Tue,Jaipur,GWL,JDP,Daily,5,6,29700,2,21,34,25,19,76,18,4,2021
+423,72695,Marudhar Express,26,2,9,Tue,Jaipur,Dli,AGR,Daily,6,11,17112,2,29,20,26,21,77,21,4,2019
+424,74020,Maharaja Express,18,3,11,Wed,Jaipur,JDP,Dli,Weekly,6,23,12936,2,25,29,32,22,77,7,3,2022
+425,91599,Vande Bharat Express,25,3,11,Sat,Jaipur,UDP,AGR,Daily,1,6,29913,2,26,20,23,13,77,9,2,2020
+426,95923,Double Decker,14,3,10,Wed,Jaipur,Dli,AGR,Twice in week,3,4,14798,2,27,31,34,18,79,18,1,2020
+427,83983,Garbi Rath,14,2,11,Sat,Jaipur,GWL,UDP,Daily,2,11,15794,2,31,24,21,14,70,23,7,2021
+428,47237,SIKR-JP SPL,27,2,8,Tue,Jaipur,JDP,Dli,Twice in week,3,17,18662,2,26,27,22,5,72,10,7,2020
+429,45978,GWL SBIB,29,2,7,Wed,Jaipur,Jpr,JDP,Twice in week,3,36,24626,2,25,22,27,11,70,30,4,2022
+430,14646,Marudhar Express,18,2,6,Wed,Jaipur,Mumbai,Mumbai,Twice in week,6,33,29248,2,27,24,31,19,70,14,9,2021
+431,88193,Vande Bharat Express,27,2,12,Sat,Jaipur,AGR,JDP,Daily,5,32,18487,2,21,33,31,11,75,5,11,2019
+432,93439,Garbi Rath,14,2,8,Tue,Jaipur,AGR,AGR,Twice in week,6,21,14893,2,27,32,27,21,73,17,11,2020
+433,26441,Maharaja Express,12,1,12,Sat,Jaipur,Dli,UDP,Weekly,3,27,14094,2,28,21,28,16,78,9,4,2022
+434,18112,Rajdhani Express,10,3,13,Sun,Jaipur,GWL,AGR,Daily,3,26,27264,2,23,21,22,9,70,10,7,2022
+435,14991,Maharaja Express,14,1,9,Mon,Jaipur,JDP,GWL,Twice in week,6,36,18384,2,20,25,34,23,72,22,11,2022
+436,66603,SIKR-JP SPL,25,3,7,Thu,Jaipur,UDP,Mumbai,Daily,4,34,22466,2,31,34,24,22,70,6,1,2021
+437,72293,Garbi Rath,11,2,6,Wed,Jaipur,JDP,Jpr,Weekly,3,15,15044,2,28,32,22,14,76,27,7,2020
+438,43172,Shatabdi Express,21,2,13,Tue,Jaipur,AGR,JDP,Weekly,4,25,24203,2,23,25,33,16,73,19,1,2020
+439,30648,ALL AF SPL,23,3,13,Tue,Jaipur,AGR,AGR,Daily,4,6,10880,2,30,20,31,7,73,27,9,2021
+440,89405,Garbi Rath,18,3,10,Sat,Jaipur,JDP,Jpr,Daily,4,8,23733,2,25,32,30,6,75,27,7,2019
+441,20648,Vande Bharat Express,27,3,9,Mon,Jaipur,JDP,GWL,Daily,6,10,22390,2,32,31,26,13,79,23,9,2020
+442,91071,Palace on wheels,25,3,13,Sun,Jaipur,Dli,UDP,Weekly,5,36,11171,2,32,23,29,13,77,10,11,2021
+443,77387,Maharaja Express,21,3,7,Sun,Jaipur,Dli,JDP,Weekly,5,12,21261,2,34,33,23,9,75,22,10,2020
+444,36718,GWL SBIB,26,3,8,Wed,Jaipur,UDP,Jpr,Weekly,1,25,16061,2,24,31,22,11,73,7,4,2020
+445,20524,Shatabdi Express,18,2,14,Mon,Jaipur,Jpr,Dli,Weekly,2,10,23538,2,21,21,32,14,76,8,10,2021
+446,87546,Rajdhani Express,16,3,11,Wed,Jaipur,UDP,JDP,Twice in week,5,12,28611,2,32,24,31,9,76,24,7,2022
+447,96773,Maharaja Express,23,3,12,Fri,Jaipur,Mumbai,GWL,Daily,3,32,29921,2,22,30,30,12,75,24,9,2021
+448,89416,Maharaja Express,23,2,10,Thu,Jaipur,UDP,AGR,Weekly,1,36,13509,2,24,26,31,18,75,10,7,2022
+449,61811,Palace on wheels,16,3,8,Tue,Jaipur,AGR,Jpr,Daily,2,7,14098,2,26,28,30,20,75,24,1,2020
+450,84421,Maharaja Express,29,2,5,Tue,Jaipur,AGR,GWL,Twice in week,5,3,10720,2,27,24,33,15,74,27,6,2019
+451,67256,ALL AF SPL,17,1,5,Sat,Jaipur,GWL,Jpr,Daily,4,19,26455,2,26,20,22,5,74,5,11,2022
+452,66056,Shatabdi Express,20,3,13,Wed,Jaipur,JDP,GWL,Twice in week,4,23,13977,2,28,30,20,21,70,26,1,2022
+453,21817,Palace on wheels,11,2,7,Fri,Jaipur,Jpr,UDP,Twice in week,5,32,25841,2,24,34,29,23,75,5,9,2021
+454,58916,Palace on wheels,29,1,8,Sat,Jaipur,GWL,Jpr,Twice in week,5,22,16563,2,25,30,23,13,73,18,4,2022
+455,17497,Garbi Rath,27,3,11,Wed,Jaipur,JDP,UDP,Daily,5,28,21401,2,22,21,27,20,77,14,11,2020
+456,79896,Double Decker,13,1,12,Wed,Jaipur,Jpr,UDP,Weekly,3,16,23981,2,31,22,30,17,76,10,7,2020
+457,54779,GWL SBIB,28,2,6,Thu,Jaipur,Mumbai,Jpr,Twice in week,5,5,15886,2,27,32,31,9,72,11,9,2020
+458,30581,Double Decker,10,2,9,Fri,Jaipur,Mumbai,GWL,Twice in week,2,16,27489,2,25,26,33,21,76,29,1,2019
+459,64884,SIKR-JP SPL,21,1,5,Wed,Jaipur,Dli,UDP,Weekly,4,9,22882,2,30,30,33,20,74,1,2,2022
+460,82419,Marudhar Express,13,1,5,Wed,Jaipur,AGR,Jpr,Twice in week,6,24,14163,2,30,23,25,8,76,14,4,2019
+461,52074,Maharaja Express,28,1,6,Sat,Jaipur,Dli,GWL,Daily,1,13,22845,2,31,23,32,13,77,1,7,2022
+462,56356,ALL AF SPL,23,1,5,Wed,Jaipur,GWL,Dli,Daily,3,28,13352,2,23,28,31,6,75,27,4,2021
+463,75528,Rajdhani Express,22,3,7,Mon,Jaipur,AGR,Mumbai,Weekly,1,35,29397,2,28,20,22,22,76,2,9,2022
+464,31927,ALL AF SPL,28,2,5,Sat,Jaipur,Jpr,UDP,Daily,1,7,26511,2,27,22,26,8,78,21,10,2022
+465,91516,ALL AF SPL,18,3,9,Mon,Jaipur,AGR,GWL,Twice in week,6,3,24029,2,26,29,27,16,74,17,5,2019
+466,36745,Maharaja Express,25,3,14,Fri,Jaipur,UDP,GWL,Weekly,2,13,15087,2,27,26,31,5,71,9,5,2022
+467,95302,Garbi Rath,18,1,6,Sat,Jaipur,Jpr,JDP,Weekly,4,7,11427,2,23,27,34,19,74,24,4,2022
+468,60256,SIKR-JP SPL,11,2,10,Sat,Jaipur,GWL,GWL,Weekly,6,10,13446,2,24,23,27,8,75,27,11,2021
+469,38457,GWL SBIB,13,3,11,Sat,Jaipur,Jpr,AGR,Weekly,2,30,25687,2,22,32,33,10,78,17,5,2020
+470,38363,Rajdhani Express,29,2,10,Thu,Jaipur,UDP,AGR,Twice in week,5,27,15433,2,28,33,24,21,75,10,6,2022
+471,64628,Shatabdi Express,20,2,8,Tue,Jaipur,JDP,GWL,Twice in week,4,29,22332,2,24,31,25,11,73,15,9,2020
+472,81475,Palace on wheels,24,2,13,Tue,Jaipur,GWL,UDP,Twice in week,4,25,26985,2,24,30,28,21,75,3,2,2021
+473,88366,Shatabdi Express,15,3,5,Thu,Jaipur,Mumbai,JDP,Daily,2,21,15864,2,30,24,23,12,78,27,6,2021
+474,85503,BPL JP EXP SPL,23,1,5,Sat,Jaipur,Jpr,Mumbai,Twice in week,5,35,21952,2,25,28,22,19,73,5,6,2020
+475,31544,SIKR-JP SPL,17,3,11,Wed,Jaipur,JDP,Dli,Weekly,5,24,14577,2,25,24,21,9,72,15,2,2019
+476,59503,Palace on wheels,17,3,11,Sat,Jaipur,Mumbai,UDP,Daily,4,18,16943,2,33,29,31,9,72,22,7,2022
+477,78549,Marudhar Express,29,3,10,Mon,Jaipur,GWL,UDP,Weekly,5,8,18011,2,20,20,22,10,72,3,7,2021
+478,80776,Vande Bharat Express,23,1,13,Wed,Jaipur,JDP,JDP,Daily,4,29,20984,2,23,28,20,14,77,14,6,2022
+479,27484,Rajdhani Express,23,1,10,Sat,Jaipur,AGR,Jpr,Twice in week,5,31,11756,2,32,23,30,15,71,22,11,2021
+480,69456,SIKR-JP SPL,18,1,11,Sun,Jaipur,UDP,JDP,Twice in week,6,32,29840,2,31,26,30,14,70,6,4,2021
+481,33593,Double Decker,18,2,7,Wed,Jaipur,Jpr,GWL,Weekly,1,30,15403,2,24,24,34,8,71,27,11,2021
+482,81524,GWL SBIB,17,1,14,Sat,Jaipur,Dli,JDP,Weekly,1,7,24846,2,28,23,22,19,77,28,5,2019
+483,36218,Marudhar Express,24,1,5,Sat,Jaipur,GWL,AGR,Weekly,5,15,29028,2,28,34,22,10,75,30,8,2022
+484,80446,BPL JP EXP SPL,14,3,13,Sat,Jaipur,AGR,UDP,Daily,4,3,24285,2,26,25,34,13,70,27,9,2019
+485,23943,Garbi Rath,17,1,5,Thu,Jaipur,Jpr,Jpr,Daily,6,7,16681,2,28,29,22,20,75,13,3,2019
+486,54910,GWL SBIB,22,2,7,Tue,Jaipur,Jpr,Dli,Weekly,2,19,23825,2,31,22,20,9,71,21,11,2022
+487,60919,Marudhar Express,20,2,7,Mon,Jaipur,GWL,Mumbai,Daily,4,34,16789,2,20,25,29,15,75,19,3,2021
+488,31484,GWL SBIB,16,1,13,Sun,Jaipur,Mumbai,AGR,Weekly,6,7,20171,2,26,29,20,5,72,17,9,2019
+489,23358,Marudhar Express,28,1,12,Sun,Jaipur,GWL,GWL,Weekly,1,16,28187,2,23,25,24,6,74,30,10,2019
+490,74460,BPL JP EXP SPL,29,2,5,Tue,Jaipur,Dli,UDP,Weekly,5,17,21809,2,33,20,26,6,79,22,5,2019
+491,85981,Shatabdi Express,15,3,6,Sun,Jaipur,JDP,AGR,Weekly,1,15,15841,2,31,22,30,15,71,9,9,2022
+492,78124,Garbi Rath,21,2,11,Fri,Jaipur,Dli,UDP,Daily,1,8,18408,2,32,30,27,18,75,28,8,2022
+493,65838,ALL AF SPL,24,1,14,Mon,Jaipur,Dli,AGR,Weekly,6,4,25148,2,30,20,24,15,79,23,8,2019
+494,75718,Double Decker,15,2,11,Fri,Jaipur,UDP,AGR,Weekly,2,8,12074,2,22,32,31,15,74,18,10,2021
+495,79827,Double Decker,16,2,14,Tue,Jaipur,GWL,UDP,Twice in week,2,24,28167,2,30,22,32,15,72,23,9,2022
+496,98843,SIKR-JP SPL,13,1,6,Thu,Jaipur,Mumbai,UDP,Twice in week,5,31,12296,2,26,32,23,8,77,25,9,2022
+497,36665,Garbi Rath,10,1,14,Fri,Jaipur,GWL,JDP,Twice in week,3,37,10335,2,30,25,20,22,70,7,5,2022
+498,66107,GWL SBIB,11,1,8,Tue,Jaipur,AGR,AGR,Weekly,1,14,24288,2,33,31,23,8,71,30,5,2022
+499,84491,Rajdhani Express,16,1,13,Mon,Jaipur,Jpr,GWL,Daily,4,25,11231,2,34,28,20,18,77,7,5,2020
+500,19227,SIKR-JP SPL,26,1,9,Sun,Jaipur,Jpr,JDP,Weekly,2,20,29663,2,31,21,21,5,76,22,7,2019
+501,70775,BPL JP EXP SPL,14,3,14,Sat,Jaipur,Dli,Jpr,Twice in week,6,25,23521,2,27,26,21,4,73,10,11,2021
+502,85088,Palace on wheels,28,2,12,Sat,Jaipur,AGR,Mumbai,Twice in week,3,34,21246,2,33,34,21,4,77,2,11,2022
+503,75728,Marudhar Express,23,1,9,Tue,Jaipur,AGR,Jpr,Weekly,6,15,13029,2,27,24,33,8,79,22,11,2022
+504,69278,Garbi Rath,17,1,13,Sun,Jaipur,Jpr,Mumbai,Weekly,1,22,25654,2,27,30,20,19,71,19,1,2019
+505,86070,Marudhar Express,11,1,8,Tue,Jaipur,Dli,JDP,Twice in week,3,24,11176,2,24,25,29,22,71,23,7,2021
+506,17721,Double Decker,19,1,11,Tue,Jaipur,JDP,AGR,Weekly,5,13,19761,2,32,26,34,19,73,25,3,2019
+507,26320,Double Decker,24,3,12,Wed,Jaipur,Dli,Dli,Weekly,6,3,28651,2,31,26,30,7,73,18,2,2020
+508,26868,Palace on wheels,21,1,8,Sat,Jaipur,Dli,AGR,Twice in week,4,27,29845,2,26,25,24,21,79,29,10,2021
+509,40327,Rajdhani Express,21,2,11,Thu,Jaipur,UDP,UDP,Daily,2,15,20836,2,28,23,33,21,77,7,8,2021
+510,88358,Garbi Rath,25,1,10,Sat,Jaipur,Mumbai,Mumbai,Daily,3,18,20595,2,32,25,25,16,73,26,4,2022
+511,31867,Garbi Rath,24,3,14,Fri,Jaipur,Dli,GWL,Daily,3,8,18708,2,28,26,34,11,78,21,6,2020
+512,63980,Garbi Rath,26,1,10,Sun,Jaipur,GWL,Jpr,Daily,6,9,12709,2,34,30,33,7,76,4,11,2020
+513,98856,Rajdhani Express,13,2,11,Mon,Jaipur,Dli,GWL,Weekly,1,7,15943,2,22,28,31,6,73,6,9,2021
+514,37083,Maharaja Express,22,1,9,Thu,Jaipur,Jpr,GWL,Daily,1,9,18193,2,25,25,32,20,74,9,3,2019
+515,28701,ALL AF SPL,10,2,11,Wed,Jaipur,JDP,GWL,Weekly,4,11,21675,2,23,33,24,8,70,11,6,2020
+516,64555,ALL AF SPL,17,2,12,Wed,Jaipur,Jpr,Jpr,Twice in week,6,33,20868,2,27,31,20,23,77,9,10,2022
+517,34992,Rajdhani Express,27,1,14,Sat,Jaipur,Dli,Jpr,Weekly,3,7,25381,2,26,33,25,10,70,13,7,2021
+518,67125,BPL JP EXP SPL,21,2,5,Thu,Jaipur,Dli,Mumbai,Weekly,2,28,17587,2,25,27,26,14,76,5,2,2020
+519,66052,Vande Bharat Express,28,2,6,Sun,Jaipur,Dli,AGR,Daily,6,35,17357,2,24,27,20,10,71,25,6,2019
+520,12900,BPL JP EXP SPL,23,3,8,Wed,Jaipur,UDP,Mumbai,Weekly,1,19,14184,2,32,27,33,15,74,21,3,2021
+521,73560,BPL JP EXP SPL,17,1,11,Fri,Jaipur,Mumbai,AGR,Weekly,5,33,16347,2,33,33,25,16,74,1,11,2022
+522,85838,Maharaja Express,13,1,13,Thu,Jaipur,Mumbai,GWL,Twice in week,5,14,22178,2,20,21,20,13,74,11,4,2020
+523,63532,Garbi Rath,12,3,7,Fri,Jaipur,Dli,JDP,Daily,6,22,25805,2,24,26,26,12,79,9,6,2020
+524,63482,Maharaja Express,24,3,9,Sun,Jaipur,GWL,Dli,Weekly,3,29,18101,2,24,33,26,14,72,2,9,2022
+525,21024,Garbi Rath,13,2,8,Sat,Jaipur,GWL,Dli,Daily,5,21,11897,2,32,34,21,5,70,20,10,2020
+526,40715,Palace on wheels,26,1,12,Fri,Jaipur,Mumbai,AGR,Daily,2,30,11259,2,22,23,24,12,75,15,7,2022
+527,70086,Vande Bharat Express,16,3,11,Tue,Jaipur,AGR,UDP,Weekly,3,8,24020,2,26,20,25,14,78,11,11,2022
+528,75364,Marudhar Express,23,1,14,Sun,Jaipur,Dli,Dli,Weekly,6,11,16605,2,28,20,22,21,74,22,1,2019
+529,28282,Shatabdi Express,26,2,10,Thu,Jaipur,AGR,AGR,Weekly,6,12,24595,2,21,22,32,11,77,16,4,2021
+530,49821,Shatabdi Express,14,3,11,Wed,Jaipur,Dli,Jpr,Twice in week,5,9,19389,2,30,33,33,19,77,4,8,2021
+531,90252,SIKR-JP SPL,20,2,5,Mon,Jaipur,Mumbai,JDP,Twice in week,5,22,18813,2,31,32,25,14,75,11,7,2020
+532,54157,Palace on wheels,11,1,10,Thu,Jaipur,Mumbai,AGR,Weekly,2,36,21632,2,22,29,32,21,73,17,5,2022
+533,90133,GWL SBIB,12,1,13,Fri,Jaipur,AGR,Dli,Daily,2,27,20099,2,22,34,27,16,72,26,1,2019
+534,12780,Vande Bharat Express,26,1,8,Sat,Jaipur,JDP,UDP,Daily,2,37,10821,2,29,22,20,8,75,22,10,2020
+535,40339,GWL SBIB,10,2,8,Fri,Jaipur,Jpr,AGR,Twice in week,1,7,22840,2,23,24,34,21,76,30,10,2022
+536,23280,Palace on wheels,14,3,14,Thu,Jaipur,UDP,GWL,Weekly,5,3,28670,2,25,31,30,15,77,28,11,2020
+537,24419,SIKR-JP SPL,20,1,14,Wed,Jaipur,Jpr,Mumbai,Weekly,1,37,17451,2,25,32,31,22,71,27,5,2022
+538,73164,Double Decker,12,1,5,Sun,Jaipur,Dli,JDP,Twice in week,6,12,21698,2,22,34,34,23,76,3,4,2019
+539,20097,SIKR-JP SPL,13,3,5,Fri,Jaipur,Jpr,Jpr,Twice in week,2,6,21723,2,22,28,20,10,79,7,10,2022
+540,47791,Double Decker,10,2,5,Fri,Jaipur,UDP,JDP,Twice in week,4,25,19237,2,26,34,27,18,70,10,7,2020
+541,62638,Double Decker,17,1,9,Mon,Jaipur,Mumbai,GWL,Twice in week,1,25,21394,2,30,20,23,9,73,21,8,2021
+542,34740,Garbi Rath,10,2,7,Thu,Jaipur,JDP,UDP,Twice in week,3,5,12302,2,20,26,31,8,73,1,1,2019
+543,49374,ALL AF SPL,23,2,13,Mon,Jaipur,UDP,GWL,Weekly,5,31,20388,2,29,24,24,18,78,20,11,2019
+544,58796,Marudhar Express,28,1,13,Thu,Jaipur,JDP,AGR,Weekly,4,34,23178,2,21,23,28,13,70,4,3,2022
+545,81191,BPL JP EXP SPL,15,1,11,Sun,Jaipur,UDP,Dli,Twice in week,5,10,26025,2,33,33,24,6,72,23,9,2019
+546,90689,Garbi Rath,15,2,11,Tue,Jaipur,UDP,Dli,Daily,3,34,19648,2,26,27,33,6,79,8,7,2019
+547,39567,Rajdhani Express,12,1,13,Sat,Jaipur,Dli,GWL,Twice in week,1,37,13864,2,30,33,27,15,74,6,3,2022
+548,67707,Shatabdi Express,19,2,5,Sun,Jaipur,Mumbai,Jpr,Weekly,1,35,15105,2,20,34,20,12,71,30,9,2020
+549,23690,Shatabdi Express,23,1,14,Sat,Jaipur,Mumbai,AGR,Twice in week,3,7,26266,2,22,27,32,20,73,18,5,2021
+550,52469,Garbi Rath,15,1,6,Fri,Jaipur,GWL,UDP,Daily,5,4,15792,2,26,30,29,21,74,3,1,2019
+551,84073,Garbi Rath,19,1,13,Sat,Jaipur,Jpr,Mumbai,Twice in week,2,22,10649,2,29,21,28,16,76,20,4,2021
+552,53405,Garbi Rath,23,3,6,Sat,Jaipur,JDP,Dli,Twice in week,6,37,29568,2,22,31,20,4,76,14,9,2020
+553,69933,GWL SBIB,17,3,5,Mon,Jaipur,AGR,GWL,Twice in week,2,12,15928,2,21,29,34,14,76,19,3,2021
+554,19830,Garbi Rath,20,1,8,Mon,Jaipur,UDP,Dli,Weekly,5,19,13605,2,26,26,27,17,71,25,10,2020
+555,87597,Marudhar Express,22,3,6,Fri,Jaipur,UDP,Dli,Twice in week,4,35,14102,2,32,21,29,10,72,7,7,2019
+556,53682,Palace on wheels,18,2,5,Fri,Jaipur,Mumbai,Mumbai,Daily,5,18,13674,2,25,22,22,4,76,21,10,2021
+557,41984,Garbi Rath,14,1,5,Wed,Jaipur,Mumbai,Dli,Weekly,5,19,27641,2,33,23,31,20,72,25,5,2022
+558,29650,Vande Bharat Express,13,1,7,Tue,Jaipur,UDP,Dli,Daily,2,37,18051,2,33,31,23,16,76,7,1,2020
+559,40268,Marudhar Express,26,1,11,Tue,Jaipur,Mumbai,Mumbai,Twice in week,4,19,25114,2,31,22,27,12,72,4,3,2021
+560,18716,Palace on wheels,15,2,8,Thu,Jaipur,GWL,JDP,Daily,2,32,24478,2,21,27,24,21,78,26,3,2022
+561,86283,Rajdhani Express,21,2,12,Tue,Jaipur,Mumbai,Jpr,Twice in week,4,23,16442,2,23,29,33,4,79,5,1,2020
+562,41111,Rajdhani Express,17,3,7,Sun,Jaipur,Mumbai,JDP,Twice in week,6,14,15695,2,31,30,25,4,78,4,7,2019
+563,17309,ALL AF SPL,28,1,5,Wed,Jaipur,Jpr,GWL,Weekly,6,28,16046,2,24,32,27,22,73,20,10,2019
+564,35684,Marudhar Express,13,1,8,Fri,Jaipur,Jpr,Mumbai,Daily,4,23,12186,2,22,20,33,5,79,25,8,2020
+565,68625,Garbi Rath,10,1,9,Tue,Jaipur,GWL,Dli,Daily,4,29,13122,2,23,33,21,20,71,23,9,2019
+566,35046,ALL AF SPL,13,2,13,Fri,Jaipur,GWL,Mumbai,Weekly,3,11,26622,2,32,32,21,19,74,18,6,2021
+567,45471,BPL JP EXP SPL,24,2,9,Tue,Jaipur,Mumbai,JDP,Daily,6,12,27228,2,25,28,27,18,70,15,5,2022
+568,71009,Palace on wheels,16,3,12,Tue,Jaipur,Mumbai,Dli,Twice in week,4,11,23944,2,32,21,34,10,78,4,8,2019
+569,88879,Shatabdi Express,27,1,11,Thu,Jaipur,GWL,Jpr,Daily,3,26,15821,2,34,34,24,17,78,24,2,2022
+570,17889,BPL JP EXP SPL,18,1,5,Fri,Jaipur,UDP,JDP,Daily,5,20,14969,2,29,29,33,20,77,17,11,2020
+571,58649,Palace on wheels,18,3,14,Sat,Jaipur,JDP,UDP,Daily,3,4,26620,2,31,23,28,18,77,4,11,2019
+572,26154,GWL SBIB,28,2,12,Fri,Jaipur,JDP,GWL,Twice in week,1,16,21176,2,25,29,29,19,79,21,5,2021
+573,60001,Vande Bharat Express,14,3,11,Fri,Jaipur,Dli,UDP,Weekly,6,32,23790,2,23,20,28,20,79,26,1,2020
+574,63532,Maharaja Express,27,1,9,Wed,Jaipur,UDP,AGR,Daily,5,14,19413,2,20,24,32,14,71,24,8,2019
+575,92675,GWL SBIB,29,3,6,Wed,Jaipur,AGR,AGR,Weekly,4,21,11896,2,22,32,21,20,70,10,11,2019
+576,29096,Maharaja Express,25,3,11,Thu,Jaipur,Mumbai,JDP,Weekly,4,15,26819,2,21,31,25,22,71,16,3,2021
+577,89903,Garbi Rath,16,3,12,Thu,Jaipur,AGR,Mumbai,Weekly,3,15,24534,2,23,20,25,20,72,20,2,2020
+578,83014,Garbi Rath,23,3,8,Mon,Jaipur,Dli,GWL,Daily,6,35,17275,2,26,27,26,4,73,9,3,2021
+579,35417,Garbi Rath,25,2,9,Tue,Jaipur,UDP,Dli,Daily,4,37,24991,2,33,22,20,5,78,14,4,2019
+580,31259,Palace on wheels,17,1,11,Mon,Jaipur,Mumbai,Jpr,Twice in week,5,28,14476,2,34,26,31,21,75,3,5,2020
+581,57591,BPL JP EXP SPL,25,1,12,Fri,Jaipur,Jpr,Jpr,Twice in week,3,29,21789,2,33,23,20,22,70,14,3,2020
+582,25632,Marudhar Express,10,2,5,Wed,Jaipur,UDP,Mumbai,Weekly,2,13,24912,2,28,24,26,15,77,29,7,2021
+583,64671,Shatabdi Express,23,3,14,Tue,Jaipur,JDP,AGR,Weekly,4,27,25170,2,24,22,20,12,74,21,11,2021
+584,84606,BPL JP EXP SPL,25,1,6,Fri,Jaipur,AGR,AGR,Weekly,2,23,16191,2,29,34,31,21,75,24,3,2021
+585,67654,GWL SBIB,17,2,9,Mon,Jaipur,JDP,GWL,Twice in week,4,12,25181,2,32,32,31,20,77,13,10,2021
+586,25486,GWL SBIB,22,2,7,Thu,Jaipur,Mumbai,Dli,Weekly,5,15,14903,2,24,28,30,6,72,8,5,2021
+587,42353,Palace on wheels,20,1,9,Tue,Jaipur,AGR,Mumbai,Daily,5,19,26559,2,26,23,23,23,71,6,10,2019
+588,49958,Garbi Rath,21,3,6,Mon,Jaipur,GWL,Mumbai,Daily,2,6,27472,2,24,29,25,23,77,19,10,2021
+589,20036,Garbi Rath,29,3,12,Wed,Jaipur,JDP,Dli,Daily,2,10,16869,2,31,21,21,15,73,1,5,2019
+590,35737,Palace on wheels,22,2,8,Sat,Jaipur,Dli,UDP,Weekly,2,31,16334,2,25,25,24,5,73,18,8,2021
+591,49695,Rajdhani Express,15,2,14,Tue,Jaipur,Dli,Dli,Weekly,6,13,24580,2,23,21,24,12,71,30,6,2022
+592,53353,Double Decker,17,2,6,Thu,Jaipur,JDP,Mumbai,Weekly,5,4,18103,2,26,32,24,19,74,8,7,2022
+593,37927,ALL AF SPL,29,1,5,Sun,Jaipur,GWL,Mumbai,Daily,4,21,27410,2,32,24,29,4,70,20,7,2022
+594,55560,SIKR-JP SPL,20,1,8,Tue,Jaipur,Jpr,AGR,Twice in week,2,33,21488,2,25,34,31,13,78,18,11,2022
+595,54919,Maharaja Express,27,3,11,Tue,Jaipur,JDP,GWL,Weekly,3,7,25877,2,34,22,27,14,79,8,2,2022
+596,35603,Palace on wheels,23,1,8,Wed,Jaipur,Mumbai,UDP,Twice in week,5,23,15475,2,25,20,22,4,76,13,5,2020
+597,49307,Shatabdi Express,25,3,10,Sun,Jaipur,AGR,UDP,Weekly,2,24,21502,2,29,27,32,4,72,28,10,2021
+598,28749,SIKR-JP SPL,19,3,6,Fri,Jaipur,GWL,Jpr,Twice in week,3,5,27893,2,30,29,33,15,78,13,11,2020
+599,52181,SIKR-JP SPL,12,1,14,Sat,Jaipur,UDP,Dli,Twice in week,2,35,21378,2,30,20,28,14,77,20,6,2019
+600,12418,Vande Bharat Express,13,1,12,Sat,Jaipur,Jpr,GWL,Weekly,3,5,10805,2,33,25,20,15,74,30,4,2020
+601,93630,SIKR-JP SPL,16,2,9,Tue,Jaipur,AGR,Dli,Twice in week,6,34,20276,2,23,28,24,20,77,7,5,2019
+602,56016,Vande Bharat Express,10,2,13,Sun,Jaipur,Dli,GWL,Daily,5,36,19637,2,33,22,24,16,72,1,10,2019
+603,22312,ALL AF SPL,24,3,13,Sat,Jaipur,UDP,Dli,Daily,5,11,26771,2,28,24,34,17,71,1,2,2022
+604,77904,Maharaja Express,12,3,9,Thu,Jaipur,GWL,Dli,Daily,5,22,12511,2,20,20,30,11,74,8,1,2022
+605,72860,ALL AF SPL,19,1,9,Sun,Jaipur,Mumbai,GWL,Weekly,5,11,13117,2,31,22,31,19,77,24,5,2021
+606,58157,Rajdhani Express,28,3,10,Thu,Jaipur,Dli,UDP,Weekly,5,16,11955,2,29,28,32,15,77,16,2,2021
+607,55729,Shatabdi Express,14,2,5,Sun,Jaipur,Dli,Mumbai,Daily,6,25,26717,2,28,24,27,10,71,23,8,2020
+608,91124,Rajdhani Express,16,1,8,Fri,Jaipur,Dli,Jpr,Twice in week,6,25,15956,2,33,21,31,22,71,29,10,2019
+609,64263,Marudhar Express,19,1,13,Thu,Jaipur,AGR,AGR,Daily,6,32,20323,2,28,23,29,5,70,3,6,2022
+610,99154,GWL SBIB,21,3,13,Fri,Jaipur,Mumbai,JDP,Weekly,5,18,17777,2,28,25,33,19,71,26,1,2021
+611,91278,Maharaja Express,19,3,7,Thu,Jaipur,UDP,GWL,Weekly,6,14,23590,2,23,33,27,16,77,19,4,2019
+612,15414,Maharaja Express,11,2,11,Mon,Jaipur,Mumbai,Jpr,Daily,5,34,29308,2,34,28,30,7,71,7,1,2022
+613,27138,SIKR-JP SPL,11,1,7,Mon,Jaipur,Mumbai,GWL,Weekly,4,31,27205,2,21,23,34,17,76,26,1,2020
+614,55606,Garbi Rath,15,3,6,Sat,Jaipur,UDP,AGR,Twice in week,2,35,27597,2,25,31,34,22,78,15,10,2020
+615,66410,Marudhar Express,15,2,12,Wed,Jaipur,UDP,AGR,Twice in week,1,9,17629,2,33,22,33,8,75,13,10,2022
+616,87553,Vande Bharat Express,18,1,5,Thu,Jaipur,AGR,GWL,Twice in week,5,29,16743,2,20,27,28,19,71,11,2,2020
+617,46757,ALL AF SPL,18,3,12,Sun,Jaipur,GWL,Jpr,Twice in week,4,29,22428,2,33,25,24,13,72,20,10,2019
+618,47301,Maharaja Express,10,1,6,Sun,Jaipur,UDP,Dli,Twice in week,5,25,17607,2,20,21,32,6,72,12,10,2022
+619,31341,Palace on wheels,23,3,5,Thu,Jaipur,UDP,AGR,Twice in week,3,13,14824,2,28,25,25,11,76,14,2,2019
+620,87871,Rajdhani Express,10,3,6,Wed,Jaipur,AGR,Mumbai,Twice in week,5,12,14689,2,31,26,29,4,72,24,4,2021
+621,43091,Double Decker,28,3,5,Sun,Jaipur,Jpr,Dli,Weekly,5,18,29806,2,24,34,31,20,74,6,3,2021
+622,33760,BPL JP EXP SPL,28,3,7,Wed,Jaipur,JDP,JDP,Daily,1,21,21508,2,23,32,28,4,75,8,5,2020
+623,96867,Palace on wheels,12,2,7,Thu,Jaipur,GWL,GWL,Weekly,3,23,18616,2,31,30,30,19,73,17,2,2022
+624,98273,GWL SBIB,21,3,12,Tue,Jaipur,UDP,Dli,Weekly,6,4,10428,2,21,21,29,16,77,15,5,2021
+625,66567,Garbi Rath,22,3,11,Sun,Jaipur,Jpr,Jpr,Weekly,2,37,15953,2,22,23,20,11,73,25,9,2021
+626,37070,Maharaja Express,26,3,14,Mon,Jaipur,GWL,AGR,Daily,3,20,14987,2,32,29,29,6,79,29,7,2021
+627,48750,SIKR-JP SPL,16,3,7,Sun,Jaipur,UDP,GWL,Twice in week,3,23,10128,2,30,30,24,6,75,30,8,2020
+628,57390,ALL AF SPL,20,3,13,Fri,Jaipur,Dli,Mumbai,Weekly,6,4,13412,2,34,21,22,14,77,13,7,2022
+629,23998,Palace on wheels,20,2,11,Sat,Jaipur,Dli,Jpr,Twice in week,1,17,18930,2,23,21,25,23,78,23,8,2022
+630,73123,Vande Bharat Express,13,2,14,Wed,Jaipur,Dli,UDP,Weekly,3,31,23805,2,34,32,34,11,78,26,3,2020
+631,92464,Palace on wheels,21,1,5,Thu,Jaipur,GWL,Jpr,Daily,3,37,19727,2,21,32,27,13,73,11,8,2020
+632,97024,ALL AF SPL,24,1,14,Wed,Jaipur,JDP,Jpr,Twice in week,3,9,17271,2,20,21,28,6,78,2,5,2021
+633,98253,Vande Bharat Express,13,2,14,Mon,Jaipur,Jpr,UDP,Daily,3,22,23304,2,20,23,33,19,76,1,7,2020
+634,11946,Vande Bharat Express,14,3,13,Sat,Jaipur,AGR,AGR,Twice in week,5,4,27895,2,34,30,21,22,79,28,1,2019
+635,46416,Garbi Rath,10,2,14,Wed,Jaipur,UDP,UDP,Weekly,3,16,28979,2,28,31,31,21,76,3,1,2020
+636,20288,Rajdhani Express,25,2,5,Tue,Jaipur,AGR,Dli,Daily,2,20,10939,2,22,30,33,9,79,1,2,2022
+637,18884,Vande Bharat Express,12,1,5,Sun,Jaipur,UDP,JDP,Twice in week,4,8,14759,2,25,33,34,4,77,23,4,2020
+638,98588,GWL SBIB,10,3,8,Wed,Jaipur,UDP,GWL,Weekly,2,31,17088,2,25,27,27,17,72,7,1,2022
+639,14848,Vande Bharat Express,27,3,7,Fri,Jaipur,Jpr,AGR,Weekly,1,6,24736,2,24,26,20,12,73,14,9,2019
+640,48518,Shatabdi Express,23,2,9,Wed,Jaipur,UDP,Dli,Weekly,6,21,16803,2,29,30,28,13,76,30,5,2021
+641,25854,Marudhar Express,10,1,5,Sat,Jaipur,JDP,GWL,Daily,4,22,11148,2,27,21,22,21,72,15,3,2022
+642,19980,Garbi Rath,11,1,12,Tue,Jaipur,Dli,AGR,Weekly,6,37,19922,2,34,27,27,14,79,25,2,2019
+643,92821,Rajdhani Express,12,2,12,Sun,Jaipur,AGR,JDP,Twice in week,3,12,24254,2,32,21,32,17,74,22,11,2022
+644,26329,Garbi Rath,24,2,14,Sat,Jaipur,AGR,Mumbai,Daily,1,15,24546,2,25,31,25,6,76,26,9,2020
+645,48794,Palace on wheels,28,2,14,Thu,Jaipur,AGR,UDP,Weekly,2,20,13946,2,30,25,25,14,70,3,2,2022
+646,70851,Maharaja Express,15,2,5,Thu,Jaipur,Jpr,Dli,Weekly,5,6,23781,2,20,25,21,8,79,7,10,2021
+647,27060,Double Decker,10,2,5,Thu,Jaipur,Dli,JDP,Weekly,4,33,17096,2,30,33,23,14,70,27,4,2020
+648,87901,Palace on wheels,25,2,10,Thu,Jaipur,JDP,UDP,Weekly,3,3,21283,2,24,20,29,18,75,18,6,2022
+649,42411,Double Decker,11,2,6,Fri,Jaipur,JDP,GWL,Daily,6,35,18853,2,22,30,34,14,72,4,10,2020
+650,69102,GWL SBIB,15,3,8,Sun,Jaipur,JDP,Mumbai,Daily,5,33,28489,2,29,28,25,20,75,1,3,2021
+651,85041,Palace on wheels,16,1,13,Fri,Jaipur,Dli,Dli,Daily,6,31,29879,2,26,32,25,19,79,9,3,2021
+652,22523,Double Decker,27,1,5,Tue,Jaipur,AGR,GWL,Daily,1,15,27074,2,34,23,34,14,76,2,1,2022
+653,40284,Vande Bharat Express,22,3,9,Tue,Jaipur,Mumbai,UDP,Twice in week,3,6,25298,2,33,30,23,23,75,20,3,2021
+654,43349,Palace on wheels,21,3,13,Wed,Jaipur,AGR,Dli,Weekly,3,21,28601,2,33,30,20,17,75,8,8,2021
+655,70323,Garbi Rath,28,1,7,Mon,Jaipur,AGR,UDP,Weekly,6,5,20030,2,26,20,22,8,71,14,10,2019
+656,30647,SIKR-JP SPL,29,2,5,Sat,Jaipur,Dli,Dli,Twice in week,6,17,16968,2,33,33,25,10,71,21,3,2019
+657,37415,SIKR-JP SPL,11,1,6,Thu,Jaipur,UDP,UDP,Weekly,4,6,16914,2,20,27,27,12,74,2,4,2020
+658,36017,Shatabdi Express,20,1,13,Wed,Jaipur,GWL,JDP,Daily,2,29,18463,2,29,31,30,7,72,1,10,2019
+659,69997,Garbi Rath,24,3,7,Thu,Jaipur,AGR,Dli,Daily,4,13,13465,2,33,22,34,10,76,20,5,2019
+660,57964,Shatabdi Express,24,1,11,Fri,Jaipur,UDP,GWL,Weekly,5,12,20121,2,25,32,24,5,74,21,4,2022
+661,41610,ALL AF SPL,10,1,5,Mon,Jaipur,Dli,UDP,Weekly,5,19,18231,2,34,28,24,13,77,25,2,2021
+662,42269,Garbi Rath,13,1,8,Wed,Jaipur,Jpr,Dli,Twice in week,5,16,13581,2,32,20,20,12,74,30,11,2020
+663,54986,Double Decker,28,3,8,Mon,Jaipur,AGR,AGR,Weekly,5,35,21257,2,28,29,29,8,76,25,11,2019
+664,63401,Garbi Rath,18,2,8,Fri,Jaipur,Jpr,JDP,Twice in week,3,18,24541,2,24,29,32,14,73,17,10,2020
+665,35508,Shatabdi Express,16,2,8,Fri,Jaipur,GWL,JDP,Twice in week,6,29,13169,2,21,31,20,18,73,20,3,2020
+666,18840,Shatabdi Express,13,3,6,Wed,Jaipur,AGR,AGR,Weekly,1,30,17157,2,28,30,28,19,73,24,11,2019
+667,35654,Double Decker,28,2,8,Sun,Jaipur,Mumbai,Jpr,Weekly,3,16,24640,2,33,32,20,7,79,15,3,2020
+668,60503,ALL AF SPL,20,2,12,Mon,Jaipur,Dli,UDP,Twice in week,6,21,20502,2,33,20,26,20,74,24,4,2019
+669,49528,GWL SBIB,18,2,5,Sat,Jaipur,Mumbai,Mumbai,Weekly,3,18,13090,2,23,24,22,6,79,24,4,2021
+670,26910,SIKR-JP SPL,12,2,8,Sun,Jaipur,AGR,AGR,Weekly,1,25,16740,2,26,20,28,4,70,20,7,2021
+671,59317,Marudhar Express,13,3,10,Sat,Jaipur,JDP,GWL,Daily,3,16,16772,2,27,30,28,16,73,14,4,2020
+672,43743,Double Decker,23,1,8,Sun,Jaipur,JDP,Mumbai,Twice in week,2,25,23826,2,32,34,24,18,79,16,6,2019
+673,57093,GWL SBIB,16,1,14,Sun,Jaipur,Mumbai,AGR,Twice in week,1,9,29343,2,22,32,27,22,78,1,2,2021
+674,33642,Double Decker,28,3,7,Sun,Jaipur,UDP,UDP,Twice in week,6,32,26516,2,26,34,21,19,72,10,1,2019
+675,97757,Shatabdi Express,19,2,9,Fri,Jaipur,Mumbai,Jpr,Twice in week,2,25,12348,2,29,32,31,5,79,11,7,2019
+676,21195,Vande Bharat Express,27,3,10,Sat,Jaipur,Dli,Dli,Daily,5,10,18522,2,26,20,33,13,70,11,2,2019
+677,42252,ALL AF SPL,20,2,5,Mon,Jaipur,Mumbai,GWL,Weekly,1,19,25739,2,25,28,26,10,77,6,11,2020
+678,20348,SIKR-JP SPL,19,2,12,Sat,Jaipur,JDP,Jpr,Twice in week,2,33,10250,2,31,34,32,9,73,6,10,2019
+679,68941,Vande Bharat Express,26,3,10,Sun,Jaipur,UDP,UDP,Daily,5,14,21153,2,26,31,33,12,73,5,7,2019
+680,98074,GWL SBIB,28,2,7,Mon,Jaipur,Jpr,Jpr,Weekly,4,35,18955,2,22,32,26,8,79,20,11,2021
+681,14571,SIKR-JP SPL,12,3,12,Wed,Jaipur,GWL,JDP,Twice in week,5,12,10133,2,24,27,29,18,72,15,5,2020
+682,57162,Marudhar Express,25,3,8,Mon,Jaipur,Mumbai,Dli,Twice in week,6,27,24215,2,22,34,28,9,72,15,3,2020
+683,93535,Marudhar Express,16,2,5,Mon,Jaipur,GWL,GWL,Weekly,6,24,14922,2,34,26,32,6,78,4,7,2020
+684,40953,Garbi Rath,26,3,14,Mon,Jaipur,Jpr,Dli,Weekly,5,21,19751,2,34,33,29,9,75,7,3,2020
+685,99768,SIKR-JP SPL,15,2,11,Sun,Jaipur,Jpr,Dli,Weekly,4,33,12499,2,25,34,24,10,71,1,2,2021
+686,11097,SIKR-JP SPL,29,3,11,Thu,Jaipur,Dli,Jpr,Weekly,1,34,24869,2,29,28,29,17,74,19,1,2019
+687,19437,SIKR-JP SPL,16,2,14,Sat,Jaipur,Mumbai,Dli,Weekly,2,9,27894,2,27,34,33,19,71,4,4,2022
+688,43688,Palace on wheels,15,3,12,Tue,Jaipur,UDP,AGR,Weekly,6,23,23513,2,34,27,34,20,74,25,9,2021
+689,18863,Palace on wheels,22,1,9,Sat,Jaipur,JDP,GWL,Twice in week,2,36,26818,2,33,23,21,4,77,3,11,2020
+690,36077,Garbi Rath,12,1,8,Sun,Jaipur,UDP,AGR,Weekly,5,26,21787,2,23,32,27,12,73,21,5,2020
+691,10960,GWL SBIB,14,2,11,Tue,Jaipur,Jpr,Mumbai,Weekly,2,35,14745,2,21,22,23,21,79,4,10,2022
+692,52652,Garbi Rath,21,1,12,Thu,Jaipur,UDP,JDP,Weekly,4,29,15799,2,22,32,27,13,74,26,10,2020
+693,91960,BPL JP EXP SPL,26,3,11,Sun,Jaipur,GWL,Mumbai,Twice in week,4,21,15060,2,30,24,28,16,75,3,9,2021
+694,31371,Shatabdi Express,10,2,8,Wed,Jaipur,Dli,GWL,Daily,2,13,17422,2,23,22,24,10,78,14,2,2020
+695,76485,BPL JP EXP SPL,18,3,13,Thu,Jaipur,Dli,Dli,Weekly,5,20,17257,2,24,25,29,10,77,13,2,2020
+696,29724,Double Decker,17,3,8,Sun,Jaipur,UDP,Mumbai,Weekly,1,15,28246,2,27,26,29,16,74,27,5,2019
+697,30741,ALL AF SPL,27,1,12,Wed,Jaipur,AGR,Jpr,Twice in week,4,21,15417,2,27,31,20,13,79,27,4,2019
+698,23443,Double Decker,12,1,14,Thu,Jaipur,Mumbai,AGR,Weekly,3,29,21348,2,33,23,24,17,74,13,3,2019
+699,18358,Shatabdi Express,10,3,13,Fri,Jaipur,Dli,AGR,Daily,4,36,13200,2,20,26,29,4,76,18,9,2019
+700,50279,SIKR-JP SPL,28,3,9,Thu,Jaipur,AGR,Jpr,Twice in week,2,31,20807,2,31,34,26,16,79,25,2,2021
+701,34390,Vande Bharat Express,16,3,14,Mon,Jaipur,AGR,JDP,Daily,6,8,12318,2,33,24,30,15,70,3,5,2020
+702,45534,Maharaja Express,14,2,9,Fri,Jaipur,AGR,Mumbai,Daily,1,32,10021,2,33,22,31,12,71,21,10,2021
+703,21007,Double Decker,25,3,9,Fri,Jaipur,GWL,Mumbai,Weekly,3,35,12059,2,30,22,30,8,77,28,8,2020
+704,82118,Rajdhani Express,21,3,13,Mon,Jaipur,Mumbai,Mumbai,Daily,3,16,14063,2,28,32,29,5,76,14,3,2019
+705,12566,Palace on wheels,27,2,5,Tue,Jaipur,Jpr,Jpr,Weekly,4,17,10503,2,29,30,22,20,75,22,4,2021
+706,63714,ALL AF SPL,21,2,12,Tue,Jaipur,JDP,AGR,Twice in week,3,27,16803,2,34,27,22,22,70,16,8,2022
+707,24057,ALL AF SPL,29,3,13,Mon,Jaipur,Mumbai,Jpr,Daily,3,26,22883,2,22,31,24,6,70,20,1,2020
+708,65757,Garbi Rath,20,3,10,Wed,Jaipur,JDP,Dli,Twice in week,2,10,20671,2,22,32,31,21,75,12,3,2022
+709,14325,Garbi Rath,25,1,11,Thu,Jaipur,GWL,UDP,Twice in week,5,22,13570,2,34,32,28,6,78,18,3,2021
+710,61513,ALL AF SPL,28,2,6,Sat,Jaipur,GWL,Mumbai,Twice in week,5,25,18738,2,24,27,25,18,79,2,11,2022
+711,17179,Maharaja Express,25,2,13,Thu,Jaipur,GWL,AGR,Daily,3,37,23963,2,25,24,28,19,72,3,3,2019
+712,47691,Double Decker,12,2,7,Fri,Jaipur,AGR,GWL,Weekly,2,20,21320,2,20,32,25,14,70,27,9,2021
+713,35207,Vande Bharat Express,24,3,12,Sun,Jaipur,GWL,AGR,Twice in week,5,17,21519,2,32,31,22,5,75,7,7,2022
+714,31629,SIKR-JP SPL,27,2,13,Tue,Jaipur,Jpr,JDP,Weekly,3,34,24374,2,28,23,32,23,75,17,1,2022
+715,12665,Vande Bharat Express,13,3,14,Sun,Jaipur,JDP,Jpr,Twice in week,3,35,12348,2,21,26,25,19,77,21,5,2019
+716,32990,Maharaja Express,15,1,9,Wed,Jaipur,AGR,Jpr,Daily,5,28,17821,2,28,22,26,23,72,13,3,2020
+717,12223,BPL JP EXP SPL,25,2,6,Sun,Jaipur,Mumbai,Dli,Daily,2,31,10000,2,21,30,32,5,79,11,1,2021
+718,40017,Shatabdi Express,21,1,14,Tue,Jaipur,JDP,Mumbai,Weekly,4,5,28272,2,21,26,20,23,73,3,8,2021
+719,35851,Garbi Rath,27,1,14,Fri,Jaipur,UDP,GWL,Twice in week,5,14,20552,2,22,22,31,12,78,13,6,2021
+720,14347,Rajdhani Express,20,1,13,Mon,Jaipur,Mumbai,Mumbai,Weekly,4,37,23116,2,33,21,25,15,74,26,6,2021
+721,40619,Rajdhani Express,25,2,10,Wed,Jaipur,GWL,AGR,Weekly,1,13,25390,2,31,30,34,11,76,5,2,2020
+722,54298,GWL SBIB,11,1,13,Wed,Jaipur,Jpr,UDP,Weekly,5,36,10806,2,30,21,33,7,76,4,8,2019
+723,85258,Garbi Rath,10,2,5,Wed,Jaipur,Dli,JDP,Twice in week,4,19,13863,2,23,34,25,20,71,9,10,2022
+724,23037,Garbi Rath,27,2,14,Mon,Jaipur,GWL,UDP,Daily,2,18,27637,2,26,32,24,19,72,14,7,2019
+725,45883,ALL AF SPL,17,1,6,Wed,Jaipur,Jpr,UDP,Daily,2,23,14843,2,24,34,32,18,73,28,4,2022
+726,85808,Maharaja Express,11,1,10,Sat,Jaipur,Jpr,AGR,Twice in week,2,17,11349,2,23,34,22,8,74,25,1,2019
+727,82102,Vande Bharat Express,18,1,6,Tue,Jaipur,JDP,AGR,Daily,2,11,19930,2,21,30,21,23,77,26,10,2022
+728,83675,Rajdhani Express,12,2,10,Thu,Jaipur,GWL,Jpr,Weekly,5,5,10857,2,32,34,28,18,78,9,10,2020
+729,47479,Garbi Rath,23,3,10,Thu,Jaipur,Dli,JDP,Weekly,1,29,12029,2,33,31,24,11,70,12,2,2020
+730,46679,Marudhar Express,15,2,5,Sun,Jaipur,AGR,Mumbai,Daily,4,34,28026,2,30,31,20,8,76,29,9,2019
+731,39569,Marudhar Express,14,3,8,Fri,Jaipur,JDP,GWL,Daily,2,5,16156,2,23,21,20,18,70,17,2,2021
+732,45980,Palace on wheels,11,3,14,Wed,Jaipur,JDP,Dli,Weekly,4,37,27372,2,26,30,21,22,71,15,8,2020
+733,59371,Rajdhani Express,23,2,12,Wed,Jaipur,GWL,Jpr,Daily,1,32,10486,2,34,27,29,11,70,11,10,2021
+734,66459,Maharaja Express,20,1,11,Wed,Jaipur,GWL,GWL,Daily,3,32,27402,2,22,33,23,23,70,17,3,2021
+735,24706,Garbi Rath,22,3,14,Mon,Jaipur,GWL,Mumbai,Weekly,5,22,13988,2,20,29,25,23,77,19,7,2020
+736,58274,Maharaja Express,14,2,8,Fri,Jaipur,AGR,Jpr,Twice in week,1,32,19478,2,32,31,27,12,76,2,7,2021
+737,81419,Garbi Rath,26,3,12,Fri,Jaipur,Mumbai,Jpr,Twice in week,6,13,16179,2,20,22,27,19,77,27,7,2019
+738,84393,Maharaja Express,16,2,12,Fri,Jaipur,AGR,GWL,Weekly,6,5,25316,2,27,21,30,6,70,30,7,2019
+739,61778,Double Decker,26,2,7,Tue,Jaipur,Dli,Mumbai,Weekly,1,21,24250,2,32,25,31,8,70,22,6,2022
+740,55635,GWL SBIB,10,3,8,Fri,Jaipur,AGR,UDP,Twice in week,1,3,24820,2,27,32,33,21,70,20,10,2021
+741,78700,Rajdhani Express,16,3,6,Sat,Jaipur,Dli,GWL,Daily,3,23,26166,2,26,29,21,7,75,18,8,2021
+742,44641,ALL AF SPL,13,2,10,Sat,Jaipur,Dli,Jpr,Twice in week,5,16,16492,2,29,34,32,5,71,15,11,2021
+743,15454,Vande Bharat Express,25,1,13,Sun,Jaipur,GWL,GWL,Twice in week,1,5,22691,2,32,32,31,16,77,30,8,2022
+744,34423,Rajdhani Express,10,3,9,Mon,Jaipur,GWL,GWL,Weekly,5,3,25846,2,29,28,25,23,71,10,8,2022
+745,60229,GWL SBIB,16,3,13,Sun,Jaipur,Dli,Mumbai,Daily,1,15,19262,2,28,22,32,11,77,10,11,2020
+746,63640,GWL SBIB,27,1,8,Fri,Jaipur,Dli,Mumbai,Twice in week,4,24,18348,2,25,25,34,18,78,7,2,2022
+747,32095,Double Decker,27,3,11,Mon,Jaipur,Mumbai,AGR,Weekly,3,13,17744,2,29,28,29,8,73,18,5,2020
+748,66238,Vande Bharat Express,23,2,10,Sun,Jaipur,UDP,Mumbai,Twice in week,1,14,10631,2,22,34,32,22,71,30,7,2022
+749,76011,Marudhar Express,11,2,10,Sun,Jaipur,GWL,GWL,Weekly,2,31,29849,2,21,21,24,15,72,20,5,2020
+750,35855,Palace on wheels,15,2,13,Wed,Jaipur,Dli,Dli,Weekly,2,21,20264,2,22,27,21,23,70,1,6,2021
+751,23383,Garbi Rath,13,1,5,Mon,Jaipur,AGR,AGR,Twice in week,4,9,18878,2,28,27,23,6,74,15,5,2022
+752,64486,Maharaja Express,28,2,7,Wed,Jaipur,UDP,UDP,Twice in week,5,29,12018,2,28,33,20,16,78,2,6,2019
+753,58499,GWL SBIB,10,3,6,Fri,Jaipur,Jpr,JDP,Daily,1,5,19561,2,23,22,33,20,72,24,4,2021
+754,20998,Shatabdi Express,12,3,14,Wed,Jaipur,Jpr,JDP,Twice in week,3,3,13990,2,30,34,22,8,79,13,3,2019
+755,55900,Rajdhani Express,18,1,13,Fri,Jaipur,JDP,Jpr,Twice in week,3,9,28684,2,24,26,29,18,70,4,2,2022
+756,65082,Marudhar Express,17,2,12,Thu,Jaipur,JDP,AGR,Twice in week,6,32,14667,2,33,31,21,19,70,9,4,2020
+757,92662,GWL SBIB,22,1,9,Fri,Jaipur,Mumbai,Mumbai,Daily,4,6,27436,2,33,24,34,10,73,9,3,2019
+758,85881,ALL AF SPL,26,3,5,Wed,Jaipur,AGR,Jpr,Weekly,1,3,27638,2,33,24,24,13,77,3,9,2019
+759,11519,BPL JP EXP SPL,29,3,9,Tue,Jaipur,GWL,GWL,Weekly,6,6,22561,2,20,20,31,17,70,1,7,2019
+760,61154,Maharaja Express,23,2,11,Thu,Jaipur,AGR,Dli,Twice in week,3,32,23996,2,25,32,30,8,71,20,11,2019
+761,60120,Shatabdi Express,12,1,9,Fri,Jaipur,Mumbai,GWL,Twice in week,4,15,19212,2,21,28,21,20,78,27,1,2020
+762,83534,ALL AF SPL,10,1,14,Mon,Jaipur,AGR,AGR,Daily,2,9,21236,2,32,31,30,22,71,20,7,2020
+763,27441,BPL JP EXP SPL,14,2,13,Wed,Jaipur,JDP,Mumbai,Twice in week,6,24,19764,2,32,32,26,12,74,1,11,2020
+764,16161,Marudhar Express,15,1,8,Thu,Jaipur,Mumbai,UDP,Twice in week,5,22,24235,2,20,27,30,17,76,15,7,2019
+765,37849,Shatabdi Express,15,3,10,Tue,Jaipur,GWL,AGR,Twice in week,1,23,27135,2,27,24,31,4,78,7,6,2019
+766,58406,Vande Bharat Express,12,1,13,Sun,Jaipur,JDP,UDP,Daily,1,19,27163,2,33,23,32,18,78,26,10,2021
+767,63590,Garbi Rath,13,3,9,Sun,Jaipur,Jpr,GWL,Twice in week,4,16,19064,2,20,24,23,11,72,17,6,2019
+768,94638,Maharaja Express,10,2,8,Sat,Jaipur,UDP,Dli,Weekly,5,26,23465,2,26,34,25,9,77,23,11,2022
+769,60132,Vande Bharat Express,17,2,5,Wed,Jaipur,AGR,Jpr,Twice in week,2,22,28982,2,34,31,20,11,75,1,11,2021
+770,57758,BPL JP EXP SPL,15,2,12,Thu,Jaipur,Dli,Mumbai,Twice in week,4,12,16727,2,21,22,21,6,76,26,11,2020
+771,75222,Marudhar Express,28,1,8,Sun,Jaipur,UDP,GWL,Weekly,4,20,13861,2,29,25,29,6,70,9,6,2019
+772,89767,ALL AF SPL,21,1,12,Fri,Jaipur,JDP,JDP,Twice in week,3,12,11712,2,25,34,24,16,74,28,4,2020
+773,29871,Vande Bharat Express,14,1,10,Tue,Jaipur,UDP,Dli,Twice in week,5,6,16761,2,34,32,23,14,78,29,10,2021
+774,94856,BPL JP EXP SPL,19,2,7,Sat,Jaipur,Jpr,JDP,Twice in week,5,28,14557,2,30,20,27,22,70,13,1,2020
+775,58488,SIKR-JP SPL,22,2,14,Sun,Jaipur,Jpr,GWL,Weekly,3,12,18495,2,26,32,32,18,79,9,1,2022
+776,61399,ALL AF SPL,29,3,12,Wed,Jaipur,Dli,Dli,Twice in week,5,33,16035,2,20,33,27,11,75,30,9,2019
+777,47334,Marudhar Express,19,2,6,Fri,Jaipur,Mumbai,UDP,Weekly,5,5,15668,2,31,29,34,16,73,9,10,2020
+778,32900,Marudhar Express,25,3,14,Sun,Jaipur,GWL,Dli,Daily,1,15,27815,2,34,26,27,7,72,19,4,2020
+779,31563,Rajdhani Express,24,3,14,Thu,Jaipur,AGR,JDP,Daily,5,6,17179,2,27,31,30,16,74,23,5,2019
+780,62643,Maharaja Express,27,1,14,Thu,Jaipur,UDP,UDP,Twice in week,5,20,23544,2,30,31,25,20,70,4,2,2022
+781,53046,Double Decker,11,2,8,Thu,Jaipur,UDP,JDP,Weekly,3,34,17543,2,33,26,31,12,78,20,5,2022
+782,34062,Garbi Rath,17,3,7,Tue,Jaipur,Jpr,UDP,Twice in week,2,9,25535,2,27,34,32,10,79,11,3,2021
+783,52777,Vande Bharat Express,26,2,10,Thu,Jaipur,JDP,Mumbai,Weekly,5,4,26253,2,24,28,21,10,74,3,1,2019
+784,20563,Palace on wheels,17,3,9,Mon,Jaipur,Jpr,AGR,Weekly,6,31,22892,2,22,21,26,21,70,4,5,2021
+785,80285,Shatabdi Express,18,3,14,Thu,Jaipur,AGR,Dli,Weekly,3,25,28588,2,22,20,27,20,72,11,3,2020
+786,14611,Vande Bharat Express,16,1,9,Mon,Jaipur,Mumbai,JDP,Weekly,5,8,15530,2,20,28,30,16,72,18,4,2022
+787,75599,BPL JP EXP SPL,21,2,9,Sat,Jaipur,JDP,Mumbai,Daily,2,14,20695,2,21,23,24,23,73,26,3,2020
+788,52548,Marudhar Express,11,1,14,Mon,Jaipur,Dli,AGR,Daily,2,25,18005,2,27,31,23,7,76,30,3,2022
+789,61390,Vande Bharat Express,11,2,14,Mon,Jaipur,UDP,AGR,Weekly,5,17,10569,2,26,33,31,10,78,2,5,2022
+790,32059,BPL JP EXP SPL,16,1,6,Wed,Jaipur,Mumbai,Mumbai,Twice in week,5,33,23884,2,32,23,20,12,79,25,6,2020
+791,39211,Vande Bharat Express,13,2,13,Fri,Jaipur,UDP,AGR,Weekly,6,15,17287,2,32,32,28,9,76,2,11,2022
+792,92662,Marudhar Express,29,1,12,Sat,Jaipur,JDP,Jpr,Twice in week,4,35,17576,2,22,24,30,8,76,12,7,2020
+793,68317,Rajdhani Express,18,2,12,Wed,Jaipur,AGR,AGR,Daily,3,15,26127,2,34,23,27,22,71,28,10,2022
+794,73236,Marudhar Express,24,3,5,Thu,Jaipur,Dli,AGR,Twice in week,5,6,24958,2,32,21,26,14,73,22,7,2021
+795,18328,Vande Bharat Express,27,2,8,Mon,Jaipur,Dli,JDP,Twice in week,2,13,26687,2,34,33,23,15,77,9,11,2020
+796,39640,Marudhar Express,16,3,13,Sat,Jaipur,Mumbai,UDP,Daily,5,22,23919,2,26,30,23,9,75,5,4,2019
+797,48249,Garbi Rath,15,2,8,Sat,Jaipur,GWL,JDP,Twice in week,4,8,24705,2,25,26,30,14,77,14,9,2022
+798,36985,Rajdhani Express,17,3,9,Tue,Jaipur,AGR,Mumbai,Twice in week,3,15,23123,2,27,23,21,5,70,24,2,2022
+799,24769,Double Decker,12,3,13,Fri,Jaipur,UDP,Mumbai,Weekly,2,4,13629,2,29,28,29,12,73,21,5,2019
+800,98061,SIKR-JP SPL,18,3,8,Wed,Jaipur,AGR,GWL,Twice in week,2,9,29561,2,21,23,23,13,78,26,8,2020
+801,47579,Double Decker,13,2,7,Mon,Jaipur,JDP,Mumbai,Daily,2,30,18200,2,28,22,32,23,73,8,9,2019
+802,67389,Garbi Rath,28,3,10,Sun,Jaipur,GWL,GWL,Weekly,5,21,26361,2,20,23,21,9,76,28,6,2022
+803,89228,Palace on wheels,28,3,11,Thu,Jaipur,AGR,UDP,Twice in week,2,27,15054,2,32,21,21,16,79,18,9,2022
+804,44377,Palace on wheels,25,3,9,Tue,Jaipur,Mumbai,Mumbai,Twice in week,6,10,16562,2,30,22,28,21,71,21,11,2020
+805,58332,Rajdhani Express,12,2,11,Thu,Jaipur,Dli,UDP,Daily,1,29,29051,2,23,33,20,6,70,18,7,2019
+806,80003,ALL AF SPL,18,2,14,Thu,Jaipur,Jpr,JDP,Daily,4,17,16126,2,32,22,24,10,74,1,3,2021
+807,28771,Vande Bharat Express,29,2,12,Mon,Jaipur,Jpr,Dli,Twice in week,4,28,18037,2,26,22,23,23,78,10,11,2020
+808,86785,Garbi Rath,28,2,6,Wed,Jaipur,Mumbai,JDP,Twice in week,2,3,10892,2,24,26,30,14,78,29,5,2020
+809,88364,Double Decker,13,2,5,Tue,Jaipur,Mumbai,Dli,Twice in week,5,35,23326,2,24,24,29,19,71,15,1,2022
+810,24881,Vande Bharat Express,22,1,5,Mon,Jaipur,JDP,AGR,Weekly,6,26,21441,2,28,26,27,15,75,30,3,2020
+811,11402,ALL AF SPL,15,3,13,Mon,Jaipur,JDP,GWL,Daily,5,33,25235,2,34,32,29,21,71,21,1,2021
+812,96141,Double Decker,11,2,7,Mon,Jaipur,JDP,AGR,Daily,1,34,20797,2,26,24,27,4,77,7,4,2022
+813,64045,Garbi Rath,11,3,5,Sat,Jaipur,Jpr,UDP,Twice in week,6,37,15121,2,33,28,24,13,79,15,9,2022
+814,16524,Marudhar Express,24,1,7,Tue,Jaipur,JDP,Mumbai,Twice in week,2,34,14785,2,23,23,21,4,75,19,5,2021
+815,47792,Marudhar Express,18,3,9,Mon,Jaipur,UDP,Dli,Twice in week,3,24,24897,2,21,28,26,18,79,9,8,2020
+816,65201,Vande Bharat Express,24,3,14,Sat,Jaipur,Jpr,Mumbai,Twice in week,3,18,22080,2,27,33,32,16,78,26,7,2020
+817,55101,BPL JP EXP SPL,19,1,8,Sat,Jaipur,Jpr,AGR,Twice in week,3,35,15798,2,26,32,24,23,75,12,9,2022
+818,38232,BPL JP EXP SPL,16,1,14,Sun,Jaipur,Jpr,AGR,Daily,5,8,26434,2,33,24,32,9,71,13,9,2021
+819,70037,Palace on wheels,20,3,9,Sat,Jaipur,Dli,UDP,Weekly,4,13,15799,2,24,28,26,8,71,1,7,2020
+820,44352,Rajdhani Express,19,3,11,Wed,Jaipur,Dli,GWL,Weekly,3,25,28357,2,29,32,32,7,76,15,8,2019
+821,46811,Garbi Rath,23,3,13,Sun,Jaipur,AGR,UDP,Twice in week,2,25,19029,2,20,31,21,12,71,2,6,2020
+822,34965,Palace on wheels,19,3,11,Thu,Jaipur,AGR,AGR,Weekly,1,5,21703,2,30,29,28,9,71,18,6,2022
+823,34798,Maharaja Express,12,1,10,Sun,Jaipur,GWL,Mumbai,Twice in week,4,26,20245,2,25,27,33,13,75,1,4,2020
+824,73015,Marudhar Express,14,1,7,Fri,Jaipur,JDP,UDP,Daily,6,12,14282,2,23,33,23,11,71,18,10,2021
+825,27884,Garbi Rath,29,2,6,Tue,Jaipur,UDP,AGR,Twice in week,2,13,20637,2,31,32,32,17,73,12,9,2019
+826,64326,BPL JP EXP SPL,15,1,12,Thu,Jaipur,Jpr,JDP,Weekly,6,9,28272,2,23,28,20,10,76,10,5,2019
+827,80097,Garbi Rath,26,1,11,Mon,Jaipur,UDP,GWL,Weekly,5,37,15537,2,29,27,28,20,70,26,5,2020
+828,13512,Vande Bharat Express,25,3,10,Thu,Jaipur,UDP,JDP,Weekly,1,3,21057,2,24,30,31,6,78,23,7,2019
+829,38688,Rajdhani Express,29,3,12,Thu,Jaipur,Dli,Mumbai,Weekly,1,13,27804,2,30,31,32,14,79,28,10,2019
+830,24316,GWL SBIB,23,1,8,Mon,Jaipur,UDP,UDP,Twice in week,3,28,13272,2,28,32,31,8,75,2,10,2021
+831,68027,ALL AF SPL,22,2,6,Tue,Jaipur,JDP,GWL,Daily,4,23,19072,2,29,28,33,6,72,20,10,2020
+832,24991,Garbi Rath,23,1,7,Sun,Jaipur,Dli,Jpr,Weekly,4,14,21056,2,27,32,27,18,77,11,10,2019
+833,35766,Shatabdi Express,23,1,7,Fri,Jaipur,JDP,Dli,Twice in week,4,35,17197,2,34,34,23,17,77,17,11,2022
+834,65322,BPL JP EXP SPL,27,3,12,Tue,Jaipur,Mumbai,UDP,Weekly,1,23,20443,2,28,29,28,20,73,14,3,2019
+835,41630,Maharaja Express,16,2,6,Thu,Jaipur,Jpr,JDP,Twice in week,5,11,26469,2,25,26,24,23,79,27,3,2019
+836,60844,Garbi Rath,28,1,5,Mon,Jaipur,Mumbai,JDP,Daily,4,20,20856,2,20,33,29,16,76,19,7,2022
+837,24747,Marudhar Express,23,1,8,Sat,Jaipur,Jpr,Jpr,Weekly,6,30,11972,2,30,26,26,9,70,17,7,2022
+838,81270,GWL SBIB,15,3,9,Fri,Jaipur,GWL,Mumbai,Daily,2,14,27317,2,20,32,27,18,70,22,5,2019
+839,39133,ALL AF SPL,14,1,7,Sat,Jaipur,AGR,JDP,Daily,6,19,15869,2,33,32,22,18,78,17,7,2022
+840,32325,Palace on wheels,10,3,11,Thu,Jaipur,Jpr,Jpr,Daily,5,31,21846,2,32,27,26,21,71,26,3,2020
+841,57017,Garbi Rath,11,3,7,Sat,Jaipur,JDP,Dli,Weekly,1,30,15763,2,28,24,29,12,79,8,10,2020
+842,24670,SIKR-JP SPL,17,1,8,Mon,Jaipur,Mumbai,JDP,Twice in week,4,10,10695,2,24,34,28,6,79,19,6,2021
+843,70638,Palace on wheels,23,2,8,Thu,Jaipur,AGR,AGR,Twice in week,4,27,14787,2,31,24,21,12,70,25,6,2021
+844,27759,Garbi Rath,13,3,5,Wed,Jaipur,Jpr,AGR,Weekly,4,19,17314,2,30,31,26,23,72,10,9,2020
+845,51798,SIKR-JP SPL,21,2,7,Sat,Jaipur,Dli,AGR,Twice in week,3,30,23981,2,22,27,34,18,73,19,3,2020
+846,69750,GWL SBIB,19,1,5,Thu,Jaipur,Mumbai,Dli,Twice in week,6,28,26640,2,25,33,24,7,70,26,4,2019
+847,73702,GWL SBIB,12,1,10,Tue,Jaipur,Mumbai,Jpr,Weekly,3,32,22417,2,33,27,34,8,77,4,7,2022
+848,75747,Marudhar Express,19,2,12,Tue,Jaipur,Jpr,UDP,Daily,3,3,10245,2,25,34,28,5,75,23,9,2021
+849,45438,Marudhar Express,23,2,14,Sun,Jaipur,Jpr,Mumbai,Daily,2,10,19007,2,32,20,28,23,73,23,11,2022
+850,21989,Vande Bharat Express,11,1,5,Wed,Jaipur,Jpr,Dli,Daily,4,26,25872,2,23,33,23,19,78,12,3,2022
+851,97582,Garbi Rath,16,1,14,Tue,Jaipur,GWL,Dli,Daily,2,24,27153,2,25,31,28,14,76,10,9,2022
+852,65819,Marudhar Express,10,2,7,Fri,Jaipur,UDP,Mumbai,Weekly,5,15,21311,2,33,33,22,10,72,8,10,2020
+853,64812,GWL SBIB,23,2,12,Thu,Jaipur,JDP,UDP,Weekly,3,23,13459,2,26,25,23,20,79,29,3,2021
+854,47852,SIKR-JP SPL,16,2,11,Sat,Jaipur,Mumbai,JDP,Twice in week,2,3,29494,2,34,25,20,8,77,4,9,2020
+855,79256,SIKR-JP SPL,28,3,10,Wed,Jaipur,AGR,JDP,Weekly,6,3,10763,2,33,22,24,20,73,13,3,2019
+856,59885,Shatabdi Express,12,1,7,Thu,Jaipur,Mumbai,GWL,Daily,4,6,28439,2,32,23,32,14,70,12,6,2019
+857,77993,SIKR-JP SPL,13,2,5,Sat,Jaipur,GWL,Mumbai,Twice in week,1,25,19742,2,32,24,31,18,74,16,10,2022
+858,39171,Palace on wheels,16,1,5,Tue,Jaipur,Jpr,GWL,Weekly,6,33,13524,2,23,22,30,19,70,23,11,2019
+859,55285,Double Decker,28,2,11,Sat,Jaipur,JDP,Dli,Weekly,5,31,13695,2,29,30,29,11,70,6,8,2021
+860,36090,Palace on wheels,25,1,13,Mon,Jaipur,Jpr,Dli,Twice in week,2,10,12477,2,25,22,24,4,75,4,6,2020
+861,97661,ALL AF SPL,29,2,13,Fri,Jaipur,UDP,GWL,Weekly,6,31,24416,2,30,32,31,22,76,21,1,2022
+862,88107,ALL AF SPL,17,3,8,Mon,Jaipur,AGR,JDP,Weekly,3,17,22578,2,21,29,25,6,74,24,1,2021
+863,28819,Maharaja Express,29,3,7,Wed,Jaipur,Dli,AGR,Twice in week,5,27,17458,2,30,20,20,16,76,25,9,2019
+864,32392,Marudhar Express,13,1,6,Sun,Jaipur,AGR,AGR,Twice in week,5,9,29311,2,21,22,34,18,77,4,2,2021
+865,61212,Double Decker,15,2,12,Mon,Jaipur,Dli,Jpr,Weekly,6,21,19467,2,25,20,21,15,79,10,11,2022
+866,98952,GWL SBIB,12,3,12,Sun,Jaipur,Mumbai,GWL,Twice in week,5,6,25643,2,25,33,26,12,75,30,4,2021
+867,97489,BPL JP EXP SPL,20,3,13,Tue,Jaipur,Jpr,UDP,Daily,6,16,28551,2,24,34,29,4,77,1,5,2019
+868,40751,BPL JP EXP SPL,25,2,11,Fri,Jaipur,AGR,Dli,Twice in week,6,6,16077,2,23,28,31,22,77,6,7,2022
+869,37385,SIKR-JP SPL,18,3,5,Wed,Jaipur,Mumbai,GWL,Weekly,4,11,23540,2,26,25,25,7,73,3,2,2022
+870,14249,BPL JP EXP SPL,29,3,13,Thu,Jaipur,UDP,JDP,Twice in week,4,18,29566,2,31,34,21,13,72,17,11,2022
+871,23346,GWL SBIB,26,3,9,Sat,Jaipur,JDP,GWL,Twice in week,3,12,26106,2,29,26,31,16,75,4,2,2021
+872,79583,Garbi Rath,22,2,5,Fri,Jaipur,AGR,Jpr,Twice in week,5,17,26946,2,29,32,30,13,79,25,1,2020
+873,33185,Garbi Rath,17,2,10,Mon,Jaipur,Mumbai,JDP,Twice in week,4,21,29237,2,25,20,32,22,74,3,2,2020
+874,19337,Rajdhani Express,29,2,8,Tue,Jaipur,GWL,Dli,Twice in week,3,14,18328,2,33,23,24,5,73,9,9,2020
+875,33683,Rajdhani Express,21,2,6,Sat,Jaipur,JDP,JDP,Weekly,5,35,18250,2,33,31,29,14,71,12,10,2022
+876,10695,Marudhar Express,26,1,10,Mon,Jaipur,UDP,Mumbai,Daily,2,36,16339,2,23,23,23,15,73,13,1,2021
+877,69391,Maharaja Express,15,3,9,Mon,Jaipur,Mumbai,AGR,Weekly,3,5,27170,2,24,24,29,19,77,24,1,2020
+878,45587,Rajdhani Express,13,3,9,Tue,Jaipur,GWL,Dli,Daily,2,26,17285,2,32,31,20,13,72,18,7,2022
+879,60091,Palace on wheels,23,2,8,Wed,Jaipur,JDP,Jpr,Daily,3,13,28360,2,20,21,29,4,78,17,1,2022
+880,56423,BPL JP EXP SPL,23,3,13,Wed,Jaipur,GWL,JDP,Twice in week,2,35,22885,2,32,33,32,22,72,29,1,2021
+881,47843,Maharaja Express,13,2,8,Sat,Jaipur,Dli,Dli,Weekly,3,20,11478,2,31,34,20,9,71,13,8,2019
+882,66743,Garbi Rath,29,3,11,Tue,Jaipur,UDP,AGR,Daily,4,36,15980,2,33,33,22,14,74,11,10,2019
+883,96928,Garbi Rath,18,1,10,Sun,Jaipur,JDP,GWL,Daily,2,11,26892,2,29,20,23,19,72,5,4,2020
+884,21085,GWL SBIB,16,3,9,Sun,Jaipur,UDP,JDP,Weekly,2,12,20582,2,27,25,31,9,79,6,1,2022
+885,26347,Garbi Rath,20,1,6,Tue,Jaipur,Mumbai,Dli,Weekly,5,22,23013,2,24,28,33,12,78,20,8,2022
+886,90168,SIKR-JP SPL,13,2,8,Mon,Jaipur,JDP,Jpr,Daily,6,10,25251,2,25,23,26,16,79,6,11,2021
+887,98356,GWL SBIB,25,2,11,Sat,Jaipur,Dli,GWL,Daily,3,10,29855,2,21,28,22,16,78,17,2,2019
+888,72127,SIKR-JP SPL,11,1,13,Sun,Jaipur,GWL,GWL,Daily,3,36,27824,2,26,32,29,21,70,20,10,2019
+889,48016,Shatabdi Express,24,3,13,Tue,Jaipur,Mumbai,GWL,Weekly,3,6,23024,2,34,24,30,21,70,4,7,2021
+890,91299,Marudhar Express,14,2,9,Sat,Jaipur,AGR,UDP,Daily,6,5,18394,2,33,21,33,7,70,12,9,2022
+891,98263,Palace on wheels,25,2,7,Sun,Jaipur,JDP,Mumbai,Daily,2,4,29810,2,28,34,26,12,75,11,9,2020
+892,66570,Marudhar Express,14,2,14,Sun,Jaipur,GWL,AGR,Twice in week,1,20,22723,2,32,27,32,6,76,7,10,2021
+893,92488,Garbi Rath,14,1,11,Wed,Jaipur,UDP,Jpr,Daily,3,24,28578,2,29,25,29,8,73,25,1,2021
+894,51198,SIKR-JP SPL,24,3,13,Sat,Jaipur,JDP,Mumbai,Daily,4,36,22882,2,27,34,22,6,78,20,6,2021
+895,75463,Rajdhani Express,13,3,11,Wed,Jaipur,AGR,Dli,Weekly,5,4,16374,2,20,26,33,8,76,15,11,2019
+896,92803,Garbi Rath,15,2,11,Sat,Jaipur,JDP,UDP,Twice in week,6,5,15117,2,20,34,31,18,75,16,7,2020
+897,36913,Marudhar Express,13,1,12,Sat,Jaipur,Mumbai,Jpr,Daily,2,37,27340,2,28,32,26,16,79,27,3,2021
+898,57894,Garbi Rath,13,2,14,Wed,Jaipur,Mumbai,Mumbai,Daily,1,24,14094,2,28,25,22,20,74,7,7,2022
+899,97194,Marudhar Express,21,1,11,Sat,Jaipur,Dli,Mumbai,Daily,4,16,15320,2,34,31,31,10,75,27,8,2021
+900,95648,Garbi Rath,13,1,11,Fri,Jaipur,GWL,JDP,Weekly,3,32,26450,2,23,25,27,5,70,19,7,2019
+901,64840,ALL AF SPL,21,3,9,Tue,Jaipur,Dli,JDP,Twice in week,4,15,23330,2,34,23,30,14,72,11,2,2022
+902,85079,Garbi Rath,18,1,5,Sat,Jaipur,Mumbai,Dli,Twice in week,4,13,18710,2,27,26,30,22,72,9,10,2019
+903,85095,Shatabdi Express,17,1,11,Tue,Jaipur,GWL,UDP,Daily,5,19,26998,2,21,27,28,19,79,26,4,2022
+904,89356,Maharaja Express,20,1,13,Tue,Jaipur,UDP,Dli,Twice in week,2,21,20752,2,24,23,27,17,73,18,7,2020
+905,99086,Palace on wheels,17,2,14,Wed,Jaipur,GWL,JDP,Twice in week,2,20,16080,2,21,24,29,16,75,8,11,2020
+906,62343,Palace on wheels,20,3,11,Sat,Jaipur,Mumbai,Mumbai,Daily,4,3,24473,2,23,22,28,11,70,20,2,2021
+907,19370,BPL JP EXP SPL,26,2,10,Fri,Jaipur,UDP,JDP,Daily,1,9,12756,2,34,27,21,13,76,14,5,2020
+908,22201,Shatabdi Express,29,3,10,Tue,Jaipur,Mumbai,UDP,Twice in week,5,30,15866,2,21,32,20,12,73,24,9,2019
+909,93128,GWL SBIB,20,3,7,Sat,Jaipur,Mumbai,GWL,Weekly,5,31,11450,2,28,27,26,14,70,19,10,2019
+910,19584,Double Decker,12,3,5,Wed,Jaipur,Mumbai,GWL,Weekly,3,28,25795,2,23,30,24,11,71,5,7,2020
+911,61104,GWL SBIB,22,3,14,Thu,Jaipur,AGR,Jpr,Daily,6,14,14472,2,21,20,30,17,71,23,2,2019
+912,54968,Garbi Rath,24,3,8,Thu,Jaipur,AGR,AGR,Weekly,4,13,25991,2,25,25,23,9,72,24,11,2021
+913,19951,Double Decker,29,3,9,Mon,Jaipur,GWL,Jpr,Daily,2,7,26639,2,30,31,23,21,74,18,5,2021
+914,15948,SIKR-JP SPL,27,2,9,Wed,Jaipur,Mumbai,AGR,Weekly,3,22,14662,2,26,33,21,13,76,28,3,2022
+915,67469,SIKR-JP SPL,21,1,8,Thu,Jaipur,AGR,Mumbai,Daily,4,8,25188,2,24,34,31,20,77,21,1,2020
+916,29512,Palace on wheels,22,2,14,Wed,Jaipur,UDP,AGR,Twice in week,5,9,28715,2,27,28,32,23,72,14,7,2020
+917,25870,GWL SBIB,17,1,11,Mon,Jaipur,Dli,Dli,Daily,6,14,11127,2,28,25,32,12,71,27,9,2022
+918,64222,SIKR-JP SPL,29,2,7,Fri,Jaipur,Jpr,Mumbai,Weekly,4,27,26666,2,21,22,31,8,72,10,4,2020
+919,29957,Double Decker,27,1,10,Fri,Jaipur,JDP,GWL,Weekly,3,14,22645,2,26,26,25,12,79,16,9,2019
+920,52515,Palace on wheels,10,3,6,Thu,Jaipur,UDP,AGR,Daily,6,31,11536,2,27,22,21,6,76,3,3,2019
+921,19583,ALL AF SPL,23,1,5,Mon,Jaipur,Mumbai,UDP,Weekly,6,20,18755,2,26,23,31,10,71,19,5,2022
+922,15286,Garbi Rath,18,3,6,Fri,Jaipur,Jpr,UDP,Daily,3,19,14735,2,34,34,25,9,75,10,1,2022
+923,50995,Marudhar Express,27,2,6,Sun,Jaipur,UDP,Jpr,Daily,1,34,27999,2,22,34,25,15,74,8,1,2022
+924,45297,SIKR-JP SPL,18,3,14,Thu,Jaipur,JDP,Dli,Daily,6,6,27154,2,32,30,26,21,75,19,9,2019
+925,23021,BPL JP EXP SPL,24,1,8,Sat,Jaipur,Dli,Jpr,Twice in week,1,7,28516,2,30,23,23,13,77,19,5,2019
+926,61347,Garbi Rath,28,2,8,Mon,Jaipur,JDP,Mumbai,Weekly,5,18,29144,2,30,22,25,6,75,22,11,2022
+927,58150,Garbi Rath,16,3,9,Fri,Jaipur,Mumbai,Jpr,Twice in week,3,29,29211,2,24,22,34,17,78,5,6,2020
+928,45956,Palace on wheels,29,2,13,Thu,Jaipur,Mumbai,UDP,Daily,1,22,13755,2,26,26,34,21,70,8,6,2020
+929,12766,Garbi Rath,23,1,13,Sun,Jaipur,Dli,Jpr,Weekly,4,22,24387,2,32,22,28,7,72,2,4,2019
+930,98586,SIKR-JP SPL,12,2,7,Mon,Jaipur,Mumbai,Jpr,Daily,6,15,14183,2,33,22,25,9,72,11,2,2021
+931,91633,BPL JP EXP SPL,15,1,8,Mon,Jaipur,JDP,Dli,Twice in week,1,16,21892,2,20,26,32,8,75,1,7,2022
+932,93196,Shatabdi Express,26,2,5,Fri,Jaipur,JDP,Dli,Daily,1,35,23973,2,22,23,30,10,74,12,4,2021
+933,50413,Rajdhani Express,10,1,9,Fri,Jaipur,GWL,Jpr,Weekly,1,25,17698,2,29,33,30,19,71,4,6,2022
+934,54104,SIKR-JP SPL,21,3,7,Tue,Jaipur,JDP,AGR,Twice in week,1,37,28133,2,24,20,27,21,70,1,1,2022
+935,44519,Palace on wheels,10,3,5,Sun,Jaipur,Jpr,UDP,Daily,6,15,22429,2,26,31,29,15,75,15,11,2021
+936,69614,GWL SBIB,11,1,5,Mon,Jaipur,Dli,Jpr,Weekly,6,30,10493,2,30,33,26,8,71,8,2,2020
+937,30919,Double Decker,14,2,13,Tue,Jaipur,GWL,Dli,Twice in week,5,4,17243,2,27,28,32,19,73,11,8,2021
+938,42656,Garbi Rath,23,3,8,Thu,Jaipur,Jpr,Dli,Daily,5,22,21793,2,30,31,21,8,77,15,11,2020
+939,34835,BPL JP EXP SPL,25,1,6,Mon,Jaipur,Dli,AGR,Twice in week,2,13,22570,2,21,32,31,5,71,11,6,2022
+940,23135,Garbi Rath,11,2,11,Tue,Jaipur,JDP,JDP,Daily,1,36,14548,2,20,30,32,23,71,15,10,2019
+941,88303,Garbi Rath,11,1,8,Mon,Jaipur,Dli,AGR,Twice in week,3,24,20250,2,29,21,30,17,74,1,8,2020
+942,29148,ALL AF SPL,19,2,12,Sat,Jaipur,UDP,AGR,Weekly,5,15,17870,2,26,26,20,22,79,7,8,2019
+943,59424,Maharaja Express,18,2,6,Tue,Jaipur,UDP,UDP,Twice in week,5,11,12389,2,21,29,31,13,79,29,11,2019
+944,45745,Marudhar Express,14,3,14,Thu,Jaipur,JDP,JDP,Weekly,4,31,25337,2,33,30,22,7,71,18,8,2022
+945,98032,SIKR-JP SPL,24,2,8,Sun,Jaipur,Dli,GWL,Twice in week,3,9,29389,2,26,31,21,19,78,7,4,2021
+946,23496,Palace on wheels,19,3,10,Mon,Jaipur,Dli,AGR,Weekly,5,12,13089,2,27,34,22,13,70,19,6,2021
+947,16667,ALL AF SPL,20,2,6,Thu,Jaipur,Jpr,JDP,Daily,2,32,22792,2,25,25,31,4,76,18,6,2020
+948,48499,Garbi Rath,12,2,5,Thu,Jaipur,Dli,GWL,Twice in week,6,21,16232,2,21,22,28,15,78,7,3,2021
+949,15987,Vande Bharat Express,13,2,12,Sat,Jaipur,JDP,JDP,Weekly,5,7,12633,2,33,21,26,12,78,1,1,2020
+950,76942,SIKR-JP SPL,24,3,11,Thu,Jaipur,UDP,UDP,Weekly,6,10,18025,2,33,29,26,8,72,19,5,2020
+951,38867,Garbi Rath,19,1,11,Thu,Jaipur,Dli,GWL,Twice in week,4,29,22079,2,22,31,26,19,75,21,2,2019
+952,19341,Maharaja Express,25,1,9,Sun,Jaipur,JDP,Mumbai,Twice in week,4,4,16489,2,24,31,21,15,78,19,10,2019
+953,70573,Vande Bharat Express,10,2,12,Sun,Jaipur,Jpr,UDP,Twice in week,2,5,28747,2,26,30,30,13,74,12,11,2020
+954,75547,Double Decker,21,2,7,Sat,Jaipur,UDP,Jpr,Twice in week,5,37,29960,2,31,33,27,14,75,30,3,2022
+955,31086,Shatabdi Express,27,1,7,Sun,Jaipur,UDP,AGR,Twice in week,6,24,13740,2,30,33,24,14,79,17,7,2019
+956,67202,Maharaja Express,19,2,12,Sat,Jaipur,GWL,AGR,Weekly,4,20,13800,2,21,27,25,6,70,13,6,2022
+957,13755,GWL SBIB,17,2,6,Thu,Jaipur,Dli,Mumbai,Twice in week,1,26,11802,2,22,31,30,6,79,30,4,2019
+958,77611,Garbi Rath,10,1,12,Thu,Jaipur,Mumbai,UDP,Weekly,5,25,15798,2,31,26,28,5,73,12,11,2022
+959,58405,Vande Bharat Express,24,3,7,Tue,Jaipur,AGR,GWL,Daily,2,20,13494,2,27,31,30,14,70,7,6,2021
+960,63997,Garbi Rath,15,2,14,Fri,Jaipur,Dli,AGR,Weekly,4,35,14281,2,25,20,22,9,72,9,8,2020
+961,98799,Garbi Rath,17,2,8,Sun,Jaipur,UDP,JDP,Weekly,5,16,24668,2,28,31,30,23,70,11,9,2022
+962,57576,Garbi Rath,15,3,12,Wed,Jaipur,Dli,Dli,Daily,3,7,25566,2,22,34,20,4,74,3,4,2021
+963,66668,Garbi Rath,22,3,9,Wed,Jaipur,Jpr,JDP,Daily,1,6,24115,2,24,32,23,9,72,4,5,2022
+964,49604,Maharaja Express,13,3,5,Sun,Jaipur,AGR,Dli,Twice in week,3,23,19396,2,24,27,25,15,76,29,7,2020
+965,85358,Marudhar Express,27,1,6,Wed,Jaipur,GWL,Dli,Weekly,6,14,20588,2,32,29,34,19,76,13,6,2021
+966,14196,Garbi Rath,29,2,7,Tue,Jaipur,JDP,GWL,Weekly,6,32,18508,2,23,20,24,9,79,26,3,2020
+967,31807,Shatabdi Express,15,3,13,Wed,Jaipur,JDP,AGR,Daily,2,3,19160,2,28,34,25,13,72,19,1,2020
+968,53573,SIKR-JP SPL,16,2,10,Wed,Jaipur,JDP,GWL,Twice in week,2,23,13598,2,29,30,28,22,77,7,7,2022
+969,17152,Shatabdi Express,14,2,12,Thu,Jaipur,Jpr,UDP,Daily,2,13,13760,2,21,29,24,10,76,21,7,2019
+970,49185,Shatabdi Express,26,2,6,Sun,Jaipur,Dli,UDP,Twice in week,4,9,12269,2,23,27,30,20,79,19,11,2022
+971,89689,ALL AF SPL,27,2,10,Mon,Jaipur,JDP,Jpr,Weekly,2,28,24282,2,26,20,27,21,76,2,2,2019
+972,35494,Shatabdi Express,10,2,5,Mon,Jaipur,Dli,UDP,Daily,3,27,16468,2,28,30,26,10,78,30,7,2021
+973,80565,Rajdhani Express,13,2,9,Thu,Jaipur,Mumbai,Mumbai,Weekly,2,21,14989,2,21,20,27,8,73,30,6,2019
+974,20227,Garbi Rath,11,3,9,Fri,Jaipur,JDP,Jpr,Twice in week,5,15,25261,2,23,28,32,7,77,20,4,2021
+975,69623,Shatabdi Express,23,1,12,Fri,Jaipur,UDP,Mumbai,Daily,6,19,25075,2,30,25,31,23,72,1,7,2019
+976,75229,Vande Bharat Express,12,2,11,Mon,Jaipur,Mumbai,Jpr,Twice in week,3,13,20523,2,27,26,23,15,70,4,9,2021
+977,35454,Rajdhani Express,26,3,12,Mon,Jaipur,UDP,Dli,Twice in week,3,9,27510,2,26,27,31,19,74,26,3,2021
+978,69454,SIKR-JP SPL,26,3,12,Tue,Jaipur,GWL,JDP,Weekly,4,33,23552,2,31,30,21,12,75,3,2,2021
+979,50332,SIKR-JP SPL,16,1,11,Wed,Jaipur,Jpr,GWL,Twice in week,5,32,19213,2,34,20,31,20,76,27,10,2020
+980,66049,Garbi Rath,28,3,12,Wed,Jaipur,GWL,Dli,Weekly,6,15,10098,2,27,23,28,10,71,29,9,2021
+981,22517,BPL JP EXP SPL,18,2,9,Thu,Jaipur,JDP,Jpr,Twice in week,3,33,14021,2,22,27,22,11,71,23,5,2020
+982,32057,Vande Bharat Express,25,1,10,Thu,Jaipur,AGR,Dli,Daily,1,19,10557,2,27,22,23,6,73,24,6,2022
+983,69774,Garbi Rath,26,3,13,Sun,Jaipur,UDP,Dli,Weekly,1,24,21578,2,24,21,20,14,72,3,10,2019
+984,14001,GWL SBIB,29,1,10,Tue,Jaipur,Mumbai,Dli,Weekly,1,7,11293,2,20,26,33,22,70,11,9,2020
+985,29301,Marudhar Express,16,3,7,Sat,Jaipur,GWL,Jpr,Daily,6,28,16352,2,30,20,23,9,79,19,1,2021
+986,39241,Rajdhani Express,19,3,13,Mon,Jaipur,UDP,UDP,Twice in week,2,5,22786,2,25,29,22,16,75,12,2,2019
+987,67922,SIKR-JP SPL,10,2,12,Thu,Jaipur,GWL,Mumbai,Daily,3,6,19170,2,25,32,32,5,77,13,3,2019
+988,57676,Rajdhani Express,22,1,6,Thu,Jaipur,Jpr,UDP,Daily,2,3,27305,2,32,22,27,23,77,11,8,2021
+989,58798,Palace on wheels,18,2,12,Wed,Jaipur,JDP,JDP,Weekly,6,35,12445,2,22,34,23,11,78,5,6,2021
+990,30100,Rajdhani Express,11,1,10,Fri,Jaipur,AGR,GWL,Twice in week,5,10,27470,2,28,33,21,10,78,17,2,2020
+991,98684,Marudhar Express,21,1,6,Sun,Jaipur,JDP,Dli,Daily,2,11,25761,2,34,22,31,11,77,30,2,2022
+992,35233,Garbi Rath,24,3,12,Sat,Jaipur,UDP,AGR,Twice in week,5,17,12836,2,31,28,22,16,77,19,6,2021
+993,21799,BPL JP EXP SPL,15,1,10,Fri,Jaipur,GWL,Dli,Twice in week,1,15,28486,2,33,22,21,14,79,28,5,2022
+994,89205,SIKR-JP SPL,23,3,14,Sat,Jaipur,Dli,UDP,Twice in week,4,5,10812,2,33,27,20,23,72,6,1,2020
+995,62213,Marudhar Express,14,3,6,Tue,Jaipur,Mumbai,Jpr,Twice in week,1,23,22065,2,28,29,23,7,73,21,9,2022
+996,66862,GWL SBIB,19,3,9,Wed,Jaipur,JDP,Mumbai,Daily,5,10,24045,2,20,24,25,19,70,21,4,2019
+997,60838,SIKR-JP SPL,16,3,13,Thu,Jaipur,GWL,UDP,Twice in week,2,18,22974,2,28,22,22,9,78,4,1,2019
+998,64714,Marudhar Express,16,1,9,Thu,Jaipur,Dli,JDP,Daily,4,32,24707,2,26,29,32,19,76,6,6,2020
+999,67730,Double Decker,26,3,9,Thu,Jaipur,Dli,Jpr,Daily,1,35,27633,2,24,32,20,18,75,23,5,2022

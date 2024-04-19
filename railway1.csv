@@ -1,0 +1,1001 @@
+,Train No.,Train Name,No.of Coaches,Class of train,Revenue(lakhs),Day,Station_Name,Start_station,End_station,Frequency,No.Of PLatforms,Total Journey Hours,NO.Of passengers,Number of Dormitories,Dormitories Capacity,Dormitory utilized,Facility Quality Rating,Average Stay Duration,Revenue(THOUSANDS),Date,Month,Year
+0,97130,Humsafar Express,14,2,7,Sun,Udaipur,UDP,BKN,Daily,3,15,17404,703,26,20,1,14,67,17,9,2019
+1,82534,Chetak Express,17,2,10,Sat,Udaipur,Pali,JDP,Weekly,1,33,20223,703,21,29,3,22,66,9,10,2021
+2,55077,Chetak Express,18,1,7,Thu,Udaipur,Mount Abu,UDP,Daily,5,31,23761,703,20,25,1,18,65,17,9,2020
+3,42584,Shatabdi Express,27,2,7,Mon,Udaipur,JDP,Mount Abu,Twice in week,5,26,12052,703,26,21,1,16,60,23,3,2020
+4,41822,Shatabdi Express,13,1,5,Mon,Udaipur,JDP,Jpr,Weekly,4,12,15965,703,20,29,1,7,65,14,1,2020
+5,51406,Garbi Rath,27,3,8,Mon,Udaipur,Dli,Pali,Daily,3,29,15585,703,26,28,3,20,66,23,5,2019
+6,20557,Chetak Express,23,2,13,Thu,Udaipur,Mount Abu,UDP,Twice in week,4,4,29757,703,27,24,1,8,61,29,8,2021
+7,43253,Humsafar Express,13,3,6,Wed,Udaipur,UDP,Pali,Daily,1,18,28973,703,22,24,4,14,60,28,3,2020
+8,93076,Vande Bharat Express,21,1,8,Sat,Udaipur,Pali,Jpr,Twice in week,5,10,22537,703,24,24,4,9,66,4,9,2020
+9,62906,Chetak Express,10,1,11,Mon,Udaipur,Dli,BKN,Weekly,5,15,19910,703,24,23,3,7,66,29,4,2020
+10,78441,Yoga Express,10,3,14,Sat,Udaipur,BKN,Pali,Daily,2,7,14749,703,20,23,2,18,61,16,6,2019
+11,98147,Yoga Express,14,1,14,Fri,Udaipur,Jpr,Mount Abu,Daily,1,4,11429,703,27,22,4,8,62,1,6,2021
+12,10464,Humsafar Express,25,2,10,Wed,Udaipur,Mount Abu,Dli,Twice in week,2,22,25332,703,29,20,2,21,67,18,8,2020
+13,86217,Humsafar Express,15,1,6,Wed,Udaipur,Jpr,Pali,Weekly,1,11,21737,703,27,24,1,23,60,27,3,2021
+14,32693,ALL Puri SF Express,12,2,13,Sat,Udaipur,Dli,JDP,Weekly,1,21,18345,703,25,28,3,18,62,9,11,2020
+15,48027,Yoga Express,16,3,5,Fri,Udaipur,UDP,UDP,Daily,5,5,17105,703,26,21,4,19,71,18,7,2020
+16,46919,ALL Puri SF Express,22,3,10,Thu,Udaipur,Pali,Dli,Twice in week,1,5,12398,703,22,22,1,8,67,17,2,2020
+17,91635,Double Decker,12,1,6,Thu,Udaipur,JDP,Jpr,Twice in week,4,14,10691,703,24,20,1,18,64,15,3,2019
+18,12061,Garbi Rath,22,3,5,Mon,Udaipur,Mount Abu,UDP,Daily,2,14,12244,703,23,23,2,23,68,6,6,2021
+19,92555,Vande Bharat Express,21,3,10,Wed,Udaipur,Dli,Mount Abu,Daily,1,23,23576,703,27,26,2,17,70,30,2,2021
+20,30779,Garbi Rath,18,2,7,Sat,Udaipur,Mount Abu,BKN,Twice in week,2,11,16746,703,23,28,3,11,64,23,11,2021
+21,97636,Shatabdi Express,22,3,11,Fri,Udaipur,UDP,BKN,Weekly,3,9,20487,703,24,21,2,14,67,7,6,2019
+22,24524,ALL Puri SF Express,10,2,12,Thu,Udaipur,Dli,JDP,Daily,2,8,24079,703,27,28,1,23,65,4,3,2021
+23,31888,Humsafar Express,14,1,5,Sat,Udaipur,Dli,UDP,Daily,4,21,19854,703,25,24,4,13,64,19,5,2022
+24,28598,Double Decker,11,3,5,Sat,Udaipur,UDP,Mount Abu,Weekly,3,16,29851,703,25,25,3,10,69,4,3,2019
+25,43114,ALL Puri SF Express,11,2,6,Mon,Udaipur,Mount Abu,Jpr,Twice in week,1,14,14483,703,26,26,4,4,62,4,11,2020
+26,70557,Dee Rzt Exp,11,3,14,Tue,Udaipur,Dli,Pali,Twice in week,3,7,15467,703,23,20,3,22,64,23,2,2019
+27,49487,Chetak Express,14,2,5,Fri,Udaipur,Mount Abu,Dli,Weekly,3,4,29450,703,26,21,3,22,67,18,9,2020
+28,69890,Yoga Express,25,3,10,Sat,Udaipur,JDP,JDP,Twice in week,5,25,22833,703,26,27,2,19,62,5,3,2019
+29,61938,Yoga Express,29,1,9,Mon,Udaipur,Pali,JDP,Twice in week,2,6,27644,703,25,25,4,13,61,27,1,2020
+30,79750,Shatabdi Express,29,2,10,Sat,Udaipur,UDP,Mount Abu,Twice in week,2,34,26738,703,22,22,4,20,63,9,2,2019
+31,83331,Yoga Express,10,2,6,Wed,Udaipur,Dli,JDP,Twice in week,4,17,16595,703,27,20,4,16,68,2,10,2021
+32,49723,Garbi Rath,25,3,11,Wed,Udaipur,Jpr,Dli,Daily,4,25,10970,703,24,21,1,22,70,26,2,2020
+33,77592,Yoga Express,27,2,6,Wed,Udaipur,Jpr,Pali,Weekly,1,29,27436,703,21,28,1,21,65,5,11,2020
+34,90722,Chetak Express,13,3,5,Mon,Udaipur,Mount Abu,Jpr,Twice in week,4,7,19102,703,26,26,2,21,63,26,11,2021
+35,87850,Dee Rzt Exp,24,1,13,Sat,Udaipur,Jpr,Dli,Daily,5,17,17001,703,24,22,4,12,67,24,3,2021
+36,53908,Vande Bharat Express,17,3,14,Wed,Udaipur,Mount Abu,BKN,Weekly,3,8,10668,703,29,21,1,6,70,9,10,2020
+37,75081,ALL Puri SF Express,20,2,7,Mon,Udaipur,JDP,BKN,Twice in week,3,16,16236,703,27,27,3,23,71,19,1,2019
+38,53725,Yoga Express,12,2,5,Fri,Udaipur,JDP,Mount Abu,Twice in week,3,13,21951,703,21,28,1,17,60,20,2,2022
+39,31367,Double Decker,12,1,7,Tue,Udaipur,Pali,Jpr,Daily,5,18,18170,703,28,26,3,10,60,11,1,2020
+40,44953,Garbi Rath,27,1,14,Sun,Udaipur,Mount Abu,UDP,Daily,1,25,25623,703,21,21,4,18,62,16,5,2021
+41,44714,Dee Rzt Exp,18,1,5,Sun,Udaipur,Dli,Jpr,Daily,1,19,20494,703,29,28,3,14,60,3,3,2019
+42,99834,Humsafar Express,28,1,10,Wed,Udaipur,Mount Abu,UDP,Daily,2,18,21639,703,25,25,4,14,66,18,7,2020
+43,29378,Chetak Express,22,3,10,Mon,Udaipur,JDP,BKN,Daily,5,10,26424,703,21,29,1,6,68,21,9,2019
+44,98650,Humsafar Express,20,1,14,Sat,Udaipur,JDP,Jpr,Daily,2,31,23496,703,22,21,1,13,65,29,5,2019
+45,35190,Garbi Rath,23,2,8,Tue,Udaipur,Pali,BKN,Twice in week,5,12,20914,703,26,23,2,12,63,26,7,2021
+46,74733,Dee Rzt Exp,16,1,11,Mon,Udaipur,UDP,JDP,Twice in week,5,28,17538,703,24,29,4,20,66,29,9,2020
+47,52079,Chetak Express,12,3,5,Thu,Udaipur,JDP,Mount Abu,Daily,3,15,17616,703,27,24,3,22,62,23,6,2020
+48,80757,Vande Bharat Express,26,2,9,Tue,Udaipur,JDP,Dli,Twice in week,1,15,17381,703,24,23,1,18,66,6,10,2019
+49,63142,Garbi Rath,21,2,13,Tue,Udaipur,BKN,Mount Abu,Weekly,3,4,24474,703,20,26,4,12,66,19,3,2021
+50,51606,Shatabdi Express,12,1,10,Mon,Udaipur,BKN,Mount Abu,Daily,1,19,12534,703,27,20,2,9,70,6,2,2019
+51,99046,ALL Puri SF Express,26,1,13,Sat,Udaipur,Pali,UDP,Daily,4,22,25642,703,21,28,1,18,68,23,4,2021
+52,65314,Rajdhani Express,20,1,11,Wed,Udaipur,Mount Abu,BKN,Weekly,5,10,22646,703,20,23,1,17,60,21,10,2022
+53,22144,Chetak Express,11,2,14,Wed,Udaipur,BKN,Dli,Weekly,3,16,24465,703,29,27,1,16,70,2,8,2019
+54,82032,Double Decker,14,2,7,Wed,Udaipur,Mount Abu,BKN,Daily,1,23,23259,703,20,26,1,8,70,10,5,2022
+55,77789,Garbi Rath,10,1,8,Sat,Udaipur,UDP,UDP,Weekly,4,26,28720,703,23,23,2,22,61,2,4,2021
+56,23032,Rajdhani Express,17,2,13,Sun,Udaipur,UDP,UDP,Daily,1,25,16941,703,22,21,1,17,68,11,8,2020
+57,50794,Dee Rzt Exp,15,1,12,Mon,Udaipur,Jpr,Mount Abu,Twice in week,5,12,29371,703,24,27,1,20,63,18,8,2022
+58,33326,Yoga Express,25,1,12,Thu,Udaipur,Dli,Dli,Daily,2,4,25832,703,21,26,4,10,71,19,8,2021
+59,38133,Vande Bharat Express,13,2,13,Sat,Udaipur,Jpr,Pali,Weekly,2,34,29761,703,24,23,4,6,61,7,7,2019
+60,15168,ALL Puri SF Express,12,2,13,Sun,Udaipur,Pali,Pali,Twice in week,5,15,17586,703,27,21,2,7,66,8,5,2021
+61,74479,Yoga Express,23,1,13,Sat,Udaipur,Dli,BKN,Weekly,3,23,13585,703,20,29,2,15,66,7,4,2022
+62,83536,Garbi Rath,14,2,5,Fri,Udaipur,Jpr,Mount Abu,Daily,5,20,26230,703,29,20,3,12,68,17,11,2022
+63,62556,Vande Bharat Express,16,3,13,Mon,Udaipur,Dli,UDP,Daily,5,22,25887,703,21,23,1,6,62,18,7,2021
+64,80459,Double Decker,19,1,5,Tue,Udaipur,JDP,Dli,Daily,5,28,15050,703,29,27,4,11,60,17,3,2019
+65,50923,Dee Rzt Exp,10,3,5,Wed,Udaipur,Dli,Dli,Weekly,2,8,20914,703,24,24,1,14,64,4,6,2020
+66,53791,Dee Rzt Exp,14,2,10,Thu,Udaipur,Pali,Jpr,Daily,2,10,27833,703,28,22,2,6,62,4,9,2021
+67,26381,Humsafar Express,16,3,14,Fri,Udaipur,JDP,Dli,Daily,5,21,17355,703,21,22,4,20,70,22,10,2020
+68,72799,Double Decker,13,2,12,Tue,Udaipur,Jpr,BKN,Daily,3,27,21417,703,21,22,1,16,71,27,8,2019
+69,88157,Chetak Express,25,1,7,Sun,Udaipur,Mount Abu,BKN,Daily,3,25,17559,703,29,23,1,19,62,15,3,2022
+70,21823,Rajdhani Express,17,1,8,Wed,Udaipur,BKN,Mount Abu,Weekly,5,22,18702,703,21,24,2,4,62,10,2,2022
+71,40378,Double Decker,11,2,8,Fri,Udaipur,Dli,UDP,Twice in week,3,7,10772,703,24,29,1,23,63,17,5,2021
+72,53718,Shatabdi Express,12,1,12,Wed,Udaipur,Dli,Dli,Daily,2,11,11811,703,29,24,2,18,60,20,9,2020
+73,83979,Double Decker,26,2,5,Wed,Udaipur,JDP,BKN,Daily,5,3,13001,703,25,24,4,6,66,22,9,2020
+74,36910,Chetak Express,23,1,14,Fri,Udaipur,JDP,BKN,Twice in week,1,22,28869,703,21,20,2,10,62,17,5,2021
+75,77108,Humsafar Express,12,2,8,Fri,Udaipur,BKN,Dli,Twice in week,4,20,29548,703,22,24,4,5,68,9,6,2022
+76,14942,Humsafar Express,23,3,9,Mon,Udaipur,Dli,Pali,Twice in week,3,31,19877,703,23,28,4,12,66,11,3,2021
+77,19363,Vande Bharat Express,15,2,12,Sat,Udaipur,UDP,JDP,Daily,4,16,20383,703,24,21,3,17,64,19,2,2020
+78,63449,Dee Rzt Exp,17,2,5,Sun,Udaipur,Dli,Jpr,Twice in week,2,8,23854,703,26,21,2,23,66,30,10,2021
+79,45563,Rajdhani Express,25,3,6,Mon,Udaipur,Dli,Jpr,Weekly,3,10,17641,703,28,24,2,16,62,6,5,2019
+80,76138,Vande Bharat Express,27,3,5,Tue,Udaipur,UDP,Pali,Twice in week,5,12,25471,703,23,22,2,16,68,26,10,2021
+81,53859,Double Decker,13,2,6,Sat,Udaipur,Pali,BKN,Daily,4,31,29792,703,27,29,2,9,66,14,11,2021
+82,79629,Garbi Rath,27,1,6,Sat,Udaipur,JDP,BKN,Weekly,5,13,26338,703,24,20,4,9,71,25,7,2021
+83,91085,Double Decker,16,3,11,Mon,Udaipur,JDP,JDP,Twice in week,1,3,16387,703,22,27,4,11,61,7,2,2019
+84,39827,Rajdhani Express,20,2,8,Wed,Udaipur,Mount Abu,Pali,Weekly,5,9,29873,703,23,27,4,12,66,29,7,2020
+85,42919,Humsafar Express,19,3,13,Fri,Udaipur,JDP,Pali,Daily,3,29,12998,703,24,22,2,15,60,13,7,2021
+86,62442,Garbi Rath,12,1,12,Sat,Udaipur,JDP,JDP,Daily,4,5,20471,703,25,24,3,12,71,12,7,2021
+87,14223,Dee Rzt Exp,17,3,10,Sat,Udaipur,Dli,UDP,Daily,3,3,25091,703,28,20,4,10,65,9,5,2022
+88,18622,ALL Puri SF Express,17,2,5,Sat,Udaipur,Pali,Mount Abu,Weekly,3,18,22211,703,27,27,2,22,60,14,7,2019
+89,91833,Dee Rzt Exp,28,3,7,Mon,Udaipur,JDP,Jpr,Daily,5,24,27588,703,23,20,3,11,69,21,4,2020
+90,49877,Humsafar Express,12,1,9,Thu,Udaipur,Dli,Dli,Daily,2,15,22810,703,24,24,1,23,64,3,3,2021
+91,66821,Garbi Rath,14,2,10,Sun,Udaipur,Pali,BKN,Weekly,5,15,24951,703,24,26,2,8,69,28,4,2021
+92,82518,Chetak Express,23,3,9,Sat,Udaipur,Dli,Pali,Twice in week,3,4,23654,703,21,28,3,20,65,24,6,2019
+93,79390,Chetak Express,19,1,11,Tue,Udaipur,BKN,UDP,Twice in week,1,24,28101,703,25,29,1,11,61,23,7,2022
+94,36159,Shatabdi Express,18,3,5,Mon,Udaipur,Dli,UDP,Daily,2,17,22557,703,29,22,4,4,70,9,1,2020
+95,53239,ALL Puri SF Express,27,2,8,Thu,Udaipur,Jpr,Pali,Weekly,3,17,13229,703,23,22,3,13,62,11,6,2020
+96,41869,Rajdhani Express,24,2,13,Sun,Udaipur,Jpr,BKN,Twice in week,3,4,20031,703,22,27,3,15,66,27,8,2019
+97,87482,ALL Puri SF Express,16,2,14,Sun,Udaipur,Dli,UDP,Daily,1,18,18962,703,22,24,1,18,66,20,11,2022
+98,32631,Chetak Express,18,1,9,Tue,Udaipur,UDP,Jpr,Weekly,4,25,19684,703,20,27,3,16,61,2,3,2021
+99,98367,Dee Rzt Exp,24,3,6,Sun,Udaipur,Jpr,JDP,Twice in week,1,20,13022,703,27,26,2,15,63,4,9,2021
+100,17524,ALL Puri SF Express,14,3,7,Fri,Udaipur,JDP,Jpr,Weekly,4,7,14559,703,23,24,2,22,64,30,4,2020
+101,13867,Yoga Express,29,2,9,Sun,Udaipur,JDP,UDP,Twice in week,1,16,15191,703,23,21,2,18,69,16,7,2020
+102,67164,ALL Puri SF Express,25,3,13,Sat,Udaipur,Pali,JDP,Twice in week,4,23,18040,703,21,20,2,16,61,22,3,2021
+103,29213,Double Decker,20,2,5,Fri,Udaipur,BKN,BKN,Daily,2,29,25241,703,24,25,3,16,63,5,11,2022
+104,26521,Yoga Express,27,1,9,Mon,Udaipur,Jpr,Mount Abu,Twice in week,5,17,22053,703,22,20,1,19,67,12,5,2022
+105,76994,Rajdhani Express,12,1,13,Fri,Udaipur,Pali,Mount Abu,Daily,4,19,15512,703,29,23,2,13,64,20,4,2021
+106,63698,Rajdhani Express,17,2,9,Mon,Udaipur,BKN,UDP,Twice in week,2,24,19004,703,23,25,4,22,62,5,3,2021
+107,66391,Dee Rzt Exp,22,2,13,Fri,Udaipur,UDP,Pali,Daily,1,31,14979,703,25,29,4,13,65,22,5,2021
+108,74176,Rajdhani Express,11,2,13,Sun,Udaipur,JDP,Pali,Weekly,5,8,16285,703,20,28,1,9,61,22,5,2022
+109,29639,Humsafar Express,19,2,10,Tue,Udaipur,BKN,JDP,Weekly,3,15,29928,703,27,20,1,4,66,7,9,2019
+110,68017,ALL Puri SF Express,11,2,9,Tue,Udaipur,Mount Abu,Jpr,Twice in week,5,4,19435,703,23,27,4,19,60,14,10,2019
+111,82495,Dee Rzt Exp,29,2,7,Fri,Udaipur,UDP,Pali,Twice in week,4,11,28578,703,29,25,3,21,60,10,8,2019
+112,51732,Vande Bharat Express,14,3,14,Sun,Udaipur,Mount Abu,Mount Abu,Daily,3,8,24612,703,23,26,2,8,60,7,2,2019
+113,82510,Dee Rzt Exp,14,2,10,Tue,Udaipur,BKN,Dli,Twice in week,3,3,19218,703,20,28,4,19,69,26,5,2022
+114,23227,Double Decker,11,2,12,Fri,Udaipur,Pali,Dli,Weekly,4,11,20123,703,20,21,1,4,67,28,5,2022
+115,54345,Rajdhani Express,15,1,7,Sun,Udaipur,Mount Abu,Mount Abu,Twice in week,5,5,23067,703,29,23,4,22,69,12,10,2019
+116,60276,Shatabdi Express,27,1,11,Thu,Udaipur,Dli,Dli,Daily,5,7,11256,703,20,22,3,19,68,21,7,2021
+117,90797,Garbi Rath,29,1,12,Mon,Udaipur,Jpr,Jpr,Daily,1,32,29589,703,20,21,1,15,67,2,4,2019
+118,90584,Vande Bharat Express,23,3,12,Fri,Udaipur,Dli,Dli,Daily,1,27,13289,703,27,23,1,17,61,3,11,2021
+119,43456,ALL Puri SF Express,25,2,9,Thu,Udaipur,JDP,JDP,Daily,2,31,18610,703,28,25,4,12,65,19,1,2019
+120,67611,Humsafar Express,27,2,5,Thu,Udaipur,UDP,Jpr,Twice in week,3,21,23612,703,21,25,1,8,60,22,9,2021
+121,50693,Rajdhani Express,29,2,7,Tue,Udaipur,Jpr,Jpr,Twice in week,4,11,12993,703,28,27,4,4,66,16,7,2019
+122,89219,Shatabdi Express,25,2,5,Thu,Udaipur,Dli,Mount Abu,Twice in week,5,22,24549,703,23,28,3,9,70,14,10,2019
+123,45101,Dee Rzt Exp,24,1,13,Sun,Udaipur,Jpr,Dli,Weekly,1,32,15558,703,21,20,2,8,70,28,9,2019
+124,67893,Double Decker,28,2,6,Thu,Udaipur,Pali,Dli,Twice in week,2,24,10501,703,21,23,2,16,62,5,6,2021
+125,99342,Garbi Rath,21,2,7,Sat,Udaipur,Mount Abu,Pali,Daily,4,26,10252,703,26,25,4,7,60,22,10,2019
+126,26881,ALL Puri SF Express,27,3,6,Thu,Udaipur,Jpr,Mount Abu,Daily,2,4,17105,703,20,26,1,23,71,20,4,2020
+127,14980,Garbi Rath,23,1,9,Sat,Udaipur,UDP,Pali,Weekly,3,28,20506,703,26,22,3,5,62,24,9,2020
+128,73551,Rajdhani Express,21,2,11,Tue,Udaipur,BKN,Mount Abu,Weekly,3,4,17165,703,29,27,2,13,60,12,3,2020
+129,72941,Vande Bharat Express,19,2,6,Thu,Udaipur,Jpr,Jpr,Daily,5,21,10437,703,29,29,2,4,69,14,9,2022
+130,20766,Vande Bharat Express,10,2,9,Sat,Udaipur,Jpr,JDP,Weekly,4,5,24175,703,22,22,3,5,61,21,1,2019
+131,45256,Dee Rzt Exp,14,1,6,Tue,Udaipur,Dli,Jpr,Weekly,4,15,19485,703,21,24,3,22,61,6,6,2022
+132,19700,Rajdhani Express,14,1,13,Mon,Udaipur,Mount Abu,BKN,Weekly,1,15,18425,703,23,29,3,8,67,11,11,2019
+133,42856,Chetak Express,17,2,7,Mon,Udaipur,Jpr,Pali,Daily,4,3,18479,703,23,26,2,14,66,6,10,2021
+134,25524,Shatabdi Express,13,3,10,Sun,Udaipur,JDP,UDP,Weekly,5,3,22221,703,29,25,1,17,71,23,3,2020
+135,44281,Garbi Rath,24,1,7,Wed,Udaipur,UDP,Dli,Daily,1,15,19260,703,26,27,1,10,65,15,4,2022
+136,39652,Garbi Rath,21,2,7,Mon,Udaipur,BKN,Dli,Twice in week,4,34,20003,703,21,21,2,15,67,13,5,2022
+137,12162,Rajdhani Express,17,2,5,Thu,Udaipur,Jpr,BKN,Weekly,5,7,29548,703,22,24,3,4,63,5,3,2020
+138,51019,ALL Puri SF Express,24,3,10,Fri,Udaipur,Pali,UDP,Twice in week,5,10,12795,703,21,24,4,10,69,17,7,2020
+139,96062,Yoga Express,12,2,9,Mon,Udaipur,JDP,Jpr,Daily,3,5,15711,703,22,21,1,10,67,15,11,2020
+140,94803,Garbi Rath,10,3,11,Wed,Udaipur,BKN,JDP,Weekly,5,29,27621,703,29,23,1,21,71,13,2,2020
+141,87885,Shatabdi Express,28,3,13,Thu,Udaipur,BKN,Jpr,Daily,4,33,25038,703,25,21,3,8,61,12,4,2021
+142,60534,Shatabdi Express,29,2,9,Sun,Udaipur,UDP,Mount Abu,Daily,1,32,27998,703,29,22,3,19,67,20,5,2021
+143,73293,ALL Puri SF Express,11,2,9,Tue,Udaipur,BKN,JDP,Weekly,4,13,22230,703,26,27,1,11,60,1,6,2021
+144,92689,Garbi Rath,22,2,12,Wed,Udaipur,Dli,JDP,Twice in week,2,25,19840,703,27,20,1,12,70,27,2,2019
+145,94605,Vande Bharat Express,18,1,11,Tue,Udaipur,Dli,BKN,Twice in week,1,27,11275,703,27,26,1,8,69,15,2,2020
+146,20383,Double Decker,19,3,5,Wed,Udaipur,UDP,Mount Abu,Twice in week,4,33,10135,703,27,20,1,18,62,30,1,2019
+147,49129,Humsafar Express,21,3,9,Sat,Udaipur,Dli,BKN,Twice in week,2,21,23221,703,24,23,1,18,68,7,3,2022
+148,27461,Yoga Express,15,3,9,Sun,Udaipur,UDP,JDP,Weekly,1,30,23220,703,22,29,4,22,68,9,8,2021
+149,44491,Vande Bharat Express,12,3,9,Wed,Udaipur,BKN,BKN,Twice in week,2,24,16443,703,24,24,3,11,65,9,3,2019
+150,53150,Dee Rzt Exp,14,3,10,Tue,Udaipur,UDP,Pali,Weekly,4,17,27698,703,26,22,3,12,69,2,10,2019
+151,72489,ALL Puri SF Express,20,2,12,Thu,Udaipur,UDP,Jpr,Twice in week,3,21,29108,703,20,29,2,18,61,19,2,2021
+152,39537,Yoga Express,23,3,5,Tue,Udaipur,UDP,UDP,Daily,4,11,10202,703,24,26,1,6,61,14,5,2019
+153,68474,ALL Puri SF Express,14,2,7,Wed,Udaipur,Dli,Dli,Daily,1,29,11358,703,23,25,2,9,70,6,9,2022
+154,95476,Yoga Express,27,2,8,Thu,Udaipur,Dli,Dli,Daily,2,24,20838,703,25,22,2,20,68,10,11,2020
+155,38581,Shatabdi Express,15,3,7,Sun,Udaipur,BKN,Mount Abu,Daily,4,34,17132,703,24,27,1,16,68,3,5,2021
+156,29431,ALL Puri SF Express,27,2,7,Thu,Udaipur,Jpr,Jpr,Twice in week,1,23,23107,703,24,25,3,7,60,5,10,2019
+157,13761,Double Decker,29,1,5,Thu,Udaipur,Mount Abu,JDP,Daily,3,18,12612,703,21,23,2,21,69,30,3,2019
+158,94845,Shatabdi Express,24,1,10,Sat,Udaipur,Mount Abu,JDP,Twice in week,2,30,13185,703,22,25,4,21,62,17,8,2022
+159,65082,Dee Rzt Exp,18,3,8,Fri,Udaipur,Mount Abu,UDP,Twice in week,1,31,22561,703,28,26,1,23,67,26,10,2022
+160,47699,ALL Puri SF Express,15,2,8,Sun,Udaipur,Mount Abu,Dli,Daily,2,10,23876,703,23,25,4,16,66,16,8,2022
+161,84622,Double Decker,17,1,13,Mon,Udaipur,UDP,UDP,Twice in week,1,15,14223,703,23,25,4,5,69,16,4,2019
+162,64807,Humsafar Express,24,3,14,Fri,Udaipur,Pali,Mount Abu,Twice in week,2,28,15504,703,29,23,2,12,60,14,6,2020
+163,76313,Double Decker,20,2,12,Sat,Udaipur,Mount Abu,UDP,Twice in week,1,29,26424,703,29,28,2,16,65,22,2,2019
+164,57079,Yoga Express,18,1,5,Wed,Udaipur,UDP,JDP,Weekly,2,18,19600,703,27,28,4,6,69,21,11,2020
+165,67677,Humsafar Express,16,2,7,Thu,Udaipur,Pali,Dli,Twice in week,2,27,23553,703,21,21,3,6,71,6,10,2020
+166,53880,Rajdhani Express,14,3,14,Sat,Udaipur,Jpr,Mount Abu,Twice in week,2,23,10705,703,21,27,1,4,60,9,2,2022
+167,35287,Humsafar Express,20,2,13,Sat,Udaipur,BKN,Pali,Weekly,1,9,12289,703,20,23,4,16,67,15,7,2019
+168,10480,ALL Puri SF Express,14,1,7,Fri,Udaipur,BKN,BKN,Twice in week,1,12,20122,703,25,20,2,9,63,13,9,2021
+169,80320,Humsafar Express,12,1,5,Fri,Udaipur,Pali,BKN,Weekly,2,34,28930,703,23,29,2,16,62,27,6,2019
+170,14021,Garbi Rath,28,1,7,Thu,Udaipur,Jpr,JDP,Twice in week,4,13,16774,703,26,23,1,22,68,9,7,2021
+171,50534,Rajdhani Express,21,1,11,Sun,Udaipur,Pali,Dli,Daily,2,29,26403,703,26,29,1,8,64,2,6,2019
+172,96720,Humsafar Express,12,1,7,Mon,Udaipur,Dli,UDP,Weekly,3,11,23867,703,28,29,2,16,60,24,8,2021
+173,89111,Garbi Rath,13,1,12,Mon,Udaipur,Pali,Jpr,Weekly,4,15,24619,703,22,21,2,20,64,5,1,2019
+174,62603,Chetak Express,14,2,8,Fri,Udaipur,Dli,Mount Abu,Twice in week,2,26,12874,703,22,25,1,6,65,17,10,2021
+175,23342,Vande Bharat Express,24,1,12,Tue,Udaipur,Dli,JDP,Weekly,4,26,27965,703,25,27,3,17,69,1,5,2022
+176,62566,Rajdhani Express,29,2,7,Mon,Udaipur,Jpr,JDP,Daily,5,23,11771,703,25,25,2,17,64,16,3,2021
+177,30255,Yoga Express,17,2,11,Sat,Udaipur,Dli,UDP,Weekly,5,24,15435,703,27,23,2,12,62,17,11,2020
+178,40857,Shatabdi Express,12,2,7,Sat,Udaipur,Jpr,Dli,Weekly,4,21,18344,703,23,25,3,17,61,14,7,2019
+179,69836,Humsafar Express,24,1,9,Sat,Udaipur,Mount Abu,UDP,Daily,1,5,16233,703,24,28,1,7,64,9,2,2021
+180,71547,Double Decker,23,1,11,Mon,Udaipur,UDP,BKN,Weekly,4,18,15626,703,22,25,2,14,61,8,9,2022
+181,49256,Vande Bharat Express,19,1,10,Wed,Udaipur,Mount Abu,Mount Abu,Twice in week,1,14,20318,703,20,22,2,15,69,28,7,2019
+182,41788,Rajdhani Express,24,1,10,Sun,Udaipur,Dli,BKN,Daily,5,24,10965,703,23,22,1,14,65,18,11,2019
+183,90970,Dee Rzt Exp,29,3,8,Tue,Udaipur,Jpr,Mount Abu,Weekly,1,18,13815,703,26,22,1,5,63,20,8,2020
+184,79253,Double Decker,11,2,6,Wed,Udaipur,Jpr,Pali,Daily,1,7,13136,703,26,26,2,20,64,23,7,2020
+185,59743,Garbi Rath,28,2,8,Fri,Udaipur,UDP,JDP,Twice in week,3,28,16715,703,26,29,1,6,63,26,9,2021
+186,68731,Dee Rzt Exp,27,3,12,Mon,Udaipur,UDP,Dli,Daily,1,18,19452,703,25,20,3,8,66,16,1,2020
+187,51558,Humsafar Express,22,2,10,Sun,Udaipur,Dli,Mount Abu,Weekly,5,22,28198,703,23,28,3,20,61,14,5,2022
+188,38052,Shatabdi Express,24,2,10,Sat,Udaipur,Dli,UDP,Daily,4,28,28409,703,23,22,2,7,67,30,3,2020
+189,76720,Dee Rzt Exp,26,2,7,Thu,Udaipur,Dli,UDP,Daily,5,20,20257,703,22,28,1,11,65,28,4,2020
+190,29578,Humsafar Express,19,1,12,Tue,Udaipur,Dli,Jpr,Weekly,4,30,22422,703,20,24,3,16,65,18,3,2020
+191,29059,Garbi Rath,24,2,13,Fri,Udaipur,Mount Abu,JDP,Weekly,4,7,25745,703,22,21,2,20,61,10,11,2021
+192,45747,Dee Rzt Exp,18,3,8,Sat,Udaipur,UDP,JDP,Twice in week,5,25,28006,703,23,20,4,11,71,18,9,2019
+193,68198,Double Decker,20,2,10,Mon,Udaipur,UDP,Pali,Weekly,3,16,23330,703,23,26,4,5,60,30,2,2019
+194,53315,Rajdhani Express,28,3,12,Mon,Udaipur,UDP,Jpr,Twice in week,5,9,21964,703,21,20,3,21,68,28,4,2022
+195,35496,Dee Rzt Exp,28,3,7,Wed,Udaipur,JDP,Pali,Weekly,2,16,18941,703,21,27,3,18,70,11,2,2021
+196,46000,Humsafar Express,11,1,5,Fri,Udaipur,Dli,BKN,Twice in week,5,3,25915,703,23,21,3,5,71,10,7,2021
+197,47372,Yoga Express,27,1,12,Sun,Udaipur,Dli,BKN,Twice in week,5,11,23086,703,20,20,1,13,64,25,9,2019
+198,27979,Dee Rzt Exp,23,1,6,Mon,Udaipur,Dli,JDP,Twice in week,2,4,12662,703,25,23,1,11,71,17,3,2021
+199,67403,Shatabdi Express,14,1,9,Sun,Udaipur,Mount Abu,Dli,Twice in week,4,14,29310,703,22,22,1,11,69,20,6,2022
+200,82664,ALL Puri SF Express,24,2,14,Fri,Udaipur,Jpr,UDP,Daily,2,10,10137,703,28,23,4,6,71,2,5,2020
+201,87674,Dee Rzt Exp,22,1,11,Thu,Udaipur,Jpr,Jpr,Twice in week,1,30,22058,703,29,21,4,18,68,27,3,2020
+202,49858,Vande Bharat Express,15,2,5,Tue,Udaipur,UDP,Dli,Daily,1,9,18528,703,22,29,2,17,64,1,2,2019
+203,53577,Rajdhani Express,20,2,14,Mon,Udaipur,JDP,JDP,Daily,1,7,20979,703,23,27,2,14,65,1,7,2022
+204,24180,ALL Puri SF Express,18,1,11,Thu,Udaipur,UDP,Dli,Daily,4,22,29743,703,28,28,3,5,70,3,4,2019
+205,71274,Shatabdi Express,12,3,5,Mon,Udaipur,UDP,Dli,Daily,1,22,12155,703,29,25,1,22,64,25,8,2019
+206,85338,Garbi Rath,16,2,13,Tue,Udaipur,Pali,Mount Abu,Weekly,5,17,24436,703,20,26,2,18,67,30,11,2022
+207,89395,Rajdhani Express,27,3,12,Fri,Udaipur,Mount Abu,Dli,Daily,1,5,24928,703,29,26,1,13,64,14,9,2022
+208,62718,Rajdhani Express,17,2,12,Wed,Udaipur,BKN,BKN,Weekly,3,7,10421,703,27,23,3,14,65,15,1,2022
+209,28309,Garbi Rath,19,3,7,Tue,Udaipur,Dli,Jpr,Twice in week,2,3,20178,703,25,26,4,15,64,6,6,2019
+210,47870,Yoga Express,19,2,9,Sun,Udaipur,UDP,JDP,Twice in week,3,5,26107,703,28,22,3,18,62,25,11,2022
+211,70611,ALL Puri SF Express,26,3,11,Mon,Udaipur,JDP,UDP,Twice in week,2,30,24511,703,25,29,4,9,69,2,5,2020
+212,89427,Double Decker,22,2,14,Sun,Udaipur,JDP,Mount Abu,Daily,1,18,18813,703,23,29,4,20,71,10,7,2019
+213,54212,Rajdhani Express,20,2,10,Thu,Udaipur,BKN,Dli,Weekly,2,21,27807,703,27,22,4,17,65,25,8,2022
+214,19508,Garbi Rath,19,2,9,Fri,Udaipur,Jpr,Dli,Twice in week,1,26,25717,703,20,21,3,15,65,18,2,2019
+215,90206,Humsafar Express,24,2,14,Mon,Udaipur,Jpr,BKN,Weekly,1,21,18174,703,24,23,4,16,62,12,3,2020
+216,11978,Vande Bharat Express,25,1,10,Sun,Udaipur,Dli,JDP,Daily,1,20,22079,703,20,20,4,10,66,14,4,2020
+217,35715,Vande Bharat Express,11,3,14,Mon,Udaipur,Jpr,Jpr,Twice in week,3,7,10833,703,22,23,2,7,66,23,6,2021
+218,28833,Double Decker,29,1,5,Fri,Udaipur,JDP,Jpr,Weekly,1,22,17853,703,28,22,2,10,62,28,9,2019
+219,68691,Humsafar Express,12,2,12,Mon,Udaipur,JDP,UDP,Weekly,1,16,28404,703,26,21,4,18,63,29,3,2022
+220,53449,Humsafar Express,23,2,12,Sun,Udaipur,Dli,BKN,Twice in week,2,7,13737,703,29,20,4,8,68,14,4,2019
+221,67715,Shatabdi Express,21,1,12,Tue,Udaipur,Mount Abu,Mount Abu,Twice in week,5,27,18258,703,20,23,2,6,61,14,4,2019
+222,37211,Dee Rzt Exp,15,2,13,Fri,Udaipur,Pali,JDP,Twice in week,5,21,23046,703,29,21,2,21,68,25,3,2022
+223,95712,Garbi Rath,29,3,14,Thu,Udaipur,Pali,BKN,Twice in week,5,19,21439,703,28,25,2,4,66,13,11,2022
+224,10470,ALL Puri SF Express,14,3,8,Sat,Udaipur,Mount Abu,UDP,Twice in week,3,26,11311,703,25,23,1,14,70,22,7,2022
+225,88541,Garbi Rath,19,2,8,Thu,Udaipur,Dli,Dli,Twice in week,2,33,23172,703,23,22,2,23,71,6,1,2020
+226,49950,Dee Rzt Exp,10,1,12,Sun,Udaipur,Jpr,Mount Abu,Daily,4,8,28125,703,20,27,4,15,70,28,5,2021
+227,16590,Humsafar Express,28,3,9,Wed,Udaipur,JDP,Pali,Daily,1,4,14258,703,25,29,2,5,68,17,9,2019
+228,88252,Double Decker,27,1,5,Thu,Udaipur,Dli,Mount Abu,Twice in week,4,19,17444,703,23,20,4,21,68,7,8,2020
+229,83366,Garbi Rath,12,2,14,Sun,Udaipur,Jpr,BKN,Daily,3,5,18099,703,23,24,3,4,65,8,8,2021
+230,13813,Rajdhani Express,21,2,14,Fri,Udaipur,BKN,Mount Abu,Twice in week,1,28,27535,703,22,20,3,21,71,27,4,2022
+231,76498,Chetak Express,15,3,10,Mon,Udaipur,Jpr,Pali,Weekly,2,5,28464,703,21,28,3,12,60,30,9,2020
+232,54654,Rajdhani Express,26,2,5,Wed,Udaipur,BKN,Dli,Daily,3,23,12164,703,23,29,1,9,70,11,3,2021
+233,87513,Yoga Express,26,1,6,Thu,Udaipur,Mount Abu,BKN,Daily,3,15,28845,703,24,24,3,23,63,19,2,2022
+234,71666,Humsafar Express,14,1,9,Fri,Udaipur,BKN,Pali,Weekly,5,22,16042,703,28,23,4,5,68,10,1,2019
+235,75297,Shatabdi Express,26,2,10,Tue,Udaipur,JDP,Pali,Weekly,3,5,17503,703,21,22,3,19,63,24,5,2022
+236,33794,Chetak Express,25,3,11,Sat,Udaipur,BKN,Pali,Daily,5,8,20985,703,26,22,1,7,64,16,7,2019
+237,75169,Chetak Express,11,3,11,Sat,Udaipur,BKN,Pali,Daily,3,34,20748,703,22,27,4,18,69,5,2,2022
+238,46875,Shatabdi Express,10,2,7,Sat,Udaipur,Dli,Pali,Daily,1,33,18423,703,25,22,3,7,70,21,2,2022
+239,61742,Garbi Rath,11,2,6,Tue,Udaipur,Pali,BKN,Twice in week,4,13,10392,703,26,20,4,13,67,3,1,2022
+240,69354,Humsafar Express,15,3,5,Wed,Udaipur,Mount Abu,Pali,Weekly,4,20,14487,703,29,21,1,14,61,25,2,2019
+241,69945,ALL Puri SF Express,10,1,5,Sat,Udaipur,JDP,UDP,Weekly,5,16,26321,703,27,29,2,23,68,18,5,2022
+242,90493,Dee Rzt Exp,10,2,10,Wed,Udaipur,UDP,BKN,Twice in week,5,15,22210,703,29,26,3,20,71,11,6,2022
+243,66931,ALL Puri SF Express,15,3,8,Tue,Udaipur,Jpr,Pali,Daily,5,16,26341,703,24,26,2,13,64,22,7,2021
+244,85270,Chetak Express,13,1,6,Fri,Udaipur,UDP,Mount Abu,Weekly,4,32,25225,703,29,25,2,15,61,21,9,2021
+245,36259,Double Decker,15,3,8,Sun,Udaipur,Jpr,UDP,Twice in week,2,3,24866,703,24,23,2,12,62,1,1,2020
+246,40164,ALL Puri SF Express,20,2,6,Thu,Udaipur,Mount Abu,UDP,Weekly,1,11,10467,703,22,26,2,5,71,20,8,2022
+247,23847,Yoga Express,11,1,5,Mon,Udaipur,Pali,BKN,Daily,5,32,17553,703,21,21,4,6,61,16,4,2022
+248,16544,Rajdhani Express,12,3,11,Tue,Udaipur,JDP,Jpr,Twice in week,3,34,11351,703,23,25,4,13,70,16,3,2022
+249,40891,Rajdhani Express,23,2,8,Fri,Udaipur,Pali,Mount Abu,Twice in week,5,31,10308,703,23,21,4,15,61,10,4,2020
+250,99066,Vande Bharat Express,21,1,10,Sat,Udaipur,Jpr,BKN,Twice in week,5,7,13514,703,22,25,2,9,68,30,10,2021
+251,22609,Humsafar Express,23,2,11,Wed,Udaipur,BKN,BKN,Weekly,3,24,10875,703,26,29,1,21,60,26,1,2021
+252,69592,Rajdhani Express,10,1,10,Fri,Udaipur,BKN,Mount Abu,Weekly,5,24,10114,703,24,25,2,17,66,20,10,2022
+253,84270,Chetak Express,22,3,7,Sun,Udaipur,BKN,Pali,Weekly,2,32,17812,703,23,25,2,20,66,10,9,2022
+254,70426,Shatabdi Express,13,1,5,Mon,Udaipur,Dli,Pali,Daily,2,12,18820,703,25,28,2,13,61,5,11,2021
+255,86553,Double Decker,21,1,10,Thu,Udaipur,Pali,Dli,Weekly,5,21,29188,703,29,25,4,23,62,21,1,2021
+256,11193,ALL Puri SF Express,10,3,12,Fri,Udaipur,BKN,JDP,Weekly,5,25,10028,703,24,24,3,16,61,30,8,2022
+257,47119,Yoga Express,19,1,12,Fri,Udaipur,JDP,Dli,Weekly,5,24,19029,703,28,28,4,18,69,19,4,2019
+258,28325,Dee Rzt Exp,23,1,11,Thu,Udaipur,Jpr,Mount Abu,Daily,1,24,18605,703,27,20,2,9,66,25,11,2019
+259,53325,Dee Rzt Exp,18,1,13,Mon,Udaipur,Dli,Jpr,Twice in week,3,19,13997,703,28,22,1,8,68,4,10,2022
+260,58607,Rajdhani Express,24,2,10,Mon,Udaipur,BKN,UDP,Twice in week,5,21,12327,703,22,27,1,21,70,7,4,2022
+261,99206,Yoga Express,26,1,14,Sat,Udaipur,Mount Abu,Dli,Twice in week,5,28,16610,703,26,23,4,6,67,21,6,2021
+262,37587,Rajdhani Express,16,3,13,Sat,Udaipur,JDP,UDP,Daily,3,24,27513,703,23,27,4,12,61,7,7,2021
+263,92755,Double Decker,20,2,9,Sun,Udaipur,UDP,JDP,Weekly,1,18,10697,703,27,29,1,15,71,29,2,2021
+264,47133,Double Decker,12,1,5,Sun,Udaipur,Jpr,Dli,Twice in week,1,14,25973,703,29,24,4,14,62,12,5,2020
+265,81571,ALL Puri SF Express,12,2,14,Thu,Udaipur,Dli,Mount Abu,Weekly,5,24,17670,703,24,24,3,11,61,8,7,2021
+266,98790,Dee Rzt Exp,23,3,12,Thu,Udaipur,Mount Abu,BKN,Daily,3,11,21911,703,23,26,2,16,61,8,1,2022
+267,60558,ALL Puri SF Express,11,1,14,Thu,Udaipur,Mount Abu,UDP,Daily,5,16,29952,703,23,22,3,15,61,13,2,2020
+268,46358,Shatabdi Express,24,3,13,Wed,Udaipur,JDP,Jpr,Weekly,3,12,28301,703,28,20,2,12,68,22,9,2020
+269,62144,Yoga Express,22,3,8,Mon,Udaipur,Pali,JDP,Weekly,3,4,17559,703,26,29,4,7,69,2,2,2020
+270,11939,Garbi Rath,29,1,12,Thu,Udaipur,Mount Abu,BKN,Twice in week,1,15,15295,703,22,20,1,6,66,9,2,2019
+271,36608,Garbi Rath,24,2,8,Sun,Udaipur,Mount Abu,Mount Abu,Twice in week,3,21,22395,703,23,26,2,21,67,20,8,2020
+272,31478,Yoga Express,23,2,9,Fri,Udaipur,Mount Abu,UDP,Weekly,2,7,19195,703,29,22,2,22,71,8,10,2020
+273,77156,Vande Bharat Express,14,3,6,Fri,Udaipur,Jpr,Mount Abu,Twice in week,4,4,29039,703,23,24,1,21,69,1,4,2021
+274,19627,Rajdhani Express,28,1,10,Sun,Udaipur,UDP,JDP,Twice in week,2,15,11276,703,26,24,3,19,69,17,1,2022
+275,22402,Shatabdi Express,11,2,13,Fri,Udaipur,JDP,Pali,Weekly,1,3,23121,703,25,23,1,4,65,16,5,2020
+276,83473,Humsafar Express,16,3,9,Sat,Udaipur,Pali,Dli,Daily,2,31,26525,703,24,21,3,18,68,14,3,2019
+277,31940,Yoga Express,21,1,11,Thu,Udaipur,Pali,JDP,Daily,5,21,25495,703,23,23,1,22,60,19,4,2022
+278,44909,Garbi Rath,26,1,12,Wed,Udaipur,Dli,JDP,Weekly,5,18,13530,703,24,22,4,9,66,21,5,2022
+279,82449,Shatabdi Express,12,2,7,Sun,Udaipur,UDP,Jpr,Weekly,2,13,27478,703,25,21,2,11,70,17,9,2019
+280,36994,Shatabdi Express,28,2,10,Tue,Udaipur,Mount Abu,Dli,Twice in week,3,32,11445,703,29,27,1,4,63,9,8,2019
+281,22743,Vande Bharat Express,27,1,7,Sat,Udaipur,Mount Abu,Dli,Twice in week,5,28,24715,703,21,26,2,9,65,24,7,2020
+282,83407,Shatabdi Express,22,2,11,Fri,Udaipur,Mount Abu,Pali,Twice in week,4,20,14883,703,25,25,1,10,69,3,10,2020
+283,77593,Vande Bharat Express,27,1,13,Sat,Udaipur,Mount Abu,Mount Abu,Daily,3,9,15861,703,27,24,3,12,64,27,2,2019
+284,16911,Rajdhani Express,14,1,9,Fri,Udaipur,Pali,UDP,Twice in week,5,26,14902,703,22,25,4,6,64,28,10,2022
+285,88089,Humsafar Express,15,1,10,Mon,Udaipur,JDP,JDP,Daily,5,28,29227,703,27,20,3,8,71,19,10,2020
+286,76452,Yoga Express,18,2,5,Sun,Udaipur,BKN,JDP,Twice in week,3,29,29184,703,22,22,3,12,69,4,7,2021
+287,36077,Shatabdi Express,13,3,14,Mon,Udaipur,Jpr,Dli,Weekly,3,14,16163,703,26,27,3,4,67,17,4,2021
+288,91679,Dee Rzt Exp,20,2,9,Sun,Udaipur,BKN,UDP,Daily,3,8,16927,703,27,27,1,6,62,28,8,2020
+289,92112,ALL Puri SF Express,28,3,9,Mon,Udaipur,Dli,Mount Abu,Daily,5,28,24525,703,20,28,3,11,60,22,10,2020
+290,35982,Rajdhani Express,20,1,11,Wed,Udaipur,UDP,Dli,Daily,5,30,16928,703,20,28,4,7,62,1,2,2021
+291,80068,Chetak Express,29,2,6,Fri,Udaipur,Dli,BKN,Twice in week,4,27,26681,703,20,24,2,15,70,4,2,2019
+292,46198,Yoga Express,20,3,11,Mon,Udaipur,UDP,Jpr,Weekly,5,34,29566,703,20,21,1,10,66,20,6,2022
+293,96767,Chetak Express,27,2,14,Mon,Udaipur,UDP,Dli,Daily,4,19,22221,703,23,21,4,13,63,4,7,2019
+294,44540,ALL Puri SF Express,28,1,11,Mon,Udaipur,Pali,Pali,Weekly,1,12,26054,703,29,20,3,17,61,8,8,2019
+295,69155,Dee Rzt Exp,22,2,10,Thu,Udaipur,Dli,Dli,Weekly,2,32,10377,703,29,21,3,14,67,15,6,2019
+296,72972,Chetak Express,12,2,13,Fri,Udaipur,Pali,BKN,Daily,3,27,12412,703,28,23,3,8,68,24,8,2021
+297,89339,Double Decker,26,2,7,Thu,Udaipur,Pali,UDP,Weekly,3,4,10788,703,26,21,4,10,68,1,9,2022
+298,99459,ALL Puri SF Express,22,1,14,Fri,Udaipur,BKN,Mount Abu,Twice in week,2,23,10457,703,24,28,2,18,60,6,2,2019
+299,78696,Humsafar Express,10,2,5,Sun,Udaipur,JDP,Dli,Daily,1,23,20536,703,24,26,4,14,62,13,3,2021
+300,37598,Double Decker,19,1,12,Wed,Udaipur,Dli,Jpr,Daily,1,34,20073,703,20,20,1,5,61,3,6,2022
+301,64582,Humsafar Express,19,2,14,Tue,Udaipur,JDP,BKN,Weekly,3,4,22606,703,25,23,3,16,65,13,11,2019
+302,35430,Double Decker,25,2,6,Tue,Udaipur,BKN,JDP,Weekly,1,10,24361,703,22,24,1,18,66,23,1,2019
+303,72313,ALL Puri SF Express,13,1,9,Sat,Udaipur,Dli,Dli,Twice in week,3,29,10234,703,25,22,2,13,65,11,8,2022
+304,21766,Rajdhani Express,15,2,13,Thu,Udaipur,Jpr,Mount Abu,Weekly,4,29,15300,703,27,20,4,13,67,25,3,2022
+305,84060,Rajdhani Express,16,3,12,Wed,Udaipur,UDP,Jpr,Daily,1,34,12306,703,24,24,1,6,62,24,7,2021
+306,99258,Chetak Express,23,3,10,Fri,Udaipur,BKN,Pali,Twice in week,3,8,19211,703,28,25,2,8,68,16,7,2022
+307,72070,Dee Rzt Exp,13,3,5,Sun,Udaipur,JDP,Dli,Weekly,3,28,25429,703,26,21,1,12,69,9,2,2020
+308,77649,Chetak Express,13,2,5,Thu,Udaipur,Jpr,Jpr,Daily,5,12,12623,703,21,28,1,13,60,16,7,2020
+309,54760,Shatabdi Express,13,3,5,Sun,Udaipur,Jpr,Dli,Weekly,3,22,20811,703,24,25,2,15,71,25,2,2019
+310,89403,Chetak Express,23,3,11,Wed,Udaipur,Mount Abu,JDP,Weekly,3,34,19017,703,29,20,4,5,70,9,5,2020
+311,11153,Dee Rzt Exp,18,1,13,Thu,Udaipur,Mount Abu,BKN,Weekly,1,32,18658,703,28,22,3,5,65,26,5,2019
+312,94934,Shatabdi Express,17,2,9,Thu,Udaipur,JDP,Jpr,Weekly,3,6,22882,703,21,23,3,9,69,9,8,2021
+313,99697,Humsafar Express,17,2,7,Tue,Udaipur,Dli,BKN,Daily,5,30,21320,703,29,22,3,8,64,11,1,2019
+314,27976,Shatabdi Express,18,1,12,Sun,Udaipur,Dli,Pali,Daily,1,28,22979,703,24,22,3,19,62,30,4,2021
+315,43580,Vande Bharat Express,11,3,11,Thu,Udaipur,UDP,Mount Abu,Twice in week,2,28,26375,703,28,20,4,6,71,14,10,2022
+316,39508,Dee Rzt Exp,28,3,11,Wed,Udaipur,JDP,JDP,Twice in week,2,24,22636,703,23,29,2,16,60,26,5,2019
+317,34116,Humsafar Express,15,3,9,Sat,Udaipur,Mount Abu,Pali,Daily,5,10,14140,703,27,21,4,9,70,30,5,2021
+318,91429,Garbi Rath,12,2,5,Mon,Udaipur,JDP,Dli,Weekly,3,17,18457,703,28,28,3,15,63,15,10,2019
+319,22820,Shatabdi Express,28,3,6,Wed,Udaipur,JDP,Dli,Twice in week,4,33,10882,703,24,26,2,17,61,19,5,2020
+320,44204,ALL Puri SF Express,18,2,8,Sat,Udaipur,Dli,Pali,Twice in week,1,19,15315,703,22,24,4,20,60,29,6,2020
+321,34450,Yoga Express,12,2,5,Sun,Udaipur,Dli,Pali,Weekly,3,32,29237,703,28,20,4,11,66,23,11,2020
+322,42958,ALL Puri SF Express,25,3,10,Mon,Udaipur,Mount Abu,Pali,Daily,2,3,14764,703,20,23,4,8,67,21,5,2022
+323,63953,ALL Puri SF Express,28,1,6,Sat,Udaipur,BKN,UDP,Daily,3,31,20862,703,23,23,3,5,69,20,8,2022
+324,49046,Yoga Express,23,1,6,Sun,Udaipur,Pali,UDP,Daily,4,31,12829,703,28,22,2,20,61,30,7,2019
+325,32137,Rajdhani Express,15,1,5,Mon,Udaipur,UDP,BKN,Twice in week,1,26,28331,703,24,27,2,23,69,20,1,2021
+326,73173,Shatabdi Express,15,2,10,Sun,Udaipur,Dli,JDP,Twice in week,3,5,26396,703,23,26,2,18,61,30,3,2020
+327,32599,Shatabdi Express,13,3,11,Wed,Udaipur,BKN,BKN,Weekly,3,27,19178,703,20,21,3,7,63,16,9,2020
+328,11550,Dee Rzt Exp,23,1,6,Sun,Udaipur,JDP,Mount Abu,Daily,1,3,18965,703,26,25,4,10,62,17,8,2019
+329,57996,Dee Rzt Exp,26,3,13,Sat,Udaipur,Pali,Jpr,Twice in week,4,15,26293,703,24,22,2,13,71,30,1,2019
+330,16533,Chetak Express,27,2,14,Sat,Udaipur,Dli,JDP,Twice in week,3,9,22062,703,29,23,4,13,65,11,7,2021
+331,53090,Yoga Express,19,1,7,Mon,Udaipur,Pali,Pali,Twice in week,1,22,13349,703,29,20,3,23,64,4,2,2020
+332,41581,Vande Bharat Express,27,2,7,Mon,Udaipur,Pali,Dli,Twice in week,1,5,25063,703,29,27,2,8,62,20,10,2021
+333,19009,Double Decker,27,1,10,Tue,Udaipur,Jpr,UDP,Weekly,2,29,23149,703,24,24,1,10,70,28,10,2021
+334,68984,Vande Bharat Express,22,3,13,Thu,Udaipur,UDP,BKN,Weekly,5,30,19000,703,29,21,2,18,69,20,3,2022
+335,66786,Dee Rzt Exp,17,3,5,Thu,Udaipur,Pali,UDP,Daily,5,29,15219,703,28,22,3,23,68,28,10,2021
+336,44487,Garbi Rath,15,1,9,Mon,Udaipur,Mount Abu,Jpr,Weekly,1,26,25744,703,29,28,1,9,68,2,1,2022
+337,68556,Double Decker,16,3,7,Sun,Udaipur,JDP,Mount Abu,Weekly,2,19,11708,703,29,22,1,15,66,15,6,2019
+338,30502,Chetak Express,10,2,13,Wed,Udaipur,UDP,JDP,Twice in week,4,11,12148,703,23,22,1,4,69,2,7,2020
+339,61550,Dee Rzt Exp,29,2,10,Tue,Udaipur,Jpr,Dli,Weekly,2,33,23398,703,21,25,2,11,70,24,11,2022
+340,47964,Garbi Rath,15,3,12,Sat,Udaipur,BKN,UDP,Weekly,5,25,18189,703,21,23,1,10,71,25,2,2021
+341,30424,Humsafar Express,17,2,5,Wed,Udaipur,UDP,BKN,Weekly,5,9,16364,703,27,25,2,12,71,25,2,2021
+342,39666,ALL Puri SF Express,28,2,5,Sun,Udaipur,Jpr,UDP,Daily,3,23,10075,703,23,23,1,19,63,28,9,2020
+343,38942,Vande Bharat Express,23,2,14,Wed,Udaipur,Dli,UDP,Daily,3,17,25024,703,28,22,2,23,68,23,8,2022
+344,17236,Vande Bharat Express,20,2,9,Thu,Udaipur,Pali,Pali,Weekly,2,5,25459,703,27,26,2,23,70,20,4,2019
+345,76237,Vande Bharat Express,24,3,7,Fri,Udaipur,UDP,Jpr,Weekly,2,18,21084,703,27,29,1,23,63,14,3,2022
+346,79978,Chetak Express,24,2,12,Sat,Udaipur,UDP,BKN,Daily,3,20,10221,703,25,28,1,17,70,25,3,2020
+347,62103,Humsafar Express,19,1,5,Sat,Udaipur,Pali,BKN,Twice in week,1,17,24222,703,29,23,3,21,67,7,4,2019
+348,66630,Humsafar Express,29,1,11,Thu,Udaipur,Jpr,JDP,Daily,5,12,21752,703,22,23,1,18,69,26,2,2019
+349,80717,Rajdhani Express,13,2,9,Tue,Udaipur,UDP,Mount Abu,Twice in week,3,15,29740,703,24,28,3,17,62,24,9,2020
+350,44863,Dee Rzt Exp,17,1,5,Sun,Udaipur,JDP,Mount Abu,Weekly,3,30,25121,703,27,29,4,21,63,6,9,2019
+351,43915,Humsafar Express,13,1,13,Sun,Udaipur,UDP,JDP,Twice in week,4,12,26520,703,24,27,4,15,65,26,5,2020
+352,24096,Chetak Express,22,3,8,Mon,Udaipur,UDP,Pali,Daily,2,14,10877,703,24,22,4,6,69,29,7,2022
+353,50767,Garbi Rath,17,2,6,Mon,Udaipur,Pali,UDP,Daily,4,5,19731,703,27,21,3,20,67,5,1,2022
+354,46148,Rajdhani Express,27,1,6,Fri,Udaipur,UDP,BKN,Twice in week,3,5,13338,703,23,28,1,23,70,12,11,2021
+355,26592,Chetak Express,12,3,13,Tue,Udaipur,Dli,Pali,Weekly,2,17,14145,703,25,22,1,16,65,17,7,2022
+356,84043,Garbi Rath,10,2,12,Tue,Udaipur,Jpr,Jpr,Daily,3,19,17712,703,22,25,2,18,63,30,2,2019
+357,71247,Shatabdi Express,26,1,11,Thu,Udaipur,JDP,Jpr,Weekly,5,27,16540,703,23,22,3,6,60,21,2,2019
+358,91943,ALL Puri SF Express,17,1,9,Tue,Udaipur,JDP,JDP,Weekly,5,23,11372,703,25,21,2,13,60,11,2,2022
+359,57100,Garbi Rath,11,3,13,Sun,Udaipur,JDP,Jpr,Daily,5,12,23707,703,28,20,3,10,69,16,6,2022
+360,83120,Humsafar Express,29,1,8,Tue,Udaipur,BKN,Pali,Daily,3,5,13300,703,20,27,4,23,69,21,3,2019
+361,79978,Rajdhani Express,20,2,9,Tue,Udaipur,BKN,Pali,Daily,3,15,13036,703,27,23,4,5,67,8,8,2019
+362,98315,Shatabdi Express,11,2,10,Thu,Udaipur,Mount Abu,Dli,Weekly,3,28,12771,703,23,29,3,19,60,5,1,2022
+363,24922,ALL Puri SF Express,28,1,7,Fri,Udaipur,BKN,JDP,Twice in week,5,28,28626,703,21,20,4,20,68,15,5,2022
+364,35699,Double Decker,16,1,7,Wed,Udaipur,Jpr,Dli,Twice in week,1,28,10458,703,29,21,1,17,69,11,8,2022
+365,86814,Rajdhani Express,10,3,8,Sat,Udaipur,UDP,UDP,Twice in week,1,9,12777,703,26,29,2,14,66,20,5,2022
+366,89658,Chetak Express,12,2,11,Thu,Udaipur,Pali,UDP,Weekly,5,6,13593,703,21,28,4,12,62,2,4,2022
+367,41848,Yoga Express,24,3,10,Sun,Udaipur,Mount Abu,Mount Abu,Weekly,2,22,22423,703,21,25,1,16,69,13,7,2020
+368,84530,ALL Puri SF Express,24,3,6,Thu,Udaipur,UDP,JDP,Weekly,3,4,25812,703,29,28,4,23,60,9,4,2019
+369,52194,Yoga Express,13,1,7,Wed,Udaipur,UDP,UDP,Weekly,4,7,19549,703,25,25,4,22,67,23,4,2022
+370,96521,Shatabdi Express,15,2,13,Mon,Udaipur,JDP,UDP,Weekly,4,15,28046,703,20,20,2,4,70,16,2,2022
+371,65150,Double Decker,10,1,11,Fri,Udaipur,Pali,Jpr,Weekly,4,31,21702,703,21,25,3,14,62,30,9,2022
+372,59142,Dee Rzt Exp,13,2,11,Tue,Udaipur,Pali,Pali,Weekly,1,8,23303,703,23,25,3,19,64,12,3,2021
+373,80836,Dee Rzt Exp,17,1,5,Thu,Udaipur,BKN,Dli,Weekly,2,20,27778,703,22,20,4,19,66,16,8,2021
+374,74484,Vande Bharat Express,26,3,5,Fri,Udaipur,Jpr,Pali,Twice in week,1,20,11514,703,21,22,1,14,62,11,7,2021
+375,12760,Rajdhani Express,18,1,10,Thu,Udaipur,Pali,JDP,Twice in week,4,32,22942,703,25,26,3,22,62,28,8,2020
+376,65482,Dee Rzt Exp,19,1,12,Mon,Udaipur,Jpr,BKN,Daily,1,24,21286,703,20,25,2,22,67,30,4,2019
+377,29957,ALL Puri SF Express,15,1,6,Tue,Udaipur,JDP,UDP,Daily,3,22,25707,703,27,26,4,5,68,3,2,2021
+378,24331,Vande Bharat Express,13,3,9,Sat,Udaipur,Dli,JDP,Daily,4,6,19237,703,20,23,1,11,67,1,11,2022
+379,34588,Vande Bharat Express,12,2,11,Sat,Udaipur,Mount Abu,Jpr,Weekly,5,24,22182,703,25,24,4,11,61,27,8,2020
+380,63145,Dee Rzt Exp,27,3,10,Tue,Udaipur,Mount Abu,Dli,Weekly,5,33,17587,703,23,22,1,13,63,11,9,2022
+381,12631,ALL Puri SF Express,24,1,11,Mon,Udaipur,Dli,Jpr,Weekly,3,15,24067,703,20,28,3,10,63,10,3,2021
+382,48655,Vande Bharat Express,20,3,5,Tue,Udaipur,Dli,UDP,Weekly,5,7,10246,703,24,28,1,4,71,12,6,2021
+383,55431,Rajdhani Express,17,2,12,Mon,Udaipur,Dli,Dli,Weekly,2,33,23931,703,29,27,1,14,62,15,9,2022
+384,25544,Dee Rzt Exp,21,2,6,Fri,Udaipur,UDP,Dli,Twice in week,3,11,14040,703,25,27,3,8,62,5,7,2019
+385,55558,Humsafar Express,27,3,9,Sat,Udaipur,JDP,Pali,Weekly,2,19,18262,703,28,22,4,17,70,5,6,2021
+386,36353,Rajdhani Express,16,3,10,Wed,Udaipur,Dli,JDP,Daily,1,29,22999,703,22,28,2,7,65,11,4,2021
+387,54537,Humsafar Express,25,3,13,Sat,Udaipur,Mount Abu,Jpr,Daily,3,3,15547,703,24,23,2,22,68,7,5,2021
+388,60132,Double Decker,28,3,13,Mon,Udaipur,Mount Abu,Dli,Weekly,3,4,11505,703,23,29,2,9,62,19,10,2021
+389,84046,Chetak Express,23,1,12,Sat,Udaipur,UDP,Dli,Twice in week,5,7,29308,703,27,28,4,21,66,27,6,2020
+390,83687,Dee Rzt Exp,10,1,12,Tue,Udaipur,Dli,Mount Abu,Twice in week,4,31,17331,703,28,23,3,19,71,14,11,2022
+391,63804,Rajdhani Express,26,1,9,Sun,Udaipur,Pali,Mount Abu,Weekly,3,33,22593,703,22,26,4,14,63,3,5,2021
+392,52042,Garbi Rath,17,2,13,Fri,Udaipur,JDP,Pali,Weekly,1,34,26184,703,24,23,4,13,60,27,4,2021
+393,58496,Yoga Express,10,2,12,Sat,Udaipur,BKN,Dli,Weekly,4,30,18790,703,29,27,3,23,63,8,11,2022
+394,25712,Yoga Express,29,3,8,Tue,Udaipur,Dli,Dli,Twice in week,5,4,10021,703,28,24,4,5,71,5,6,2022
+395,66981,Dee Rzt Exp,16,3,6,Wed,Udaipur,JDP,Pali,Twice in week,1,24,22558,703,22,27,2,23,70,11,8,2022
+396,58724,Yoga Express,28,2,13,Thu,Udaipur,UDP,Mount Abu,Daily,3,34,14604,703,23,29,3,9,61,7,5,2022
+397,33510,Yoga Express,12,3,12,Tue,Udaipur,Pali,Dli,Weekly,1,6,22886,703,29,23,3,17,61,29,5,2022
+398,44821,Humsafar Express,11,3,11,Wed,Udaipur,Dli,Mount Abu,Daily,5,28,18058,703,21,26,3,7,61,15,4,2019
+399,23243,Rajdhani Express,11,2,12,Sat,Udaipur,Dli,Pali,Daily,5,8,27377,703,20,29,1,8,70,28,4,2021
+400,54528,ALL Puri SF Express,15,3,6,Mon,Udaipur,Jpr,UDP,Weekly,4,18,22093,703,21,24,3,9,62,24,7,2022
+401,52910,Rajdhani Express,18,2,6,Fri,Udaipur,Dli,UDP,Twice in week,4,15,28589,703,21,24,1,17,60,30,6,2020
+402,89764,Vande Bharat Express,16,3,7,Fri,Udaipur,Dli,Mount Abu,Daily,2,8,22769,703,25,29,1,18,68,8,3,2019
+403,19549,Shatabdi Express,18,1,12,Wed,Udaipur,Mount Abu,Pali,Twice in week,2,22,18213,703,26,28,1,17,62,16,6,2021
+404,74129,Humsafar Express,20,3,8,Sun,Udaipur,Dli,UDP,Daily,1,16,21572,703,21,23,3,22,69,8,6,2022
+405,46145,Yoga Express,22,1,14,Mon,Udaipur,Mount Abu,Mount Abu,Weekly,5,21,24561,703,26,26,2,16,60,21,2,2022
+406,43719,Shatabdi Express,17,3,9,Fri,Udaipur,BKN,Jpr,Weekly,5,3,25226,703,23,28,1,10,66,11,5,2019
+407,25722,Dee Rzt Exp,12,1,12,Tue,Udaipur,UDP,Dli,Daily,3,23,14658,703,22,20,1,18,67,24,5,2020
+408,87124,Garbi Rath,11,3,12,Fri,Udaipur,UDP,Pali,Twice in week,4,34,13672,703,22,28,3,19,65,15,5,2022
+409,63629,ALL Puri SF Express,20,1,5,Wed,Udaipur,Mount Abu,Mount Abu,Weekly,5,6,21727,703,21,29,2,16,69,5,6,2022
+410,81408,Vande Bharat Express,11,3,13,Tue,Udaipur,Mount Abu,UDP,Weekly,4,30,17339,703,21,28,3,12,65,9,7,2019
+411,92629,Shatabdi Express,22,2,13,Thu,Udaipur,BKN,UDP,Weekly,1,26,13374,703,26,25,4,14,70,28,8,2021
+412,53848,Vande Bharat Express,26,1,12,Tue,Udaipur,Pali,BKN,Weekly,3,34,16061,703,26,27,4,4,62,16,2,2022
+413,67414,Humsafar Express,23,2,5,Tue,Udaipur,Jpr,Mount Abu,Twice in week,4,31,25218,703,29,29,3,4,68,25,10,2020
+414,50416,Dee Rzt Exp,25,3,9,Sun,Udaipur,Dli,UDP,Weekly,5,20,28626,703,28,24,4,5,71,26,4,2021
+415,96670,Yoga Express,19,3,14,Tue,Udaipur,Dli,Dli,Weekly,4,9,27059,703,20,21,1,14,63,24,7,2022
+416,69343,Garbi Rath,21,3,12,Wed,Udaipur,Mount Abu,UDP,Twice in week,2,21,12807,703,21,28,3,20,61,20,3,2019
+417,46276,Double Decker,28,2,8,Fri,Udaipur,Mount Abu,JDP,Twice in week,1,17,20816,703,29,26,2,6,63,27,6,2019
+418,87459,Humsafar Express,14,2,11,Mon,Udaipur,BKN,Mount Abu,Daily,5,5,12441,703,25,25,4,11,66,4,9,2022
+419,17956,Shatabdi Express,15,2,6,Sat,Udaipur,Pali,UDP,Daily,4,3,29882,703,21,25,2,23,68,10,10,2021
+420,28208,Humsafar Express,13,3,11,Fri,Udaipur,Dli,Mount Abu,Twice in week,1,3,25383,703,23,28,1,5,69,17,7,2022
+421,77772,Chetak Express,16,1,7,Sat,Udaipur,JDP,JDP,Weekly,4,14,27926,703,21,23,2,16,66,5,7,2020
+422,71066,Garbi Rath,18,1,10,Fri,Udaipur,Dli,UDP,Daily,1,24,16410,703,28,29,2,7,70,14,5,2022
+423,78194,Garbi Rath,26,3,12,Thu,Udaipur,JDP,JDP,Twice in week,5,14,27860,703,26,29,3,18,61,1,9,2022
+424,34994,Rajdhani Express,19,1,13,Thu,Udaipur,Dli,Mount Abu,Weekly,4,20,27137,703,21,21,4,8,64,14,9,2021
+425,53440,Vande Bharat Express,18,1,8,Fri,Udaipur,Mount Abu,Pali,Weekly,2,4,28619,703,22,29,3,21,71,29,5,2019
+426,33717,Dee Rzt Exp,25,1,6,Sat,Udaipur,BKN,Mount Abu,Weekly,3,3,14946,703,20,26,4,16,60,10,6,2022
+427,52810,Yoga Express,21,1,8,Thu,Udaipur,Pali,Jpr,Weekly,5,20,11228,703,28,24,4,20,63,22,11,2020
+428,26865,Humsafar Express,22,1,5,Fri,Udaipur,Jpr,JDP,Weekly,5,4,12928,703,25,21,1,19,65,25,10,2022
+429,59757,Chetak Express,11,1,12,Wed,Udaipur,Mount Abu,UDP,Twice in week,4,16,20618,703,20,21,1,13,63,17,1,2019
+430,97050,ALL Puri SF Express,20,3,11,Mon,Udaipur,JDP,Pali,Daily,2,24,19620,703,24,23,2,7,64,9,9,2019
+431,74282,Double Decker,22,2,9,Mon,Udaipur,Pali,Jpr,Daily,4,24,18663,703,24,22,4,15,61,3,1,2020
+432,42129,Chetak Express,15,1,12,Mon,Udaipur,Dli,UDP,Twice in week,5,13,14331,703,27,29,4,4,67,7,8,2019
+433,81299,Vande Bharat Express,21,2,7,Tue,Udaipur,BKN,JDP,Daily,5,4,15566,703,23,22,1,7,62,16,5,2020
+434,94607,Shatabdi Express,24,1,5,Mon,Udaipur,UDP,Pali,Twice in week,4,26,17889,703,22,25,3,6,64,3,9,2020
+435,24592,Dee Rzt Exp,13,3,9,Sat,Udaipur,Mount Abu,Pali,Twice in week,1,10,13897,703,27,24,1,21,64,23,2,2021
+436,14538,Humsafar Express,21,3,11,Tue,Udaipur,Mount Abu,Jpr,Twice in week,3,7,26495,703,23,28,3,14,69,18,9,2021
+437,40893,Rajdhani Express,25,1,6,Wed,Udaipur,BKN,Jpr,Daily,5,28,22355,703,21,24,2,14,70,9,1,2020
+438,88218,Chetak Express,18,3,9,Fri,Udaipur,UDP,JDP,Twice in week,3,20,17694,703,22,29,4,14,64,1,10,2022
+439,98586,Vande Bharat Express,12,1,9,Wed,Udaipur,JDP,Pali,Weekly,5,9,25481,703,20,25,2,12,66,28,8,2022
+440,96737,Chetak Express,27,3,10,Thu,Udaipur,UDP,JDP,Twice in week,2,24,11526,703,28,28,3,21,60,1,10,2022
+441,12178,Vande Bharat Express,26,3,6,Thu,Udaipur,BKN,Dli,Daily,5,26,28959,703,29,28,3,20,67,16,2,2019
+442,24686,Rajdhani Express,21,3,10,Sat,Udaipur,Jpr,Mount Abu,Daily,5,33,28752,703,25,22,1,10,70,3,11,2022
+443,28759,Chetak Express,23,3,8,Thu,Udaipur,UDP,BKN,Twice in week,3,9,19976,703,20,27,2,18,65,18,1,2022
+444,65995,Chetak Express,11,1,12,Sat,Udaipur,UDP,JDP,Weekly,5,8,22424,703,29,26,4,9,67,29,11,2019
+445,75094,Double Decker,27,2,12,Wed,Udaipur,BKN,Jpr,Daily,2,31,20359,703,25,20,4,7,68,26,6,2021
+446,93281,Dee Rzt Exp,28,2,8,Wed,Udaipur,JDP,Pali,Daily,2,13,12619,703,25,24,1,15,62,11,10,2022
+447,96236,Humsafar Express,14,2,8,Wed,Udaipur,Dli,Jpr,Twice in week,5,33,28717,703,21,20,4,12,67,29,9,2019
+448,91448,Dee Rzt Exp,26,3,13,Wed,Udaipur,UDP,Jpr,Weekly,5,21,15351,703,29,22,1,15,69,8,8,2020
+449,22424,Rajdhani Express,14,3,9,Thu,Udaipur,Jpr,UDP,Daily,3,33,21705,703,26,20,3,5,64,28,6,2021
+450,10549,ALL Puri SF Express,16,1,10,Wed,Udaipur,BKN,Dli,Weekly,1,7,20864,703,26,20,4,11,63,25,3,2021
+451,74470,Chetak Express,23,3,9,Thu,Udaipur,Jpr,JDP,Daily,3,32,12869,703,22,23,1,21,62,10,1,2021
+452,76774,Dee Rzt Exp,12,3,14,Mon,Udaipur,BKN,Dli,Twice in week,3,14,21865,703,23,21,3,20,66,5,3,2020
+453,15175,Humsafar Express,17,2,13,Wed,Udaipur,Dli,Jpr,Twice in week,5,20,12968,703,20,25,4,16,67,14,7,2021
+454,53534,Dee Rzt Exp,11,1,12,Fri,Udaipur,Jpr,Mount Abu,Weekly,5,21,20470,703,21,28,3,17,71,20,4,2019
+455,59617,Dee Rzt Exp,26,2,14,Mon,Udaipur,Mount Abu,Dli,Daily,4,31,23152,703,21,22,1,12,65,21,7,2022
+456,46686,Chetak Express,15,3,5,Mon,Udaipur,Jpr,Jpr,Daily,5,22,20969,703,23,26,3,7,69,21,7,2019
+457,91202,ALL Puri SF Express,12,1,8,Tue,Udaipur,Pali,Mount Abu,Weekly,5,22,27185,703,24,26,1,12,68,26,8,2020
+458,61849,Dee Rzt Exp,23,3,10,Fri,Udaipur,Mount Abu,Dli,Daily,4,9,20207,703,25,20,4,6,60,8,3,2020
+459,12055,Garbi Rath,10,2,7,Mon,Udaipur,Pali,Dli,Daily,4,9,13149,703,27,26,1,5,69,15,5,2022
+460,11362,Rajdhani Express,17,3,7,Mon,Udaipur,Pali,JDP,Weekly,2,23,29228,703,23,24,1,16,62,15,2,2022
+461,60814,Vande Bharat Express,23,1,12,Tue,Udaipur,Jpr,Dli,Weekly,3,3,20993,703,29,25,2,17,64,14,10,2021
+462,17899,Shatabdi Express,18,2,14,Sat,Udaipur,UDP,BKN,Daily,1,31,24274,703,29,25,1,12,66,5,4,2019
+463,33071,Shatabdi Express,16,1,8,Sun,Udaipur,Mount Abu,UDP,Weekly,4,31,21586,703,21,22,2,12,65,23,10,2019
+464,54231,Vande Bharat Express,19,3,8,Wed,Udaipur,UDP,JDP,Daily,1,12,15306,703,27,26,2,10,67,9,9,2019
+465,15486,ALL Puri SF Express,17,2,13,Wed,Udaipur,BKN,BKN,Daily,4,32,13675,703,24,29,1,6,64,19,1,2021
+466,20601,Shatabdi Express,27,2,10,Fri,Udaipur,Dli,UDP,Daily,2,7,28722,703,26,21,2,13,62,13,8,2021
+467,90727,Humsafar Express,13,1,10,Thu,Udaipur,BKN,Pali,Daily,1,15,21770,703,25,28,4,20,65,27,6,2021
+468,80838,Chetak Express,28,2,14,Sat,Udaipur,Jpr,Dli,Twice in week,2,27,22147,703,23,28,2,7,67,1,11,2019
+469,23913,Chetak Express,20,1,11,Thu,Udaipur,BKN,Pali,Weekly,2,12,23174,703,21,20,3,10,68,29,8,2020
+470,89249,Garbi Rath,22,1,6,Mon,Udaipur,JDP,JDP,Weekly,1,31,14333,703,20,25,2,11,65,9,6,2022
+471,38696,Humsafar Express,29,3,5,Mon,Udaipur,Jpr,JDP,Twice in week,5,7,17335,703,23,22,1,9,71,26,7,2019
+472,86610,Rajdhani Express,19,1,13,Fri,Udaipur,Dli,BKN,Daily,2,25,16186,703,26,20,2,21,66,2,7,2021
+473,76838,Garbi Rath,28,3,6,Tue,Udaipur,Dli,Jpr,Twice in week,5,28,19671,703,23,26,2,15,62,28,9,2019
+474,81272,ALL Puri SF Express,13,2,9,Fri,Udaipur,Dli,Jpr,Daily,2,30,13619,703,20,25,1,4,69,14,5,2020
+475,46016,ALL Puri SF Express,27,2,13,Sun,Udaipur,Mount Abu,Mount Abu,Weekly,2,13,27486,703,29,22,1,14,68,10,4,2020
+476,41766,Chetak Express,27,3,12,Wed,Udaipur,Jpr,Jpr,Weekly,3,14,10874,703,20,25,1,10,67,9,9,2021
+477,80589,Humsafar Express,26,2,5,Thu,Udaipur,Mount Abu,Jpr,Twice in week,1,11,14775,703,20,22,4,17,70,2,7,2022
+478,23444,Yoga Express,17,3,6,Tue,Udaipur,UDP,BKN,Twice in week,4,12,10591,703,24,24,2,19,62,4,3,2021
+479,22319,Double Decker,23,1,11,Mon,Udaipur,Dli,Dli,Daily,5,34,20543,703,29,24,2,16,61,20,11,2022
+480,52530,Shatabdi Express,25,2,10,Tue,Udaipur,Dli,UDP,Twice in week,1,11,27631,703,22,23,4,8,67,28,7,2020
+481,28054,Vande Bharat Express,18,3,8,Mon,Udaipur,BKN,BKN,Weekly,1,24,21568,703,25,23,1,13,61,13,9,2022
+482,51232,Double Decker,19,1,7,Wed,Udaipur,UDP,Mount Abu,Daily,4,32,10467,703,27,25,2,10,60,12,1,2020
+483,19170,ALL Puri SF Express,28,1,9,Thu,Udaipur,Jpr,Mount Abu,Twice in week,5,19,17072,703,22,28,1,14,67,29,5,2020
+484,57250,Vande Bharat Express,22,2,5,Sun,Udaipur,JDP,Pali,Weekly,4,22,26627,703,28,22,3,11,63,15,1,2021
+485,49909,Garbi Rath,17,3,11,Thu,Udaipur,Dli,JDP,Weekly,2,3,24199,703,28,25,1,22,65,29,7,2021
+486,94256,ALL Puri SF Express,19,1,12,Fri,Udaipur,Dli,Jpr,Twice in week,2,19,25502,703,23,28,4,8,71,8,2,2021
+487,49700,Chetak Express,16,2,8,Sun,Udaipur,Mount Abu,Dli,Twice in week,1,24,17570,703,26,29,1,6,70,16,11,2020
+488,93978,Rajdhani Express,28,2,14,Sun,Udaipur,UDP,Dli,Daily,1,31,22395,703,29,28,3,23,70,1,7,2020
+489,74663,Vande Bharat Express,11,3,14,Mon,Udaipur,Pali,UDP,Daily,4,28,26514,703,24,20,3,19,63,24,11,2019
+490,39551,Dee Rzt Exp,13,3,6,Sat,Udaipur,BKN,BKN,Weekly,5,17,13857,703,26,20,4,6,62,20,1,2022
+491,81155,Vande Bharat Express,19,2,8,Wed,Udaipur,BKN,Dli,Daily,4,3,15385,703,26,28,3,8,60,29,10,2019
+492,83561,Garbi Rath,25,1,14,Wed,Udaipur,BKN,Jpr,Weekly,5,25,12885,703,23,23,3,20,65,18,6,2020
+493,14681,Vande Bharat Express,12,2,10,Sun,Udaipur,Pali,Pali,Daily,5,25,14729,703,26,23,2,5,69,12,8,2019
+494,85829,ALL Puri SF Express,26,3,10,Sun,Udaipur,Mount Abu,Jpr,Daily,1,31,14282,703,22,21,2,12,65,9,8,2022
+495,62174,Vande Bharat Express,10,3,14,Sat,Udaipur,Pali,JDP,Twice in week,5,7,18724,703,25,20,3,22,63,5,6,2022
+496,87928,Double Decker,24,2,9,Thu,Udaipur,Jpr,BKN,Daily,1,12,18560,703,25,25,2,22,71,12,6,2019
+497,61648,Garbi Rath,13,1,10,Sun,Udaipur,JDP,Pali,Twice in week,2,11,14005,703,24,29,4,22,63,10,3,2022
+498,29964,Dee Rzt Exp,10,2,8,Mon,Udaipur,BKN,JDP,Daily,5,22,17075,703,28,22,2,20,68,16,7,2021
+499,61372,Double Decker,10,1,8,Fri,Udaipur,BKN,BKN,Weekly,5,13,26034,703,20,25,1,20,68,5,9,2022
+500,32304,Yoga Express,19,2,13,Fri,Udaipur,BKN,Mount Abu,Weekly,5,13,15879,703,28,24,4,16,67,20,5,2022
+501,83174,Yoga Express,17,3,8,Tue,Udaipur,Pali,JDP,Daily,2,21,26843,703,20,23,2,11,62,11,4,2021
+502,18889,Chetak Express,29,3,9,Wed,Udaipur,Pali,UDP,Twice in week,1,21,11870,703,25,27,2,22,65,1,1,2020
+503,28287,Vande Bharat Express,18,3,14,Sat,Udaipur,Pali,JDP,Weekly,4,24,21125,703,20,27,2,18,65,3,4,2020
+504,16221,Vande Bharat Express,14,1,12,Tue,Udaipur,UDP,BKN,Weekly,4,28,14959,703,21,29,1,7,71,14,7,2021
+505,24984,Dee Rzt Exp,21,2,6,Thu,Udaipur,BKN,JDP,Daily,4,29,14390,703,21,27,2,12,61,25,9,2022
+506,61110,Chetak Express,23,3,6,Sun,Udaipur,BKN,Pali,Weekly,3,10,20340,703,22,22,3,4,69,26,6,2020
+507,40462,ALL Puri SF Express,15,2,7,Fri,Udaipur,Mount Abu,UDP,Weekly,3,18,16454,703,28,23,3,13,67,12,2,2019
+508,45292,Shatabdi Express,24,2,6,Mon,Udaipur,BKN,Mount Abu,Twice in week,1,21,21977,703,20,29,4,18,65,30,10,2019
+509,25919,Yoga Express,24,1,13,Sun,Udaipur,BKN,Mount Abu,Weekly,4,34,13314,703,26,28,2,19,70,25,8,2022
+510,71600,Shatabdi Express,29,3,11,Tue,Udaipur,JDP,Dli,Daily,4,21,25045,703,24,25,4,6,65,26,9,2021
+511,71642,ALL Puri SF Express,19,1,9,Sun,Udaipur,Pali,UDP,Twice in week,1,8,20829,703,26,20,1,20,69,22,8,2019
+512,75111,Chetak Express,15,3,9,Sat,Udaipur,JDP,UDP,Twice in week,1,4,14642,703,20,20,2,6,67,8,3,2021
+513,58731,Garbi Rath,27,2,8,Tue,Udaipur,Dli,JDP,Weekly,4,28,28154,703,24,24,3,20,67,16,9,2022
+514,26928,Double Decker,16,3,13,Wed,Udaipur,BKN,Dli,Weekly,3,22,29523,703,22,22,3,23,70,23,6,2021
+515,23852,Dee Rzt Exp,13,2,13,Wed,Udaipur,Jpr,UDP,Weekly,4,34,20552,703,23,23,2,7,64,23,8,2021
+516,65984,Dee Rzt Exp,19,3,6,Sun,Udaipur,UDP,Dli,Twice in week,2,15,29053,703,27,27,2,10,64,10,4,2021
+517,93218,ALL Puri SF Express,15,3,12,Thu,Udaipur,Mount Abu,Dli,Daily,2,25,12914,703,23,21,2,20,62,30,3,2021
+518,80185,Dee Rzt Exp,15,1,6,Thu,Udaipur,Dli,Dli,Weekly,3,18,24912,703,23,28,1,21,65,8,1,2020
+519,25095,Humsafar Express,12,3,9,Mon,Udaipur,UDP,Mount Abu,Twice in week,2,25,25976,703,22,23,1,11,69,18,3,2022
+520,20075,Rajdhani Express,21,1,8,Mon,Udaipur,Dli,Pali,Twice in week,5,27,15921,703,23,26,4,11,61,29,2,2019
+521,91951,Humsafar Express,22,3,13,Wed,Udaipur,Jpr,Jpr,Daily,1,31,17386,703,27,23,1,23,67,1,5,2022
+522,76357,Rajdhani Express,12,2,11,Fri,Udaipur,Dli,Jpr,Weekly,4,21,28783,703,22,20,1,21,62,21,1,2020
+523,10709,Rajdhani Express,21,1,9,Mon,Udaipur,JDP,UDP,Daily,5,26,16082,703,29,23,2,5,67,20,10,2019
+524,48861,ALL Puri SF Express,13,2,14,Fri,Udaipur,Pali,BKN,Weekly,4,34,15694,703,24,25,2,4,64,15,7,2021
+525,68898,Shatabdi Express,20,2,13,Mon,Udaipur,Jpr,Mount Abu,Twice in week,3,18,22882,703,27,25,2,23,60,16,7,2020
+526,61562,Shatabdi Express,29,1,10,Mon,Udaipur,UDP,Jpr,Weekly,1,33,10727,703,26,25,2,9,68,19,6,2022
+527,57023,Garbi Rath,27,2,14,Mon,Udaipur,JDP,BKN,Daily,1,7,17152,703,22,26,4,12,64,5,5,2019
+528,48592,Rajdhani Express,26,2,6,Wed,Udaipur,Mount Abu,BKN,Weekly,1,14,27001,703,21,29,1,18,61,22,7,2021
+529,70312,Chetak Express,15,1,5,Wed,Udaipur,Pali,UDP,Twice in week,4,18,21039,703,26,21,3,20,65,15,6,2019
+530,94177,Shatabdi Express,16,3,9,Mon,Udaipur,Mount Abu,Mount Abu,Daily,2,34,23618,703,26,21,2,19,64,13,11,2021
+531,92269,Dee Rzt Exp,12,1,7,Sat,Udaipur,JDP,BKN,Weekly,3,21,12837,703,27,24,1,23,63,5,3,2019
+532,49219,Humsafar Express,24,3,9,Thu,Udaipur,Dli,Jpr,Daily,5,33,17932,703,27,21,4,7,65,28,6,2021
+533,76766,Chetak Express,19,2,14,Wed,Udaipur,Jpr,Pali,Weekly,3,25,18507,703,22,26,4,15,69,26,11,2022
+534,50602,Yoga Express,26,3,14,Sat,Udaipur,JDP,BKN,Daily,4,14,24128,703,25,21,2,12,71,9,3,2020
+535,92615,Garbi Rath,27,2,14,Mon,Udaipur,BKN,Dli,Twice in week,5,33,12924,703,25,29,3,11,65,3,1,2019
+536,75638,Dee Rzt Exp,28,2,12,Sat,Udaipur,BKN,Pali,Twice in week,4,3,21069,703,26,20,3,12,70,26,4,2019
+537,53003,Rajdhani Express,14,2,9,Sat,Udaipur,BKN,Mount Abu,Daily,4,13,17888,703,29,21,4,20,70,27,2,2021
+538,81550,Vande Bharat Express,13,1,8,Thu,Udaipur,Dli,Jpr,Weekly,5,28,12800,703,20,22,2,4,71,8,11,2022
+539,83002,Humsafar Express,20,2,11,Mon,Udaipur,UDP,BKN,Twice in week,1,15,13059,703,21,21,4,17,63,1,11,2019
+540,26786,Garbi Rath,29,2,8,Sun,Udaipur,UDP,Dli,Daily,4,20,25003,703,25,25,2,20,70,1,8,2021
+541,49146,ALL Puri SF Express,11,2,7,Sun,Udaipur,UDP,UDP,Twice in week,2,26,17723,703,29,24,2,5,69,17,5,2020
+542,97643,Yoga Express,28,1,10,Sat,Udaipur,Pali,Jpr,Daily,2,25,22122,703,26,20,4,10,68,7,2,2022
+543,56066,Vande Bharat Express,13,3,14,Mon,Udaipur,Dli,Pali,Daily,3,29,27347,703,23,23,1,9,63,1,1,2020
+544,24302,Garbi Rath,22,2,7,Sat,Udaipur,Pali,BKN,Daily,5,30,12006,703,23,24,4,4,70,25,3,2021
+545,66150,Vande Bharat Express,27,3,6,Thu,Udaipur,Jpr,Pali,Weekly,1,24,28134,703,24,23,1,7,62,7,10,2022
+546,33037,Dee Rzt Exp,18,3,10,Thu,Udaipur,Dli,Jpr,Weekly,5,19,16709,703,25,24,1,12,61,30,9,2021
+547,72715,Humsafar Express,25,1,7,Sat,Udaipur,BKN,JDP,Daily,4,14,13461,703,28,20,4,13,64,10,8,2021
+548,54215,Garbi Rath,23,3,14,Sat,Udaipur,Mount Abu,UDP,Twice in week,4,20,18736,703,21,27,4,22,71,1,7,2022
+549,72570,Garbi Rath,19,3,6,Sat,Udaipur,Jpr,BKN,Daily,3,17,20393,703,23,25,4,13,71,26,11,2019
+550,43791,Dee Rzt Exp,12,3,5,Tue,Udaipur,BKN,UDP,Weekly,2,9,29197,703,25,28,1,12,70,20,11,2021
+551,93296,Shatabdi Express,24,1,12,Fri,Udaipur,Jpr,Jpr,Daily,2,31,15091,703,29,21,3,13,60,9,3,2022
+552,41725,Yoga Express,15,3,8,Wed,Udaipur,Mount Abu,UDP,Weekly,3,18,21065,703,27,20,2,4,69,1,5,2021
+553,66334,ALL Puri SF Express,20,2,6,Sat,Udaipur,JDP,Dli,Daily,1,30,23615,703,20,29,2,6,66,26,7,2021
+554,14595,Rajdhani Express,15,2,11,Thu,Udaipur,Dli,BKN,Weekly,4,31,24310,703,24,28,3,8,71,23,7,2019
+555,77317,Vande Bharat Express,26,3,10,Wed,Udaipur,BKN,Dli,Twice in week,3,22,26191,703,24,29,4,20,65,5,8,2021
+556,92117,Garbi Rath,26,1,10,Fri,Udaipur,Jpr,Dli,Daily,5,4,15344,703,27,20,1,6,63,6,5,2020
+557,50006,Dee Rzt Exp,10,1,12,Thu,Udaipur,Jpr,BKN,Twice in week,4,32,24161,703,22,25,4,14,65,22,10,2021
+558,25805,Vande Bharat Express,29,2,5,Sun,Udaipur,Mount Abu,Mount Abu,Twice in week,1,30,25085,703,20,29,1,22,69,4,1,2022
+559,53294,Dee Rzt Exp,27,3,9,Sat,Udaipur,UDP,Mount Abu,Daily,3,12,26692,703,26,26,1,11,67,30,5,2022
+560,97725,Shatabdi Express,26,2,5,Sat,Udaipur,JDP,Jpr,Daily,1,27,20467,703,29,28,4,11,71,26,9,2022
+561,92796,Yoga Express,16,2,13,Tue,Udaipur,Dli,JDP,Weekly,5,23,11424,703,26,29,1,19,68,27,6,2019
+562,87142,Vande Bharat Express,27,3,9,Thu,Udaipur,Dli,UDP,Daily,4,14,21478,703,28,28,1,17,68,17,11,2021
+563,53813,Rajdhani Express,22,2,8,Tue,Udaipur,UDP,Mount Abu,Daily,5,12,14512,703,22,27,2,19,62,16,5,2021
+564,13307,Vande Bharat Express,23,1,13,Tue,Udaipur,Jpr,UDP,Twice in week,2,5,14024,703,27,28,3,5,65,15,3,2020
+565,43628,Dee Rzt Exp,16,3,5,Wed,Udaipur,UDP,Mount Abu,Weekly,2,14,19571,703,28,27,4,22,71,19,9,2019
+566,65003,Dee Rzt Exp,27,2,13,Sun,Udaipur,Jpr,UDP,Daily,5,34,11567,703,27,29,2,18,60,9,8,2020
+567,20257,Yoga Express,27,2,7,Mon,Udaipur,Jpr,Pali,Daily,5,26,11992,703,27,26,1,5,64,7,4,2020
+568,19470,Yoga Express,17,3,5,Tue,Udaipur,BKN,Jpr,Weekly,1,4,13074,703,20,24,2,10,66,5,6,2021
+569,62609,Humsafar Express,16,3,7,Thu,Udaipur,Mount Abu,Mount Abu,Daily,5,26,15083,703,28,21,4,15,66,1,4,2020
+570,28960,Rajdhani Express,19,1,6,Fri,Udaipur,Dli,BKN,Twice in week,4,16,23366,703,23,20,4,6,71,20,5,2019
+571,88546,Garbi Rath,20,1,5,Sun,Udaipur,Mount Abu,UDP,Weekly,3,22,27551,703,25,24,1,22,60,3,6,2021
+572,11708,ALL Puri SF Express,21,2,8,Tue,Udaipur,Jpr,Dli,Twice in week,3,14,24522,703,29,20,1,21,67,8,6,2022
+573,18075,Double Decker,18,3,13,Tue,Udaipur,Jpr,JDP,Weekly,5,21,13693,703,23,22,3,6,71,25,2,2021
+574,33462,Double Decker,12,2,6,Fri,Udaipur,BKN,Jpr,Daily,5,14,10852,703,24,25,1,19,65,17,6,2021
+575,47179,Chetak Express,11,1,12,Thu,Udaipur,Mount Abu,JDP,Twice in week,2,6,28252,703,28,20,2,12,60,24,3,2021
+576,81707,Chetak Express,26,3,12,Wed,Udaipur,Jpr,JDP,Weekly,3,14,10191,703,21,21,4,7,68,17,5,2019
+577,47093,Double Decker,13,1,14,Mon,Udaipur,Jpr,Dli,Daily,4,27,11945,703,21,26,3,14,62,5,4,2020
+578,53829,Garbi Rath,21,3,13,Thu,Udaipur,JDP,Dli,Twice in week,3,5,24734,703,26,28,4,18,61,26,11,2019
+579,99336,Shatabdi Express,12,1,8,Thu,Udaipur,UDP,Dli,Twice in week,3,3,19662,703,25,29,1,6,63,19,11,2021
+580,26881,Garbi Rath,26,2,5,Mon,Udaipur,Jpr,Dli,Weekly,5,18,17190,703,23,20,4,13,71,16,5,2019
+581,86265,Double Decker,26,2,7,Thu,Udaipur,Jpr,Pali,Weekly,1,33,29941,703,27,27,4,15,71,17,11,2021
+582,46881,Double Decker,17,1,12,Sun,Udaipur,JDP,BKN,Weekly,4,9,12331,703,26,28,3,6,62,5,9,2020
+583,77463,Dee Rzt Exp,28,2,12,Tue,Udaipur,JDP,JDP,Twice in week,4,6,26111,703,21,27,2,5,61,6,2,2021
+584,56197,Yoga Express,18,2,14,Sat,Udaipur,Mount Abu,BKN,Twice in week,3,9,29896,703,26,21,1,12,68,1,7,2020
+585,61229,Garbi Rath,17,3,13,Tue,Udaipur,BKN,BKN,Weekly,2,25,19816,703,26,29,4,12,63,11,6,2022
+586,44405,Humsafar Express,29,3,8,Sat,Udaipur,JDP,Jpr,Twice in week,4,11,11959,703,26,25,3,15,67,23,1,2020
+587,65747,ALL Puri SF Express,11,2,5,Thu,Udaipur,Jpr,Pali,Twice in week,4,7,22365,703,26,22,2,6,68,16,4,2021
+588,21302,Humsafar Express,15,3,14,Sun,Udaipur,UDP,BKN,Twice in week,2,21,24613,703,21,22,4,9,61,8,2,2022
+589,18883,Yoga Express,14,3,9,Fri,Udaipur,UDP,Mount Abu,Daily,2,4,24379,703,21,29,4,6,66,14,4,2021
+590,77504,Garbi Rath,20,3,5,Wed,Udaipur,UDP,BKN,Daily,3,7,12407,703,27,24,3,19,69,27,7,2022
+591,46540,Shatabdi Express,27,2,5,Sun,Udaipur,JDP,Mount Abu,Daily,1,7,17065,703,28,28,2,20,70,3,9,2019
+592,81964,Double Decker,17,2,6,Sun,Udaipur,Dli,Pali,Twice in week,5,10,11304,703,22,20,3,21,66,8,6,2021
+593,71117,Dee Rzt Exp,14,3,12,Thu,Udaipur,JDP,BKN,Daily,3,9,27390,703,20,27,4,5,66,20,4,2021
+594,71500,Double Decker,17,1,6,Sun,Udaipur,Jpr,Pali,Daily,3,21,29017,703,23,23,1,22,61,17,4,2021
+595,38782,Humsafar Express,21,2,9,Fri,Udaipur,Mount Abu,Mount Abu,Twice in week,1,10,21495,703,24,25,4,14,67,12,11,2019
+596,98083,Dee Rzt Exp,22,3,5,Sun,Udaipur,Dli,Dli,Weekly,4,25,17036,703,22,22,4,19,62,7,3,2022
+597,30671,Humsafar Express,29,1,14,Tue,Udaipur,Pali,BKN,Twice in week,5,29,13979,703,20,25,1,16,70,5,2,2020
+598,51998,Humsafar Express,28,2,10,Thu,Udaipur,Dli,BKN,Twice in week,4,29,16700,703,24,27,1,4,67,13,4,2021
+599,10705,Double Decker,28,2,8,Tue,Udaipur,JDP,BKN,Daily,5,17,11596,703,23,25,3,5,60,28,10,2019
+600,57021,Chetak Express,18,2,9,Thu,Udaipur,BKN,BKN,Daily,4,8,28555,703,21,23,3,21,67,22,3,2020
+601,13016,Dee Rzt Exp,16,2,6,Fri,Udaipur,JDP,Dli,Twice in week,2,9,18531,703,22,23,3,7,65,18,3,2019
+602,44648,Double Decker,10,2,8,Sat,Udaipur,Jpr,Dli,Daily,1,9,27674,703,29,26,1,4,60,29,4,2019
+603,72427,Double Decker,10,3,11,Tue,Udaipur,BKN,JDP,Daily,1,27,21844,703,27,24,2,22,71,18,3,2022
+604,96463,Humsafar Express,12,1,12,Thu,Udaipur,UDP,UDP,Daily,3,31,20197,703,22,27,2,18,71,21,9,2020
+605,94789,Yoga Express,13,1,13,Tue,Udaipur,Mount Abu,Pali,Weekly,4,8,28991,703,21,24,4,10,62,5,1,2020
+606,55389,Yoga Express,26,1,7,Mon,Udaipur,JDP,BKN,Daily,5,3,22605,703,29,20,4,15,60,6,3,2020
+607,12668,Rajdhani Express,14,1,11,Mon,Udaipur,Pali,Dli,Twice in week,2,12,28524,703,23,20,1,19,61,8,11,2021
+608,94112,Humsafar Express,27,2,6,Mon,Udaipur,UDP,UDP,Daily,2,15,22362,703,29,29,2,10,63,3,4,2021
+609,30781,Chetak Express,17,2,6,Wed,Udaipur,Dli,JDP,Twice in week,5,9,11658,703,23,24,2,21,68,8,2,2022
+610,35683,Rajdhani Express,20,1,10,Sun,Udaipur,BKN,JDP,Daily,4,17,20265,703,26,22,1,10,70,26,10,2021
+611,85886,Garbi Rath,17,3,11,Fri,Udaipur,Jpr,JDP,Weekly,5,30,17697,703,22,29,1,13,69,1,10,2021
+612,55465,Shatabdi Express,27,1,12,Sat,Udaipur,JDP,BKN,Weekly,1,32,27692,703,29,27,3,10,69,6,9,2020
+613,53353,Yoga Express,20,2,12,Fri,Udaipur,Pali,BKN,Twice in week,5,15,24835,703,29,24,4,14,65,27,5,2022
+614,92033,Double Decker,10,1,12,Fri,Udaipur,Jpr,JDP,Twice in week,3,34,12645,703,28,29,3,12,70,30,9,2019
+615,90318,Rajdhani Express,28,3,9,Mon,Udaipur,JDP,Pali,Weekly,5,11,27619,703,26,28,4,17,71,19,9,2021
+616,13235,Vande Bharat Express,26,3,6,Tue,Udaipur,Dli,Jpr,Twice in week,2,27,22764,703,29,20,1,13,62,12,7,2021
+617,90267,Humsafar Express,27,3,8,Sat,Udaipur,Dli,JDP,Twice in week,5,27,12697,703,25,25,4,7,62,24,7,2021
+618,64737,Yoga Express,28,2,11,Sun,Udaipur,Mount Abu,BKN,Weekly,2,10,28953,703,29,27,2,9,60,11,1,2020
+619,68497,Garbi Rath,15,3,5,Mon,Udaipur,UDP,Jpr,Weekly,4,22,22497,703,24,29,3,9,64,4,8,2020
+620,94465,Dee Rzt Exp,23,3,11,Thu,Udaipur,Pali,Dli,Weekly,3,32,29401,703,28,29,1,5,70,12,5,2019
+621,84634,Shatabdi Express,26,2,8,Fri,Udaipur,JDP,Pali,Twice in week,3,4,21216,703,27,22,2,6,61,12,11,2021
+622,68691,Yoga Express,13,3,8,Fri,Udaipur,JDP,JDP,Daily,5,17,25649,703,28,25,1,19,65,9,5,2022
+623,67040,Shatabdi Express,20,2,11,Sat,Udaipur,BKN,JDP,Weekly,1,19,16156,703,20,28,2,15,71,2,1,2020
+624,77416,ALL Puri SF Express,19,2,5,Thu,Udaipur,Dli,BKN,Daily,2,7,13540,703,21,25,2,13,70,11,2,2022
+625,29123,Rajdhani Express,13,1,12,Thu,Udaipur,BKN,Dli,Twice in week,2,34,26307,703,26,26,4,10,64,25,2,2019
+626,69861,Humsafar Express,14,2,7,Thu,Udaipur,Pali,JDP,Weekly,3,8,19059,703,20,21,1,5,60,16,6,2022
+627,94021,Humsafar Express,19,3,6,Wed,Udaipur,JDP,BKN,Weekly,3,34,23121,703,25,20,1,18,60,20,2,2021
+628,91358,ALL Puri SF Express,26,3,9,Sat,Udaipur,UDP,Dli,Twice in week,1,10,14697,703,25,25,2,23,69,8,4,2020
+629,85682,Rajdhani Express,28,1,6,Thu,Udaipur,UDP,Mount Abu,Weekly,3,16,26350,703,26,28,1,6,64,1,4,2020
+630,19873,Shatabdi Express,27,3,13,Sun,Udaipur,Pali,Mount Abu,Daily,4,30,29296,703,23,20,1,6,61,24,7,2019
+631,29023,Dee Rzt Exp,22,3,7,Wed,Udaipur,Mount Abu,BKN,Daily,3,10,22898,703,28,24,2,4,70,1,4,2021
+632,97572,ALL Puri SF Express,29,1,10,Sun,Udaipur,BKN,Mount Abu,Daily,5,20,13919,703,21,27,4,22,68,4,10,2020
+633,86410,Rajdhani Express,15,2,14,Sun,Udaipur,BKN,UDP,Weekly,2,3,20198,703,25,22,2,6,62,13,5,2019
+634,10053,Chetak Express,25,2,8,Sun,Udaipur,Jpr,BKN,Weekly,2,24,28012,703,23,24,4,21,65,1,6,2019
+635,26112,Rajdhani Express,24,1,11,Sun,Udaipur,JDP,Dli,Daily,4,32,19691,703,27,20,3,10,60,6,8,2019
+636,62174,Humsafar Express,15,1,6,Sun,Udaipur,JDP,Pali,Weekly,1,25,21395,703,24,26,4,15,64,15,8,2019
+637,48809,Rajdhani Express,13,2,14,Fri,Udaipur,JDP,Mount Abu,Daily,2,5,15784,703,25,23,3,8,71,23,1,2021
+638,94318,ALL Puri SF Express,27,1,13,Sat,Udaipur,Pali,UDP,Twice in week,1,28,19299,703,22,29,3,10,66,28,11,2020
+639,34996,Chetak Express,22,1,13,Mon,Udaipur,BKN,Dli,Daily,4,27,11390,703,23,20,3,5,65,14,8,2020
+640,84354,Dee Rzt Exp,24,1,8,Sun,Udaipur,Mount Abu,BKN,Weekly,5,22,26564,703,26,23,1,17,67,1,6,2021
+641,69485,Dee Rzt Exp,25,3,6,Fri,Udaipur,Mount Abu,Jpr,Weekly,2,27,23791,703,20,23,2,12,61,15,1,2019
+642,79209,Yoga Express,19,2,10,Sat,Udaipur,Mount Abu,UDP,Twice in week,1,14,18001,703,24,29,3,4,65,14,10,2022
+643,68567,Garbi Rath,19,3,14,Tue,Udaipur,Mount Abu,BKN,Daily,1,21,19563,703,22,20,1,19,60,25,8,2020
+644,71585,Double Decker,19,3,13,Fri,Udaipur,Dli,Jpr,Twice in week,3,24,17061,703,27,25,1,20,65,6,4,2021
+645,63707,Chetak Express,25,3,7,Fri,Udaipur,Dli,BKN,Daily,1,34,21763,703,22,29,3,19,60,17,10,2022
+646,76725,Garbi Rath,10,3,8,Tue,Udaipur,JDP,Dli,Daily,5,26,23673,703,27,25,1,12,65,21,7,2022
+647,84405,Dee Rzt Exp,26,1,11,Mon,Udaipur,Mount Abu,Dli,Daily,2,30,14412,703,27,27,4,4,68,2,3,2019
+648,92347,ALL Puri SF Express,19,1,8,Wed,Udaipur,UDP,BKN,Twice in week,1,33,20798,703,24,29,4,19,70,19,7,2022
+649,85462,Humsafar Express,14,1,9,Sat,Udaipur,Pali,Pali,Weekly,5,10,15442,703,23,22,1,6,62,9,11,2022
+650,21757,Yoga Express,29,3,12,Sat,Udaipur,Dli,Jpr,Daily,2,16,14347,703,29,20,2,4,63,9,4,2019
+651,55178,Chetak Express,19,2,11,Sun,Udaipur,Dli,Dli,Twice in week,1,3,16143,703,23,20,3,15,63,29,1,2021
+652,79275,Humsafar Express,19,3,11,Mon,Udaipur,Pali,Dli,Daily,5,15,20717,703,20,27,2,7,63,20,4,2022
+653,61402,Dee Rzt Exp,22,1,5,Sun,Udaipur,Jpr,BKN,Twice in week,2,21,23729,703,21,22,1,22,61,2,4,2019
+654,35305,ALL Puri SF Express,17,2,12,Thu,Udaipur,Pali,BKN,Weekly,1,18,17297,703,25,20,2,15,63,10,10,2022
+655,97119,Vande Bharat Express,27,2,7,Sun,Udaipur,BKN,Jpr,Weekly,4,28,12706,703,21,23,3,22,63,26,9,2019
+656,22233,Rajdhani Express,28,3,13,Thu,Udaipur,JDP,Jpr,Twice in week,4,6,23515,703,23,27,3,15,64,10,1,2021
+657,21149,ALL Puri SF Express,17,2,14,Thu,Udaipur,JDP,Dli,Daily,5,19,15158,703,23,20,2,13,67,9,7,2020
+658,51856,Rajdhani Express,17,3,13,Tue,Udaipur,UDP,Dli,Daily,2,6,11651,703,21,22,1,23,66,30,11,2019
+659,71850,Humsafar Express,29,1,11,Thu,Udaipur,BKN,Pali,Daily,1,5,26123,703,21,23,3,23,69,28,5,2020
+660,99377,Garbi Rath,25,1,6,Sat,Udaipur,Mount Abu,Dli,Weekly,5,33,15592,703,21,24,4,11,66,6,2,2019
+661,59907,ALL Puri SF Express,12,1,8,Sat,Udaipur,Jpr,Pali,Twice in week,5,11,26544,703,29,26,2,4,66,24,6,2020
+662,50209,Garbi Rath,29,3,9,Mon,Udaipur,UDP,JDP,Twice in week,2,9,29423,703,25,26,2,19,62,7,9,2021
+663,12503,Chetak Express,16,2,12,Tue,Udaipur,UDP,Mount Abu,Weekly,4,32,21120,703,26,24,4,19,65,19,4,2020
+664,66032,Chetak Express,28,1,10,Tue,Udaipur,BKN,BKN,Daily,2,20,23936,703,20,26,1,7,70,17,6,2019
+665,85075,Garbi Rath,21,1,12,Sat,Udaipur,Pali,Jpr,Daily,1,7,29264,703,23,28,1,6,71,16,8,2020
+666,87588,Rajdhani Express,12,1,5,Mon,Udaipur,Jpr,UDP,Weekly,2,18,24426,703,23,23,4,10,62,18,10,2020
+667,31188,Rajdhani Express,18,2,14,Fri,Udaipur,Jpr,Dli,Weekly,5,19,23720,703,28,29,1,23,70,8,2,2022
+668,86485,Chetak Express,26,3,12,Fri,Udaipur,Pali,Jpr,Twice in week,1,3,10433,703,22,23,3,20,70,15,1,2019
+669,92052,Garbi Rath,10,3,5,Tue,Udaipur,Pali,UDP,Twice in week,1,10,20713,703,22,27,1,6,71,19,8,2020
+670,67859,Shatabdi Express,20,3,5,Thu,Udaipur,Jpr,Mount Abu,Twice in week,1,26,13217,703,27,21,2,17,68,28,4,2019
+671,30786,Shatabdi Express,18,1,11,Sun,Udaipur,Dli,Mount Abu,Twice in week,3,12,22121,703,26,22,2,6,62,15,11,2019
+672,43794,Humsafar Express,24,3,7,Wed,Udaipur,Pali,Dli,Twice in week,1,12,14097,703,24,27,3,10,66,23,2,2020
+673,50625,Shatabdi Express,18,2,11,Mon,Udaipur,Jpr,Pali,Twice in week,1,7,14560,703,20,23,3,10,68,18,1,2019
+674,26127,Dee Rzt Exp,16,3,7,Fri,Udaipur,Dli,Dli,Weekly,2,11,18583,703,29,28,3,5,67,20,3,2022
+675,17464,ALL Puri SF Express,19,3,14,Wed,Udaipur,Mount Abu,Dli,Weekly,3,8,21146,703,23,23,4,23,61,26,8,2022
+676,25429,Humsafar Express,19,3,6,Tue,Udaipur,Mount Abu,Pali,Daily,2,30,14099,703,24,21,4,9,62,11,6,2019
+677,46798,Rajdhani Express,27,3,14,Fri,Udaipur,JDP,JDP,Weekly,2,15,12320,703,24,25,2,10,63,23,4,2020
+678,38443,Chetak Express,29,3,13,Wed,Udaipur,JDP,BKN,Weekly,4,5,12508,703,23,22,1,6,61,2,4,2019
+679,74275,Chetak Express,17,2,5,Mon,Udaipur,BKN,JDP,Twice in week,2,5,22800,703,24,21,3,23,62,15,3,2019
+680,11346,Double Decker,10,1,9,Tue,Udaipur,Dli,BKN,Twice in week,3,18,26891,703,27,22,2,15,65,23,1,2022
+681,23904,Yoga Express,18,2,10,Fri,Udaipur,Jpr,Jpr,Weekly,4,21,11409,703,20,23,1,7,64,9,2,2021
+682,35946,Rajdhani Express,19,2,5,Wed,Udaipur,Mount Abu,Dli,Weekly,4,23,11243,703,20,25,1,19,65,30,4,2020
+683,38494,Double Decker,20,1,11,Tue,Udaipur,JDP,Dli,Twice in week,1,30,15392,703,22,21,2,8,65,6,11,2019
+684,56040,Yoga Express,19,1,6,Tue,Udaipur,UDP,BKN,Weekly,5,27,16310,703,23,21,2,23,62,10,5,2019
+685,35386,Rajdhani Express,29,3,11,Thu,Udaipur,Jpr,Dli,Weekly,4,19,13631,703,26,20,1,9,71,21,8,2021
+686,73667,Humsafar Express,18,1,10,Thu,Udaipur,Jpr,BKN,Weekly,2,33,23128,703,29,24,2,11,61,19,10,2022
+687,48802,Humsafar Express,21,1,5,Fri,Udaipur,BKN,BKN,Daily,5,14,11565,703,21,21,4,8,71,30,6,2022
+688,17517,ALL Puri SF Express,20,3,7,Sun,Udaipur,JDP,JDP,Twice in week,2,23,14420,703,25,29,1,19,70,8,8,2019
+689,18865,Shatabdi Express,27,3,9,Wed,Udaipur,Pali,Jpr,Twice in week,2,22,12279,703,28,26,3,19,61,1,5,2020
+690,65493,Yoga Express,22,3,9,Wed,Udaipur,JDP,BKN,Twice in week,3,22,16937,703,20,23,4,18,66,7,5,2019
+691,76432,Yoga Express,19,1,9,Sat,Udaipur,JDP,BKN,Daily,1,5,25975,703,25,22,1,12,68,17,4,2022
+692,49862,Rajdhani Express,13,3,7,Tue,Udaipur,BKN,BKN,Daily,3,7,23834,703,29,21,3,19,65,16,2,2022
+693,32663,Double Decker,23,2,12,Sun,Udaipur,Dli,Pali,Weekly,2,32,18473,703,27,24,2,22,62,15,1,2022
+694,84527,Humsafar Express,13,1,10,Thu,Udaipur,Jpr,Pali,Weekly,5,10,24657,703,27,20,1,12,66,8,9,2021
+695,19709,Humsafar Express,20,1,5,Thu,Udaipur,Dli,UDP,Daily,2,27,17206,703,21,21,4,11,65,18,8,2022
+696,23108,Rajdhani Express,18,2,12,Sat,Udaipur,UDP,Jpr,Twice in week,2,6,17376,703,22,25,3,7,61,3,3,2020
+697,21891,Dee Rzt Exp,13,3,11,Thu,Udaipur,Mount Abu,Mount Abu,Weekly,1,18,24711,703,22,27,2,11,66,19,9,2019
+698,69176,Dee Rzt Exp,17,3,5,Thu,Udaipur,Dli,BKN,Daily,2,29,24961,703,22,24,1,16,61,24,9,2021
+699,94711,Dee Rzt Exp,14,3,7,Tue,Udaipur,BKN,Jpr,Twice in week,2,29,27799,703,20,27,3,4,71,28,7,2021
+700,79101,Shatabdi Express,10,3,11,Fri,Udaipur,UDP,BKN,Daily,1,12,13533,703,22,23,4,22,68,20,3,2021
+701,93989,Vande Bharat Express,20,1,11,Mon,Udaipur,UDP,Mount Abu,Twice in week,4,15,26549,703,21,23,4,11,71,8,2,2019
+702,94133,ALL Puri SF Express,23,1,5,Thu,Udaipur,UDP,UDP,Weekly,1,18,24718,703,29,22,3,12,64,6,9,2021
+703,42230,Rajdhani Express,28,2,11,Wed,Udaipur,Dli,Pali,Weekly,4,14,26708,703,21,25,1,5,60,18,10,2020
+704,47633,Shatabdi Express,12,2,5,Sun,Udaipur,Pali,Pali,Weekly,3,8,28221,703,23,26,3,23,71,2,9,2022
+705,25142,Dee Rzt Exp,28,1,14,Sat,Udaipur,Mount Abu,Jpr,Weekly,1,22,23239,703,29,23,3,21,62,26,1,2021
+706,90565,Rajdhani Express,28,1,5,Sun,Udaipur,Mount Abu,Jpr,Twice in week,4,23,19228,703,27,29,3,10,71,25,4,2019
+707,34455,Shatabdi Express,18,1,12,Sun,Udaipur,JDP,Dli,Weekly,2,18,10825,703,26,22,3,13,71,1,10,2020
+708,94486,Shatabdi Express,29,2,10,Mon,Udaipur,Mount Abu,JDP,Twice in week,1,14,10332,703,28,27,4,14,67,5,11,2021
+709,78718,Vande Bharat Express,27,1,13,Thu,Udaipur,BKN,UDP,Twice in week,5,8,18593,703,27,25,2,7,69,30,7,2021
+710,37284,Yoga Express,20,1,7,Wed,Udaipur,JDP,JDP,Daily,5,7,14870,703,25,27,1,14,61,13,6,2019
+711,78906,Chetak Express,21,1,10,Tue,Udaipur,JDP,Jpr,Twice in week,3,12,16892,703,28,20,3,19,65,16,4,2022
+712,57967,Dee Rzt Exp,16,2,12,Sat,Udaipur,Mount Abu,Jpr,Twice in week,1,18,24500,703,23,27,2,18,62,5,7,2021
+713,10356,Shatabdi Express,13,2,13,Sat,Udaipur,Dli,JDP,Daily,3,11,21715,703,25,26,3,15,64,9,11,2020
+714,86039,Humsafar Express,24,3,12,Thu,Udaipur,Dli,UDP,Daily,5,23,20697,703,26,28,2,11,67,4,4,2020
+715,34061,Yoga Express,28,2,8,Wed,Udaipur,Mount Abu,BKN,Daily,2,22,15568,703,21,29,2,19,60,23,8,2022
+716,74614,Garbi Rath,15,2,9,Tue,Udaipur,BKN,BKN,Daily,4,27,23406,703,23,27,4,20,60,27,6,2021
+717,65373,Rajdhani Express,12,2,13,Wed,Udaipur,JDP,UDP,Weekly,5,30,11671,703,20,24,4,16,71,7,2,2021
+718,70437,Shatabdi Express,24,1,11,Thu,Udaipur,BKN,Pali,Twice in week,2,9,22309,703,27,22,4,17,63,22,10,2020
+719,84350,Garbi Rath,26,2,9,Fri,Udaipur,Dli,UDP,Weekly,4,8,26426,703,24,27,4,5,64,10,10,2022
+720,22669,Yoga Express,17,2,14,Wed,Udaipur,Dli,BKN,Twice in week,3,3,18360,703,28,28,4,6,60,21,6,2021
+721,88723,Humsafar Express,24,1,7,Fri,Udaipur,JDP,UDP,Daily,1,19,24641,703,29,22,2,5,71,28,9,2020
+722,18076,Shatabdi Express,27,1,14,Sat,Udaipur,Jpr,Pali,Weekly,1,30,19518,703,23,25,3,15,67,22,3,2022
+723,60227,Rajdhani Express,15,2,8,Tue,Udaipur,Jpr,Pali,Twice in week,5,30,29537,703,29,29,1,8,67,26,8,2020
+724,43528,Humsafar Express,29,1,13,Tue,Udaipur,BKN,Dli,Weekly,5,30,14096,703,25,26,1,8,66,26,9,2019
+725,29611,Garbi Rath,24,2,14,Fri,Udaipur,Mount Abu,BKN,Weekly,4,8,23607,703,28,25,2,6,60,2,3,2019
+726,35118,Humsafar Express,10,3,11,Sat,Udaipur,JDP,Pali,Weekly,5,29,23235,703,20,23,3,20,63,17,1,2021
+727,80807,Yoga Express,14,3,5,Mon,Udaipur,Dli,Mount Abu,Daily,2,20,13120,703,20,23,3,6,64,9,2,2020
+728,44235,Rajdhani Express,11,2,11,Wed,Udaipur,Jpr,Pali,Twice in week,5,14,17457,703,24,24,2,19,62,24,4,2020
+729,22443,Vande Bharat Express,15,1,13,Mon,Udaipur,Dli,BKN,Weekly,1,29,16666,703,29,27,3,5,70,26,11,2021
+730,65469,Shatabdi Express,19,1,8,Mon,Udaipur,JDP,Mount Abu,Weekly,1,26,28336,703,22,23,2,5,71,9,5,2021
+731,97416,Humsafar Express,10,1,8,Wed,Udaipur,Dli,Pali,Twice in week,3,3,10948,703,26,24,4,14,67,17,2,2022
+732,56305,Humsafar Express,21,3,13,Sun,Udaipur,Mount Abu,Dli,Weekly,3,16,19754,703,29,29,1,16,71,18,7,2020
+733,50829,Shatabdi Express,21,3,9,Thu,Udaipur,Dli,Jpr,Twice in week,5,9,21974,703,24,25,1,10,70,8,10,2022
+734,15578,Vande Bharat Express,13,1,13,Mon,Udaipur,Pali,Pali,Twice in week,1,30,18293,703,23,20,4,6,62,28,7,2019
+735,22728,Rajdhani Express,23,3,10,Sat,Udaipur,Jpr,Dli,Weekly,5,33,28774,703,20,27,1,6,67,13,6,2020
+736,83749,Chetak Express,14,3,12,Sun,Udaipur,Jpr,BKN,Twice in week,2,23,14443,703,28,26,3,13,69,17,9,2021
+737,58091,Garbi Rath,17,3,10,Thu,Udaipur,JDP,BKN,Daily,5,29,18861,703,25,29,2,17,64,19,6,2019
+738,82969,Yoga Express,27,2,11,Wed,Udaipur,UDP,JDP,Weekly,2,23,28205,703,24,29,4,8,69,26,10,2020
+739,94256,Humsafar Express,29,1,11,Sun,Udaipur,JDP,UDP,Twice in week,2,8,14331,703,22,24,4,23,71,30,1,2020
+740,57637,Double Decker,25,3,7,Fri,Udaipur,JDP,JDP,Daily,2,14,20716,703,26,20,1,9,68,26,10,2019
+741,19050,Yoga Express,29,1,8,Tue,Udaipur,JDP,UDP,Weekly,5,10,23574,703,23,23,3,9,68,30,10,2020
+742,11351,Chetak Express,14,3,8,Thu,Udaipur,BKN,Pali,Twice in week,5,14,17082,703,29,29,2,14,68,16,2,2019
+743,31624,Chetak Express,22,1,5,Sun,Udaipur,Jpr,Mount Abu,Daily,2,8,24667,703,25,27,2,20,68,15,6,2020
+744,25854,Shatabdi Express,17,2,8,Fri,Udaipur,BKN,Jpr,Daily,2,11,26420,703,21,25,2,8,60,14,10,2020
+745,36015,Chetak Express,12,3,14,Thu,Udaipur,Pali,Dli,Daily,3,9,13319,703,26,21,4,6,66,1,6,2021
+746,64886,Vande Bharat Express,22,1,13,Sun,Udaipur,Dli,UDP,Daily,1,26,23827,703,23,21,4,12,67,7,6,2022
+747,23417,Chetak Express,18,2,8,Sun,Udaipur,Dli,JDP,Twice in week,1,26,16576,703,22,22,4,10,69,18,3,2020
+748,71960,Garbi Rath,29,1,11,Fri,Udaipur,Mount Abu,Pali,Daily,1,15,25773,703,28,22,2,18,69,28,5,2021
+749,31247,Yoga Express,10,2,7,Thu,Udaipur,JDP,Pali,Weekly,4,20,18409,703,20,21,2,19,67,27,6,2021
+750,25980,Yoga Express,27,1,11,Tue,Udaipur,BKN,UDP,Weekly,5,18,26800,703,27,23,3,13,67,29,3,2020
+751,62121,Rajdhani Express,11,1,14,Tue,Udaipur,JDP,Pali,Weekly,2,5,12094,703,27,21,2,9,60,18,5,2019
+752,91696,Chetak Express,16,1,13,Tue,Udaipur,Jpr,Dli,Twice in week,2,20,28866,703,23,27,4,10,68,24,3,2019
+753,14758,Humsafar Express,19,2,11,Thu,Udaipur,JDP,UDP,Weekly,1,7,19653,703,27,28,1,15,71,26,2,2019
+754,70226,Yoga Express,20,1,10,Wed,Udaipur,JDP,BKN,Daily,5,5,10282,703,21,23,1,14,61,10,6,2020
+755,53742,Dee Rzt Exp,25,1,14,Thu,Udaipur,UDP,UDP,Twice in week,5,20,22639,703,26,25,1,5,66,14,6,2019
+756,81467,Dee Rzt Exp,11,3,7,Sun,Udaipur,Mount Abu,Dli,Twice in week,5,10,25079,703,22,23,3,6,64,18,7,2019
+757,76259,Rajdhani Express,24,1,5,Tue,Udaipur,Mount Abu,BKN,Daily,4,32,19449,703,23,28,4,4,68,13,1,2019
+758,17217,Vande Bharat Express,28,3,12,Tue,Udaipur,Jpr,UDP,Twice in week,3,29,27992,703,22,26,2,18,65,26,11,2022
+759,68256,Vande Bharat Express,19,3,9,Tue,Udaipur,Dli,Pali,Weekly,3,3,12301,703,26,23,4,7,66,14,9,2020
+760,31240,ALL Puri SF Express,14,3,5,Tue,Udaipur,JDP,Mount Abu,Daily,5,22,20983,703,25,20,2,23,62,4,5,2022
+761,13986,Vande Bharat Express,29,1,12,Sat,Udaipur,Dli,Pali,Weekly,3,3,11166,703,25,25,4,15,69,21,4,2019
+762,85991,Humsafar Express,21,1,7,Tue,Udaipur,Pali,Pali,Weekly,1,23,25411,703,27,23,3,21,64,13,2,2019
+763,91078,Rajdhani Express,24,3,6,Thu,Udaipur,Pali,BKN,Twice in week,4,33,19498,703,20,25,4,8,68,30,1,2021
+764,23971,Chetak Express,18,2,11,Tue,Udaipur,JDP,Pali,Twice in week,1,5,10695,703,26,21,2,17,70,10,2,2021
+765,37152,Vande Bharat Express,16,2,12,Tue,Udaipur,BKN,BKN,Weekly,4,21,11309,703,28,23,3,4,69,24,8,2019
+766,60227,Shatabdi Express,29,2,11,Sun,Udaipur,Jpr,UDP,Daily,1,22,26508,703,29,27,1,12,65,4,2,2021
+767,53197,Humsafar Express,13,2,5,Sun,Udaipur,BKN,Jpr,Daily,1,31,10507,703,29,21,1,14,64,15,6,2019
+768,70889,Yoga Express,21,1,11,Fri,Udaipur,JDP,BKN,Weekly,5,5,16001,703,23,21,4,7,65,11,3,2020
+769,14959,Humsafar Express,27,3,9,Sat,Udaipur,Pali,Mount Abu,Weekly,3,4,21114,703,29,27,3,10,62,17,10,2021
+770,70246,Shatabdi Express,17,1,6,Tue,Udaipur,JDP,BKN,Twice in week,4,14,29357,703,21,23,2,8,60,29,6,2019
+771,38339,Double Decker,15,2,13,Thu,Udaipur,Dli,Dli,Weekly,2,20,18136,703,25,29,1,8,70,3,11,2021
+772,62960,Yoga Express,14,3,13,Wed,Udaipur,BKN,UDP,Daily,2,16,11785,703,24,23,2,23,64,6,1,2022
+773,13979,ALL Puri SF Express,21,3,13,Sat,Udaipur,Pali,Pali,Weekly,4,3,12320,703,27,28,3,6,61,9,9,2019
+774,88149,Vande Bharat Express,10,1,11,Sat,Udaipur,BKN,Dli,Weekly,2,21,22477,703,24,24,3,15,69,5,1,2019
+775,56645,Vande Bharat Express,24,3,12,Fri,Udaipur,Dli,UDP,Weekly,5,9,24738,703,22,26,3,18,62,16,2,2019
+776,85087,Garbi Rath,26,1,7,Sat,Udaipur,JDP,Pali,Weekly,3,22,17707,703,25,21,3,5,68,26,8,2019
+777,25397,Double Decker,11,3,8,Sun,Udaipur,Dli,UDP,Twice in week,1,25,14645,703,29,27,1,15,63,23,5,2020
+778,74886,Garbi Rath,16,1,7,Thu,Udaipur,JDP,Pali,Daily,1,20,20892,703,27,26,1,22,61,5,10,2022
+779,16922,Chetak Express,11,1,5,Mon,Udaipur,Pali,Pali,Twice in week,3,7,21294,703,27,28,3,5,67,2,5,2022
+780,35597,Shatabdi Express,16,1,5,Thu,Udaipur,Jpr,Pali,Daily,3,22,28226,703,20,27,2,12,70,21,11,2021
+781,49180,Yoga Express,15,1,8,Sat,Udaipur,Jpr,Dli,Daily,5,6,13209,703,20,21,4,9,69,7,1,2019
+782,21941,Humsafar Express,24,3,10,Tue,Udaipur,Dli,UDP,Daily,2,4,18441,703,28,26,3,6,63,26,2,2021
+783,35492,ALL Puri SF Express,10,3,9,Mon,Udaipur,Mount Abu,Jpr,Weekly,2,4,16781,703,29,21,3,4,70,12,8,2020
+784,17561,ALL Puri SF Express,15,2,8,Wed,Udaipur,Dli,Dli,Weekly,3,23,22636,703,20,25,2,15,64,21,4,2022
+785,39982,Double Decker,24,1,11,Mon,Udaipur,JDP,Pali,Daily,4,10,11714,703,28,26,2,7,66,1,10,2020
+786,32423,Double Decker,21,2,7,Fri,Udaipur,Dli,UDP,Weekly,3,27,29288,703,22,20,4,11,64,22,10,2019
+787,97551,Humsafar Express,20,2,10,Mon,Udaipur,JDP,JDP,Twice in week,5,33,22001,703,28,29,2,9,65,27,10,2021
+788,45414,Garbi Rath,10,1,5,Tue,Udaipur,JDP,Jpr,Twice in week,5,27,25525,703,21,28,3,5,61,20,8,2019
+789,75888,Rajdhani Express,14,1,14,Thu,Udaipur,UDP,UDP,Weekly,3,6,11686,703,28,27,3,19,64,24,2,2022
+790,75091,Rajdhani Express,11,1,6,Mon,Udaipur,Jpr,Jpr,Twice in week,5,27,15385,703,20,28,1,21,68,2,7,2022
+791,86881,Dee Rzt Exp,15,2,6,Thu,Udaipur,Jpr,UDP,Daily,4,25,21993,703,29,29,4,23,67,16,2,2021
+792,75487,Vande Bharat Express,24,2,6,Sat,Udaipur,Mount Abu,Jpr,Weekly,4,26,10688,703,21,22,2,17,66,23,2,2021
+793,55778,Garbi Rath,28,2,7,Mon,Udaipur,Dli,Jpr,Twice in week,2,15,15957,703,27,21,1,17,65,2,10,2022
+794,66865,Yoga Express,10,3,14,Wed,Udaipur,Mount Abu,Mount Abu,Weekly,4,13,21683,703,29,25,4,18,70,7,1,2022
+795,51984,Rajdhani Express,25,2,5,Sat,Udaipur,JDP,UDP,Twice in week,4,14,13536,703,21,27,1,5,70,17,1,2020
+796,77909,Double Decker,17,1,13,Sun,Udaipur,Dli,Pali,Daily,2,23,12032,703,29,24,4,5,66,9,10,2021
+797,43604,ALL Puri SF Express,14,1,8,Mon,Udaipur,Pali,BKN,Twice in week,2,12,11607,703,29,25,3,20,70,9,3,2021
+798,76707,Shatabdi Express,11,1,12,Sat,Udaipur,BKN,BKN,Daily,3,9,15820,703,21,20,3,22,64,2,4,2019
+799,25082,ALL Puri SF Express,17,1,5,Fri,Udaipur,Mount Abu,Dli,Daily,3,13,15770,703,28,22,3,11,60,12,9,2021
+800,33683,Garbi Rath,15,2,10,Mon,Udaipur,UDP,BKN,Twice in week,2,9,17006,703,29,22,4,20,66,17,9,2019
+801,22849,Rajdhani Express,11,1,13,Sat,Udaipur,UDP,Pali,Weekly,3,16,26377,703,27,24,4,9,68,20,10,2021
+802,79508,Double Decker,18,1,9,Fri,Udaipur,Mount Abu,BKN,Twice in week,3,30,11950,703,20,23,3,23,67,28,6,2021
+803,28507,Chetak Express,26,3,11,Mon,Udaipur,UDP,BKN,Daily,3,28,16788,703,23,21,2,5,65,17,8,2019
+804,53474,Dee Rzt Exp,23,3,12,Sat,Udaipur,JDP,JDP,Weekly,3,25,11123,703,27,24,1,10,66,11,2,2022
+805,47402,ALL Puri SF Express,29,3,10,Fri,Udaipur,Mount Abu,Mount Abu,Twice in week,3,28,29358,703,28,28,2,23,68,20,7,2019
+806,65220,Garbi Rath,17,1,13,Sat,Udaipur,JDP,JDP,Twice in week,2,3,11978,703,20,20,2,4,60,29,7,2021
+807,72579,Chetak Express,28,2,7,Sun,Udaipur,Dli,Jpr,Daily,1,15,29895,703,25,21,3,7,67,5,4,2021
+808,30939,Humsafar Express,22,1,8,Wed,Udaipur,BKN,Dli,Daily,5,33,23506,703,26,29,4,7,68,23,9,2019
+809,29229,Double Decker,19,1,8,Mon,Udaipur,Mount Abu,BKN,Twice in week,5,5,16942,703,21,20,4,23,63,28,8,2020
+810,39903,Double Decker,25,1,12,Sat,Udaipur,Pali,Dli,Weekly,2,9,20338,703,24,21,4,15,63,26,1,2019
+811,46363,Dee Rzt Exp,21,2,6,Sun,Udaipur,Dli,Dli,Daily,4,25,18499,703,20,29,4,7,70,28,11,2022
+812,85142,Rajdhani Express,13,3,7,Wed,Udaipur,JDP,Mount Abu,Twice in week,4,20,17924,703,23,23,3,20,61,15,9,2022
+813,31715,Chetak Express,25,1,13,Fri,Udaipur,Mount Abu,JDP,Weekly,4,20,20309,703,20,27,1,11,65,15,1,2021
+814,32935,Humsafar Express,21,1,12,Tue,Udaipur,Dli,UDP,Daily,3,22,15446,703,29,22,3,7,70,1,3,2020
+815,39034,Yoga Express,20,2,11,Wed,Udaipur,Mount Abu,Mount Abu,Weekly,4,31,29269,703,24,29,1,6,64,16,3,2020
+816,69010,Humsafar Express,22,2,8,Thu,Udaipur,Pali,Dli,Daily,1,29,24604,703,20,25,2,14,63,1,11,2022
+817,15929,Chetak Express,27,3,8,Tue,Udaipur,JDP,Jpr,Weekly,2,23,11831,703,22,26,4,4,68,30,3,2020
+818,59126,Vande Bharat Express,26,3,5,Tue,Udaipur,Mount Abu,Pali,Daily,4,25,11288,703,28,25,1,15,67,3,5,2021
+819,83294,Yoga Express,28,1,7,Thu,Udaipur,Mount Abu,Dli,Twice in week,4,7,14516,703,28,21,4,20,68,15,4,2022
+820,25913,Yoga Express,20,3,9,Fri,Udaipur,JDP,Jpr,Daily,5,18,19822,703,20,22,1,7,60,12,11,2019
+821,96345,Garbi Rath,25,2,9,Mon,Udaipur,BKN,BKN,Weekly,5,19,20164,703,20,21,3,22,71,1,1,2022
+822,78599,Humsafar Express,17,2,14,Wed,Udaipur,Dli,Jpr,Daily,5,16,17966,703,24,20,1,20,66,2,10,2021
+823,61997,Humsafar Express,15,1,7,Tue,Udaipur,Jpr,BKN,Weekly,4,30,28073,703,22,21,2,22,70,30,8,2020
+824,41074,Humsafar Express,11,3,7,Mon,Udaipur,UDP,Dli,Twice in week,2,21,19353,703,21,20,4,23,68,24,2,2021
+825,68027,Chetak Express,28,2,12,Tue,Udaipur,BKN,Pali,Twice in week,3,19,19342,703,26,22,1,5,63,17,6,2022
+826,34757,Rajdhani Express,23,1,6,Mon,Udaipur,UDP,Dli,Daily,2,27,16693,703,24,27,4,14,70,21,2,2019
+827,97020,Shatabdi Express,17,3,14,Sun,Udaipur,Pali,Jpr,Weekly,2,14,19252,703,24,29,4,17,65,4,3,2022
+828,94041,Vande Bharat Express,26,1,9,Sat,Udaipur,Dli,Pali,Daily,4,20,21054,703,28,28,2,11,60,19,1,2022
+829,44172,Vande Bharat Express,17,1,6,Thu,Udaipur,Pali,Mount Abu,Daily,3,10,16553,703,26,22,3,19,71,25,10,2019
+830,27722,Vande Bharat Express,15,2,11,Thu,Udaipur,BKN,Mount Abu,Daily,2,16,27231,703,23,29,2,6,65,22,6,2022
+831,61673,Double Decker,13,3,8,Sat,Udaipur,BKN,Mount Abu,Daily,2,17,15820,703,24,25,4,10,69,6,11,2022
+832,13044,Yoga Express,27,2,9,Sun,Udaipur,JDP,Dli,Twice in week,5,10,16510,703,23,24,3,21,64,9,4,2020
+833,42805,Garbi Rath,19,3,7,Sun,Udaipur,JDP,UDP,Daily,4,21,24668,703,28,22,2,22,65,5,9,2019
+834,15808,Vande Bharat Express,23,2,14,Tue,Udaipur,Jpr,Pali,Twice in week,4,17,29244,703,20,22,3,23,71,9,2,2022
+835,14765,ALL Puri SF Express,13,1,10,Sat,Udaipur,Dli,Jpr,Twice in week,4,4,24261,703,22,20,3,9,68,11,11,2019
+836,65625,ALL Puri SF Express,12,2,13,Wed,Udaipur,Dli,JDP,Twice in week,2,19,23410,703,22,23,1,6,62,5,7,2020
+837,53068,Garbi Rath,12,2,9,Sat,Udaipur,Pali,Jpr,Daily,1,9,19640,703,27,27,3,20,63,1,5,2019
+838,43516,ALL Puri SF Express,22,3,9,Mon,Udaipur,Dli,Pali,Twice in week,5,18,21111,703,20,21,2,19,70,8,1,2021
+839,87235,Chetak Express,18,1,5,Wed,Udaipur,UDP,Mount Abu,Weekly,2,9,17120,703,25,25,2,6,71,11,7,2022
+840,54733,Chetak Express,20,1,13,Sun,Udaipur,UDP,Jpr,Twice in week,3,10,16062,703,20,29,1,7,63,6,11,2021
+841,93495,ALL Puri SF Express,13,2,10,Sat,Udaipur,Jpr,Jpr,Weekly,3,19,27560,703,28,25,4,23,69,27,9,2022
+842,63264,Shatabdi Express,16,2,7,Fri,Udaipur,Pali,UDP,Twice in week,4,19,19054,703,25,27,1,21,70,14,8,2021
+843,88614,Garbi Rath,23,2,8,Wed,Udaipur,BKN,Mount Abu,Twice in week,5,20,24572,703,20,25,2,23,61,24,2,2021
+844,67655,Shatabdi Express,19,2,6,Thu,Udaipur,UDP,BKN,Weekly,2,17,14548,703,29,23,4,12,61,11,3,2022
+845,82206,ALL Puri SF Express,24,2,8,Mon,Udaipur,Jpr,Mount Abu,Weekly,5,34,13243,703,21,23,2,20,66,23,10,2020
+846,50760,Dee Rzt Exp,20,2,11,Fri,Udaipur,Mount Abu,Pali,Daily,1,23,13928,703,25,20,2,8,69,3,10,2022
+847,46334,Dee Rzt Exp,27,3,5,Tue,Udaipur,Pali,Pali,Daily,3,6,14549,703,22,26,2,13,67,6,1,2021
+848,86760,Yoga Express,25,1,13,Thu,Udaipur,Mount Abu,BKN,Weekly,2,10,10326,703,21,26,1,6,67,21,10,2022
+849,73800,ALL Puri SF Express,19,1,8,Tue,Udaipur,UDP,Dli,Twice in week,1,8,28796,703,26,23,3,11,63,28,1,2022
+850,13211,Rajdhani Express,29,3,10,Sun,Udaipur,Mount Abu,BKN,Twice in week,4,18,24351,703,27,28,2,21,67,27,2,2021
+851,46244,Yoga Express,14,3,10,Wed,Udaipur,Dli,UDP,Twice in week,2,21,16458,703,24,22,1,8,68,5,9,2021
+852,90013,ALL Puri SF Express,18,1,12,Mon,Udaipur,Mount Abu,UDP,Twice in week,2,10,15688,703,21,22,3,5,62,3,7,2021
+853,35201,Rajdhani Express,11,2,12,Sat,Udaipur,Pali,BKN,Daily,4,6,11407,703,27,28,4,5,68,7,10,2022
+854,43962,Yoga Express,24,2,9,Thu,Udaipur,Mount Abu,Dli,Daily,1,23,24269,703,28,21,4,8,60,6,3,2019
+855,76113,Humsafar Express,19,3,13,Wed,Udaipur,Dli,Jpr,Daily,5,17,22661,703,20,23,2,18,66,6,5,2021
+856,77314,Garbi Rath,21,2,6,Fri,Udaipur,Pali,Mount Abu,Daily,3,8,13123,703,27,29,1,14,67,19,10,2021
+857,39976,Rajdhani Express,25,3,7,Mon,Udaipur,BKN,Dli,Weekly,2,14,26880,703,23,23,4,9,67,28,6,2019
+858,11949,Vande Bharat Express,27,1,9,Tue,Udaipur,JDP,Dli,Twice in week,1,22,11830,703,24,23,4,18,64,5,5,2022
+859,96175,Dee Rzt Exp,11,2,7,Sat,Udaipur,Pali,Pali,Twice in week,1,25,24073,703,21,22,4,13,68,26,7,2020
+860,85459,Yoga Express,14,2,9,Wed,Udaipur,Pali,Pali,Daily,1,6,29453,703,21,22,1,21,66,8,2,2020
+861,33435,Vande Bharat Express,22,3,14,Thu,Udaipur,UDP,BKN,Weekly,2,19,10584,703,27,28,1,10,69,13,1,2020
+862,62444,Rajdhani Express,17,2,9,Sun,Udaipur,UDP,JDP,Twice in week,3,33,14907,703,27,28,2,15,70,19,6,2021
+863,56147,Humsafar Express,23,2,8,Sun,Udaipur,BKN,JDP,Daily,5,7,14755,703,22,25,4,12,63,26,7,2022
+864,38039,Dee Rzt Exp,27,2,13,Fri,Udaipur,UDP,Dli,Daily,1,30,17030,703,27,29,3,18,67,23,3,2021
+865,59651,Vande Bharat Express,24,1,10,Wed,Udaipur,JDP,Mount Abu,Weekly,2,7,29526,703,23,27,3,9,70,29,5,2021
+866,71170,Vande Bharat Express,21,1,11,Fri,Udaipur,Dli,Pali,Daily,5,4,23654,703,26,22,3,5,70,19,11,2019
+867,55957,Garbi Rath,26,2,14,Wed,Udaipur,Pali,BKN,Daily,4,30,12392,703,29,20,4,15,70,1,2,2019
+868,17670,Chetak Express,18,1,9,Sat,Udaipur,Jpr,Pali,Weekly,4,3,21788,703,22,29,3,18,66,19,1,2022
+869,33111,Chetak Express,14,3,10,Sun,Udaipur,Pali,JDP,Twice in week,3,3,23567,703,28,27,1,22,67,29,2,2022
+870,89444,Rajdhani Express,17,3,10,Thu,Udaipur,Jpr,Pali,Weekly,5,34,22068,703,21,28,3,9,65,27,11,2022
+871,76442,Chetak Express,12,2,7,Sat,Udaipur,Mount Abu,BKN,Daily,3,13,27411,703,20,25,1,10,62,3,4,2021
+872,18664,Double Decker,19,3,5,Mon,Udaipur,UDP,Mount Abu,Daily,2,18,11164,703,26,22,3,19,65,15,1,2021
+873,14982,Shatabdi Express,17,2,10,Sun,Udaipur,Jpr,Mount Abu,Twice in week,2,19,27238,703,27,20,4,19,65,18,11,2022
+874,69721,Shatabdi Express,28,2,12,Mon,Udaipur,Pali,Jpr,Weekly,3,21,26970,703,23,24,2,23,68,8,8,2019
+875,75765,Shatabdi Express,21,1,6,Mon,Udaipur,JDP,Mount Abu,Daily,3,32,25835,703,29,20,4,15,61,21,9,2021
+876,59643,Rajdhani Express,25,2,13,Sat,Udaipur,UDP,BKN,Twice in week,4,10,12714,703,25,20,1,18,71,18,7,2021
+877,81261,Shatabdi Express,20,1,6,Sat,Udaipur,Dli,Pali,Weekly,5,17,28124,703,27,28,1,18,67,24,2,2021
+878,52423,Double Decker,15,1,13,Wed,Udaipur,UDP,Dli,Twice in week,4,12,28888,703,26,29,2,4,67,20,9,2020
+879,72007,Double Decker,29,3,8,Wed,Udaipur,UDP,Pali,Daily,3,5,25131,703,20,25,2,4,61,11,6,2019
+880,86292,Double Decker,13,2,9,Sat,Udaipur,JDP,Jpr,Twice in week,1,7,28828,703,23,22,2,19,62,26,3,2021
+881,47921,Vande Bharat Express,11,3,11,Fri,Udaipur,BKN,BKN,Twice in week,2,4,12414,703,23,23,4,14,70,30,7,2022
+882,17177,Rajdhani Express,28,3,11,Fri,Udaipur,Mount Abu,Mount Abu,Twice in week,3,16,17890,703,21,21,3,17,62,11,6,2021
+883,42818,Garbi Rath,23,1,10,Thu,Udaipur,Pali,Jpr,Weekly,5,18,23960,703,24,27,2,4,71,3,4,2022
+884,96690,Yoga Express,19,2,9,Sat,Udaipur,JDP,JDP,Daily,1,10,21244,703,23,23,3,12,62,10,9,2020
+885,38756,Double Decker,19,1,9,Sun,Udaipur,Mount Abu,Mount Abu,Daily,2,16,12422,703,28,26,3,21,60,17,3,2021
+886,47524,ALL Puri SF Express,19,1,9,Mon,Udaipur,Jpr,Jpr,Daily,5,30,19280,703,24,22,4,23,70,14,5,2019
+887,81836,Dee Rzt Exp,23,1,8,Wed,Udaipur,Dli,BKN,Twice in week,1,8,22793,703,20,22,4,12,65,25,9,2022
+888,50821,Chetak Express,17,2,5,Tue,Udaipur,Pali,Mount Abu,Twice in week,1,4,19648,703,20,24,4,7,66,1,8,2021
+889,46231,Shatabdi Express,11,3,6,Sat,Udaipur,Dli,UDP,Twice in week,5,25,22798,703,21,24,2,16,68,20,2,2020
+890,77302,Humsafar Express,24,1,7,Wed,Udaipur,Pali,Mount Abu,Weekly,4,27,14434,703,20,25,1,18,65,4,4,2020
+891,79929,ALL Puri SF Express,16,1,7,Tue,Udaipur,BKN,JDP,Weekly,2,7,20995,703,24,22,3,22,71,2,1,2021
+892,18799,Chetak Express,22,2,7,Fri,Udaipur,Mount Abu,Dli,Twice in week,1,25,27489,703,22,29,4,23,62,25,7,2020
+893,43888,Chetak Express,13,1,13,Tue,Udaipur,Mount Abu,BKN,Daily,5,5,11214,703,20,26,1,20,63,24,5,2019
+894,91428,Chetak Express,11,3,6,Sun,Udaipur,JDP,UDP,Weekly,4,20,18511,703,25,21,3,15,62,16,8,2019
+895,47640,Vande Bharat Express,29,3,13,Wed,Udaipur,Dli,Dli,Daily,5,22,29145,703,20,24,3,14,68,5,5,2020
+896,22516,Yoga Express,26,2,14,Mon,Udaipur,Pali,UDP,Weekly,3,25,15873,703,21,22,2,11,65,4,9,2020
+897,43670,Garbi Rath,16,1,9,Tue,Udaipur,Mount Abu,JDP,Weekly,5,33,10959,703,20,20,1,17,62,21,1,2021
+898,92580,ALL Puri SF Express,23,3,7,Sat,Udaipur,BKN,UDP,Weekly,4,27,16987,703,25,24,3,18,64,28,7,2019
+899,76464,Vande Bharat Express,14,3,6,Sat,Udaipur,Jpr,UDP,Weekly,5,21,18153,703,20,25,1,13,68,19,4,2019
+900,45621,Vande Bharat Express,15,2,7,Wed,Udaipur,UDP,Jpr,Weekly,2,18,27689,703,24,22,1,12,71,24,7,2022
+901,86140,Yoga Express,27,1,11,Sat,Udaipur,JDP,Mount Abu,Weekly,1,4,23418,703,29,23,2,12,66,8,3,2020
+902,68442,Yoga Express,12,3,12,Thu,Udaipur,Dli,Mount Abu,Weekly,5,16,12035,703,29,26,4,5,67,10,10,2022
+903,94797,Chetak Express,26,1,14,Fri,Udaipur,JDP,UDP,Weekly,1,12,20577,703,29,24,3,7,61,20,1,2020
+904,41402,Double Decker,15,1,13,Sat,Udaipur,UDP,Mount Abu,Twice in week,4,17,22580,703,21,20,3,16,68,1,11,2019
+905,19728,Rajdhani Express,24,3,10,Mon,Udaipur,Dli,Dli,Daily,2,21,17306,703,29,21,1,20,71,23,3,2020
+906,56052,Garbi Rath,20,1,10,Sun,Udaipur,Mount Abu,UDP,Weekly,4,5,27946,703,28,21,3,18,69,6,11,2022
+907,16199,Garbi Rath,25,1,13,Fri,Udaipur,JDP,Jpr,Weekly,5,5,26271,703,27,21,3,13,62,13,3,2022
+908,12909,Shatabdi Express,19,2,7,Fri,Udaipur,JDP,Dli,Daily,5,19,19620,703,22,20,3,19,71,12,5,2022
+909,45269,Shatabdi Express,23,2,14,Wed,Udaipur,BKN,Mount Abu,Daily,1,33,17637,703,21,24,3,15,70,4,8,2019
+910,70526,Chetak Express,13,3,12,Mon,Udaipur,BKN,UDP,Weekly,2,14,15181,703,28,21,3,4,66,21,7,2020
+911,54018,Humsafar Express,27,2,7,Sat,Udaipur,BKN,Pali,Twice in week,4,13,29824,703,23,27,2,21,68,13,5,2022
+912,18985,Yoga Express,28,2,12,Wed,Udaipur,Jpr,Pali,Daily,1,22,27478,703,22,21,4,19,61,27,9,2022
+913,49863,Humsafar Express,23,1,7,Mon,Udaipur,Jpr,Pali,Twice in week,5,22,18159,703,23,28,1,10,63,4,7,2020
+914,37909,Garbi Rath,23,2,7,Wed,Udaipur,JDP,Pali,Twice in week,4,25,20570,703,28,28,1,4,69,12,2,2022
+915,69572,Dee Rzt Exp,18,2,7,Fri,Udaipur,BKN,JDP,Weekly,1,27,22699,703,28,20,4,10,66,4,6,2022
+916,70355,Double Decker,18,1,12,Wed,Udaipur,Jpr,BKN,Daily,3,3,16211,703,24,29,4,12,66,14,1,2022
+917,32864,Shatabdi Express,17,2,12,Wed,Udaipur,Mount Abu,BKN,Daily,1,21,27895,703,24,28,2,16,63,5,9,2019
+918,18790,Chetak Express,11,3,10,Wed,Udaipur,Mount Abu,Jpr,Weekly,4,22,16888,703,22,23,4,8,69,27,2,2022
+919,48242,Garbi Rath,18,3,5,Fri,Udaipur,Dli,Pali,Twice in week,3,33,15265,703,20,23,1,18,60,13,10,2019
+920,82546,Vande Bharat Express,15,3,9,Sun,Udaipur,Mount Abu,Mount Abu,Daily,2,18,12852,703,28,28,3,14,71,14,11,2019
+921,48751,Rajdhani Express,12,1,13,Tue,Udaipur,Pali,JDP,Twice in week,1,17,17454,703,27,25,4,9,67,12,2,2022
+922,58236,ALL Puri SF Express,25,3,13,Sun,Udaipur,Jpr,UDP,Twice in week,3,10,25610,703,22,25,3,20,65,17,11,2022
+923,95505,Rajdhani Express,14,2,14,Sat,Udaipur,Pali,Jpr,Weekly,3,24,24415,703,21,23,2,9,70,22,9,2021
+924,87697,Yoga Express,20,2,7,Thu,Udaipur,BKN,Mount Abu,Weekly,4,14,29569,703,27,28,2,5,67,1,10,2019
+925,53387,ALL Puri SF Express,25,2,7,Sun,Udaipur,BKN,Dli,Daily,5,7,21290,703,24,27,1,21,70,1,4,2021
+926,99098,Chetak Express,22,1,11,Sun,Udaipur,BKN,Jpr,Weekly,4,13,17142,703,27,26,1,5,60,26,11,2020
+927,67572,Rajdhani Express,24,2,5,Sat,Udaipur,Jpr,Dli,Daily,4,7,22011,703,26,28,3,19,60,23,8,2022
+928,84353,Dee Rzt Exp,12,2,6,Sat,Udaipur,Mount Abu,JDP,Daily,2,33,25760,703,22,20,4,7,65,17,10,2022
+929,64731,Rajdhani Express,18,2,10,Mon,Udaipur,Dli,Pali,Weekly,1,34,10042,703,22,28,4,9,69,20,1,2022
+930,74146,ALL Puri SF Express,22,1,9,Mon,Udaipur,Dli,Pali,Twice in week,5,17,13174,703,24,23,1,10,68,9,6,2022
+931,32135,Rajdhani Express,19,1,12,Fri,Udaipur,UDP,JDP,Daily,1,31,14371,703,28,24,3,7,66,16,10,2020
+932,36483,Chetak Express,18,3,7,Sun,Udaipur,Jpr,Pali,Twice in week,3,34,18026,703,23,23,2,6,71,15,6,2020
+933,94291,Double Decker,19,3,14,Wed,Udaipur,Dli,Dli,Daily,4,20,22337,703,21,27,4,4,64,21,6,2022
+934,47399,Rajdhani Express,17,3,8,Sat,Udaipur,Jpr,Jpr,Twice in week,2,13,11439,703,28,22,1,21,65,26,7,2019
+935,61223,Humsafar Express,29,3,13,Sun,Udaipur,BKN,JDP,Weekly,4,10,21344,703,21,28,4,17,63,12,6,2020
+936,86722,Dee Rzt Exp,13,3,11,Tue,Udaipur,Dli,UDP,Daily,4,20,22346,703,22,21,3,7,67,20,3,2019
+937,26220,Shatabdi Express,29,3,10,Wed,Udaipur,JDP,Jpr,Daily,1,7,23785,703,23,26,3,21,70,27,3,2021
+938,56466,Dee Rzt Exp,29,2,7,Mon,Udaipur,Jpr,JDP,Twice in week,4,34,23297,703,24,23,1,14,60,27,1,2022
+939,58413,Chetak Express,14,3,9,Sun,Udaipur,BKN,BKN,Daily,1,12,10684,703,20,21,4,11,61,3,4,2019
+940,36936,Double Decker,20,3,14,Fri,Udaipur,Jpr,Pali,Twice in week,4,4,27668,703,28,22,1,13,64,29,2,2022
+941,79548,Double Decker,11,2,5,Wed,Udaipur,Mount Abu,Pali,Twice in week,4,17,11804,703,20,29,2,22,71,15,10,2020
+942,40579,Vande Bharat Express,12,1,13,Sun,Udaipur,JDP,Dli,Daily,3,21,28711,703,25,23,2,10,69,25,6,2022
+943,44379,Humsafar Express,23,2,12,Sun,Udaipur,Pali,Pali,Daily,2,4,22641,703,25,25,3,14,62,1,11,2021
+944,59677,Dee Rzt Exp,11,3,12,Sat,Udaipur,Jpr,Dli,Daily,4,15,18337,703,24,29,2,18,62,24,9,2020
+945,51129,Garbi Rath,11,1,10,Tue,Udaipur,Mount Abu,Dli,Weekly,3,31,24570,703,24,28,4,23,64,17,11,2021
+946,64761,ALL Puri SF Express,24,1,8,Tue,Udaipur,BKN,Jpr,Twice in week,2,10,22327,703,22,20,2,17,63,3,7,2020
+947,90370,ALL Puri SF Express,11,1,7,Sun,Udaipur,Pali,Mount Abu,Weekly,3,10,13038,703,26,25,1,16,70,22,8,2019
+948,76728,Double Decker,17,1,11,Thu,Udaipur,Dli,UDP,Daily,5,19,19447,703,28,29,4,10,64,30,10,2019
+949,67982,Humsafar Express,18,2,7,Wed,Udaipur,Jpr,BKN,Weekly,1,6,28731,703,21,21,3,22,65,13,8,2021
+950,15472,Vande Bharat Express,18,2,6,Thu,Udaipur,UDP,JDP,Daily,3,30,29227,703,21,27,2,14,67,22,10,2020
+951,51701,Dee Rzt Exp,27,2,9,Sat,Udaipur,Pali,Pali,Weekly,5,32,25367,703,27,21,2,5,61,16,10,2020
+952,64847,Double Decker,21,3,7,Fri,Udaipur,Dli,UDP,Weekly,1,7,11905,703,20,27,1,4,60,15,1,2019
+953,77570,Humsafar Express,25,2,5,Mon,Udaipur,Jpr,BKN,Weekly,1,29,10175,703,21,25,2,6,69,4,1,2022
+954,11418,Double Decker,20,1,13,Wed,Udaipur,Dli,JDP,Twice in week,3,5,24224,703,27,20,4,7,63,16,3,2019
+955,57361,Yoga Express,25,3,8,Sat,Udaipur,Dli,JDP,Twice in week,3,13,25516,703,22,25,1,18,64,24,2,2019
+956,16898,Rajdhani Express,20,2,10,Mon,Udaipur,Mount Abu,UDP,Daily,2,24,21602,703,28,23,3,4,63,26,8,2020
+957,42299,Dee Rzt Exp,24,1,5,Wed,Udaipur,Jpr,Pali,Twice in week,5,18,28187,703,22,26,4,16,65,19,3,2020
+958,13151,Dee Rzt Exp,15,1,9,Tue,Udaipur,Jpr,Dli,Daily,3,16,28514,703,22,23,4,14,61,1,6,2022
+959,23029,Garbi Rath,24,3,6,Sun,Udaipur,BKN,Mount Abu,Daily,2,28,18512,703,24,22,1,5,64,14,10,2022
+960,85685,Vande Bharat Express,13,3,14,Sat,Udaipur,Mount Abu,Mount Abu,Weekly,2,30,22840,703,21,22,3,15,65,23,7,2020
+961,85200,Shatabdi Express,18,2,6,Mon,Udaipur,JDP,Dli,Daily,5,26,27082,703,27,24,2,4,65,24,3,2021
+962,80212,Dee Rzt Exp,20,2,13,Wed,Udaipur,UDP,Mount Abu,Twice in week,4,4,25409,703,29,20,1,6,69,30,1,2019
+963,96003,Chetak Express,15,2,8,Tue,Udaipur,Pali,Pali,Weekly,4,33,12190,703,28,26,4,21,65,22,3,2021
+964,77856,Shatabdi Express,23,1,11,Fri,Udaipur,UDP,JDP,Daily,4,15,17372,703,25,22,2,14,71,17,6,2021
+965,98054,Chetak Express,23,1,9,Thu,Udaipur,JDP,Jpr,Weekly,1,30,16293,703,28,29,2,16,70,17,4,2020
+966,85233,Double Decker,20,1,8,Sun,Udaipur,Jpr,UDP,Weekly,4,21,13394,703,23,29,1,5,69,6,7,2019
+967,20560,ALL Puri SF Express,16,1,14,Mon,Udaipur,Dli,Mount Abu,Weekly,2,30,27596,703,20,29,3,18,64,29,2,2020
+968,92957,Double Decker,22,1,6,Sun,Udaipur,UDP,JDP,Twice in week,4,9,27830,703,20,24,2,5,71,8,3,2020
+969,86660,ALL Puri SF Express,23,3,8,Wed,Udaipur,Jpr,Mount Abu,Weekly,1,18,11846,703,21,28,2,19,64,3,1,2019
+970,32331,Double Decker,25,3,10,Fri,Udaipur,UDP,Dli,Daily,3,9,23248,703,28,22,4,9,70,2,9,2021
+971,69968,Double Decker,16,3,12,Mon,Udaipur,UDP,Mount Abu,Twice in week,5,7,24416,703,26,26,3,12,64,25,3,2022
+972,94069,Double Decker,11,1,7,Sun,Udaipur,Mount Abu,UDP,Daily,5,5,16289,703,27,25,2,12,67,21,2,2019
+973,69753,ALL Puri SF Express,14,2,6,Tue,Udaipur,JDP,UDP,Twice in week,3,21,18643,703,25,29,4,20,65,4,3,2022
+974,38601,Vande Bharat Express,21,3,5,Wed,Udaipur,BKN,JDP,Weekly,5,32,12105,703,20,29,2,17,63,9,4,2021
+975,94220,Dee Rzt Exp,24,3,10,Wed,Udaipur,UDP,Jpr,Daily,2,23,10492,703,28,25,1,10,71,11,7,2020
+976,99252,Vande Bharat Express,10,3,9,Thu,Udaipur,Dli,Jpr,Daily,3,15,16241,703,27,22,4,17,66,21,11,2022
+977,48232,Rajdhani Express,21,1,6,Wed,Udaipur,JDP,Jpr,Twice in week,2,15,24331,703,21,20,3,10,65,14,7,2021
+978,91252,Vande Bharat Express,21,2,12,Fri,Udaipur,Pali,Jpr,Twice in week,5,26,15697,703,28,28,3,18,69,18,3,2019
+979,19735,Chetak Express,25,3,9,Sat,Udaipur,UDP,JDP,Daily,1,33,22511,703,24,21,2,12,68,9,11,2020
+980,27304,Rajdhani Express,29,2,14,Tue,Udaipur,Dli,BKN,Twice in week,5,18,23794,703,21,28,4,10,68,2,6,2022
+981,34735,Yoga Express,26,2,7,Thu,Udaipur,Jpr,Jpr,Twice in week,5,30,11058,703,26,28,3,15,70,20,4,2022
+982,56046,Rajdhani Express,12,1,5,Thu,Udaipur,JDP,Dli,Weekly,1,32,14175,703,29,26,4,6,67,27,3,2021
+983,17484,Chetak Express,29,2,10,Fri,Udaipur,BKN,Pali,Daily,3,32,18252,703,27,22,3,9,60,18,11,2022
+984,99296,Double Decker,12,1,13,Sun,Udaipur,BKN,Pali,Twice in week,5,4,25489,703,21,28,4,6,62,30,6,2020
+985,24331,Dee Rzt Exp,25,3,13,Tue,Udaipur,BKN,UDP,Weekly,4,10,24300,703,23,21,2,18,63,29,2,2021
+986,42736,Yoga Express,24,3,12,Fri,Udaipur,Pali,UDP,Weekly,1,17,22859,703,22,20,2,23,60,15,2,2021
+987,69675,Dee Rzt Exp,27,3,14,Sun,Udaipur,UDP,Mount Abu,Weekly,5,20,22239,703,27,28,4,13,64,12,6,2019
+988,16232,Vande Bharat Express,11,2,12,Wed,Udaipur,Pali,Jpr,Daily,4,24,23747,703,23,22,3,21,61,3,6,2019
+989,20381,Dee Rzt Exp,14,1,11,Tue,Udaipur,BKN,Jpr,Twice in week,3,23,27922,703,21,22,2,11,67,25,11,2019
+990,69195,Double Decker,24,2,9,Mon,Udaipur,Jpr,Dli,Daily,5,10,21862,703,27,27,2,10,60,5,1,2021
+991,43279,Shatabdi Express,23,2,7,Thu,Udaipur,JDP,UDP,Daily,5,33,27025,703,27,25,3,10,64,7,10,2021
+992,39177,Dee Rzt Exp,29,1,9,Tue,Udaipur,UDP,Mount Abu,Weekly,1,23,22147,703,27,25,4,19,64,7,2,2022
+993,20471,Yoga Express,12,3,13,Tue,Udaipur,UDP,Jpr,Daily,1,3,10286,703,29,20,4,10,63,27,1,2022
+994,81322,Double Decker,23,2,7,Wed,Udaipur,Dli,BKN,Weekly,2,12,20211,703,27,27,4,21,62,20,11,2019
+995,25874,Humsafar Express,22,3,12,Wed,Udaipur,Dli,Pali,Twice in week,5,33,25897,703,26,20,4,9,63,17,1,2021
+996,83199,Rajdhani Express,14,3,14,Sun,Udaipur,Jpr,Pali,Daily,3,6,15792,703,24,26,3,19,67,6,1,2019
+997,17911,Dee Rzt Exp,28,1,7,Mon,Udaipur,UDP,Pali,Twice in week,1,20,19765,703,26,21,1,9,67,17,11,2019
+998,65338,Chetak Express,26,1,7,Wed,Udaipur,Mount Abu,Dli,Daily,3,20,29832,703,22,26,4,4,60,17,2,2019
+999,76001,Humsafar Express,10,3,9,Mon,Udaipur,Mount Abu,Mount Abu,Twice in week,5,17,29946,703,28,25,3,16,68,25,5,2020

@@ -1,0 +1,1001 @@
+,Train No.,Train Name,No.of Coaches,Class of train,Revenue(lakhs),Day,Station_Name,Start_station,End_station,Frequency,No.Of PLatforms,Total Journey Hours,NO.Of passengers,Number of Dormitories,Dormitories Capacity,Dormitory utilized,Facility Quality Rating,Average Stay Duration,Revenue(THOUSANDS),Date,Month,Year
+0,45125,Rajdhani Express,13,1,8,Tue,Bikaner,JDP,JSM,Twice in week,4,35,14261,432,32,29,4,7,68,11,3,2021
+1,93534,Vande Bharat Express,21,3,9,Mon,Bikaner,JSM,KOTA,Twice in week,2,15,10672,432,28,30,4,12,72,12,3,2022
+2,20688,BKN SF Express,16,2,8,Mon,Bikaner,JDP,JSM,Twice in week,4,29,17579,432,34,29,3,16,70,15,6,2020
+3,53454,Suratgarh Express,18,3,5,Tue,Bikaner,UDP,DLI,Daily,3,25,29621,432,31,30,1,5,67,13,8,2020
+4,33939,Rajdhani Express,10,2,7,Tue,Bikaner,UDP,JDP,Weekly,3,38,17967,432,25,31,4,21,66,18,4,2019
+5,68873,Vande Bharat Express,10,1,5,Thu,Bikaner,Jpr,BKN,Twice in week,2,15,21164,432,20,20,2,20,65,25,8,2020
+6,61410,Partap SF Express,22,1,9,Wed,Bikaner,UDP,KOTA,Daily,3,7,24168,432,31,22,4,10,65,17,10,2019
+7,48086,Shatabdi Express,27,2,9,Fri,Bikaner,DLI,JDP,Twice in week,3,6,17866,432,21,27,2,20,72,23,8,2022
+8,65271,Double Decker,26,2,6,Thu,Bikaner,JSM,UDP,Twice in week,3,40,25305,432,20,24,1,8,70,13,3,2022
+9,38059,LEELAN SF Express,13,1,6,Wed,Bikaner,DLI,Jpr,Weekly,3,10,20658,432,25,22,2,14,72,25,10,2020
+10,87213,Vande Bharat Express,17,3,7,Tue,Bikaner,Jpr,JDP,Daily,4,33,11555,432,27,30,3,23,68,26,7,2022
+11,50851,Suratgarh Express,21,3,6,Wed,Bikaner,Jpr,UDP,Weekly,2,4,17693,432,23,30,3,7,66,1,6,2021
+12,14632,Suratgarh Express,25,3,5,Thu,Bikaner,Jpr,BKN,Weekly,3,15,14645,432,24,34,4,5,72,6,1,2022
+13,58034,Garbi Rath,27,1,9,Sat,Bikaner,JDP,JDP,Twice in week,4,14,21425,432,25,24,3,4,67,22,11,2022
+14,34104,Shatabdi Express,16,1,6,Tue,Bikaner,BKN,JDP,Weekly,4,32,24546,432,24,21,4,23,65,23,1,2019
+15,22277,Shatabdi Express,14,3,6,Fri,Bikaner,KOTA,Jpr,Daily,3,28,25137,432,28,26,3,15,73,17,8,2020
+16,49655,Suratgarh Express,24,3,7,Wed,Bikaner,Jpr,Jpr,Daily,2,17,10622,432,24,32,3,9,67,23,6,2022
+17,53867,Vande Bharat Express,10,3,7,Thu,Bikaner,JDP,JSM,Twice in week,4,31,16621,432,30,28,4,22,65,28,2,2022
+18,30950,Garbi Rath,29,2,9,Fri,Bikaner,BKN,Jpr,Daily,3,30,29031,432,21,34,2,21,72,24,5,2022
+19,88537,Partap SF Express,12,3,8,Tue,Bikaner,DLI,UDP,Twice in week,3,13,13150,432,34,34,3,14,67,3,8,2022
+20,93455,Rajdhani Express,23,3,9,Tue,Bikaner,Jpr,UDP,Twice in week,1,10,14663,432,28,20,4,13,69,11,8,2020
+21,84570,Kota SGNR SF SPL,13,1,9,Mon,Bikaner,Jpr,UDP,Daily,2,36,24549,432,25,33,4,23,65,30,3,2019
+22,56922,Rajdhani Express,29,2,5,Wed,Bikaner,Jpr,BKN,Daily,2,11,11341,432,34,28,2,15,66,9,5,2019
+23,80751,Suratgarh Express,19,2,9,Sat,Bikaner,JDP,UDP,Daily,2,15,11303,432,28,33,4,14,67,5,6,2022
+24,56425,Garbi Rath,26,1,7,Sat,Bikaner,Jpr,Jpr,Daily,1,18,19360,432,27,30,1,6,73,11,9,2019
+25,98682,Shatabdi Express,22,1,9,Tue,Bikaner,JDP,JDP,Daily,2,4,12220,432,32,29,4,6,74,1,11,2020
+26,89481,Kota SGNR SF SPL,24,2,9,Fri,Bikaner,JDP,JSM,Weekly,1,11,23237,432,23,28,1,10,72,1,10,2020
+27,40274,Shatabdi Express,20,2,5,Fri,Bikaner,JDP,JDP,Daily,1,18,20545,432,26,21,1,17,66,11,5,2022
+28,43166,Vande Bharat Express,29,1,7,Mon,Bikaner,Jpr,JDP,Weekly,2,23,13653,432,23,24,4,4,69,15,8,2019
+29,86910,BKN SF Express,19,2,8,Mon,Bikaner,Jpr,JSM,Weekly,4,4,16308,432,26,26,1,6,73,13,3,2019
+30,24363,Shatabdi Express,15,1,8,Sun,Bikaner,JSM,JSM,Twice in week,2,17,28473,432,30,24,1,15,66,8,2,2019
+31,62045,LEELAN SF Express,28,2,7,Thu,Bikaner,JSM,DLI,Daily,3,31,24475,432,28,31,4,4,70,28,1,2021
+32,48722,Shatabdi Express,29,3,7,Tue,Bikaner,BKN,DLI,Daily,4,28,18273,432,27,26,3,8,65,17,7,2019
+33,26491,Vande Bharat Express,22,2,9,Fri,Bikaner,UDP,KOTA,Daily,4,34,10234,432,34,24,3,9,67,25,6,2021
+34,60165,Partap SF Express,11,2,5,Tue,Bikaner,Jpr,BKN,Weekly,4,8,22752,432,23,29,2,23,66,23,6,2021
+35,29800,Partap SF Express,20,1,9,Fri,Bikaner,JDP,DLI,Weekly,1,15,10718,432,32,21,2,17,65,12,5,2021
+36,43933,Suratgarh Express,13,1,6,Mon,Bikaner,DLI,UDP,Daily,1,28,14172,432,29,27,3,10,67,4,7,2020
+37,11932,Shatabdi Express,19,2,6,Fri,Bikaner,Jpr,DLI,Daily,3,33,27409,432,27,25,4,13,72,3,5,2019
+38,76306,Rajdhani Express,22,3,8,Fri,Bikaner,JDP,DLI,Daily,2,11,14841,432,33,32,4,5,71,18,3,2020
+39,15938,BKN SF Express,10,1,5,Mon,Bikaner,DLI,UDP,Weekly,1,12,19469,432,23,21,4,7,73,20,11,2019
+40,37856,Double Decker,10,2,7,Mon,Bikaner,JSM,UDP,Weekly,2,7,11284,432,25,33,2,15,66,17,10,2020
+41,47824,Vande Bharat Express,23,2,8,Wed,Bikaner,UDP,JSM,Weekly,3,21,22265,432,27,25,1,12,70,29,3,2019
+42,79560,Shatabdi Express,24,1,5,Wed,Bikaner,BKN,JDP,Twice in week,2,22,18555,432,26,33,4,20,73,10,7,2021
+43,65845,Garbi Rath,28,1,8,Sat,Bikaner,JSM,JSM,Daily,1,24,20502,432,28,33,1,9,74,2,4,2022
+44,83373,Rajdhani Express,20,3,9,Thu,Bikaner,DLI,DLI,Daily,1,13,14441,432,23,25,1,7,69,4,11,2019
+45,81782,Garbi Rath,10,2,8,Thu,Bikaner,DLI,Jpr,Weekly,1,26,23949,432,32,20,3,15,68,25,4,2020
+46,23550,Double Decker,19,3,8,Tue,Bikaner,Jpr,UDP,Twice in week,4,19,20951,432,27,29,1,22,69,19,5,2022
+47,76107,Partap SF Express,24,2,8,Mon,Bikaner,DLI,JDP,Twice in week,2,40,17744,432,31,27,3,18,71,24,11,2020
+48,51048,Suratgarh Express,12,3,5,Thu,Bikaner,JSM,JSM,Daily,2,13,22040,432,32,28,4,19,67,25,7,2019
+49,62006,Suratgarh Express,18,1,9,Tue,Bikaner,Jpr,Jpr,Weekly,1,31,23359,432,33,32,2,21,74,2,5,2022
+50,90879,Partap SF Express,20,2,8,Tue,Bikaner,JDP,BKN,Daily,4,23,20536,432,27,33,4,11,71,9,4,2021
+51,34141,Shatabdi Express,23,3,8,Sun,Bikaner,DLI,Jpr,Weekly,4,17,20147,432,20,20,4,14,69,27,9,2019
+52,69520,BKN SF Express,18,2,7,Tue,Bikaner,BKN,JSM,Daily,3,26,26759,432,24,20,4,16,72,4,10,2020
+53,69462,Shatabdi Express,20,3,5,Fri,Bikaner,BKN,JDP,Twice in week,2,13,19451,432,30,26,3,10,73,29,6,2022
+54,87250,Suratgarh Express,12,2,9,Fri,Bikaner,BKN,UDP,Twice in week,4,22,11439,432,32,33,1,7,68,20,3,2021
+55,46547,Rajdhani Express,24,1,7,Thu,Bikaner,UDP,JSM,Daily,2,35,13000,432,25,20,4,16,67,14,8,2021
+56,60524,LEELAN SF Express,16,2,7,Sun,Bikaner,DLI,Jpr,Weekly,4,8,26408,432,26,23,1,16,74,13,2,2019
+57,57073,BKN SF Express,14,3,5,Tue,Bikaner,KOTA,DLI,Weekly,3,20,20208,432,22,31,2,12,65,14,6,2020
+58,73272,LEELAN SF Express,17,1,8,Thu,Bikaner,UDP,BKN,Weekly,2,19,18058,432,31,26,1,17,70,25,4,2020
+59,42873,Garbi Rath,19,2,5,Sat,Bikaner,JDP,JSM,Twice in week,2,5,28278,432,34,33,1,14,65,25,7,2019
+60,54156,BKN SF Express,23,2,7,Wed,Bikaner,Jpr,Jpr,Weekly,3,22,15483,432,32,24,2,9,74,30,11,2020
+61,76805,Suratgarh Express,21,3,9,Mon,Bikaner,UDP,BKN,Weekly,4,39,10656,432,20,30,1,9,68,2,11,2019
+62,55800,Suratgarh Express,10,3,6,Tue,Bikaner,BKN,BKN,Weekly,4,17,18814,432,31,30,3,8,65,30,6,2021
+63,97964,Garbi Rath,28,2,7,Wed,Bikaner,JSM,JDP,Weekly,4,37,20881,432,29,27,3,15,68,12,7,2020
+64,69253,Partap SF Express,17,2,6,Sun,Bikaner,JDP,UDP,Weekly,4,21,26097,432,28,31,4,6,73,29,5,2020
+65,93085,LEELAN SF Express,21,3,7,Fri,Bikaner,Jpr,JDP,Weekly,4,36,13627,432,27,25,1,18,65,19,11,2021
+66,38211,Double Decker,14,3,8,Tue,Bikaner,JSM,BKN,Twice in week,1,29,17393,432,21,26,4,11,69,19,10,2021
+67,16015,LEELAN SF Express,13,3,8,Sun,Bikaner,BKN,JDP,Daily,2,33,16293,432,20,29,2,11,66,7,10,2019
+68,98902,BKN SF Express,17,3,5,Mon,Bikaner,KOTA,DLI,Weekly,3,30,20664,432,29,31,4,13,70,21,6,2021
+69,25877,Double Decker,17,3,9,Tue,Bikaner,JDP,JDP,Twice in week,3,40,18019,432,22,33,3,12,66,30,10,2022
+70,60000,BKN SF Express,26,3,8,Sat,Bikaner,JDP,BKN,Twice in week,1,36,14574,432,28,21,4,13,74,14,4,2019
+71,12807,Suratgarh Express,27,1,6,Sun,Bikaner,KOTA,JSM,Twice in week,2,11,26438,432,34,27,4,20,67,26,1,2022
+72,67535,Suratgarh Express,26,3,5,Wed,Bikaner,JDP,DLI,Twice in week,3,22,25521,432,22,33,1,8,73,3,2,2020
+73,19866,Vande Bharat Express,17,3,9,Thu,Bikaner,UDP,JSM,Weekly,2,19,14155,432,33,21,3,19,68,17,1,2019
+74,32678,LEELAN SF Express,11,1,6,Tue,Bikaner,Jpr,KOTA,Weekly,1,29,17144,432,26,30,4,14,69,22,2,2022
+75,35193,Suratgarh Express,23,3,7,Mon,Bikaner,Jpr,BKN,Weekly,1,36,12372,432,22,33,1,10,68,9,6,2019
+76,77980,BKN SF Express,15,2,9,Fri,Bikaner,KOTA,JSM,Daily,3,9,11136,432,26,28,3,8,72,7,1,2020
+77,22591,BKN SF Express,21,1,7,Tue,Bikaner,JDP,KOTA,Twice in week,4,26,22536,432,23,28,1,22,71,9,8,2022
+78,45520,Partap SF Express,28,2,9,Thu,Bikaner,JSM,JDP,Daily,3,36,14056,432,21,27,2,22,65,26,8,2021
+79,17879,Suratgarh Express,29,3,6,Wed,Bikaner,DLI,JDP,Daily,2,10,23543,432,21,23,3,15,72,12,11,2022
+80,51962,Kota SGNR SF SPL,16,2,5,Sat,Bikaner,JDP,BKN,Twice in week,2,36,12029,432,28,28,3,19,73,10,8,2020
+81,93417,Double Decker,12,1,6,Wed,Bikaner,BKN,BKN,Daily,2,14,22602,432,26,28,2,8,68,18,2,2019
+82,39068,Vande Bharat Express,14,2,5,Sun,Bikaner,UDP,UDP,Twice in week,3,35,22644,432,33,31,1,12,66,29,6,2022
+83,68026,Partap SF Express,13,3,6,Sat,Bikaner,Jpr,BKN,Daily,2,5,23629,432,34,22,1,16,65,4,2,2019
+84,40025,LEELAN SF Express,28,1,7,Mon,Bikaner,KOTA,KOTA,Twice in week,2,24,25571,432,22,24,4,5,71,21,4,2019
+85,29708,Vande Bharat Express,29,3,6,Mon,Bikaner,DLI,JDP,Weekly,3,10,15708,432,33,26,1,23,74,27,9,2021
+86,26520,BKN SF Express,23,3,8,Tue,Bikaner,UDP,JSM,Daily,4,4,26472,432,30,30,1,9,71,5,2,2021
+87,95733,Suratgarh Express,21,1,7,Tue,Bikaner,Jpr,JSM,Daily,3,20,21882,432,24,20,3,10,73,22,9,2020
+88,20528,Kota SGNR SF SPL,22,3,5,Wed,Bikaner,UDP,UDP,Daily,1,14,19187,432,32,22,3,18,74,27,9,2021
+89,70043,Double Decker,19,3,7,Sat,Bikaner,JSM,DLI,Weekly,3,17,25173,432,23,24,2,12,68,22,1,2019
+90,95507,Shatabdi Express,28,2,8,Sat,Bikaner,JDP,BKN,Twice in week,4,31,13519,432,20,34,2,4,74,27,11,2022
+91,14276,Vande Bharat Express,28,2,5,Sun,Bikaner,BKN,Jpr,Daily,3,25,11459,432,28,32,1,8,73,3,7,2021
+92,72017,LEELAN SF Express,29,2,6,Sat,Bikaner,Jpr,BKN,Weekly,4,7,21871,432,27,23,2,23,70,20,5,2019
+93,23662,LEELAN SF Express,11,3,8,Tue,Bikaner,JSM,KOTA,Daily,2,39,12048,432,20,23,3,19,71,27,1,2020
+94,40325,Rajdhani Express,24,1,5,Thu,Bikaner,JSM,JDP,Daily,1,18,13591,432,25,31,3,17,67,13,4,2019
+95,19571,Garbi Rath,29,1,7,Sat,Bikaner,JDP,Jpr,Daily,3,40,24557,432,32,24,1,13,73,27,4,2022
+96,98634,Vande Bharat Express,20,2,6,Thu,Bikaner,KOTA,BKN,Daily,3,36,18185,432,31,31,3,8,66,19,5,2021
+97,18416,Shatabdi Express,14,3,5,Tue,Bikaner,JSM,DLI,Daily,3,33,24174,432,24,30,3,17,68,7,5,2022
+98,41010,Garbi Rath,12,3,5,Sat,Bikaner,BKN,JSM,Daily,2,16,13701,432,29,29,3,17,65,5,2,2019
+99,11926,Vande Bharat Express,28,2,5,Mon,Bikaner,JSM,JDP,Twice in week,1,10,20608,432,21,27,2,21,68,28,9,2019
+100,88847,LEELAN SF Express,21,1,8,Fri,Bikaner,BKN,UDP,Weekly,2,6,21975,432,22,33,3,11,72,23,10,2022
+101,23508,Suratgarh Express,23,2,6,Tue,Bikaner,DLI,KOTA,Twice in week,1,9,26299,432,23,22,3,5,71,23,8,2019
+102,92810,LEELAN SF Express,22,3,6,Tue,Bikaner,JSM,KOTA,Weekly,3,33,17107,432,25,25,3,15,66,26,1,2022
+103,49707,Rajdhani Express,27,1,9,Sat,Bikaner,JDP,KOTA,Twice in week,1,24,27739,432,25,30,3,23,67,19,6,2021
+104,45266,Kota SGNR SF SPL,14,3,6,Sat,Bikaner,BKN,JDP,Weekly,3,15,25219,432,28,22,3,14,71,11,7,2020
+105,85205,Partap SF Express,16,2,8,Sat,Bikaner,UDP,Jpr,Daily,4,16,20505,432,25,29,1,18,71,2,5,2019
+106,99832,Shatabdi Express,18,1,8,Sun,Bikaner,KOTA,KOTA,Twice in week,4,7,14341,432,25,23,2,7,66,18,11,2022
+107,91523,LEELAN SF Express,11,3,7,Mon,Bikaner,JDP,JDP,Weekly,3,3,27486,432,22,30,4,16,67,24,5,2022
+108,50331,BKN SF Express,11,3,7,Sun,Bikaner,DLI,KOTA,Daily,2,20,18786,432,34,24,3,9,70,4,5,2021
+109,68386,Double Decker,10,1,7,Wed,Bikaner,Jpr,UDP,Weekly,3,22,10327,432,32,28,1,18,68,10,9,2021
+110,73818,Shatabdi Express,27,2,9,Mon,Bikaner,Jpr,JSM,Weekly,4,23,25417,432,31,20,2,19,67,22,8,2021
+111,96522,LEELAN SF Express,12,1,5,Wed,Bikaner,DLI,DLI,Daily,4,13,29097,432,31,29,1,13,72,16,2,2022
+112,73806,LEELAN SF Express,27,2,6,Wed,Bikaner,Jpr,KOTA,Twice in week,1,30,14020,432,24,24,1,10,74,8,11,2019
+113,53846,BKN SF Express,17,1,8,Sat,Bikaner,KOTA,Jpr,Weekly,1,14,27071,432,33,25,4,17,68,8,1,2022
+114,79372,Shatabdi Express,16,2,9,Sun,Bikaner,UDP,JDP,Daily,4,21,19179,432,33,34,3,21,70,8,1,2022
+115,19536,Shatabdi Express,25,3,6,Tue,Bikaner,UDP,DLI,Twice in week,2,19,13222,432,25,21,3,17,66,29,9,2019
+116,98252,LEELAN SF Express,20,2,8,Wed,Bikaner,UDP,KOTA,Twice in week,1,9,14522,432,23,23,3,12,71,17,4,2022
+117,77463,Garbi Rath,11,1,6,Sat,Bikaner,KOTA,DLI,Daily,3,22,28816,432,22,22,2,14,69,5,10,2021
+118,72697,Shatabdi Express,15,1,7,Sun,Bikaner,Jpr,KOTA,Twice in week,2,5,22691,432,29,24,4,21,70,19,2,2021
+119,92978,Rajdhani Express,12,1,8,Sun,Bikaner,DLI,KOTA,Weekly,2,38,12336,432,20,33,2,8,71,23,8,2022
+120,33068,Garbi Rath,26,1,5,Sat,Bikaner,DLI,UDP,Twice in week,1,12,14217,432,32,20,2,23,74,17,11,2022
+121,84960,Shatabdi Express,27,3,7,Tue,Bikaner,Jpr,DLI,Daily,2,40,17535,432,32,30,4,18,72,6,8,2019
+122,14122,BKN SF Express,26,2,5,Mon,Bikaner,JDP,JDP,Daily,1,18,28355,432,31,33,4,22,67,22,3,2021
+123,47482,Rajdhani Express,27,3,9,Tue,Bikaner,KOTA,UDP,Twice in week,2,18,14168,432,25,34,2,20,74,18,7,2021
+124,91041,Double Decker,27,1,6,Thu,Bikaner,JDP,JSM,Weekly,4,21,23381,432,22,30,3,10,72,25,8,2022
+125,87816,LEELAN SF Express,24,2,5,Thu,Bikaner,DLI,UDP,Twice in week,4,31,29969,432,30,24,3,15,73,30,8,2019
+126,76866,Shatabdi Express,25,2,9,Fri,Bikaner,JSM,Jpr,Twice in week,3,28,25661,432,34,20,1,8,68,30,6,2019
+127,25105,Kota SGNR SF SPL,28,3,7,Wed,Bikaner,DLI,JSM,Daily,2,27,18184,432,21,25,1,4,74,16,6,2021
+128,72515,Double Decker,16,2,8,Sat,Bikaner,DLI,JDP,Daily,4,13,12508,432,32,29,2,21,68,14,3,2019
+129,14217,Shatabdi Express,16,1,9,Thu,Bikaner,Jpr,KOTA,Daily,3,11,10381,432,34,20,2,15,69,11,3,2019
+130,91530,BKN SF Express,10,1,6,Wed,Bikaner,UDP,BKN,Twice in week,3,20,28984,432,26,24,1,5,74,29,11,2019
+131,85729,Rajdhani Express,14,1,5,Mon,Bikaner,JDP,UDP,Weekly,1,41,13913,432,27,32,4,7,67,19,7,2022
+132,62539,Double Decker,24,2,8,Mon,Bikaner,DLI,Jpr,Daily,1,37,27271,432,29,28,1,9,72,2,2,2021
+133,27340,Vande Bharat Express,17,3,5,Wed,Bikaner,Jpr,UDP,Twice in week,1,33,23281,432,21,28,2,20,72,8,6,2019
+134,41257,Vande Bharat Express,10,3,8,Sat,Bikaner,BKN,Jpr,Daily,4,39,24405,432,20,33,4,7,71,3,4,2020
+135,66054,Kota SGNR SF SPL,20,1,6,Fri,Bikaner,JSM,JDP,Weekly,4,34,29940,432,33,20,2,6,65,21,4,2021
+136,90730,Kota SGNR SF SPL,26,2,8,Thu,Bikaner,DLI,KOTA,Weekly,3,10,21417,432,28,33,2,5,68,7,7,2021
+137,75723,Shatabdi Express,22,2,9,Sun,Bikaner,JSM,BKN,Weekly,4,41,12849,432,22,32,1,11,67,26,8,2019
+138,90676,Kota SGNR SF SPL,20,1,6,Sat,Bikaner,KOTA,JSM,Twice in week,4,16,11185,432,25,33,1,8,67,3,8,2020
+139,72922,Double Decker,17,2,7,Fri,Bikaner,JDP,JDP,Daily,3,15,26620,432,28,24,4,7,70,10,2,2021
+140,43826,LEELAN SF Express,22,2,8,Fri,Bikaner,JSM,BKN,Daily,3,5,18940,432,30,25,4,5,71,26,4,2020
+141,94112,Rajdhani Express,20,2,5,Wed,Bikaner,KOTA,BKN,Twice in week,2,29,13517,432,31,29,2,15,65,25,1,2019
+142,11091,Kota SGNR SF SPL,26,3,7,Mon,Bikaner,JDP,DLI,Weekly,2,35,26563,432,22,22,3,22,71,28,5,2021
+143,71924,Suratgarh Express,11,3,6,Mon,Bikaner,JSM,Jpr,Weekly,3,15,29976,432,27,32,4,23,71,16,2,2019
+144,79131,Double Decker,23,1,7,Thu,Bikaner,DLI,JSM,Weekly,3,30,14300,432,32,24,4,17,74,5,5,2021
+145,99147,Suratgarh Express,20,3,6,Mon,Bikaner,KOTA,Jpr,Twice in week,2,18,21459,432,33,25,2,13,65,19,4,2022
+146,14699,Suratgarh Express,15,1,7,Sat,Bikaner,KOTA,Jpr,Twice in week,4,11,12774,432,33,31,3,18,65,28,10,2019
+147,67323,Vande Bharat Express,25,2,7,Sat,Bikaner,KOTA,JDP,Twice in week,4,5,28018,432,33,28,2,8,69,26,8,2021
+148,39796,Kota SGNR SF SPL,25,2,6,Tue,Bikaner,JDP,BKN,Daily,2,16,19878,432,23,24,1,13,71,29,10,2020
+149,84705,LEELAN SF Express,17,3,7,Mon,Bikaner,KOTA,BKN,Daily,1,34,18813,432,34,29,2,6,67,6,4,2020
+150,24885,Garbi Rath,21,1,8,Wed,Bikaner,JDP,JSM,Weekly,4,13,22712,432,29,26,3,4,68,2,7,2020
+151,70934,Double Decker,25,1,7,Mon,Bikaner,JDP,UDP,Weekly,2,24,29476,432,33,28,4,20,71,11,1,2020
+152,57048,Partap SF Express,21,2,9,Thu,Bikaner,JDP,UDP,Daily,1,22,13041,432,21,27,2,7,66,9,8,2020
+153,76210,Suratgarh Express,29,2,9,Tue,Bikaner,BKN,BKN,Weekly,4,6,25335,432,34,25,4,6,72,3,6,2020
+154,51690,Double Decker,21,1,7,Sun,Bikaner,JDP,Jpr,Daily,1,31,26956,432,28,23,1,11,73,26,8,2019
+155,34163,Kota SGNR SF SPL,16,3,5,Tue,Bikaner,KOTA,JSM,Daily,3,18,17313,432,32,20,2,19,65,23,2,2020
+156,80927,Shatabdi Express,25,3,9,Mon,Bikaner,KOTA,BKN,Weekly,4,17,29158,432,31,20,3,12,67,23,10,2020
+157,58999,Shatabdi Express,21,1,6,Tue,Bikaner,KOTA,KOTA,Daily,4,26,22177,432,20,29,3,7,71,29,3,2021
+158,32159,Double Decker,28,1,6,Tue,Bikaner,JSM,BKN,Weekly,1,17,29487,432,28,25,4,9,67,26,11,2019
+159,17698,LEELAN SF Express,24,2,9,Sun,Bikaner,DLI,UDP,Twice in week,1,13,16511,432,31,34,1,7,66,30,9,2022
+160,76404,BKN SF Express,24,1,5,Mon,Bikaner,JDP,JDP,Daily,1,41,16896,432,30,23,1,4,70,27,8,2021
+161,48373,Partap SF Express,11,2,7,Tue,Bikaner,KOTA,JDP,Weekly,2,40,23224,432,23,33,1,23,72,21,2,2022
+162,48222,LEELAN SF Express,26,1,9,Sun,Bikaner,JDP,KOTA,Daily,3,14,18987,432,21,25,2,22,68,13,8,2021
+163,22547,Partap SF Express,10,1,9,Fri,Bikaner,JDP,DLI,Daily,3,8,20997,432,27,30,4,12,72,25,2,2020
+164,55195,Partap SF Express,20,3,7,Mon,Bikaner,JSM,Jpr,Twice in week,3,5,10956,432,22,22,4,15,65,21,11,2019
+165,90697,LEELAN SF Express,19,3,6,Wed,Bikaner,JDP,Jpr,Daily,4,33,10732,432,21,32,3,15,70,15,2,2022
+166,82825,Vande Bharat Express,18,3,6,Sat,Bikaner,JDP,Jpr,Twice in week,1,6,27524,432,25,23,2,9,71,8,3,2022
+167,81686,Garbi Rath,19,3,5,Wed,Bikaner,Jpr,BKN,Daily,1,13,23660,432,28,30,1,23,66,27,9,2019
+168,56788,Partap SF Express,27,3,5,Sat,Bikaner,KOTA,BKN,Daily,2,4,12808,432,33,23,1,20,66,25,9,2021
+169,72431,Vande Bharat Express,25,2,5,Sat,Bikaner,KOTA,KOTA,Weekly,4,11,29914,432,22,27,4,6,65,1,9,2019
+170,90567,Garbi Rath,29,2,5,Thu,Bikaner,JSM,BKN,Weekly,1,8,23667,432,24,34,4,19,69,19,9,2019
+171,56913,Kota SGNR SF SPL,11,1,6,Fri,Bikaner,UDP,DLI,Twice in week,3,17,11311,432,24,20,4,19,71,11,6,2022
+172,16482,Kota SGNR SF SPL,11,1,7,Sun,Bikaner,JDP,DLI,Twice in week,3,41,28767,432,26,26,4,8,72,19,1,2022
+173,28954,Partap SF Express,27,1,6,Sun,Bikaner,Jpr,BKN,Weekly,2,13,29920,432,28,28,3,8,70,13,4,2019
+174,17351,Vande Bharat Express,20,1,7,Sat,Bikaner,KOTA,BKN,Twice in week,2,41,26440,432,28,34,2,15,74,17,7,2019
+175,13289,Double Decker,20,2,5,Sun,Bikaner,UDP,BKN,Twice in week,2,5,13225,432,23,32,4,4,72,29,11,2022
+176,72482,Suratgarh Express,16,2,5,Wed,Bikaner,BKN,KOTA,Daily,4,26,18591,432,22,25,2,23,69,22,3,2021
+177,24172,LEELAN SF Express,16,2,8,Sun,Bikaner,BKN,JSM,Weekly,1,36,20288,432,25,22,3,5,74,11,5,2022
+178,38711,Partap SF Express,19,2,5,Wed,Bikaner,JDP,KOTA,Daily,2,11,26865,432,29,30,1,11,68,21,1,2019
+179,97091,Double Decker,28,2,6,Mon,Bikaner,KOTA,KOTA,Twice in week,2,15,19783,432,24,26,1,9,68,26,3,2022
+180,70168,BKN SF Express,17,2,5,Fri,Bikaner,BKN,Jpr,Twice in week,3,40,13179,432,34,31,4,23,67,16,10,2020
+181,29844,Garbi Rath,27,2,8,Sun,Bikaner,UDP,BKN,Twice in week,1,10,28944,432,26,26,3,13,66,12,1,2020
+182,18861,LEELAN SF Express,11,1,7,Thu,Bikaner,BKN,DLI,Daily,3,17,12378,432,31,25,3,6,72,9,3,2020
+183,91247,Vande Bharat Express,19,2,6,Sun,Bikaner,JSM,JDP,Twice in week,3,39,28758,432,22,33,3,18,74,3,4,2022
+184,52636,Double Decker,22,3,6,Mon,Bikaner,JDP,JSM,Weekly,3,32,27489,432,33,33,1,15,66,22,4,2021
+185,82516,Double Decker,29,1,9,Thu,Bikaner,Jpr,DLI,Daily,1,6,16965,432,24,33,1,13,71,23,1,2021
+186,17319,Vande Bharat Express,12,2,9,Mon,Bikaner,KOTA,DLI,Twice in week,3,29,29309,432,21,29,2,21,71,23,9,2020
+187,34131,LEELAN SF Express,11,3,9,Mon,Bikaner,JSM,JSM,Twice in week,2,23,11338,432,23,31,2,15,68,1,6,2020
+188,82539,LEELAN SF Express,28,1,5,Mon,Bikaner,UDP,JDP,Daily,4,11,13705,432,21,25,3,7,65,24,1,2022
+189,79367,Garbi Rath,18,3,7,Mon,Bikaner,DLI,KOTA,Weekly,3,13,20214,432,31,25,4,15,66,6,5,2022
+190,97271,Shatabdi Express,24,2,9,Tue,Bikaner,JDP,UDP,Daily,1,26,15474,432,30,28,1,23,66,8,5,2021
+191,30293,BKN SF Express,21,2,7,Wed,Bikaner,KOTA,UDP,Twice in week,2,7,10389,432,29,23,4,22,67,15,11,2020
+192,33796,Kota SGNR SF SPL,21,3,7,Fri,Bikaner,BKN,JSM,Twice in week,1,41,27022,432,27,31,1,15,71,5,6,2022
+193,65770,Partap SF Express,15,2,8,Mon,Bikaner,JSM,UDP,Twice in week,2,25,11924,432,33,20,3,8,68,22,2,2021
+194,72007,Vande Bharat Express,28,2,7,Tue,Bikaner,BKN,UDP,Daily,2,10,15076,432,26,20,2,14,70,20,3,2021
+195,23628,Suratgarh Express,14,1,8,Wed,Bikaner,UDP,JDP,Daily,1,13,22635,432,31,31,4,5,68,12,2,2022
+196,18257,Kota SGNR SF SPL,11,3,5,Thu,Bikaner,KOTA,JDP,Twice in week,4,41,22555,432,28,33,2,18,69,12,9,2019
+197,23065,Kota SGNR SF SPL,22,2,7,Mon,Bikaner,JDP,UDP,Daily,1,26,26064,432,25,33,4,12,70,14,4,2021
+198,65038,Suratgarh Express,16,2,8,Tue,Bikaner,DLI,DLI,Twice in week,2,30,28549,432,22,21,2,8,72,8,4,2019
+199,50637,BKN SF Express,17,1,8,Tue,Bikaner,UDP,BKN,Weekly,2,8,22561,432,24,21,2,20,66,21,5,2019
+200,36772,Shatabdi Express,28,2,5,Thu,Bikaner,DLI,JDP,Weekly,1,24,16134,432,30,24,1,14,66,12,9,2021
+201,17256,Double Decker,16,1,7,Sat,Bikaner,JSM,JDP,Daily,1,17,16723,432,30,20,4,17,66,14,9,2020
+202,50949,Double Decker,15,2,5,Thu,Bikaner,KOTA,JDP,Weekly,2,11,29253,432,25,26,4,15,74,29,5,2020
+203,29377,BKN SF Express,22,2,8,Wed,Bikaner,BKN,KOTA,Weekly,2,14,17613,432,28,28,3,9,74,8,6,2019
+204,37017,Rajdhani Express,26,3,9,Thu,Bikaner,Jpr,DLI,Twice in week,1,8,20537,432,23,25,3,7,66,5,2,2020
+205,28727,Suratgarh Express,15,2,5,Wed,Bikaner,KOTA,DLI,Weekly,3,14,20379,432,29,28,1,23,66,16,8,2021
+206,52408,Rajdhani Express,23,3,7,Sun,Bikaner,JDP,DLI,Twice in week,4,19,15955,432,32,26,3,8,73,8,8,2022
+207,17571,Vande Bharat Express,20,1,5,Fri,Bikaner,UDP,JSM,Twice in week,1,38,18636,432,27,24,4,15,66,1,11,2019
+208,48336,LEELAN SF Express,13,2,6,Sun,Bikaner,BKN,BKN,Daily,2,30,16558,432,29,29,1,23,70,7,5,2020
+209,28016,BKN SF Express,10,2,5,Tue,Bikaner,KOTA,DLI,Weekly,2,39,17245,432,32,30,4,19,66,9,7,2020
+210,15833,BKN SF Express,29,1,9,Fri,Bikaner,Jpr,DLI,Twice in week,3,34,20592,432,21,28,2,13,69,27,2,2022
+211,19621,Suratgarh Express,15,3,7,Fri,Bikaner,KOTA,UDP,Twice in week,2,17,17667,432,22,24,4,13,71,26,7,2020
+212,87559,Partap SF Express,25,2,5,Mon,Bikaner,DLI,JDP,Twice in week,3,30,25551,432,30,21,2,10,74,27,4,2020
+213,13469,Kota SGNR SF SPL,14,1,7,Wed,Bikaner,UDP,KOTA,Daily,4,27,23366,432,31,21,3,11,70,16,4,2019
+214,59342,Garbi Rath,20,3,6,Sun,Bikaner,BKN,BKN,Twice in week,3,30,15579,432,29,34,1,9,69,23,1,2022
+215,93736,Shatabdi Express,17,2,9,Sun,Bikaner,Jpr,JSM,Twice in week,3,9,24169,432,29,34,4,9,69,8,1,2021
+216,47457,Kota SGNR SF SPL,20,3,6,Sun,Bikaner,JDP,JDP,Weekly,4,3,27784,432,20,26,2,8,73,5,3,2022
+217,78205,Kota SGNR SF SPL,22,1,5,Mon,Bikaner,UDP,DLI,Daily,4,41,28741,432,21,25,2,15,68,7,7,2020
+218,43711,Suratgarh Express,18,1,6,Tue,Bikaner,BKN,Jpr,Daily,2,28,11897,432,20,26,3,23,73,25,1,2022
+219,92073,Double Decker,11,3,6,Mon,Bikaner,UDP,BKN,Daily,1,31,28721,432,25,25,1,4,74,29,6,2020
+220,22185,Rajdhani Express,14,3,7,Thu,Bikaner,DLI,Jpr,Weekly,4,23,26226,432,23,21,3,8,71,2,2,2020
+221,48344,Vande Bharat Express,12,3,5,Thu,Bikaner,DLI,KOTA,Weekly,1,4,20247,432,25,34,1,23,69,9,5,2022
+222,30133,Partap SF Express,24,3,7,Mon,Bikaner,JDP,Jpr,Weekly,1,36,25487,432,23,29,2,6,65,24,8,2021
+223,34837,Shatabdi Express,29,3,6,Sat,Bikaner,UDP,JDP,Twice in week,1,23,19653,432,22,27,1,12,73,7,10,2022
+224,55751,Garbi Rath,25,2,7,Fri,Bikaner,DLI,Jpr,Twice in week,3,17,27478,432,31,22,3,8,72,16,4,2019
+225,61650,Double Decker,25,3,8,Fri,Bikaner,UDP,Jpr,Weekly,2,22,20436,432,34,25,1,17,71,16,6,2020
+226,33548,Rajdhani Express,17,3,6,Wed,Bikaner,DLI,BKN,Daily,4,5,29948,432,31,34,4,13,74,17,5,2021
+227,43012,Double Decker,23,3,8,Sat,Bikaner,KOTA,KOTA,Daily,1,15,11557,432,27,27,1,12,71,27,1,2020
+228,84183,BKN SF Express,28,2,5,Fri,Bikaner,KOTA,KOTA,Daily,1,21,28137,432,33,34,1,6,71,11,6,2020
+229,48619,Kota SGNR SF SPL,19,3,6,Mon,Bikaner,DLI,BKN,Weekly,1,21,26412,432,23,30,1,13,72,4,10,2022
+230,18793,Vande Bharat Express,28,2,7,Fri,Bikaner,KOTA,JSM,Daily,2,12,17867,432,33,31,2,13,69,17,8,2021
+231,31759,Vande Bharat Express,25,2,7,Mon,Bikaner,JDP,UDP,Weekly,1,6,18428,432,20,34,1,13,72,3,4,2020
+232,90357,Partap SF Express,24,3,6,Tue,Bikaner,JDP,UDP,Twice in week,2,33,27923,432,32,20,4,6,69,15,8,2019
+233,27193,Double Decker,17,1,8,Wed,Bikaner,BKN,UDP,Weekly,1,24,11208,432,30,27,3,22,74,15,9,2019
+234,17814,Garbi Rath,19,1,9,Sun,Bikaner,JSM,JSM,Weekly,1,26,12586,432,31,25,1,5,67,23,9,2022
+235,35439,BKN SF Express,22,3,5,Mon,Bikaner,KOTA,JDP,Twice in week,2,40,11369,432,28,22,1,18,67,18,9,2022
+236,18945,Double Decker,12,1,8,Wed,Bikaner,UDP,UDP,Weekly,2,39,10659,432,26,30,1,13,74,9,1,2019
+237,12385,Rajdhani Express,27,1,6,Tue,Bikaner,BKN,KOTA,Weekly,1,7,13155,432,30,31,2,13,72,2,4,2021
+238,27459,LEELAN SF Express,16,2,7,Sun,Bikaner,BKN,DLI,Twice in week,1,24,14756,432,24,21,2,23,70,27,1,2021
+239,84474,Garbi Rath,23,2,9,Fri,Bikaner,JDP,BKN,Twice in week,3,22,13586,432,20,31,4,18,67,13,2,2019
+240,61707,Shatabdi Express,13,2,9,Wed,Bikaner,BKN,JDP,Daily,2,31,14718,432,31,21,4,4,65,14,10,2021
+241,95945,Suratgarh Express,23,2,5,Sat,Bikaner,Jpr,UDP,Weekly,2,21,13668,432,26,34,2,9,70,15,8,2020
+242,39170,Vande Bharat Express,15,3,9,Wed,Bikaner,KOTA,JSM,Twice in week,4,41,24669,432,28,24,2,9,72,30,11,2019
+243,67924,Vande Bharat Express,25,2,8,Tue,Bikaner,UDP,JSM,Daily,3,16,18895,432,25,34,3,10,68,14,2,2022
+244,59364,Vande Bharat Express,13,1,6,Wed,Bikaner,JDP,DLI,Weekly,2,22,23755,432,20,32,4,12,68,27,6,2022
+245,16954,Suratgarh Express,14,1,9,Sun,Bikaner,BKN,Jpr,Daily,3,5,23928,432,23,28,3,22,67,17,7,2021
+246,96335,Rajdhani Express,25,2,6,Tue,Bikaner,BKN,DLI,Weekly,1,6,15802,432,27,22,4,20,66,7,4,2022
+247,44211,Double Decker,15,2,6,Wed,Bikaner,BKN,Jpr,Weekly,4,13,25734,432,32,24,4,5,69,10,6,2021
+248,60884,Shatabdi Express,22,3,8,Sun,Bikaner,JDP,JSM,Daily,1,32,15327,432,30,26,1,14,74,16,10,2021
+249,40659,Kota SGNR SF SPL,11,1,9,Fri,Bikaner,KOTA,BKN,Weekly,4,5,21596,432,21,26,4,12,69,13,8,2020
+250,74084,Vande Bharat Express,13,1,7,Sat,Bikaner,DLI,JDP,Daily,2,16,16970,432,28,27,2,6,70,27,9,2020
+251,28323,Rajdhani Express,16,3,6,Mon,Bikaner,Jpr,JDP,Daily,3,37,20117,432,25,30,1,4,67,2,10,2021
+252,46959,Suratgarh Express,10,1,6,Thu,Bikaner,JSM,KOTA,Daily,2,37,10245,432,34,33,1,14,70,2,1,2021
+253,15402,Suratgarh Express,16,2,6,Thu,Bikaner,UDP,JSM,Twice in week,1,26,24740,432,25,28,2,14,69,29,8,2019
+254,95827,Garbi Rath,26,2,7,Tue,Bikaner,BKN,DLI,Daily,3,36,16438,432,23,22,1,13,70,4,10,2021
+255,52910,LEELAN SF Express,28,1,6,Sat,Bikaner,KOTA,JSM,Daily,1,35,17081,432,21,34,2,11,71,12,3,2022
+256,80943,Double Decker,22,2,5,Tue,Bikaner,JDP,UDP,Daily,3,10,25873,432,34,25,2,9,74,3,7,2020
+257,98503,Suratgarh Express,26,1,5,Tue,Bikaner,DLI,UDP,Twice in week,4,19,22598,432,30,29,2,17,74,21,1,2021
+258,54074,Suratgarh Express,26,2,5,Sat,Bikaner,Jpr,DLI,Weekly,1,23,15803,432,23,25,4,22,71,21,2,2022
+259,42668,LEELAN SF Express,27,2,9,Wed,Bikaner,DLI,JSM,Daily,3,5,14646,432,28,24,2,11,70,4,8,2019
+260,53304,Suratgarh Express,26,1,6,Fri,Bikaner,Jpr,DLI,Weekly,3,12,21578,432,30,28,1,17,68,7,11,2020
+261,73557,Garbi Rath,14,3,7,Mon,Bikaner,KOTA,BKN,Daily,1,24,26507,432,27,23,1,20,70,7,9,2019
+262,13371,Shatabdi Express,23,3,5,Mon,Bikaner,BKN,JDP,Twice in week,4,13,11072,432,28,21,3,16,73,9,9,2022
+263,70704,LEELAN SF Express,12,2,9,Sun,Bikaner,KOTA,JSM,Daily,4,13,29686,432,33,30,3,16,70,15,1,2022
+264,23117,LEELAN SF Express,26,3,6,Tue,Bikaner,BKN,JDP,Weekly,1,37,14518,432,24,20,4,9,65,3,7,2022
+265,82457,BKN SF Express,14,1,6,Thu,Bikaner,JSM,JSM,Twice in week,2,40,28987,432,32,20,1,14,67,29,2,2022
+266,53283,LEELAN SF Express,26,1,8,Mon,Bikaner,KOTA,JDP,Twice in week,3,34,12651,432,32,26,2,17,66,26,10,2020
+267,97259,Suratgarh Express,27,1,9,Tue,Bikaner,BKN,KOTA,Daily,3,9,13412,432,26,34,3,22,66,30,10,2019
+268,67092,Garbi Rath,22,2,8,Mon,Bikaner,KOTA,JSM,Daily,4,27,20811,432,26,28,2,4,70,29,2,2020
+269,70540,Double Decker,19,3,7,Sat,Bikaner,Jpr,BKN,Twice in week,4,37,18876,432,30,21,4,20,72,25,5,2019
+270,93208,Vande Bharat Express,14,2,6,Tue,Bikaner,BKN,UDP,Weekly,1,31,23222,432,21,30,2,5,72,20,5,2020
+271,65150,BKN SF Express,11,2,8,Sat,Bikaner,JDP,DLI,Twice in week,2,16,18364,432,20,32,3,7,70,4,3,2020
+272,12717,Suratgarh Express,10,2,7,Thu,Bikaner,Jpr,BKN,Weekly,4,9,22176,432,21,28,3,23,70,12,9,2021
+273,32336,Shatabdi Express,13,1,6,Sun,Bikaner,JDP,UDP,Daily,3,8,26196,432,29,22,3,18,69,19,1,2020
+274,93588,Rajdhani Express,27,3,7,Tue,Bikaner,KOTA,JSM,Weekly,4,16,22420,432,30,23,1,12,71,14,11,2020
+275,12981,Shatabdi Express,15,1,9,Mon,Bikaner,JSM,JDP,Twice in week,1,28,14226,432,21,24,2,6,66,9,3,2020
+276,50769,BKN SF Express,16,2,6,Sat,Bikaner,JDP,DLI,Twice in week,3,10,11124,432,25,26,3,22,67,12,3,2020
+277,20239,Kota SGNR SF SPL,14,1,8,Wed,Bikaner,JSM,JDP,Daily,3,39,21352,432,27,26,2,23,70,19,2,2021
+278,77473,Kota SGNR SF SPL,22,3,6,Wed,Bikaner,DLI,Jpr,Weekly,3,16,26745,432,30,29,3,21,73,23,5,2022
+279,76958,BKN SF Express,13,2,6,Fri,Bikaner,Jpr,JDP,Daily,3,19,17026,432,34,27,4,10,67,17,9,2020
+280,33947,Suratgarh Express,24,1,9,Fri,Bikaner,JDP,KOTA,Weekly,4,36,24203,432,33,31,4,10,72,30,1,2019
+281,95029,Double Decker,27,2,9,Sat,Bikaner,UDP,UDP,Weekly,1,20,23357,432,30,28,2,4,70,27,3,2022
+282,49278,Suratgarh Express,18,1,7,Thu,Bikaner,UDP,JDP,Weekly,1,23,23566,432,25,29,3,8,74,30,5,2021
+283,98792,Partap SF Express,26,2,5,Thu,Bikaner,KOTA,DLI,Twice in week,3,4,13164,432,21,20,3,17,73,28,6,2022
+284,39694,Vande Bharat Express,15,1,6,Thu,Bikaner,JDP,KOTA,Twice in week,4,10,13901,432,23,20,1,11,73,25,6,2020
+285,32481,Vande Bharat Express,25,1,5,Mon,Bikaner,Jpr,DLI,Twice in week,2,10,28496,432,32,22,3,4,73,11,5,2021
+286,52099,Kota SGNR SF SPL,18,3,8,Thu,Bikaner,BKN,KOTA,Weekly,4,34,21578,432,32,34,3,12,68,7,5,2020
+287,15868,Partap SF Express,11,2,7,Thu,Bikaner,UDP,Jpr,Weekly,2,17,28045,432,23,23,4,14,74,2,9,2020
+288,97655,Vande Bharat Express,25,3,6,Thu,Bikaner,JDP,KOTA,Weekly,4,29,28374,432,21,27,1,21,70,28,2,2020
+289,72115,Double Decker,27,2,8,Sun,Bikaner,DLI,BKN,Twice in week,4,5,27158,432,21,27,2,19,65,25,1,2019
+290,36981,Rajdhani Express,13,3,8,Wed,Bikaner,JSM,BKN,Weekly,2,9,19160,432,21,32,2,11,71,2,1,2020
+291,13292,Rajdhani Express,28,3,7,Mon,Bikaner,UDP,Jpr,Weekly,3,33,10785,432,33,21,4,22,66,19,4,2020
+292,43578,Double Decker,26,1,5,Tue,Bikaner,JSM,KOTA,Weekly,4,9,25595,432,33,20,4,12,67,11,10,2019
+293,58840,Kota SGNR SF SPL,12,2,7,Thu,Bikaner,Jpr,JDP,Weekly,2,27,29166,432,21,21,2,19,72,29,2,2022
+294,45240,Kota SGNR SF SPL,15,1,6,Tue,Bikaner,UDP,JSM,Twice in week,1,41,28114,432,33,29,1,17,66,12,10,2021
+295,72136,Vande Bharat Express,10,2,5,Sun,Bikaner,Jpr,BKN,Weekly,2,35,21180,432,24,28,4,13,65,17,11,2019
+296,37659,LEELAN SF Express,22,1,7,Tue,Bikaner,DLI,JSM,Weekly,4,8,23096,432,22,31,1,11,65,3,1,2022
+297,85646,Partap SF Express,16,1,9,Wed,Bikaner,BKN,BKN,Weekly,2,21,10750,432,24,29,4,13,66,19,11,2022
+298,97953,LEELAN SF Express,10,1,5,Tue,Bikaner,UDP,DLI,Daily,4,8,18792,432,21,29,2,21,69,29,11,2022
+299,65626,Garbi Rath,23,1,5,Sun,Bikaner,JSM,JSM,Daily,1,37,25512,432,31,29,3,14,71,13,3,2022
+300,18827,Garbi Rath,10,2,7,Mon,Bikaner,JDP,UDP,Weekly,2,6,11867,432,21,29,2,21,67,30,11,2022
+301,48290,LEELAN SF Express,26,2,5,Tue,Bikaner,Jpr,BKN,Twice in week,2,25,23947,432,32,26,2,5,74,11,10,2020
+302,67103,BKN SF Express,11,1,9,Fri,Bikaner,DLI,UDP,Twice in week,4,36,14598,432,31,23,3,8,68,5,10,2020
+303,63975,Vande Bharat Express,25,1,7,Fri,Bikaner,DLI,KOTA,Weekly,1,26,11723,432,21,22,1,13,70,25,11,2022
+304,76783,Double Decker,16,1,8,Mon,Bikaner,JDP,DLI,Weekly,3,26,19300,432,29,28,3,14,69,14,11,2019
+305,55869,Double Decker,29,2,5,Mon,Bikaner,JDP,Jpr,Twice in week,3,20,26140,432,30,32,4,12,67,16,10,2021
+306,88062,Suratgarh Express,20,1,7,Wed,Bikaner,KOTA,UDP,Weekly,4,5,21555,432,20,34,2,23,66,1,1,2022
+307,20830,Partap SF Express,27,3,6,Mon,Bikaner,KOTA,JDP,Daily,1,34,28970,432,26,28,1,21,69,3,5,2021
+308,62541,Vande Bharat Express,18,2,8,Fri,Bikaner,Jpr,BKN,Weekly,4,39,19967,432,34,30,2,21,66,26,3,2022
+309,26761,BKN SF Express,11,2,5,Fri,Bikaner,KOTA,Jpr,Twice in week,1,32,12153,432,23,23,1,10,71,10,9,2022
+310,28411,Rajdhani Express,14,3,6,Tue,Bikaner,BKN,UDP,Daily,1,10,16419,432,23,22,1,20,71,8,9,2020
+311,22720,Partap SF Express,20,1,7,Mon,Bikaner,JDP,JDP,Daily,3,22,11187,432,24,24,1,15,66,23,8,2022
+312,19111,BKN SF Express,19,2,9,Fri,Bikaner,JSM,UDP,Weekly,4,8,20793,432,24,21,1,15,74,10,6,2022
+313,57174,LEELAN SF Express,13,1,9,Wed,Bikaner,UDP,Jpr,Daily,1,41,10186,432,33,20,3,20,70,2,7,2022
+314,21489,Shatabdi Express,26,2,7,Sun,Bikaner,UDP,KOTA,Daily,1,26,26483,432,22,20,3,10,72,4,8,2021
+315,79548,Shatabdi Express,12,2,5,Sat,Bikaner,DLI,JSM,Daily,4,16,22624,432,27,33,4,4,71,17,3,2022
+316,47804,Shatabdi Express,10,2,9,Tue,Bikaner,BKN,Jpr,Weekly,1,30,29852,432,20,21,2,16,72,20,2,2019
+317,62546,LEELAN SF Express,26,2,6,Wed,Bikaner,DLI,UDP,Weekly,3,17,29760,432,27,30,3,13,70,9,5,2022
+318,82903,Rajdhani Express,17,2,9,Thu,Bikaner,JSM,UDP,Twice in week,4,39,23189,432,32,23,3,17,70,21,4,2020
+319,22262,Garbi Rath,28,2,5,Sat,Bikaner,JDP,JSM,Weekly,1,25,23651,432,30,34,3,8,74,11,4,2019
+320,90009,Double Decker,12,3,5,Tue,Bikaner,BKN,JDP,Weekly,2,19,12599,432,23,21,4,4,67,12,1,2021
+321,32622,Suratgarh Express,20,2,6,Wed,Bikaner,UDP,DLI,Daily,3,3,24422,432,29,20,3,16,67,11,6,2020
+322,19004,LEELAN SF Express,17,2,8,Mon,Bikaner,JDP,UDP,Twice in week,1,28,16459,432,25,23,4,7,66,12,2,2021
+323,14762,Vande Bharat Express,18,3,8,Sun,Bikaner,Jpr,UDP,Weekly,2,22,12863,432,22,27,1,7,68,16,11,2019
+324,16077,Vande Bharat Express,12,2,8,Mon,Bikaner,JSM,KOTA,Twice in week,2,16,29754,432,28,31,2,13,67,10,5,2022
+325,11822,LEELAN SF Express,10,1,5,Thu,Bikaner,Jpr,KOTA,Daily,3,29,18946,432,21,28,3,6,67,14,3,2019
+326,27786,Partap SF Express,22,2,5,Thu,Bikaner,Jpr,Jpr,Twice in week,4,11,26875,432,21,29,2,12,74,5,6,2022
+327,25488,Rajdhani Express,20,3,7,Thu,Bikaner,JDP,BKN,Weekly,3,3,28697,432,20,22,4,13,67,2,1,2019
+328,77402,Kota SGNR SF SPL,29,1,6,Mon,Bikaner,Jpr,DLI,Daily,4,31,17563,432,31,29,1,22,70,21,8,2021
+329,36041,Suratgarh Express,23,3,9,Sat,Bikaner,UDP,BKN,Daily,2,28,11136,432,25,20,4,11,65,28,5,2022
+330,41408,Suratgarh Express,25,3,5,Sun,Bikaner,Jpr,Jpr,Twice in week,2,31,28416,432,30,31,1,12,65,30,11,2020
+331,78745,Double Decker,11,1,9,Sat,Bikaner,KOTA,JSM,Weekly,3,30,12519,432,34,25,1,21,73,9,8,2020
+332,91625,Partap SF Express,13,3,9,Thu,Bikaner,UDP,DLI,Weekly,1,10,26701,432,22,30,3,4,71,4,4,2019
+333,22136,Partap SF Express,10,3,7,Tue,Bikaner,BKN,Jpr,Twice in week,4,12,12549,432,24,26,1,12,73,26,10,2019
+334,76209,LEELAN SF Express,27,2,9,Tue,Bikaner,DLI,JSM,Twice in week,1,19,13712,432,34,30,4,17,72,2,1,2022
+335,66323,Vande Bharat Express,13,3,7,Sun,Bikaner,JSM,DLI,Twice in week,1,4,14515,432,30,24,1,17,70,13,5,2022
+336,52322,Kota SGNR SF SPL,19,3,7,Sun,Bikaner,UDP,UDP,Twice in week,1,13,26352,432,27,32,2,9,74,6,4,2021
+337,43688,Suratgarh Express,27,3,9,Wed,Bikaner,JDP,DLI,Daily,1,29,27237,432,33,21,3,23,66,24,6,2020
+338,80534,BKN SF Express,22,2,8,Mon,Bikaner,DLI,BKN,Twice in week,2,5,13638,432,20,25,4,10,66,29,3,2022
+339,61693,Vande Bharat Express,26,1,7,Sat,Bikaner,UDP,UDP,Daily,1,17,10905,432,29,26,2,9,65,4,3,2021
+340,22791,LEELAN SF Express,23,2,5,Fri,Bikaner,Jpr,Jpr,Daily,3,12,24244,432,29,31,2,19,70,30,3,2019
+341,74700,Vande Bharat Express,11,1,6,Thu,Bikaner,Jpr,JSM,Weekly,1,31,23107,432,22,28,2,18,74,13,5,2020
+342,73928,LEELAN SF Express,11,2,5,Wed,Bikaner,JDP,BKN,Weekly,4,28,28106,432,34,31,1,7,67,7,11,2020
+343,50032,LEELAN SF Express,20,1,5,Thu,Bikaner,UDP,DLI,Weekly,1,32,16949,432,23,20,3,11,66,27,10,2019
+344,93943,Vande Bharat Express,22,2,5,Tue,Bikaner,UDP,JDP,Twice in week,1,38,18371,432,30,23,2,14,69,6,6,2019
+345,69886,Shatabdi Express,16,2,5,Sat,Bikaner,UDP,DLI,Twice in week,1,41,10981,432,31,27,3,8,72,18,9,2020
+346,40646,Rajdhani Express,29,3,8,Wed,Bikaner,DLI,DLI,Weekly,3,23,25194,432,32,20,2,14,74,29,10,2020
+347,66903,Shatabdi Express,19,2,9,Tue,Bikaner,BKN,BKN,Twice in week,3,15,15463,432,24,31,2,15,71,1,1,2019
+348,14585,Rajdhani Express,12,1,7,Thu,Bikaner,JSM,UDP,Daily,2,3,28629,432,27,21,1,12,73,5,5,2019
+349,67424,Partap SF Express,24,2,5,Tue,Bikaner,JDP,DLI,Weekly,1,25,15823,432,28,31,4,13,65,8,9,2022
+350,25990,Shatabdi Express,17,2,9,Sun,Bikaner,JDP,KOTA,Weekly,2,3,13897,432,32,28,1,6,72,1,10,2020
+351,69159,Rajdhani Express,29,1,6,Thu,Bikaner,UDP,DLI,Daily,3,33,17674,432,30,29,1,5,74,27,4,2021
+352,19973,LEELAN SF Express,21,2,8,Sun,Bikaner,DLI,KOTA,Weekly,1,6,23289,432,24,22,3,15,72,2,1,2022
+353,85261,Shatabdi Express,20,1,9,Wed,Bikaner,DLI,JDP,Daily,2,31,21528,432,30,32,3,11,65,1,3,2021
+354,48959,Kota SGNR SF SPL,24,3,6,Sat,Bikaner,JDP,DLI,Twice in week,3,4,13683,432,23,26,2,8,71,26,1,2021
+355,30240,Double Decker,27,3,8,Fri,Bikaner,UDP,BKN,Daily,3,20,13224,432,23,27,3,20,66,1,6,2019
+356,48460,Suratgarh Express,26,2,5,Tue,Bikaner,KOTA,JDP,Daily,3,8,19940,432,22,34,3,18,71,20,3,2019
+357,91045,Rajdhani Express,14,2,9,Thu,Bikaner,JDP,DLI,Twice in week,4,30,21867,432,23,24,3,21,70,25,7,2022
+358,10693,Kota SGNR SF SPL,20,3,6,Mon,Bikaner,KOTA,KOTA,Twice in week,1,33,18443,432,32,22,4,22,71,7,5,2022
+359,37014,Shatabdi Express,16,1,5,Sun,Bikaner,KOTA,DLI,Weekly,1,33,28211,432,24,26,3,4,67,13,8,2021
+360,43734,Vande Bharat Express,22,1,6,Wed,Bikaner,BKN,JDP,Daily,4,24,19691,432,32,21,1,22,72,17,5,2020
+361,55199,Shatabdi Express,15,1,7,Sun,Bikaner,JDP,BKN,Weekly,1,9,10964,432,31,27,2,13,74,1,4,2019
+362,29387,Double Decker,10,3,6,Fri,Bikaner,JSM,Jpr,Daily,3,20,22098,432,20,22,3,16,65,6,6,2020
+363,82216,Shatabdi Express,24,3,7,Sun,Bikaner,KOTA,JSM,Twice in week,1,27,17040,432,28,28,2,4,69,11,3,2020
+364,54411,Kota SGNR SF SPL,26,3,9,Fri,Bikaner,JSM,KOTA,Twice in week,1,31,28972,432,32,31,4,21,70,6,3,2020
+365,21826,Vande Bharat Express,29,1,6,Thu,Bikaner,KOTA,BKN,Daily,3,3,19034,432,34,34,3,21,68,21,9,2019
+366,35443,Double Decker,29,2,8,Sat,Bikaner,KOTA,UDP,Weekly,2,35,23816,432,33,22,1,21,71,18,8,2021
+367,36205,Partap SF Express,13,1,6,Tue,Bikaner,JSM,KOTA,Weekly,4,8,11718,432,21,31,3,22,67,26,4,2022
+368,70679,Suratgarh Express,18,2,6,Wed,Bikaner,DLI,JDP,Weekly,3,14,24543,432,32,31,1,9,66,14,10,2019
+369,28779,Rajdhani Express,28,1,6,Mon,Bikaner,Jpr,UDP,Twice in week,4,39,12830,432,21,29,1,17,66,4,7,2019
+370,47365,BKN SF Express,17,3,6,Thu,Bikaner,KOTA,JSM,Twice in week,4,9,18589,432,21,26,3,19,72,8,9,2021
+371,43130,Garbi Rath,16,1,6,Sat,Bikaner,BKN,Jpr,Twice in week,4,9,24174,432,22,27,2,17,65,15,1,2020
+372,96194,Partap SF Express,14,2,6,Sat,Bikaner,KOTA,JDP,Weekly,2,18,23429,432,28,30,1,16,69,18,5,2019
+373,81221,Shatabdi Express,18,3,5,Tue,Bikaner,JDP,JSM,Twice in week,2,31,20658,432,34,22,2,5,70,20,9,2019
+374,93339,Rajdhani Express,11,1,5,Sat,Bikaner,UDP,BKN,Twice in week,2,37,20516,432,20,21,4,22,67,4,10,2019
+375,33581,Garbi Rath,18,1,8,Wed,Bikaner,Jpr,KOTA,Twice in week,3,26,17181,432,30,31,1,11,74,29,7,2021
+376,39658,BKN SF Express,10,3,6,Sat,Bikaner,BKN,DLI,Daily,4,33,13305,432,25,31,1,16,65,14,7,2022
+377,88722,Suratgarh Express,29,3,9,Wed,Bikaner,Jpr,JSM,Twice in week,4,20,23078,432,33,27,1,20,72,16,6,2021
+378,71390,Rajdhani Express,20,3,7,Sun,Bikaner,KOTA,Jpr,Weekly,3,20,11852,432,21,21,2,5,70,13,8,2019
+379,50793,Garbi Rath,16,1,8,Fri,Bikaner,BKN,DLI,Weekly,2,24,28097,432,27,29,1,10,71,6,4,2020
+380,45147,Shatabdi Express,24,3,6,Sat,Bikaner,DLI,BKN,Daily,1,41,23883,432,33,32,4,8,68,20,9,2022
+381,96870,Suratgarh Express,23,3,5,Tue,Bikaner,JDP,JSM,Daily,3,25,27968,432,30,24,4,20,66,17,11,2022
+382,89984,BKN SF Express,14,1,5,Sat,Bikaner,JDP,KOTA,Weekly,1,25,10335,432,26,25,1,13,74,26,9,2020
+383,79512,Kota SGNR SF SPL,10,3,9,Wed,Bikaner,Jpr,DLI,Daily,2,26,12922,432,33,25,2,7,74,10,3,2019
+384,62700,LEELAN SF Express,12,2,6,Wed,Bikaner,BKN,KOTA,Twice in week,4,9,22415,432,31,31,2,23,66,27,6,2019
+385,61297,Rajdhani Express,26,3,6,Sat,Bikaner,JSM,KOTA,Twice in week,4,31,21674,432,23,21,4,21,65,23,10,2019
+386,69276,BKN SF Express,19,1,5,Tue,Bikaner,JDP,JSM,Twice in week,1,8,26911,432,28,22,1,14,69,10,1,2020
+387,95158,Vande Bharat Express,24,3,8,Tue,Bikaner,DLI,DLI,Weekly,2,27,10131,432,32,20,4,19,66,4,11,2019
+388,29946,Suratgarh Express,10,1,8,Fri,Bikaner,BKN,Jpr,Daily,2,8,24321,432,22,27,4,9,65,21,2,2022
+389,98321,Shatabdi Express,19,1,7,Sun,Bikaner,KOTA,UDP,Weekly,4,8,19286,432,31,25,3,21,73,9,11,2022
+390,51031,LEELAN SF Express,18,3,5,Sun,Bikaner,DLI,KOTA,Weekly,3,14,26623,432,34,21,2,17,72,24,1,2022
+391,76457,Shatabdi Express,20,1,6,Tue,Bikaner,JDP,DLI,Daily,1,6,12364,432,31,34,1,8,72,30,6,2019
+392,18482,Kota SGNR SF SPL,24,2,7,Tue,Bikaner,DLI,JSM,Daily,3,23,24006,432,21,30,4,10,66,2,10,2022
+393,70559,Double Decker,10,2,9,Sun,Bikaner,JDP,DLI,Daily,4,35,10660,432,24,20,2,5,72,7,5,2019
+394,42588,Garbi Rath,10,1,6,Sat,Bikaner,JSM,UDP,Daily,1,25,29641,432,25,30,3,16,66,25,1,2021
+395,38582,Suratgarh Express,17,2,5,Mon,Bikaner,UDP,DLI,Weekly,1,13,21269,432,26,24,3,5,73,15,2,2022
+396,55860,Rajdhani Express,14,3,7,Thu,Bikaner,JDP,UDP,Daily,2,41,10073,432,20,29,1,18,69,7,6,2019
+397,82828,Kota SGNR SF SPL,17,3,9,Wed,Bikaner,KOTA,BKN,Daily,3,17,10457,432,22,29,1,11,72,27,10,2021
+398,92061,LEELAN SF Express,16,1,9,Thu,Bikaner,KOTA,JDP,Daily,3,26,22555,432,23,22,3,7,73,25,7,2022
+399,20604,Kota SGNR SF SPL,25,2,8,Fri,Bikaner,DLI,JDP,Daily,4,19,25329,432,25,33,3,16,72,2,4,2021
+400,14174,BKN SF Express,14,2,5,Tue,Bikaner,BKN,KOTA,Daily,3,24,21446,432,22,25,3,11,72,17,10,2020
+401,79534,Garbi Rath,14,2,5,Sat,Bikaner,KOTA,UDP,Weekly,3,20,14441,432,25,32,4,19,72,9,10,2020
+402,27205,Suratgarh Express,26,2,9,Mon,Bikaner,KOTA,JSM,Twice in week,3,32,17466,432,32,27,4,14,68,30,10,2020
+403,82190,Garbi Rath,18,2,5,Sun,Bikaner,JDP,KOTA,Daily,2,22,12041,432,21,34,2,13,66,5,4,2020
+404,44143,Double Decker,23,1,7,Sun,Bikaner,JSM,KOTA,Weekly,2,9,20554,432,31,32,3,17,65,24,11,2019
+405,58696,Double Decker,20,3,8,Sat,Bikaner,DLI,KOTA,Weekly,3,28,13136,432,26,20,4,10,66,22,1,2021
+406,64400,Shatabdi Express,25,1,6,Wed,Bikaner,UDP,UDP,Daily,1,28,11749,432,29,30,1,10,65,19,3,2022
+407,24962,Shatabdi Express,14,3,7,Wed,Bikaner,BKN,DLI,Weekly,2,8,11523,432,33,23,4,22,65,12,6,2021
+408,59574,Garbi Rath,19,1,9,Mon,Bikaner,UDP,Jpr,Daily,2,34,25105,432,28,32,3,9,72,17,5,2019
+409,30629,Rajdhani Express,19,2,9,Wed,Bikaner,UDP,BKN,Twice in week,4,29,17535,432,29,32,2,5,66,8,1,2022
+410,15462,Double Decker,29,3,7,Mon,Bikaner,KOTA,UDP,Daily,2,28,18969,432,23,26,3,15,74,1,2,2022
+411,20187,Rajdhani Express,22,2,8,Fri,Bikaner,Jpr,UDP,Weekly,1,15,14564,432,21,21,3,8,74,30,2,2022
+412,69153,Double Decker,14,3,6,Thu,Bikaner,UDP,KOTA,Twice in week,1,19,19176,432,20,20,1,15,73,23,4,2022
+413,59807,BKN SF Express,28,3,6,Tue,Bikaner,KOTA,JDP,Weekly,3,7,20322,432,24,26,1,9,65,12,3,2021
+414,88659,Shatabdi Express,14,2,9,Sun,Bikaner,Jpr,JSM,Daily,2,29,20640,432,24,23,3,18,68,8,3,2019
+415,82341,LEELAN SF Express,23,2,5,Mon,Bikaner,BKN,JDP,Twice in week,2,4,19993,432,22,25,1,11,74,24,11,2020
+416,20277,Suratgarh Express,25,1,6,Wed,Bikaner,BKN,BKN,Twice in week,2,41,26972,432,27,28,1,15,67,3,8,2020
+417,84717,Suratgarh Express,18,1,9,Tue,Bikaner,DLI,KOTA,Daily,2,23,13754,432,23,26,1,19,66,23,3,2019
+418,62000,BKN SF Express,11,3,9,Sun,Bikaner,KOTA,JSM,Twice in week,4,15,25579,432,31,28,3,15,73,8,6,2019
+419,46179,Shatabdi Express,14,3,5,Tue,Bikaner,KOTA,DLI,Weekly,3,14,27355,432,20,21,2,6,73,15,8,2022
+420,52474,Vande Bharat Express,20,3,8,Wed,Bikaner,KOTA,JDP,Weekly,2,16,24655,432,24,25,1,23,70,2,4,2019
+421,48419,Kota SGNR SF SPL,22,3,8,Sun,Bikaner,JSM,BKN,Twice in week,4,21,23791,432,34,27,4,18,65,10,5,2021
+422,46292,Suratgarh Express,28,2,7,Fri,Bikaner,JDP,KOTA,Twice in week,1,22,18466,432,20,30,4,7,72,25,7,2020
+423,75766,Shatabdi Express,26,2,8,Fri,Bikaner,JSM,KOTA,Daily,2,11,29517,432,23,32,3,17,73,30,2,2020
+424,88680,Double Decker,26,1,7,Sun,Bikaner,JDP,BKN,Weekly,4,39,14670,432,30,33,4,4,65,24,4,2020
+425,11057,Shatabdi Express,22,2,6,Mon,Bikaner,KOTA,DLI,Twice in week,4,17,11981,432,31,30,3,6,68,27,7,2021
+426,87131,BKN SF Express,18,3,5,Sun,Bikaner,UDP,DLI,Daily,1,30,25039,432,26,34,1,13,65,14,9,2020
+427,22444,Kota SGNR SF SPL,24,3,9,Fri,Bikaner,DLI,BKN,Twice in week,3,12,25898,432,27,34,3,16,66,9,7,2021
+428,44013,Partap SF Express,24,2,5,Sat,Bikaner,JSM,JDP,Weekly,4,39,17827,432,31,22,3,21,73,7,1,2019
+429,54863,Vande Bharat Express,24,2,9,Sat,Bikaner,UDP,JDP,Daily,4,12,23352,432,21,26,2,7,74,4,1,2021
+430,23690,Double Decker,22,3,5,Mon,Bikaner,UDP,KOTA,Weekly,1,19,13381,432,20,29,4,7,70,10,3,2021
+431,88745,Rajdhani Express,23,1,9,Sun,Bikaner,UDP,KOTA,Twice in week,2,20,15447,432,25,34,3,13,65,14,4,2020
+432,87181,Suratgarh Express,26,1,5,Thu,Bikaner,Jpr,JSM,Twice in week,4,16,16457,432,22,23,4,4,71,23,7,2021
+433,36847,Partap SF Express,27,2,7,Wed,Bikaner,DLI,Jpr,Twice in week,2,4,10322,432,29,25,2,21,66,26,1,2020
+434,47652,Vande Bharat Express,13,3,9,Mon,Bikaner,DLI,DLI,Twice in week,3,8,22467,432,22,23,3,19,69,22,7,2022
+435,21056,Vande Bharat Express,24,2,7,Thu,Bikaner,JSM,JDP,Weekly,3,9,16234,432,22,27,1,5,66,30,10,2022
+436,99212,LEELAN SF Express,15,2,8,Sun,Bikaner,KOTA,BKN,Twice in week,1,40,18178,432,22,21,2,18,68,20,7,2020
+437,23323,Double Decker,19,1,5,Sun,Bikaner,BKN,DLI,Weekly,1,6,11898,432,32,20,1,22,66,26,4,2019
+438,45766,Shatabdi Express,22,2,7,Fri,Bikaner,UDP,JDP,Weekly,4,30,24343,432,33,20,1,20,67,22,6,2021
+439,51629,LEELAN SF Express,14,3,9,Fri,Bikaner,DLI,KOTA,Twice in week,1,36,19824,432,33,25,2,8,68,8,7,2022
+440,63273,Suratgarh Express,23,2,6,Wed,Bikaner,UDP,JSM,Daily,1,37,28714,432,22,30,1,7,71,28,7,2022
+441,40369,Suratgarh Express,26,3,9,Sun,Bikaner,BKN,BKN,Twice in week,2,14,27916,432,31,29,2,20,74,11,9,2021
+442,75717,Kota SGNR SF SPL,15,3,6,Sat,Bikaner,KOTA,UDP,Daily,2,28,12967,432,33,27,1,23,70,20,2,2021
+443,56282,Garbi Rath,12,3,6,Mon,Bikaner,JSM,DLI,Daily,4,14,10388,432,27,20,1,6,68,19,4,2022
+444,65408,Partap SF Express,18,2,5,Sat,Bikaner,BKN,Jpr,Daily,4,24,22523,432,21,21,1,19,69,19,10,2019
+445,74606,Partap SF Express,13,2,9,Wed,Bikaner,JSM,BKN,Twice in week,1,9,25628,432,33,29,1,19,66,23,10,2022
+446,46675,Garbi Rath,25,3,7,Sat,Bikaner,UDP,Jpr,Daily,1,24,27164,432,23,31,1,19,72,7,4,2020
+447,82111,Suratgarh Express,12,1,9,Sun,Bikaner,Jpr,KOTA,Twice in week,4,20,27596,432,20,25,2,12,72,9,5,2020
+448,35573,Shatabdi Express,14,1,8,Thu,Bikaner,KOTA,JDP,Twice in week,4,31,24207,432,24,25,2,10,65,21,3,2021
+449,41518,Rajdhani Express,22,2,9,Thu,Bikaner,BKN,JDP,Daily,2,8,25213,432,22,34,1,12,67,3,10,2020
+450,64858,Shatabdi Express,22,3,5,Thu,Bikaner,JDP,JDP,Daily,3,30,27327,432,34,24,2,13,69,30,6,2019
+451,70452,Kota SGNR SF SPL,21,1,8,Sat,Bikaner,UDP,JDP,Weekly,4,13,15703,432,28,20,1,6,65,24,3,2020
+452,77300,Partap SF Express,14,3,9,Fri,Bikaner,KOTA,DLI,Twice in week,1,11,13275,432,30,24,2,8,74,11,6,2022
+453,43924,Garbi Rath,19,2,9,Mon,Bikaner,JSM,BKN,Weekly,2,17,14012,432,28,29,4,8,65,17,4,2019
+454,17436,Shatabdi Express,19,3,7,Wed,Bikaner,UDP,DLI,Twice in week,2,22,21244,432,28,28,4,17,72,13,2,2022
+455,19334,Rajdhani Express,13,1,9,Wed,Bikaner,Jpr,UDP,Twice in week,4,33,25885,432,29,30,3,6,70,10,11,2020
+456,82003,Garbi Rath,18,1,5,Sun,Bikaner,Jpr,UDP,Twice in week,2,11,21771,432,34,31,1,20,74,7,10,2022
+457,66151,Garbi Rath,14,2,9,Tue,Bikaner,JDP,JSM,Weekly,2,21,15766,432,25,26,3,5,72,15,8,2022
+458,17488,Suratgarh Express,18,1,7,Sat,Bikaner,BKN,UDP,Daily,3,6,20104,432,31,30,2,22,68,21,11,2020
+459,38723,Shatabdi Express,27,3,5,Wed,Bikaner,JSM,DLI,Daily,4,25,27047,432,28,24,2,23,71,22,11,2020
+460,37734,Garbi Rath,27,3,6,Thu,Bikaner,JDP,UDP,Twice in week,3,18,14791,432,20,34,3,6,73,9,8,2022
+461,49384,Kota SGNR SF SPL,15,3,7,Sun,Bikaner,DLI,JSM,Daily,2,41,19250,432,28,30,4,20,73,22,4,2022
+462,34947,Rajdhani Express,24,2,8,Sat,Bikaner,KOTA,DLI,Twice in week,1,5,16413,432,26,33,2,14,72,21,3,2021
+463,80745,Partap SF Express,25,3,5,Mon,Bikaner,JDP,BKN,Twice in week,1,39,14940,432,29,33,1,4,74,9,4,2021
+464,59720,Double Decker,13,2,7,Sun,Bikaner,KOTA,JDP,Weekly,3,30,24306,432,32,29,3,12,69,12,9,2019
+465,68242,Rajdhani Express,25,2,7,Thu,Bikaner,BKN,JDP,Twice in week,2,5,19890,432,32,29,1,19,72,18,2,2020
+466,83383,Vande Bharat Express,21,1,7,Mon,Bikaner,JDP,JDP,Daily,1,30,18422,432,21,25,2,18,73,25,1,2021
+467,10271,BKN SF Express,28,1,7,Wed,Bikaner,DLI,KOTA,Daily,1,19,23279,432,29,27,2,9,65,6,5,2020
+468,68022,Partap SF Express,20,3,7,Fri,Bikaner,KOTA,Jpr,Weekly,3,13,14160,432,32,23,4,15,66,11,5,2022
+469,73685,Partap SF Express,22,2,8,Sat,Bikaner,JSM,JSM,Weekly,2,12,24674,432,28,22,4,17,71,18,11,2021
+470,97235,Shatabdi Express,13,3,6,Sun,Bikaner,Jpr,KOTA,Weekly,4,6,12263,432,25,23,2,4,70,28,11,2019
+471,60351,Rajdhani Express,13,2,5,Sun,Bikaner,Jpr,UDP,Weekly,4,7,25662,432,23,20,2,6,68,1,6,2020
+472,30861,Kota SGNR SF SPL,11,1,7,Sun,Bikaner,DLI,KOTA,Weekly,3,36,23771,432,25,33,1,4,74,17,9,2019
+473,55570,Double Decker,28,3,6,Sat,Bikaner,Jpr,JSM,Twice in week,2,40,21649,432,25,23,1,5,74,28,3,2019
+474,87094,Shatabdi Express,18,1,9,Mon,Bikaner,DLI,Jpr,Daily,2,27,19841,432,27,24,2,14,74,8,2,2022
+475,21949,Garbi Rath,25,3,9,Wed,Bikaner,JSM,DLI,Daily,4,16,19711,432,33,34,1,13,74,5,8,2022
+476,66980,Partap SF Express,29,2,6,Thu,Bikaner,JSM,DLI,Twice in week,4,19,16524,432,27,33,2,10,65,16,7,2019
+477,54214,Rajdhani Express,14,3,5,Fri,Bikaner,Jpr,UDP,Twice in week,1,11,17322,432,23,21,1,19,70,4,11,2021
+478,21977,Rajdhani Express,18,2,9,Wed,Bikaner,JDP,JDP,Weekly,2,20,20563,432,31,25,2,18,68,4,11,2021
+479,47643,LEELAN SF Express,23,3,5,Thu,Bikaner,KOTA,KOTA,Weekly,2,26,29057,432,21,24,3,4,65,29,4,2022
+480,75724,Suratgarh Express,28,1,7,Sat,Bikaner,Jpr,BKN,Weekly,2,4,19970,432,26,33,1,8,70,14,8,2021
+481,77220,Shatabdi Express,11,1,6,Thu,Bikaner,DLI,JDP,Daily,4,7,21080,432,26,30,3,16,69,5,1,2021
+482,21671,Kota SGNR SF SPL,12,1,9,Sun,Bikaner,KOTA,UDP,Weekly,1,25,13016,432,25,28,2,6,69,27,11,2020
+483,93642,Suratgarh Express,27,3,9,Sat,Bikaner,JSM,Jpr,Daily,2,33,14938,432,32,34,3,8,73,9,11,2019
+484,70724,Garbi Rath,12,2,9,Thu,Bikaner,JSM,UDP,Weekly,1,27,29478,432,28,28,4,11,67,24,2,2021
+485,77243,Partap SF Express,19,1,9,Wed,Bikaner,JDP,Jpr,Daily,4,27,29670,432,20,22,3,9,73,27,5,2022
+486,35361,Rajdhani Express,26,3,8,Sat,Bikaner,UDP,UDP,Daily,3,33,27445,432,34,31,2,20,73,26,7,2021
+487,80935,Double Decker,21,2,7,Mon,Bikaner,DLI,JDP,Twice in week,2,3,15462,432,24,34,4,23,67,25,11,2022
+488,43313,BKN SF Express,19,1,8,Thu,Bikaner,DLI,BKN,Twice in week,1,26,15669,432,32,24,2,5,67,6,9,2019
+489,92400,Suratgarh Express,29,3,9,Mon,Bikaner,JSM,BKN,Weekly,1,9,23905,432,26,33,3,20,67,10,7,2019
+490,82124,Partap SF Express,16,3,5,Sun,Bikaner,UDP,Jpr,Daily,1,17,22199,432,24,22,1,14,74,11,5,2022
+491,40325,Double Decker,17,2,9,Fri,Bikaner,BKN,DLI,Daily,1,32,15391,432,21,34,4,23,72,22,7,2021
+492,82221,BKN SF Express,23,1,5,Fri,Bikaner,JSM,Jpr,Weekly,3,33,27386,432,30,30,3,12,74,8,5,2019
+493,43751,Rajdhani Express,11,1,9,Fri,Bikaner,UDP,Jpr,Daily,1,28,11546,432,29,34,1,7,65,20,11,2021
+494,46320,Suratgarh Express,15,3,7,Sun,Bikaner,JDP,BKN,Daily,4,9,22452,432,20,29,4,18,71,18,10,2020
+495,63067,Rajdhani Express,21,3,8,Tue,Bikaner,UDP,DLI,Twice in week,1,32,24884,432,31,27,3,12,71,6,7,2021
+496,44186,Garbi Rath,24,1,5,Fri,Bikaner,BKN,Jpr,Weekly,4,34,15973,432,31,21,3,13,66,6,1,2022
+497,52840,BKN SF Express,10,1,7,Mon,Bikaner,JSM,KOTA,Weekly,2,32,21168,432,22,23,4,13,74,4,1,2022
+498,89216,Partap SF Express,18,2,8,Tue,Bikaner,KOTA,JSM,Daily,1,17,24570,432,24,32,3,17,74,24,6,2020
+499,60162,Rajdhani Express,10,3,6,Sat,Bikaner,JDP,Jpr,Weekly,4,10,14020,432,31,31,2,22,66,13,11,2021
+500,99897,Kota SGNR SF SPL,18,1,9,Sun,Bikaner,KOTA,UDP,Twice in week,2,37,20668,432,34,28,1,21,73,29,1,2020
+501,71621,Rajdhani Express,17,2,9,Thu,Bikaner,Jpr,BKN,Daily,4,12,19610,432,25,33,2,17,65,6,10,2021
+502,86050,Double Decker,28,1,5,Tue,Bikaner,DLI,UDP,Daily,3,36,12891,432,26,25,4,20,73,11,11,2019
+503,63816,BKN SF Express,25,1,5,Mon,Bikaner,KOTA,BKN,Weekly,3,10,12249,432,22,23,3,4,67,27,3,2022
+504,95621,Kota SGNR SF SPL,28,1,6,Sat,Bikaner,KOTA,DLI,Twice in week,2,15,27129,432,31,31,4,12,74,23,2,2019
+505,90410,Double Decker,17,1,6,Fri,Bikaner,JSM,JDP,Daily,4,28,28882,432,31,33,3,9,73,21,4,2019
+506,55907,Kota SGNR SF SPL,28,2,7,Thu,Bikaner,JDP,JSM,Daily,2,17,18904,432,32,21,4,15,71,20,4,2019
+507,18972,Rajdhani Express,14,1,7,Thu,Bikaner,UDP,JDP,Twice in week,2,10,13020,432,22,32,3,4,71,23,8,2021
+508,40798,Suratgarh Express,12,1,8,Fri,Bikaner,KOTA,UDP,Weekly,4,3,17609,432,25,34,1,15,69,25,4,2019
+509,80737,Partap SF Express,14,3,8,Wed,Bikaner,Jpr,UDP,Daily,1,38,15338,432,22,34,1,23,68,8,5,2019
+510,27331,BKN SF Express,28,3,7,Thu,Bikaner,BKN,UDP,Twice in week,4,23,12989,432,33,21,3,4,65,8,1,2022
+511,26776,Rajdhani Express,14,2,7,Sat,Bikaner,JSM,BKN,Weekly,1,33,21705,432,20,29,1,16,73,7,11,2022
+512,24189,Suratgarh Express,29,1,6,Wed,Bikaner,UDP,BKN,Twice in week,3,29,29820,432,21,34,3,20,70,30,8,2021
+513,62480,Partap SF Express,17,2,6,Sat,Bikaner,KOTA,JSM,Daily,2,18,28342,432,25,21,3,14,65,1,4,2022
+514,48695,LEELAN SF Express,15,2,8,Mon,Bikaner,Jpr,KOTA,Weekly,1,8,21927,432,25,20,4,22,73,4,2,2019
+515,42720,Rajdhani Express,17,3,9,Sun,Bikaner,DLI,JSM,Daily,4,29,13386,432,21,34,2,23,68,29,10,2020
+516,10678,Rajdhani Express,26,3,9,Sat,Bikaner,JSM,DLI,Twice in week,1,33,15507,432,31,26,1,15,72,15,8,2020
+517,21256,Suratgarh Express,29,2,5,Fri,Bikaner,UDP,JSM,Daily,1,12,15974,432,24,30,1,9,73,19,10,2020
+518,93724,Garbi Rath,11,3,8,Sun,Bikaner,UDP,KOTA,Daily,1,27,23039,432,31,27,2,10,70,11,4,2019
+519,42151,Double Decker,16,1,6,Fri,Bikaner,JDP,DLI,Twice in week,2,16,22379,432,20,26,1,23,68,12,10,2021
+520,70028,BKN SF Express,10,3,6,Sun,Bikaner,KOTA,Jpr,Weekly,1,5,25978,432,26,24,4,13,67,1,7,2020
+521,31008,BKN SF Express,23,3,8,Fri,Bikaner,BKN,DLI,Weekly,3,37,11483,432,33,31,4,7,65,6,3,2019
+522,49327,Garbi Rath,25,1,5,Wed,Bikaner,JSM,JDP,Daily,2,36,12462,432,29,26,1,12,67,13,7,2019
+523,43846,Double Decker,17,2,9,Wed,Bikaner,KOTA,KOTA,Twice in week,4,21,21805,432,25,34,4,9,70,22,4,2022
+524,65949,Partap SF Express,24,1,7,Thu,Bikaner,KOTA,UDP,Daily,2,14,25253,432,29,28,3,8,65,28,11,2022
+525,40835,Kota SGNR SF SPL,12,2,8,Sun,Bikaner,BKN,DLI,Weekly,2,37,22440,432,24,23,3,19,65,29,7,2020
+526,76708,Double Decker,12,1,6,Fri,Bikaner,Jpr,JSM,Twice in week,1,3,26964,432,24,30,3,19,74,27,9,2021
+527,83074,Kota SGNR SF SPL,18,1,9,Tue,Bikaner,JSM,Jpr,Weekly,4,26,22819,432,29,20,4,19,68,16,11,2022
+528,14518,Kota SGNR SF SPL,11,3,5,Sun,Bikaner,DLI,UDP,Weekly,3,11,26335,432,22,33,1,11,73,28,7,2020
+529,54588,Suratgarh Express,22,3,8,Sun,Bikaner,BKN,DLI,Weekly,4,11,29740,432,31,26,2,15,65,2,8,2020
+530,82748,Suratgarh Express,21,1,6,Sun,Bikaner,Jpr,DLI,Twice in week,4,21,19153,432,25,20,2,6,67,20,5,2022
+531,48025,Suratgarh Express,17,3,7,Fri,Bikaner,KOTA,JDP,Weekly,3,4,14011,432,23,32,2,15,68,28,8,2021
+532,15454,Double Decker,28,3,7,Wed,Bikaner,BKN,JDP,Daily,3,30,18452,432,29,29,2,6,69,16,11,2019
+533,10724,BKN SF Express,25,3,6,Wed,Bikaner,Jpr,JDP,Daily,3,32,27370,432,23,20,1,10,74,29,5,2019
+534,94690,Double Decker,22,2,9,Fri,Bikaner,DLI,UDP,Daily,3,6,23459,432,25,25,4,15,72,19,10,2021
+535,40524,Garbi Rath,14,2,9,Tue,Bikaner,JSM,Jpr,Daily,2,35,10096,432,26,34,1,12,66,14,9,2020
+536,11495,BKN SF Express,24,3,9,Thu,Bikaner,UDP,BKN,Weekly,1,25,12042,432,24,28,4,17,73,24,10,2021
+537,54579,Rajdhani Express,15,3,9,Sat,Bikaner,DLI,UDP,Weekly,3,36,16723,432,20,28,1,16,68,7,1,2020
+538,23524,Vande Bharat Express,11,2,5,Tue,Bikaner,KOTA,KOTA,Daily,1,3,13101,432,31,28,3,10,69,24,3,2020
+539,57216,Rajdhani Express,17,1,9,Sun,Bikaner,BKN,UDP,Weekly,1,19,23957,432,33,22,1,6,70,9,11,2019
+540,67706,BKN SF Express,26,2,6,Sat,Bikaner,JDP,UDP,Weekly,2,3,12891,432,20,32,3,21,72,8,7,2020
+541,32592,Vande Bharat Express,13,2,7,Fri,Bikaner,BKN,DLI,Twice in week,1,21,23149,432,26,25,4,8,69,24,3,2019
+542,95394,LEELAN SF Express,14,2,9,Wed,Bikaner,JSM,KOTA,Daily,1,10,27749,432,21,28,4,18,65,26,10,2022
+543,15373,Kota SGNR SF SPL,14,1,6,Tue,Bikaner,KOTA,JDP,Daily,1,31,16855,432,28,34,2,15,68,6,9,2022
+544,71025,Double Decker,10,3,8,Sun,Bikaner,KOTA,DLI,Daily,1,31,21911,432,30,29,3,10,74,10,3,2021
+545,49585,LEELAN SF Express,18,1,7,Sun,Bikaner,DLI,JSM,Weekly,4,22,19050,432,24,23,1,13,70,8,5,2019
+546,36318,Double Decker,18,2,8,Wed,Bikaner,JSM,BKN,Weekly,1,32,21141,432,21,20,2,22,69,19,2,2021
+547,14688,Partap SF Express,25,2,7,Sun,Bikaner,BKN,JDP,Twice in week,1,3,12301,432,33,21,2,23,71,10,2,2021
+548,65716,Double Decker,18,2,9,Fri,Bikaner,KOTA,KOTA,Daily,4,17,27335,432,28,27,1,8,70,26,2,2019
+549,40022,Kota SGNR SF SPL,20,1,5,Fri,Bikaner,JDP,JDP,Twice in week,1,12,19633,432,21,29,3,23,70,4,11,2022
+550,84259,Vande Bharat Express,27,3,7,Fri,Bikaner,DLI,KOTA,Weekly,2,6,27140,432,28,30,4,23,74,11,2,2020
+551,21326,Partap SF Express,22,1,6,Tue,Bikaner,JSM,UDP,Twice in week,2,15,29657,432,28,21,3,22,72,22,3,2022
+552,12870,Partap SF Express,27,1,9,Sat,Bikaner,KOTA,DLI,Daily,2,38,14748,432,22,30,1,4,65,2,9,2019
+553,41469,Double Decker,15,1,5,Sun,Bikaner,UDP,Jpr,Twice in week,1,38,16668,432,29,28,1,23,66,29,2,2022
+554,99004,Shatabdi Express,29,1,7,Sun,Bikaner,JSM,UDP,Twice in week,4,25,27724,432,31,28,3,12,73,11,1,2019
+555,93282,Rajdhani Express,24,1,9,Sun,Bikaner,BKN,BKN,Weekly,3,7,15038,432,28,25,3,4,66,29,3,2021
+556,20495,Shatabdi Express,13,1,9,Mon,Bikaner,DLI,UDP,Twice in week,3,3,15041,432,25,25,3,17,68,17,8,2020
+557,58659,Partap SF Express,22,1,8,Tue,Bikaner,JDP,BKN,Twice in week,4,16,18861,432,20,27,3,17,70,13,5,2019
+558,59005,Shatabdi Express,16,2,5,Thu,Bikaner,KOTA,UDP,Weekly,1,16,18448,432,25,26,1,9,71,13,8,2020
+559,63342,Partap SF Express,18,3,5,Tue,Bikaner,JDP,DLI,Twice in week,3,22,23600,432,22,25,3,23,74,15,3,2020
+560,42572,Rajdhani Express,12,3,6,Sat,Bikaner,JDP,UDP,Weekly,1,20,23111,432,27,24,4,17,70,2,5,2019
+561,99436,Double Decker,14,2,7,Sun,Bikaner,JSM,JSM,Daily,2,13,25443,432,28,30,1,18,70,3,7,2022
+562,82757,BKN SF Express,17,2,8,Sat,Bikaner,JSM,UDP,Weekly,1,14,16342,432,23,32,4,10,72,5,11,2019
+563,60134,LEELAN SF Express,20,1,7,Sun,Bikaner,JDP,JDP,Daily,2,6,16401,432,22,29,2,21,68,14,2,2019
+564,94122,BKN SF Express,19,1,9,Tue,Bikaner,JDP,JDP,Daily,4,7,22421,432,23,21,1,19,73,8,2,2022
+565,22493,Double Decker,17,3,8,Thu,Bikaner,DLI,UDP,Weekly,3,23,28863,432,28,23,4,23,70,23,3,2022
+566,67825,Suratgarh Express,20,2,8,Fri,Bikaner,KOTA,BKN,Twice in week,3,38,11953,432,29,24,1,18,72,11,8,2019
+567,95634,LEELAN SF Express,14,3,7,Sat,Bikaner,KOTA,UDP,Weekly,1,33,29405,432,27,33,1,5,72,6,11,2019
+568,25856,Shatabdi Express,11,3,9,Tue,Bikaner,UDP,UDP,Twice in week,3,32,11550,432,31,33,1,18,73,30,9,2020
+569,21251,Partap SF Express,15,1,5,Mon,Bikaner,KOTA,JSM,Daily,4,36,19920,432,27,20,3,19,69,17,1,2021
+570,34510,Kota SGNR SF SPL,11,1,9,Sat,Bikaner,JSM,KOTA,Daily,4,26,29186,432,22,31,2,5,74,16,1,2021
+571,37568,Rajdhani Express,23,2,6,Thu,Bikaner,UDP,UDP,Weekly,3,23,12954,432,30,22,3,20,70,10,11,2022
+572,32420,BKN SF Express,19,1,6,Wed,Bikaner,BKN,JSM,Weekly,1,21,23894,432,33,27,2,15,67,23,9,2021
+573,20331,BKN SF Express,18,1,5,Mon,Bikaner,DLI,JSM,Daily,1,11,29933,432,30,33,1,15,68,12,11,2019
+574,20452,Partap SF Express,20,1,5,Sun,Bikaner,UDP,BKN,Daily,1,14,12499,432,24,28,3,17,69,26,2,2022
+575,59359,Rajdhani Express,10,3,6,Sun,Bikaner,DLI,BKN,Twice in week,4,31,15791,432,33,22,2,6,70,20,1,2019
+576,41335,Rajdhani Express,18,2,5,Fri,Bikaner,DLI,KOTA,Daily,4,23,25323,432,25,24,4,7,70,12,7,2019
+577,75431,Kota SGNR SF SPL,25,3,7,Thu,Bikaner,KOTA,Jpr,Twice in week,4,26,21186,432,33,27,4,7,70,5,8,2019
+578,56693,Suratgarh Express,15,2,7,Sat,Bikaner,DLI,JDP,Weekly,1,20,12077,432,26,34,4,9,71,23,1,2022
+579,70899,LEELAN SF Express,13,3,9,Tue,Bikaner,JDP,Jpr,Weekly,1,5,14625,432,21,25,4,12,72,10,5,2021
+580,50819,BKN SF Express,13,1,6,Sat,Bikaner,UDP,JSM,Weekly,3,29,17194,432,32,32,3,18,72,7,10,2021
+581,63935,Vande Bharat Express,29,1,5,Tue,Bikaner,JSM,DLI,Twice in week,3,21,19683,432,27,22,2,7,67,7,5,2019
+582,51906,Partap SF Express,21,2,9,Wed,Bikaner,JDP,JDP,Daily,3,29,29071,432,22,25,4,8,71,9,4,2019
+583,87746,LEELAN SF Express,17,1,7,Mon,Bikaner,DLI,UDP,Twice in week,2,36,11961,432,26,33,4,16,66,4,8,2022
+584,64745,Partap SF Express,18,3,7,Thu,Bikaner,KOTA,Jpr,Daily,1,25,17766,432,22,28,4,17,74,23,4,2020
+585,42312,LEELAN SF Express,28,1,7,Mon,Bikaner,Jpr,JDP,Weekly,4,21,19433,432,23,34,4,6,71,17,8,2021
+586,82340,Shatabdi Express,24,2,6,Tue,Bikaner,BKN,DLI,Weekly,4,36,15412,432,26,27,3,23,68,27,3,2020
+587,73410,Suratgarh Express,11,3,8,Wed,Bikaner,KOTA,DLI,Weekly,1,28,16192,432,24,31,1,15,72,22,9,2020
+588,25044,Rajdhani Express,27,3,5,Tue,Bikaner,Jpr,DLI,Daily,2,14,29387,432,33,24,1,19,72,22,3,2019
+589,20212,Suratgarh Express,10,1,5,Tue,Bikaner,Jpr,UDP,Weekly,1,20,20445,432,32,29,2,8,73,16,5,2021
+590,46876,LEELAN SF Express,26,3,7,Tue,Bikaner,JSM,KOTA,Weekly,4,10,26675,432,34,31,3,12,69,16,2,2020
+591,47870,Partap SF Express,12,1,5,Wed,Bikaner,UDP,UDP,Weekly,4,19,16256,432,26,29,4,22,71,2,6,2021
+592,86121,LEELAN SF Express,16,3,7,Mon,Bikaner,UDP,DLI,Twice in week,1,19,25382,432,28,20,2,7,71,29,10,2021
+593,58441,Kota SGNR SF SPL,20,1,6,Fri,Bikaner,BKN,DLI,Twice in week,1,7,14313,432,24,21,4,8,74,17,5,2021
+594,39592,Kota SGNR SF SPL,29,1,8,Sun,Bikaner,BKN,JSM,Weekly,2,20,24305,432,34,34,1,21,71,11,11,2021
+595,14330,Garbi Rath,29,2,6,Fri,Bikaner,KOTA,UDP,Daily,3,34,22988,432,32,32,1,15,73,29,5,2019
+596,35883,Garbi Rath,10,3,7,Sat,Bikaner,Jpr,JSM,Daily,2,33,19228,432,23,22,3,21,65,21,7,2021
+597,50907,Rajdhani Express,23,3,7,Sat,Bikaner,BKN,Jpr,Weekly,3,28,10891,432,25,33,2,8,71,28,9,2021
+598,40678,Kota SGNR SF SPL,19,2,6,Fri,Bikaner,JDP,Jpr,Twice in week,4,39,25518,432,29,30,2,13,71,19,9,2019
+599,59104,Rajdhani Express,21,1,6,Sat,Bikaner,JDP,JSM,Twice in week,4,31,21127,432,29,22,1,23,68,4,4,2020
+600,10306,Partap SF Express,15,1,5,Mon,Bikaner,BKN,Jpr,Twice in week,1,24,20708,432,28,22,3,4,69,25,7,2022
+601,58723,Shatabdi Express,15,1,9,Thu,Bikaner,DLI,DLI,Twice in week,1,4,22414,432,24,28,3,5,73,24,2,2021
+602,61911,Partap SF Express,17,3,5,Mon,Bikaner,JDP,BKN,Twice in week,2,11,23280,432,30,27,2,20,66,25,7,2022
+603,56396,Garbi Rath,18,1,8,Sat,Bikaner,DLI,BKN,Daily,2,35,25293,432,33,23,4,7,65,22,2,2022
+604,94560,Partap SF Express,28,2,6,Mon,Bikaner,KOTA,KOTA,Daily,1,4,21014,432,33,25,3,10,67,13,10,2019
+605,47139,Vande Bharat Express,21,1,7,Mon,Bikaner,KOTA,KOTA,Weekly,4,26,15684,432,25,27,3,15,67,21,2,2022
+606,81255,BKN SF Express,23,1,5,Tue,Bikaner,UDP,KOTA,Weekly,2,6,26700,432,20,31,4,22,72,24,10,2022
+607,88729,LEELAN SF Express,11,3,5,Sun,Bikaner,KOTA,UDP,Weekly,4,41,22152,432,27,29,4,11,70,4,11,2022
+608,73239,Vande Bharat Express,24,3,9,Thu,Bikaner,JDP,DLI,Twice in week,1,12,12370,432,20,26,2,15,66,26,6,2021
+609,52210,Garbi Rath,19,1,6,Sat,Bikaner,Jpr,BKN,Weekly,3,12,15538,432,28,24,3,10,67,10,10,2020
+610,21570,Kota SGNR SF SPL,16,1,8,Thu,Bikaner,BKN,Jpr,Twice in week,2,9,16991,432,28,31,4,4,74,16,11,2021
+611,55661,Vande Bharat Express,23,3,8,Fri,Bikaner,BKN,KOTA,Twice in week,3,39,13449,432,22,33,1,9,65,13,9,2019
+612,93683,Suratgarh Express,28,3,6,Thu,Bikaner,UDP,JDP,Weekly,4,13,12772,432,32,31,4,12,70,6,10,2022
+613,77331,Vande Bharat Express,14,1,6,Thu,Bikaner,BKN,JDP,Twice in week,2,5,29046,432,28,30,2,17,66,23,1,2021
+614,20823,Kota SGNR SF SPL,21,2,6,Mon,Bikaner,UDP,Jpr,Daily,4,14,27800,432,32,21,2,6,67,15,10,2022
+615,72168,Suratgarh Express,27,2,7,Thu,Bikaner,BKN,Jpr,Daily,2,25,19223,432,27,28,2,19,70,25,3,2021
+616,33603,Partap SF Express,23,2,6,Thu,Bikaner,UDP,JDP,Twice in week,3,11,12619,432,32,20,3,22,66,25,11,2021
+617,79229,LEELAN SF Express,16,1,8,Thu,Bikaner,BKN,JDP,Weekly,3,38,23105,432,24,29,2,17,70,30,4,2019
+618,14918,Kota SGNR SF SPL,19,1,9,Tue,Bikaner,UDP,BKN,Twice in week,2,28,21821,432,29,25,1,22,67,4,8,2020
+619,91837,Garbi Rath,21,3,7,Mon,Bikaner,DLI,JSM,Weekly,3,21,17353,432,30,22,1,15,68,7,7,2020
+620,39605,Vande Bharat Express,12,1,8,Tue,Bikaner,KOTA,BKN,Weekly,3,32,13321,432,30,32,1,5,71,4,11,2021
+621,17097,Partap SF Express,13,2,5,Mon,Bikaner,JDP,JSM,Weekly,1,11,19455,432,31,30,1,8,70,5,4,2021
+622,62738,Garbi Rath,16,3,6,Wed,Bikaner,UDP,JDP,Daily,3,6,24616,432,27,34,1,7,68,29,1,2021
+623,32877,Partap SF Express,11,3,5,Mon,Bikaner,UDP,UDP,Twice in week,4,37,18332,432,20,21,1,17,67,21,5,2019
+624,99742,Partap SF Express,11,3,8,Sun,Bikaner,UDP,UDP,Daily,3,22,18328,432,30,21,3,18,74,9,5,2020
+625,47225,Double Decker,27,3,7,Fri,Bikaner,JDP,JDP,Weekly,2,6,16276,432,29,30,4,6,65,15,10,2020
+626,66535,Shatabdi Express,16,2,5,Tue,Bikaner,Jpr,KOTA,Twice in week,4,40,16274,432,26,29,3,20,68,17,7,2020
+627,95019,Partap SF Express,16,1,7,Tue,Bikaner,JSM,JSM,Daily,1,6,10288,432,27,28,1,14,68,21,5,2020
+628,79270,BKN SF Express,19,1,5,Sun,Bikaner,KOTA,DLI,Daily,3,21,20696,432,31,22,1,5,68,14,9,2021
+629,36758,Suratgarh Express,19,3,8,Thu,Bikaner,JDP,UDP,Twice in week,4,5,12989,432,22,33,4,7,70,10,10,2022
+630,16235,Double Decker,16,2,8,Thu,Bikaner,Jpr,JSM,Weekly,3,3,12109,432,28,27,1,21,67,16,4,2021
+631,32417,Kota SGNR SF SPL,19,2,6,Fri,Bikaner,JDP,BKN,Daily,4,33,25148,432,28,22,3,22,66,30,4,2020
+632,65723,Partap SF Express,27,1,5,Thu,Bikaner,Jpr,JDP,Twice in week,4,40,14028,432,22,33,3,23,66,14,1,2019
+633,18525,Rajdhani Express,28,1,9,Mon,Bikaner,DLI,UDP,Weekly,3,41,24716,432,24,21,2,5,66,13,5,2020
+634,11071,Suratgarh Express,29,1,5,Mon,Bikaner,BKN,UDP,Twice in week,1,32,29338,432,21,34,4,14,72,15,11,2019
+635,65263,Rajdhani Express,21,2,8,Thu,Bikaner,BKN,JSM,Daily,2,21,26114,432,24,28,4,22,69,2,6,2021
+636,28010,LEELAN SF Express,24,1,7,Wed,Bikaner,JSM,DLI,Daily,1,18,20480,432,32,31,2,10,74,28,3,2021
+637,35124,Double Decker,15,1,9,Fri,Bikaner,JSM,JDP,Weekly,2,20,21086,432,33,22,4,9,70,28,4,2021
+638,16820,Kota SGNR SF SPL,15,1,9,Wed,Bikaner,DLI,Jpr,Weekly,1,8,25815,432,31,32,4,6,72,27,11,2022
+639,30328,BKN SF Express,21,3,6,Mon,Bikaner,BKN,UDP,Twice in week,1,12,19702,432,26,21,2,23,74,12,2,2022
+640,57782,Garbi Rath,13,3,7,Thu,Bikaner,JSM,KOTA,Daily,4,9,27776,432,31,21,4,5,65,23,1,2022
+641,30523,Suratgarh Express,19,3,8,Thu,Bikaner,JSM,Jpr,Twice in week,1,24,26056,432,28,20,1,17,74,20,1,2021
+642,94333,Partap SF Express,17,3,9,Wed,Bikaner,JSM,KOTA,Weekly,4,29,29897,432,34,31,1,10,70,24,2,2019
+643,75837,Kota SGNR SF SPL,29,2,9,Thu,Bikaner,BKN,KOTA,Daily,1,26,18355,432,32,33,3,13,70,11,10,2022
+644,68368,Kota SGNR SF SPL,27,3,6,Tue,Bikaner,JSM,BKN,Daily,3,8,24766,432,25,33,2,7,68,6,11,2021
+645,68056,Rajdhani Express,18,1,8,Sat,Bikaner,Jpr,DLI,Weekly,1,14,15418,432,22,25,4,13,65,16,5,2021
+646,14827,BKN SF Express,18,1,5,Fri,Bikaner,JSM,DLI,Daily,2,27,17629,432,33,20,4,23,71,21,7,2019
+647,64463,Shatabdi Express,22,3,8,Sat,Bikaner,BKN,JDP,Twice in week,2,35,24742,432,26,25,4,6,67,25,3,2021
+648,92479,LEELAN SF Express,24,3,6,Sun,Bikaner,KOTA,BKN,Weekly,2,41,18840,432,34,27,4,14,71,20,6,2021
+649,94070,Shatabdi Express,16,1,7,Fri,Bikaner,KOTA,UDP,Daily,2,38,20982,432,28,25,1,18,74,5,10,2021
+650,38996,BKN SF Express,25,2,9,Wed,Bikaner,KOTA,KOTA,Daily,1,33,14312,432,25,31,4,23,72,24,5,2022
+651,23996,Rajdhani Express,26,2,9,Mon,Bikaner,UDP,Jpr,Daily,3,17,11507,432,28,24,1,23,71,29,3,2019
+652,25079,BKN SF Express,19,2,5,Wed,Bikaner,JDP,JSM,Twice in week,2,4,23741,432,31,28,4,9,68,16,9,2021
+653,42088,Vande Bharat Express,16,1,7,Sat,Bikaner,BKN,DLI,Daily,1,8,14455,432,20,31,1,19,71,29,2,2020
+654,41474,Kota SGNR SF SPL,14,2,7,Tue,Bikaner,Jpr,JDP,Twice in week,4,26,24159,432,29,23,3,14,74,8,8,2019
+655,53684,Vande Bharat Express,10,3,9,Wed,Bikaner,JDP,JDP,Weekly,4,26,21136,432,28,25,2,5,73,8,3,2022
+656,64128,Partap SF Express,25,3,8,Tue,Bikaner,KOTA,UDP,Twice in week,1,12,25103,432,26,24,4,12,68,8,4,2022
+657,56331,LEELAN SF Express,21,2,5,Thu,Bikaner,JSM,JDP,Twice in week,4,38,18261,432,32,30,3,4,72,18,7,2019
+658,61516,Kota SGNR SF SPL,11,2,8,Mon,Bikaner,UDP,JSM,Daily,3,21,13081,432,26,23,2,11,67,23,9,2022
+659,67157,Kota SGNR SF SPL,29,1,8,Sat,Bikaner,KOTA,UDP,Twice in week,1,27,20660,432,26,31,3,10,72,12,11,2022
+660,61712,Garbi Rath,23,3,8,Thu,Bikaner,Jpr,Jpr,Weekly,2,12,12757,432,22,24,2,5,67,29,8,2022
+661,85613,Kota SGNR SF SPL,19,1,6,Tue,Bikaner,KOTA,JDP,Weekly,3,3,21556,432,32,25,2,7,68,19,1,2019
+662,68097,LEELAN SF Express,19,2,5,Sat,Bikaner,BKN,Jpr,Weekly,3,18,26238,432,27,20,2,15,73,8,5,2022
+663,53013,Suratgarh Express,20,2,8,Sat,Bikaner,BKN,JSM,Weekly,3,14,19853,432,32,26,3,9,72,18,5,2021
+664,58508,LEELAN SF Express,25,2,5,Fri,Bikaner,JSM,Jpr,Weekly,1,19,13866,432,25,22,3,11,73,15,5,2021
+665,16236,Rajdhani Express,11,2,9,Tue,Bikaner,BKN,BKN,Daily,4,40,20649,432,32,21,4,8,72,12,2,2022
+666,38289,BKN SF Express,15,1,9,Thu,Bikaner,KOTA,Jpr,Daily,1,14,27907,432,27,24,2,22,66,10,7,2022
+667,89743,LEELAN SF Express,21,1,7,Tue,Bikaner,JDP,DLI,Weekly,1,3,19216,432,23,33,1,7,68,5,5,2020
+668,11969,BKN SF Express,18,1,5,Mon,Bikaner,BKN,UDP,Daily,3,35,23640,432,29,24,4,6,65,19,6,2021
+669,67853,Garbi Rath,25,3,5,Fri,Bikaner,BKN,DLI,Weekly,2,20,18157,432,33,24,2,11,65,17,1,2022
+670,96345,Garbi Rath,16,2,6,Sun,Bikaner,KOTA,JSM,Weekly,4,5,14353,432,32,34,3,19,74,12,1,2021
+671,37049,LEELAN SF Express,29,1,7,Thu,Bikaner,DLI,JDP,Daily,4,37,22179,432,30,24,1,7,66,14,3,2019
+672,69940,LEELAN SF Express,26,1,9,Tue,Bikaner,UDP,BKN,Twice in week,3,11,18399,432,25,20,2,14,71,12,2,2021
+673,80022,Vande Bharat Express,13,3,7,Tue,Bikaner,UDP,JSM,Weekly,3,32,17996,432,34,33,2,20,67,4,8,2020
+674,29746,Garbi Rath,26,2,5,Wed,Bikaner,Jpr,BKN,Twice in week,4,10,28690,432,20,23,2,17,72,28,8,2022
+675,28810,LEELAN SF Express,11,3,7,Sun,Bikaner,JDP,Jpr,Weekly,1,37,14471,432,28,24,3,8,72,21,8,2020
+676,89964,Double Decker,16,3,5,Sat,Bikaner,UDP,BKN,Twice in week,3,14,19686,432,28,20,2,11,72,12,3,2020
+677,25337,LEELAN SF Express,24,1,7,Wed,Bikaner,BKN,UDP,Weekly,4,39,17117,432,29,24,2,18,72,1,7,2019
+678,25383,Rajdhani Express,18,1,6,Sun,Bikaner,UDP,DLI,Twice in week,3,18,15593,432,31,32,4,19,65,3,8,2019
+679,44712,Partap SF Express,24,3,7,Sat,Bikaner,KOTA,UDP,Weekly,2,27,12543,432,33,24,4,23,65,30,4,2021
+680,27556,BKN SF Express,24,3,7,Sat,Bikaner,JSM,KOTA,Daily,1,3,22099,432,22,20,4,4,66,26,8,2020
+681,49992,Suratgarh Express,28,2,9,Wed,Bikaner,JSM,BKN,Weekly,3,36,11995,432,27,29,3,19,72,19,3,2022
+682,16611,Double Decker,25,3,9,Sat,Bikaner,DLI,Jpr,Daily,4,40,23722,432,33,23,2,14,68,5,8,2020
+683,90007,Partap SF Express,18,1,8,Thu,Bikaner,BKN,JDP,Twice in week,4,5,18333,432,26,31,2,14,65,25,8,2020
+684,86325,Rajdhani Express,26,2,6,Sat,Bikaner,UDP,KOTA,Twice in week,4,18,17992,432,31,33,2,20,66,5,1,2019
+685,86961,Rajdhani Express,27,2,5,Mon,Bikaner,JDP,JDP,Daily,2,38,22310,432,34,26,3,23,74,24,10,2021
+686,59961,Suratgarh Express,15,3,6,Tue,Bikaner,JSM,JSM,Weekly,4,10,22826,432,20,27,3,14,65,25,1,2020
+687,99463,Rajdhani Express,28,1,8,Sun,Bikaner,BKN,JSM,Daily,3,14,25566,432,32,28,3,14,73,13,6,2022
+688,26681,Garbi Rath,14,3,8,Tue,Bikaner,UDP,BKN,Weekly,4,4,11078,432,33,20,3,12,72,23,5,2022
+689,95100,Rajdhani Express,15,1,5,Sat,Bikaner,KOTA,JDP,Weekly,1,16,27271,432,30,24,2,22,70,19,1,2021
+690,46130,Shatabdi Express,19,2,8,Tue,Bikaner,DLI,DLI,Daily,4,11,14253,432,20,25,3,5,68,4,8,2019
+691,83397,BKN SF Express,13,3,8,Fri,Bikaner,KOTA,BKN,Weekly,1,21,25604,432,24,32,1,8,73,25,2,2022
+692,56005,Rajdhani Express,28,3,7,Sun,Bikaner,UDP,JSM,Twice in week,4,36,29401,432,20,32,4,18,67,22,9,2020
+693,41428,BKN SF Express,16,1,8,Tue,Bikaner,JSM,BKN,Daily,1,8,15520,432,25,22,4,11,69,17,3,2019
+694,49353,Partap SF Express,17,3,8,Thu,Bikaner,DLI,Jpr,Twice in week,2,34,16550,432,32,30,2,5,66,24,1,2021
+695,16170,Kota SGNR SF SPL,18,2,8,Wed,Bikaner,JSM,DLI,Weekly,2,6,18450,432,22,31,2,18,72,19,5,2022
+696,78842,Suratgarh Express,12,1,7,Tue,Bikaner,BKN,JDP,Twice in week,3,12,23736,432,33,33,1,16,69,18,7,2019
+697,93337,Garbi Rath,21,3,9,Thu,Bikaner,UDP,KOTA,Weekly,3,13,22862,432,27,32,3,5,74,16,11,2020
+698,68075,Rajdhani Express,20,2,6,Mon,Bikaner,KOTA,JSM,Weekly,3,3,23188,432,33,28,4,5,69,6,8,2021
+699,51792,Suratgarh Express,18,3,5,Sat,Bikaner,JDP,UDP,Weekly,1,37,15992,432,24,24,3,11,71,4,5,2019
+700,59265,LEELAN SF Express,29,1,7,Thu,Bikaner,UDP,KOTA,Daily,2,39,22476,432,20,24,1,4,69,17,2,2020
+701,98108,Double Decker,18,1,5,Tue,Bikaner,BKN,UDP,Weekly,4,8,13433,432,27,30,4,13,72,18,2,2021
+702,32195,Suratgarh Express,24,1,8,Tue,Bikaner,KOTA,JSM,Weekly,2,4,25175,432,26,31,1,4,65,10,2,2019
+703,45522,Vande Bharat Express,11,1,5,Mon,Bikaner,BKN,KOTA,Daily,4,39,17237,432,34,28,1,16,69,27,7,2019
+704,53637,Vande Bharat Express,18,3,8,Mon,Bikaner,JDP,JDP,Twice in week,3,22,26323,432,21,20,4,5,71,25,11,2020
+705,60854,Shatabdi Express,27,1,5,Sat,Bikaner,JDP,DLI,Twice in week,3,10,25943,432,27,25,4,5,72,2,5,2021
+706,20388,Shatabdi Express,23,3,6,Sat,Bikaner,Jpr,KOTA,Weekly,4,12,18730,432,25,24,1,20,65,19,4,2022
+707,76657,Partap SF Express,25,2,9,Sun,Bikaner,JDP,KOTA,Daily,1,26,25717,432,26,23,1,11,67,23,8,2020
+708,14126,Kota SGNR SF SPL,20,3,6,Thu,Bikaner,Jpr,BKN,Twice in week,4,14,10251,432,25,31,3,16,65,21,5,2020
+709,30533,LEELAN SF Express,27,3,8,Sat,Bikaner,Jpr,BKN,Daily,2,20,28742,432,28,30,3,5,71,14,7,2020
+710,83484,Shatabdi Express,21,3,5,Mon,Bikaner,JSM,UDP,Weekly,1,33,18922,432,33,29,2,6,70,2,11,2021
+711,47236,BKN SF Express,11,1,7,Sat,Bikaner,UDP,UDP,Twice in week,3,40,21761,432,23,22,4,8,74,13,8,2021
+712,61348,Partap SF Express,25,3,9,Mon,Bikaner,JSM,Jpr,Weekly,4,11,20875,432,34,29,2,14,69,15,2,2020
+713,75284,Shatabdi Express,26,1,9,Tue,Bikaner,DLI,UDP,Daily,4,22,15818,432,21,29,4,16,68,26,9,2019
+714,86308,Shatabdi Express,27,2,8,Mon,Bikaner,KOTA,Jpr,Twice in week,3,14,24170,432,28,30,3,17,71,8,1,2021
+715,54453,Double Decker,15,1,8,Tue,Bikaner,JDP,KOTA,Daily,2,34,22828,432,33,33,2,13,66,16,1,2021
+716,21628,BKN SF Express,11,2,6,Fri,Bikaner,JSM,Jpr,Twice in week,2,21,22033,432,27,34,1,6,72,13,8,2020
+717,50283,Partap SF Express,15,2,8,Sun,Bikaner,Jpr,KOTA,Weekly,1,3,16004,432,28,29,2,8,65,19,9,2021
+718,49894,Double Decker,25,1,5,Fri,Bikaner,UDP,BKN,Daily,4,39,18303,432,33,26,2,4,68,10,3,2022
+719,18679,Garbi Rath,23,1,9,Tue,Bikaner,KOTA,KOTA,Daily,3,3,12480,432,31,25,2,9,69,18,2,2022
+720,28601,Rajdhani Express,18,3,7,Sun,Bikaner,BKN,KOTA,Weekly,4,11,16916,432,21,34,4,6,70,28,7,2021
+721,27635,Vande Bharat Express,14,3,6,Sun,Bikaner,BKN,UDP,Daily,1,23,17244,432,27,34,4,11,71,24,11,2019
+722,89561,LEELAN SF Express,12,2,6,Sun,Bikaner,KOTA,DLI,Weekly,2,28,14481,432,22,33,1,7,68,1,3,2020
+723,52956,Kota SGNR SF SPL,19,3,5,Mon,Bikaner,Jpr,KOTA,Twice in week,3,38,24479,432,25,23,1,7,66,6,10,2021
+724,23057,Kota SGNR SF SPL,27,3,8,Fri,Bikaner,JSM,Jpr,Twice in week,4,4,26969,432,31,25,1,19,73,30,5,2022
+725,79704,Partap SF Express,27,1,6,Wed,Bikaner,UDP,UDP,Daily,3,21,12859,432,22,31,2,17,68,22,1,2021
+726,95511,Shatabdi Express,13,1,8,Mon,Bikaner,JSM,KOTA,Weekly,3,6,24090,432,34,23,2,13,66,3,2,2020
+727,86291,Partap SF Express,13,2,7,Thu,Bikaner,JSM,Jpr,Daily,2,16,11850,432,34,22,3,8,73,14,7,2019
+728,70147,LEELAN SF Express,17,1,5,Mon,Bikaner,BKN,JDP,Daily,1,10,24087,432,30,23,4,22,66,5,11,2019
+729,48838,Garbi Rath,25,1,5,Sat,Bikaner,UDP,DLI,Twice in week,2,11,22097,432,33,32,3,9,66,16,5,2021
+730,58859,Rajdhani Express,18,2,6,Sun,Bikaner,Jpr,Jpr,Daily,1,11,25168,432,28,21,2,16,65,16,6,2022
+731,12360,Garbi Rath,29,2,6,Tue,Bikaner,UDP,JDP,Daily,2,38,12394,432,28,26,1,12,67,4,2,2022
+732,86603,LEELAN SF Express,29,1,8,Sat,Bikaner,JSM,KOTA,Weekly,2,28,28541,432,29,23,2,10,74,6,1,2022
+733,41620,LEELAN SF Express,21,2,7,Tue,Bikaner,DLI,JDP,Weekly,3,38,10988,432,27,32,4,19,71,8,11,2022
+734,54202,Vande Bharat Express,19,2,7,Thu,Bikaner,DLI,UDP,Twice in week,3,39,11784,432,27,27,1,5,66,7,9,2021
+735,39408,Garbi Rath,26,3,8,Sun,Bikaner,Jpr,DLI,Weekly,1,23,22674,432,23,28,3,5,66,20,3,2020
+736,64264,Suratgarh Express,17,2,7,Sat,Bikaner,Jpr,UDP,Daily,2,39,16077,432,33,27,3,16,69,20,4,2020
+737,27761,LEELAN SF Express,22,2,6,Fri,Bikaner,BKN,KOTA,Weekly,3,26,20940,432,29,30,4,4,72,3,3,2021
+738,54870,LEELAN SF Express,22,2,9,Wed,Bikaner,DLI,JDP,Twice in week,1,6,22267,432,22,30,1,15,74,18,4,2020
+739,48347,BKN SF Express,19,2,5,Wed,Bikaner,JDP,UDP,Weekly,2,22,21818,432,23,27,4,16,69,30,8,2019
+740,98515,Suratgarh Express,27,1,7,Sat,Bikaner,DLI,KOTA,Weekly,4,4,22406,432,34,34,4,21,69,8,10,2021
+741,23896,Rajdhani Express,16,1,7,Fri,Bikaner,JSM,UDP,Weekly,2,32,22249,432,34,34,4,19,74,30,4,2021
+742,54523,BKN SF Express,23,3,7,Thu,Bikaner,JDP,UDP,Daily,4,25,24626,432,33,32,4,14,68,21,11,2022
+743,28224,Partap SF Express,13,1,6,Sat,Bikaner,Jpr,BKN,Weekly,2,39,27617,432,24,20,4,12,72,14,9,2022
+744,11799,Suratgarh Express,12,3,9,Wed,Bikaner,JDP,JSM,Daily,1,26,12965,432,30,30,3,12,66,8,10,2019
+745,45519,LEELAN SF Express,20,1,8,Wed,Bikaner,BKN,BKN,Twice in week,3,15,20296,432,27,32,3,13,72,29,5,2020
+746,87754,Kota SGNR SF SPL,28,3,8,Wed,Bikaner,UDP,Jpr,Twice in week,4,35,28063,432,21,21,4,23,65,20,2,2021
+747,79304,Vande Bharat Express,12,2,7,Sun,Bikaner,Jpr,DLI,Daily,3,7,24972,432,30,21,1,9,74,28,10,2021
+748,49763,Rajdhani Express,26,1,5,Thu,Bikaner,BKN,Jpr,Twice in week,4,5,17801,432,30,22,3,20,68,3,1,2020
+749,21673,Vande Bharat Express,27,1,8,Sat,Bikaner,JSM,JSM,Twice in week,1,19,26607,432,22,27,1,8,67,23,5,2020
+750,19282,Partap SF Express,27,1,8,Sun,Bikaner,DLI,BKN,Weekly,3,38,20226,432,33,22,1,11,65,18,2,2019
+751,37058,Partap SF Express,20,1,8,Tue,Bikaner,JDP,KOTA,Daily,1,35,16656,432,20,26,3,16,71,2,10,2022
+752,49629,Vande Bharat Express,19,3,5,Tue,Bikaner,KOTA,JSM,Twice in week,2,26,16175,432,22,33,1,15,74,30,1,2021
+753,63100,Garbi Rath,27,3,9,Sun,Bikaner,DLI,JDP,Daily,3,29,28733,432,26,24,3,12,66,10,2,2021
+754,97287,Kota SGNR SF SPL,22,3,5,Wed,Bikaner,UDP,BKN,Daily,1,38,17271,432,31,33,4,13,66,16,7,2020
+755,50645,LEELAN SF Express,23,3,9,Thu,Bikaner,JDP,UDP,Daily,2,18,29105,432,26,21,1,15,70,22,9,2022
+756,52210,LEELAN SF Express,14,1,7,Sat,Bikaner,UDP,Jpr,Weekly,3,30,15301,432,22,24,2,18,65,8,9,2019
+757,26780,Double Decker,29,1,8,Mon,Bikaner,KOTA,UDP,Daily,3,21,14866,432,32,24,4,5,73,29,6,2022
+758,54913,Partap SF Express,24,1,6,Sat,Bikaner,JDP,DLI,Twice in week,2,18,21763,432,33,29,2,22,74,14,6,2021
+759,62462,LEELAN SF Express,11,2,5,Mon,Bikaner,DLI,KOTA,Daily,4,22,26245,432,27,28,4,7,73,22,7,2019
+760,50032,Shatabdi Express,27,2,6,Wed,Bikaner,BKN,JDP,Weekly,1,15,11488,432,25,33,3,11,71,2,3,2020
+761,50710,Shatabdi Express,22,1,5,Tue,Bikaner,UDP,DLI,Daily,4,22,12700,432,23,34,4,11,69,8,3,2020
+762,92217,Suratgarh Express,11,3,8,Wed,Bikaner,Jpr,JDP,Weekly,1,3,23315,432,21,30,2,13,70,30,2,2021
+763,15264,Kota SGNR SF SPL,11,2,8,Tue,Bikaner,KOTA,Jpr,Daily,1,40,29400,432,30,26,3,9,71,1,10,2020
+764,64926,Garbi Rath,17,2,5,Fri,Bikaner,DLI,KOTA,Weekly,2,27,29092,432,21,31,3,14,68,4,6,2020
+765,46224,Kota SGNR SF SPL,16,2,5,Tue,Bikaner,KOTA,UDP,Daily,3,22,21778,432,26,25,4,21,69,4,3,2020
+766,31875,Vande Bharat Express,23,3,8,Mon,Bikaner,KOTA,JDP,Twice in week,3,23,19437,432,21,29,2,14,73,15,7,2020
+767,44350,Partap SF Express,10,3,8,Mon,Bikaner,JSM,Jpr,Twice in week,2,37,24646,432,24,20,3,19,74,10,8,2019
+768,25365,Rajdhani Express,25,1,7,Thu,Bikaner,JSM,DLI,Weekly,2,8,13332,432,29,28,4,11,71,18,9,2021
+769,11547,Garbi Rath,24,1,5,Fri,Bikaner,JSM,BKN,Daily,2,13,10374,432,30,27,1,17,72,19,6,2019
+770,95061,Suratgarh Express,18,1,9,Sun,Bikaner,DLI,Jpr,Twice in week,3,28,10358,432,21,22,3,16,71,4,8,2020
+771,13254,Double Decker,13,3,5,Wed,Bikaner,Jpr,KOTA,Weekly,4,4,13906,432,31,24,4,15,74,10,8,2020
+772,65182,LEELAN SF Express,23,2,5,Fri,Bikaner,KOTA,UDP,Weekly,2,19,27891,432,27,25,4,18,68,1,6,2020
+773,47941,Suratgarh Express,25,1,8,Mon,Bikaner,DLI,BKN,Daily,2,24,11853,432,28,23,4,8,65,9,1,2021
+774,67554,LEELAN SF Express,11,2,7,Mon,Bikaner,DLI,JSM,Daily,2,18,24912,432,20,28,3,6,68,16,11,2019
+775,78987,Double Decker,22,3,8,Sat,Bikaner,BKN,UDP,Weekly,2,22,26679,432,27,20,2,15,73,19,3,2022
+776,80399,Suratgarh Express,10,1,9,Fri,Bikaner,Jpr,UDP,Weekly,1,36,29077,432,34,27,1,12,74,16,4,2019
+777,33169,Kota SGNR SF SPL,16,2,8,Thu,Bikaner,KOTA,BKN,Twice in week,1,19,28215,432,26,33,1,10,73,16,6,2019
+778,78967,Vande Bharat Express,15,2,5,Tue,Bikaner,JSM,KOTA,Twice in week,1,32,14234,432,31,34,2,18,74,22,8,2020
+779,93938,Partap SF Express,15,1,7,Wed,Bikaner,UDP,BKN,Twice in week,1,12,26292,432,31,20,2,12,70,23,11,2021
+780,57727,LEELAN SF Express,28,3,5,Fri,Bikaner,UDP,DLI,Twice in week,3,28,19147,432,22,27,4,16,71,16,6,2019
+781,92140,Suratgarh Express,28,1,9,Fri,Bikaner,Jpr,JSM,Twice in week,4,3,11219,432,23,31,1,14,69,17,9,2022
+782,82957,Double Decker,15,2,5,Wed,Bikaner,Jpr,Jpr,Weekly,3,24,23622,432,30,26,3,9,70,12,4,2022
+783,45330,Kota SGNR SF SPL,23,1,8,Sun,Bikaner,KOTA,KOTA,Daily,3,40,24352,432,23,20,2,12,74,27,8,2022
+784,14317,LEELAN SF Express,21,2,7,Thu,Bikaner,KOTA,BKN,Weekly,2,13,23392,432,24,28,2,8,66,20,10,2022
+785,24376,Shatabdi Express,10,2,9,Thu,Bikaner,KOTA,JSM,Weekly,1,3,13551,432,32,34,1,10,66,9,3,2021
+786,63655,Double Decker,24,1,6,Sat,Bikaner,Jpr,Jpr,Weekly,2,5,13816,432,30,26,4,12,67,20,2,2021
+787,74331,BKN SF Express,11,1,9,Wed,Bikaner,Jpr,Jpr,Daily,4,16,24797,432,22,33,2,11,68,10,1,2021
+788,55955,Rajdhani Express,22,1,9,Fri,Bikaner,Jpr,DLI,Weekly,1,12,16006,432,28,23,1,10,69,27,3,2020
+789,16853,Partap SF Express,20,1,5,Sun,Bikaner,UDP,Jpr,Twice in week,3,34,25762,432,32,34,2,22,73,28,5,2020
+790,45087,Garbi Rath,19,1,8,Sat,Bikaner,Jpr,BKN,Weekly,1,6,27681,432,33,27,2,9,74,13,9,2019
+791,42491,Vande Bharat Express,11,2,5,Wed,Bikaner,UDP,Jpr,Twice in week,1,36,29400,432,24,27,4,6,67,2,1,2022
+792,73130,Shatabdi Express,19,1,8,Wed,Bikaner,Jpr,JSM,Daily,2,10,28540,432,24,32,4,21,69,13,10,2019
+793,31429,LEELAN SF Express,11,2,6,Fri,Bikaner,JDP,JSM,Daily,4,25,10010,432,20,20,2,9,65,2,11,2019
+794,24057,Partap SF Express,13,1,5,Mon,Bikaner,BKN,Jpr,Weekly,2,36,24887,432,21,30,1,20,68,19,3,2020
+795,32450,LEELAN SF Express,11,2,8,Tue,Bikaner,UDP,JDP,Daily,2,32,12489,432,25,28,2,23,67,2,10,2022
+796,53070,LEELAN SF Express,18,2,8,Sun,Bikaner,JSM,Jpr,Weekly,4,23,20828,432,28,32,4,12,68,22,9,2019
+797,33235,Suratgarh Express,16,1,9,Fri,Bikaner,KOTA,UDP,Weekly,4,22,27995,432,31,34,4,22,68,27,6,2020
+798,68029,Kota SGNR SF SPL,15,1,8,Mon,Bikaner,UDP,JSM,Daily,4,31,14233,432,23,20,3,13,71,11,8,2022
+799,29256,Shatabdi Express,24,3,8,Mon,Bikaner,JDP,JDP,Twice in week,2,41,23514,432,21,23,4,12,72,25,1,2020
+800,62861,Partap SF Express,20,2,6,Sun,Bikaner,JDP,JSM,Daily,1,32,13337,432,29,23,4,4,73,4,9,2019
+801,88203,Vande Bharat Express,26,3,8,Wed,Bikaner,Jpr,UDP,Daily,1,40,23207,432,28,34,4,6,65,12,1,2021
+802,19426,Double Decker,15,2,8,Thu,Bikaner,BKN,JDP,Twice in week,4,6,19648,432,20,32,2,4,73,3,6,2022
+803,66206,Suratgarh Express,14,2,5,Thu,Bikaner,JSM,BKN,Twice in week,3,24,19163,432,30,28,3,14,73,11,9,2021
+804,12951,LEELAN SF Express,28,2,6,Sun,Bikaner,JDP,JDP,Daily,4,41,18166,432,24,23,2,21,68,15,10,2020
+805,32155,Partap SF Express,14,2,8,Thu,Bikaner,DLI,BKN,Twice in week,2,30,17741,432,32,29,2,9,65,19,4,2019
+806,34486,LEELAN SF Express,22,2,8,Wed,Bikaner,DLI,DLI,Twice in week,2,29,15795,432,23,34,3,17,65,20,9,2021
+807,29017,LEELAN SF Express,20,2,8,Fri,Bikaner,DLI,KOTA,Twice in week,2,5,16722,432,27,34,1,13,67,19,8,2020
+808,77651,Shatabdi Express,18,1,8,Fri,Bikaner,BKN,KOTA,Weekly,1,17,27411,432,29,21,2,12,71,23,4,2022
+809,51267,Partap SF Express,14,3,5,Wed,Bikaner,KOTA,JDP,Daily,1,15,15062,432,33,33,3,15,69,18,6,2020
+810,13818,Partap SF Express,23,3,7,Mon,Bikaner,JSM,JDP,Daily,2,18,15169,432,24,27,1,7,73,1,8,2020
+811,67523,Partap SF Express,14,3,7,Thu,Bikaner,Jpr,Jpr,Daily,4,7,11061,432,34,34,4,6,72,25,1,2022
+812,24510,Rajdhani Express,21,1,9,Sun,Bikaner,DLI,JSM,Twice in week,3,29,28473,432,33,32,4,9,66,5,11,2019
+813,66378,Partap SF Express,21,2,6,Tue,Bikaner,Jpr,JDP,Weekly,4,40,22064,432,27,34,3,15,71,30,6,2022
+814,86637,BKN SF Express,28,3,5,Tue,Bikaner,DLI,UDP,Weekly,3,8,17402,432,32,30,2,16,70,11,4,2022
+815,60651,Double Decker,24,3,5,Wed,Bikaner,UDP,KOTA,Weekly,1,33,16514,432,32,22,2,22,74,10,5,2019
+816,16411,Double Decker,24,2,7,Mon,Bikaner,Jpr,KOTA,Twice in week,3,33,15592,432,24,26,3,4,69,1,11,2021
+817,69575,Vande Bharat Express,18,3,9,Fri,Bikaner,Jpr,JDP,Daily,1,8,23835,432,28,23,2,17,67,15,6,2019
+818,25445,Partap SF Express,12,3,5,Mon,Bikaner,DLI,DLI,Daily,1,31,11651,432,29,31,1,12,67,19,7,2020
+819,31147,Garbi Rath,11,1,6,Thu,Bikaner,DLI,JDP,Weekly,4,40,13736,432,28,33,4,14,68,30,6,2021
+820,43896,Shatabdi Express,18,1,8,Sun,Bikaner,UDP,Jpr,Daily,3,16,21378,432,32,34,3,5,72,20,4,2022
+821,20608,Vande Bharat Express,10,3,7,Thu,Bikaner,JSM,Jpr,Weekly,1,14,14428,432,20,26,4,11,66,22,6,2021
+822,58341,Kota SGNR SF SPL,25,1,6,Mon,Bikaner,BKN,JDP,Daily,1,17,15753,432,24,26,3,13,74,22,3,2020
+823,25051,BKN SF Express,15,1,5,Tue,Bikaner,JSM,JDP,Daily,1,37,16921,432,21,26,4,11,68,26,9,2021
+824,80125,BKN SF Express,13,3,9,Mon,Bikaner,Jpr,Jpr,Weekly,4,22,15619,432,32,33,2,20,72,19,8,2022
+825,96759,Garbi Rath,12,1,7,Sun,Bikaner,DLI,KOTA,Weekly,1,19,13796,432,26,31,2,15,68,25,1,2021
+826,49241,Partap SF Express,26,3,9,Sat,Bikaner,DLI,DLI,Daily,1,20,13212,432,24,22,3,16,73,3,8,2020
+827,16544,Double Decker,18,2,8,Tue,Bikaner,JSM,Jpr,Weekly,2,23,28829,432,24,32,2,22,69,26,2,2021
+828,87173,Vande Bharat Express,15,1,6,Fri,Bikaner,JDP,Jpr,Daily,2,30,10999,432,22,32,2,18,73,21,11,2020
+829,17197,Suratgarh Express,15,3,6,Wed,Bikaner,JDP,UDP,Twice in week,4,13,18469,432,20,26,2,6,66,15,10,2021
+830,56264,BKN SF Express,14,1,7,Sun,Bikaner,UDP,JDP,Twice in week,4,14,10367,432,32,25,1,13,70,30,9,2021
+831,85447,BKN SF Express,24,1,5,Wed,Bikaner,KOTA,UDP,Twice in week,4,26,18236,432,29,23,2,23,71,16,1,2019
+832,89028,Suratgarh Express,18,2,7,Wed,Bikaner,BKN,DLI,Twice in week,2,16,21303,432,25,20,1,19,74,29,8,2022
+833,99270,LEELAN SF Express,12,2,7,Sat,Bikaner,DLI,JSM,Twice in week,1,41,23444,432,26,25,3,12,74,7,5,2022
+834,70253,Vande Bharat Express,11,1,5,Fri,Bikaner,UDP,JSM,Twice in week,3,39,16759,432,24,26,2,4,68,19,7,2020
+835,64034,Kota SGNR SF SPL,13,2,5,Sat,Bikaner,KOTA,UDP,Twice in week,3,6,29259,432,27,30,4,23,69,11,3,2019
+836,26355,BKN SF Express,19,1,5,Sat,Bikaner,KOTA,KOTA,Weekly,1,30,15522,432,25,31,1,21,72,29,5,2022
+837,43931,Shatabdi Express,10,1,9,Sat,Bikaner,KOTA,UDP,Weekly,3,23,16281,432,24,32,4,16,69,11,3,2019
+838,65247,Suratgarh Express,16,2,6,Thu,Bikaner,Jpr,DLI,Daily,3,15,13380,432,21,25,3,18,69,25,9,2020
+839,29829,Garbi Rath,29,1,7,Thu,Bikaner,KOTA,DLI,Weekly,4,21,22642,432,28,27,4,8,73,22,4,2020
+840,23450,Partap SF Express,29,1,5,Sun,Bikaner,UDP,Jpr,Daily,4,39,29402,432,33,29,1,13,69,24,10,2020
+841,94381,Partap SF Express,17,1,8,Tue,Bikaner,JSM,DLI,Twice in week,4,30,13122,432,27,27,3,21,70,2,9,2020
+842,50000,Double Decker,16,2,6,Mon,Bikaner,JDP,KOTA,Daily,2,7,11298,432,29,27,3,15,67,7,6,2020
+843,81093,Suratgarh Express,27,1,9,Tue,Bikaner,KOTA,JDP,Twice in week,4,14,27131,432,20,33,4,7,66,23,6,2020
+844,87941,Double Decker,21,1,5,Wed,Bikaner,Jpr,UDP,Weekly,2,16,28024,432,24,24,2,11,66,22,3,2021
+845,23319,Garbi Rath,10,3,8,Sun,Bikaner,UDP,KOTA,Daily,4,25,25987,432,32,27,3,21,69,6,5,2019
+846,69120,Rajdhani Express,11,2,8,Wed,Bikaner,UDP,UDP,Weekly,1,10,28060,432,28,23,3,14,69,20,2,2020
+847,19988,Garbi Rath,25,2,8,Wed,Bikaner,KOTA,BKN,Daily,2,13,23000,432,30,32,3,19,71,27,10,2022
+848,58731,Vande Bharat Express,26,1,9,Thu,Bikaner,JSM,Jpr,Twice in week,4,7,22809,432,31,24,1,15,69,2,4,2022
+849,49199,Kota SGNR SF SPL,20,2,6,Sat,Bikaner,BKN,JDP,Daily,3,8,18133,432,29,28,1,9,72,20,8,2022
+850,31839,Rajdhani Express,28,1,9,Sat,Bikaner,Jpr,Jpr,Weekly,3,27,27996,432,25,27,2,16,74,17,4,2021
+851,85814,Suratgarh Express,12,1,6,Sun,Bikaner,UDP,JSM,Twice in week,3,33,10470,432,28,27,4,17,70,20,6,2022
+852,41645,LEELAN SF Express,13,3,9,Wed,Bikaner,Jpr,BKN,Daily,4,25,20955,432,34,28,1,23,68,25,9,2020
+853,95540,BKN SF Express,29,3,5,Sun,Bikaner,JDP,Jpr,Daily,2,18,24128,432,30,25,4,6,66,3,7,2022
+854,19862,Kota SGNR SF SPL,16,2,9,Wed,Bikaner,JDP,UDP,Daily,4,7,10974,432,32,26,3,15,69,16,5,2020
+855,54785,Shatabdi Express,14,2,5,Sun,Bikaner,BKN,UDP,Daily,4,12,27214,432,34,28,2,6,74,9,2,2021
+856,72475,LEELAN SF Express,25,2,9,Sun,Bikaner,DLI,JSM,Twice in week,4,7,27003,432,28,27,2,12,73,30,3,2022
+857,41970,Suratgarh Express,24,2,8,Sun,Bikaner,DLI,BKN,Twice in week,1,4,19004,432,31,31,3,17,73,7,10,2019
+858,67443,LEELAN SF Express,25,3,9,Sun,Bikaner,JDP,UDP,Twice in week,3,28,12670,432,33,34,2,19,67,18,4,2020
+859,65505,Suratgarh Express,12,2,8,Mon,Bikaner,Jpr,JSM,Weekly,3,31,10748,432,31,32,2,11,65,1,8,2019
+860,29186,Shatabdi Express,28,1,6,Sun,Bikaner,KOTA,BKN,Daily,1,19,18617,432,31,27,1,12,66,1,1,2022
+861,64972,Partap SF Express,25,3,6,Mon,Bikaner,BKN,KOTA,Twice in week,2,14,13261,432,27,21,4,23,70,2,10,2021
+862,61395,Vande Bharat Express,27,3,6,Fri,Bikaner,UDP,KOTA,Daily,3,23,12356,432,29,26,4,21,69,7,6,2022
+863,82576,Garbi Rath,27,1,8,Thu,Bikaner,BKN,KOTA,Twice in week,1,4,19776,432,25,29,3,18,69,25,1,2022
+864,59874,Rajdhani Express,19,3,6,Wed,Bikaner,Jpr,UDP,Weekly,3,28,29639,432,33,33,4,18,66,5,4,2020
+865,42738,Suratgarh Express,13,3,8,Wed,Bikaner,Jpr,KOTA,Twice in week,4,3,10595,432,27,27,1,7,65,19,8,2019
+866,68735,BKN SF Express,10,3,8,Fri,Bikaner,Jpr,Jpr,Twice in week,3,21,16090,432,25,29,1,16,65,6,9,2022
+867,76405,Vande Bharat Express,17,3,7,Tue,Bikaner,Jpr,Jpr,Twice in week,2,19,26239,432,21,28,3,14,66,21,1,2020
+868,36588,LEELAN SF Express,20,3,7,Thu,Bikaner,UDP,JDP,Daily,2,27,13155,432,23,31,2,5,69,22,5,2022
+869,34511,LEELAN SF Express,26,3,9,Tue,Bikaner,JSM,BKN,Daily,4,15,16954,432,24,25,4,5,68,23,2,2021
+870,16791,Garbi Rath,13,1,5,Sat,Bikaner,UDP,Jpr,Weekly,4,8,10882,432,24,30,2,5,66,18,8,2019
+871,16319,LEELAN SF Express,20,1,8,Sun,Bikaner,DLI,KOTA,Weekly,3,7,11286,432,34,29,1,23,71,6,9,2022
+872,97801,Partap SF Express,26,1,9,Thu,Bikaner,BKN,BKN,Weekly,2,17,18657,432,31,33,4,15,69,2,3,2019
+873,27279,Double Decker,24,3,9,Thu,Bikaner,KOTA,Jpr,Weekly,3,31,17460,432,21,23,2,17,74,18,2,2022
+874,79383,BKN SF Express,17,3,8,Tue,Bikaner,UDP,DLI,Twice in week,2,40,29212,432,28,27,1,8,67,5,8,2020
+875,98137,Double Decker,28,2,5,Sun,Bikaner,JDP,UDP,Weekly,4,4,15319,432,23,24,3,16,72,10,5,2021
+876,69764,Vande Bharat Express,21,2,6,Thu,Bikaner,JDP,Jpr,Weekly,3,20,19738,432,34,29,3,9,66,12,8,2019
+877,83710,Double Decker,24,1,8,Fri,Bikaner,JSM,DLI,Twice in week,3,12,29908,432,26,23,3,13,71,5,3,2019
+878,86819,Vande Bharat Express,12,1,8,Sun,Bikaner,JDP,JDP,Twice in week,4,22,21701,432,25,29,3,17,71,28,4,2021
+879,20225,Partap SF Express,19,3,9,Mon,Bikaner,JSM,JDP,Daily,1,3,14124,432,27,22,2,12,65,30,6,2020
+880,72795,Shatabdi Express,15,1,7,Sun,Bikaner,Jpr,JSM,Weekly,4,32,24081,432,20,32,1,15,71,17,7,2021
+881,66798,Garbi Rath,25,2,7,Sat,Bikaner,JDP,JDP,Twice in week,4,5,15868,432,21,29,3,11,66,16,10,2019
+882,63031,Shatabdi Express,20,2,6,Fri,Bikaner,JSM,Jpr,Daily,3,26,10076,432,32,27,2,20,66,8,11,2022
+883,66738,BKN SF Express,10,2,9,Wed,Bikaner,Jpr,JSM,Weekly,4,9,21735,432,29,26,4,5,65,26,10,2020
+884,82506,Partap SF Express,29,1,7,Sat,Bikaner,JSM,BKN,Daily,2,28,29491,432,25,28,3,14,65,13,10,2022
+885,66509,Kota SGNR SF SPL,22,2,8,Tue,Bikaner,Jpr,JSM,Twice in week,3,8,26981,432,21,33,4,5,72,5,1,2021
+886,64959,Garbi Rath,21,1,7,Fri,Bikaner,DLI,UDP,Weekly,1,36,18646,432,34,33,4,17,73,17,11,2021
+887,66317,Garbi Rath,19,3,9,Wed,Bikaner,BKN,JDP,Daily,4,22,18245,432,31,30,1,4,72,20,5,2019
+888,21695,Rajdhani Express,21,3,6,Sat,Bikaner,JSM,UDP,Daily,2,28,22517,432,24,24,1,13,66,24,5,2022
+889,17880,LEELAN SF Express,29,2,8,Mon,Bikaner,Jpr,DLI,Daily,1,25,15611,432,23,28,2,7,67,4,4,2021
+890,60514,Garbi Rath,15,1,8,Tue,Bikaner,KOTA,JSM,Daily,4,39,24566,432,27,22,2,6,65,11,9,2019
+891,90683,LEELAN SF Express,15,1,7,Mon,Bikaner,Jpr,Jpr,Twice in week,4,29,22022,432,34,30,1,22,67,23,3,2022
+892,35920,Garbi Rath,14,3,7,Sun,Bikaner,KOTA,JDP,Twice in week,2,5,24965,432,27,23,2,20,66,23,11,2021
+893,69317,Garbi Rath,23,1,8,Fri,Bikaner,Jpr,JDP,Daily,3,27,23366,432,24,30,4,12,65,28,7,2019
+894,66392,Double Decker,19,2,5,Sat,Bikaner,KOTA,DLI,Weekly,2,32,15398,432,24,34,3,16,69,28,10,2021
+895,80032,Kota SGNR SF SPL,12,1,6,Mon,Bikaner,KOTA,JSM,Daily,3,37,23457,432,33,22,2,22,74,6,4,2020
+896,73470,Shatabdi Express,21,1,7,Fri,Bikaner,UDP,Jpr,Twice in week,4,31,14459,432,22,20,4,15,67,28,1,2021
+897,83993,Garbi Rath,26,3,5,Sun,Bikaner,UDP,BKN,Weekly,2,23,28788,432,27,20,3,4,67,27,11,2020
+898,89359,LEELAN SF Express,23,1,6,Sat,Bikaner,JSM,JDP,Daily,4,39,11856,432,24,22,1,9,69,13,8,2019
+899,23932,LEELAN SF Express,22,1,7,Thu,Bikaner,KOTA,Jpr,Twice in week,1,27,22841,432,23,29,2,22,73,18,3,2019
+900,28208,Vande Bharat Express,20,2,8,Sun,Bikaner,UDP,Jpr,Weekly,1,23,12005,432,25,29,3,7,71,2,8,2020
+901,36842,Suratgarh Express,28,2,8,Sun,Bikaner,Jpr,JSM,Daily,1,4,27789,432,32,25,3,8,68,9,1,2019
+902,92259,Rajdhani Express,18,2,6,Tue,Bikaner,JSM,UDP,Twice in week,1,32,19986,432,29,22,2,15,67,30,7,2020
+903,31124,LEELAN SF Express,27,1,7,Fri,Bikaner,KOTA,UDP,Daily,2,5,22795,432,32,21,1,16,72,4,4,2021
+904,12264,Shatabdi Express,10,3,5,Sat,Bikaner,JDP,UDP,Weekly,1,30,18498,432,27,33,4,13,70,1,8,2019
+905,62291,BKN SF Express,18,3,6,Thu,Bikaner,Jpr,JSM,Daily,1,20,15946,432,21,20,2,15,72,27,3,2021
+906,98181,LEELAN SF Express,15,3,7,Fri,Bikaner,BKN,KOTA,Weekly,1,4,13999,432,33,25,2,10,65,28,5,2022
+907,60665,LEELAN SF Express,23,3,8,Tue,Bikaner,BKN,DLI,Daily,4,17,16826,432,32,27,1,17,65,7,2,2019
+908,51891,Garbi Rath,28,3,6,Wed,Bikaner,UDP,KOTA,Weekly,4,3,23210,432,24,26,2,7,72,16,6,2021
+909,16007,LEELAN SF Express,27,1,6,Mon,Bikaner,DLI,JSM,Weekly,3,10,13948,432,29,31,4,13,66,26,9,2021
+910,53854,LEELAN SF Express,22,1,7,Sun,Bikaner,BKN,BKN,Weekly,3,20,28199,432,29,31,1,6,72,9,3,2020
+911,49437,Double Decker,21,1,9,Sat,Bikaner,BKN,BKN,Daily,4,36,17025,432,27,30,3,13,65,5,6,2019
+912,74505,Double Decker,14,3,8,Tue,Bikaner,JDP,BKN,Twice in week,2,15,12521,432,29,23,4,21,65,2,11,2022
+913,26985,LEELAN SF Express,12,2,5,Sat,Bikaner,UDP,BKN,Twice in week,1,24,18726,432,32,33,2,11,68,5,6,2022
+914,44776,BKN SF Express,18,2,9,Sun,Bikaner,DLI,DLI,Daily,1,29,17705,432,29,21,2,13,66,18,5,2019
+915,25284,Kota SGNR SF SPL,16,2,9,Mon,Bikaner,Jpr,KOTA,Weekly,4,38,17456,432,24,24,4,23,71,27,8,2022
+916,13297,Rajdhani Express,23,2,8,Sat,Bikaner,JDP,BKN,Weekly,4,33,22202,432,31,32,1,9,66,27,5,2022
+917,27057,Double Decker,28,2,8,Thu,Bikaner,DLI,UDP,Daily,2,24,14397,432,28,25,1,7,71,4,3,2021
+918,84752,Vande Bharat Express,29,3,5,Mon,Bikaner,KOTA,Jpr,Twice in week,1,19,12171,432,29,32,2,21,73,25,3,2020
+919,87492,Partap SF Express,17,1,5,Tue,Bikaner,Jpr,BKN,Weekly,3,26,26099,432,29,21,3,16,67,13,10,2020
+920,10348,Kota SGNR SF SPL,17,1,9,Tue,Bikaner,DLI,BKN,Weekly,3,29,18196,432,20,30,1,9,65,1,8,2021
+921,33039,Garbi Rath,10,2,5,Tue,Bikaner,DLI,KOTA,Twice in week,3,12,26120,432,28,34,1,17,66,17,10,2022
+922,32111,Vande Bharat Express,17,3,8,Wed,Bikaner,Jpr,KOTA,Weekly,2,30,20631,432,30,31,3,19,71,2,6,2022
+923,56326,Partap SF Express,11,2,6,Tue,Bikaner,Jpr,JDP,Twice in week,3,38,25821,432,29,28,1,21,66,26,7,2022
+924,84788,LEELAN SF Express,16,3,9,Fri,Bikaner,JSM,UDP,Weekly,2,23,13264,432,31,23,1,5,68,3,3,2020
+925,93379,Partap SF Express,25,2,7,Mon,Bikaner,KOTA,Jpr,Weekly,3,34,29490,432,20,26,1,5,71,2,7,2020
+926,76247,Shatabdi Express,24,2,7,Tue,Bikaner,BKN,JSM,Twice in week,4,39,14416,432,20,29,2,16,65,10,2,2019
+927,24785,Rajdhani Express,11,2,5,Thu,Bikaner,UDP,UDP,Twice in week,2,6,21973,432,28,33,1,15,70,29,3,2019
+928,79038,Shatabdi Express,27,2,8,Sun,Bikaner,UDP,BKN,Daily,2,29,28153,432,20,24,3,21,67,10,5,2021
+929,70438,BKN SF Express,19,3,9,Wed,Bikaner,JSM,Jpr,Weekly,3,35,15508,432,27,20,2,22,69,9,7,2019
+930,56103,Partap SF Express,12,3,9,Thu,Bikaner,DLI,BKN,Weekly,2,35,11892,432,24,26,3,14,67,30,11,2019
+931,72635,LEELAN SF Express,22,2,6,Wed,Bikaner,DLI,JDP,Daily,4,9,20837,432,23,33,4,23,70,11,9,2020
+932,79386,Shatabdi Express,18,2,8,Mon,Bikaner,UDP,Jpr,Twice in week,1,18,11666,432,31,22,3,9,65,1,1,2022
+933,14638,Rajdhani Express,17,1,9,Fri,Bikaner,Jpr,UDP,Twice in week,4,24,11211,432,20,30,3,15,67,26,10,2020
+934,73117,LEELAN SF Express,12,2,5,Fri,Bikaner,Jpr,JSM,Twice in week,4,29,23651,432,32,28,2,17,68,16,1,2020
+935,63287,Partap SF Express,20,1,9,Thu,Bikaner,JSM,JSM,Weekly,1,3,24664,432,25,26,4,23,72,7,8,2019
+936,23675,Partap SF Express,18,3,5,Thu,Bikaner,BKN,KOTA,Weekly,4,27,12227,432,26,25,1,12,69,9,5,2022
+937,73057,Suratgarh Express,18,3,6,Sun,Bikaner,Jpr,KOTA,Twice in week,2,11,17146,432,31,29,1,19,66,21,2,2022
+938,55525,Suratgarh Express,25,3,5,Sat,Bikaner,JDP,KOTA,Weekly,1,20,26777,432,23,22,1,10,68,24,3,2022
+939,52767,Rajdhani Express,27,1,7,Tue,Bikaner,BKN,JDP,Twice in week,3,14,18125,432,26,32,3,13,66,22,11,2019
+940,14956,BKN SF Express,17,3,5,Thu,Bikaner,BKN,BKN,Daily,2,5,14269,432,32,23,3,18,69,8,2,2021
+941,96123,BKN SF Express,14,3,6,Wed,Bikaner,JDP,BKN,Twice in week,4,19,27289,432,28,24,2,9,68,25,3,2020
+942,92167,LEELAN SF Express,19,3,8,Tue,Bikaner,BKN,Jpr,Daily,2,30,11429,432,23,27,1,13,73,20,3,2021
+943,31819,Garbi Rath,14,3,8,Sun,Bikaner,DLI,DLI,Weekly,2,35,28107,432,23,27,4,23,68,2,7,2019
+944,72878,Garbi Rath,20,1,9,Sun,Bikaner,BKN,Jpr,Twice in week,1,31,11669,432,28,29,3,11,74,11,11,2022
+945,51040,Shatabdi Express,29,2,5,Sat,Bikaner,DLI,KOTA,Weekly,3,40,18831,432,29,29,4,15,70,27,8,2019
+946,79245,Rajdhani Express,21,3,7,Fri,Bikaner,JDP,JSM,Daily,2,32,13277,432,32,26,1,9,74,5,2,2022
+947,11925,Suratgarh Express,11,3,8,Sun,Bikaner,DLI,UDP,Weekly,1,19,25984,432,34,30,3,22,66,21,3,2019
+948,43415,Rajdhani Express,22,3,8,Thu,Bikaner,Jpr,BKN,Daily,1,22,13695,432,26,27,2,19,73,10,5,2019
+949,36292,Kota SGNR SF SPL,10,3,7,Mon,Bikaner,Jpr,UDP,Weekly,1,34,21677,432,23,23,2,21,73,11,4,2019
+950,25501,Rajdhani Express,24,1,7,Mon,Bikaner,JDP,DLI,Weekly,1,15,23666,432,25,20,2,8,65,12,1,2021
+951,72163,BKN SF Express,10,2,6,Mon,Bikaner,JDP,DLI,Weekly,2,22,13431,432,32,32,2,19,70,14,3,2019
+952,50123,Shatabdi Express,10,3,6,Tue,Bikaner,Jpr,DLI,Weekly,1,40,19250,432,27,31,2,10,67,13,4,2020
+953,98325,Vande Bharat Express,29,2,8,Fri,Bikaner,DLI,UDP,Twice in week,2,6,21081,432,22,29,4,18,67,3,7,2019
+954,31517,Vande Bharat Express,18,3,5,Wed,Bikaner,JSM,UDP,Daily,2,24,25328,432,31,29,4,11,70,21,10,2019
+955,64814,Suratgarh Express,18,3,8,Sat,Bikaner,JSM,UDP,Twice in week,1,21,14680,432,28,25,4,23,65,28,8,2022
+956,86854,Vande Bharat Express,10,3,8,Sat,Bikaner,KOTA,BKN,Weekly,2,20,16376,432,22,31,2,15,73,24,4,2020
+957,52550,Garbi Rath,12,2,9,Wed,Bikaner,Jpr,UDP,Weekly,1,20,28472,432,25,20,1,19,71,15,10,2021
+958,50908,BKN SF Express,10,1,7,Sun,Bikaner,JDP,JSM,Twice in week,1,11,19672,432,31,25,1,15,69,2,2,2021
+959,85946,Vande Bharat Express,12,1,7,Sun,Bikaner,BKN,BKN,Twice in week,3,33,22459,432,27,31,2,23,72,15,9,2020
+960,33598,Vande Bharat Express,14,3,8,Sun,Bikaner,KOTA,Jpr,Daily,1,15,23654,432,27,25,1,18,74,29,3,2021
+961,49452,Rajdhani Express,19,2,8,Fri,Bikaner,BKN,BKN,Twice in week,1,40,27575,432,23,23,3,15,70,24,3,2020
+962,14524,BKN SF Express,20,2,6,Thu,Bikaner,JSM,KOTA,Weekly,1,39,11809,432,25,20,3,6,69,26,11,2022
+963,37141,Garbi Rath,18,1,8,Mon,Bikaner,JSM,KOTA,Weekly,1,41,25986,432,26,31,1,9,66,8,3,2022
+964,69923,Rajdhani Express,23,2,9,Wed,Bikaner,DLI,UDP,Twice in week,3,5,27848,432,28,21,3,14,70,2,9,2022
+965,58645,Rajdhani Express,16,3,5,Sat,Bikaner,BKN,UDP,Twice in week,3,41,12455,432,27,31,2,16,65,25,5,2022
+966,26542,Kota SGNR SF SPL,23,1,9,Mon,Bikaner,KOTA,Jpr,Daily,2,30,18299,432,27,27,1,16,66,5,8,2022
+967,85610,Kota SGNR SF SPL,20,3,5,Tue,Bikaner,DLI,JDP,Daily,4,36,28664,432,23,20,2,23,74,8,1,2020
+968,33093,LEELAN SF Express,26,3,6,Thu,Bikaner,DLI,Jpr,Weekly,4,40,10641,432,26,34,2,6,72,23,3,2021
+969,16567,Partap SF Express,22,2,8,Wed,Bikaner,BKN,JSM,Daily,4,38,23119,432,27,20,1,6,71,30,6,2021
+970,19089,Shatabdi Express,25,3,5,Tue,Bikaner,KOTA,KOTA,Twice in week,2,32,17530,432,23,29,2,10,65,27,6,2021
+971,46053,BKN SF Express,16,2,8,Sat,Bikaner,KOTA,BKN,Weekly,2,14,21109,432,25,31,1,22,65,11,8,2021
+972,55060,BKN SF Express,24,3,5,Thu,Bikaner,JSM,UDP,Daily,2,14,23068,432,23,20,3,13,72,11,5,2020
+973,28830,Vande Bharat Express,19,2,8,Sun,Bikaner,BKN,BKN,Daily,2,25,25855,432,25,27,3,13,71,9,5,2021
+974,76212,Vande Bharat Express,23,1,6,Mon,Bikaner,Jpr,JSM,Weekly,4,18,22757,432,28,29,2,15,68,13,10,2022
+975,14321,Double Decker,16,2,5,Tue,Bikaner,UDP,JDP,Twice in week,4,23,23248,432,22,21,2,5,74,7,8,2019
+976,41032,Shatabdi Express,10,1,9,Sat,Bikaner,DLI,JDP,Weekly,2,27,19777,432,28,33,2,12,70,21,1,2021
+977,44236,Vande Bharat Express,13,3,7,Thu,Bikaner,BKN,KOTA,Daily,3,17,29830,432,34,31,3,21,66,4,8,2020
+978,95256,Vande Bharat Express,23,3,6,Wed,Bikaner,JSM,BKN,Daily,4,10,21308,432,33,22,1,11,71,18,7,2019
+979,12498,Garbi Rath,15,2,7,Tue,Bikaner,JDP,JSM,Weekly,2,3,25922,432,27,28,3,10,74,9,2,2020
+980,55096,LEELAN SF Express,14,3,7,Fri,Bikaner,KOTA,JSM,Daily,4,10,23926,432,20,27,3,11,65,14,11,2019
+981,77897,Double Decker,24,1,9,Thu,Bikaner,Jpr,BKN,Daily,1,10,26652,432,32,22,2,18,65,24,2,2019
+982,46451,Partap SF Express,27,2,9,Tue,Bikaner,BKN,KOTA,Twice in week,3,10,28705,432,21,30,3,4,74,4,11,2021
+983,68255,Garbi Rath,10,3,8,Thu,Bikaner,BKN,Jpr,Daily,3,25,17630,432,21,28,4,20,73,14,10,2022
+984,58827,Vande Bharat Express,10,2,5,Sun,Bikaner,UDP,Jpr,Twice in week,4,39,23120,432,29,33,1,16,74,3,9,2022
+985,37347,Double Decker,19,3,7,Wed,Bikaner,KOTA,UDP,Weekly,3,37,25835,432,27,23,4,14,74,2,10,2020
+986,17445,LEELAN SF Express,23,3,6,Thu,Bikaner,BKN,DLI,Daily,1,35,21831,432,29,20,2,13,73,8,1,2019
+987,55596,Double Decker,14,1,9,Wed,Bikaner,DLI,UDP,Weekly,1,24,24195,432,30,28,4,22,67,28,9,2020
+988,15285,Double Decker,25,1,7,Sat,Bikaner,BKN,BKN,Weekly,4,41,14880,432,33,26,1,10,71,21,7,2021
+989,43595,Kota SGNR SF SPL,12,1,5,Sat,Bikaner,JSM,JDP,Weekly,3,16,14897,432,31,33,1,13,67,19,4,2021
+990,62518,Double Decker,17,2,5,Thu,Bikaner,UDP,UDP,Weekly,3,41,29220,432,30,26,2,9,73,30,9,2022
+991,45498,LEELAN SF Express,19,3,6,Thu,Bikaner,DLI,JDP,Twice in week,3,37,13429,432,26,33,3,14,65,16,4,2019
+992,95918,Suratgarh Express,16,1,5,Wed,Bikaner,JSM,JSM,Daily,3,23,13045,432,20,23,4,14,68,16,6,2019
+993,28318,Shatabdi Express,21,2,8,Mon,Bikaner,KOTA,DLI,Weekly,3,27,13214,432,20,26,3,11,73,11,8,2021
+994,32792,Rajdhani Express,21,2,8,Sun,Bikaner,Jpr,JSM,Twice in week,3,11,29851,432,23,31,4,16,73,5,8,2022
+995,56128,Rajdhani Express,17,1,8,Sat,Bikaner,BKN,KOTA,Weekly,4,32,16781,432,24,25,2,20,72,9,7,2022
+996,68199,BKN SF Express,22,2,9,Sat,Bikaner,UDP,DLI,Daily,3,24,15210,432,20,20,3,8,69,14,7,2021
+997,12741,Garbi Rath,28,1,6,Tue,Bikaner,DLI,BKN,Twice in week,3,34,25234,432,26,26,2,6,69,13,8,2020
+998,56143,Partap SF Express,24,2,6,Tue,Bikaner,DLI,JDP,Daily,4,29,29785,432,25,25,4,21,70,19,8,2022
+999,58739,Kota SGNR SF SPL,12,1,5,Thu,Bikaner,UDP,JSM,Twice in week,3,33,19297,432,24,31,3,16,66,10,5,2020
